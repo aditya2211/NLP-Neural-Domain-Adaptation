@@ -1,0 +1,4 @@
+( (SBARQ (WHNP-9 (WHADJP (WRB How) (JJ many)) (NNS days)) (SQ (MD will) (NP-SBJ-1 (NN speed) (NN post)) (VP (VB take) (NP-9 (-NONE- *T*)) (S-CLR (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB reach) (PP-DIR (IN from) (NP (NNP Delhi))) (PP-DIR (IN to) (NP (NNP Mumbai)))))))) (. ?)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Give) (NP (PRP it)) (NP (NP (CD three) (NNS days)) (VP (VBG barring) (NP (NNPS Sundays) (CC and) (NNS holidays))))) (. .)) )
+( (FRAG (FRAG (NP (QP (CD 3) (IN TO) (CD 4)) (NNS DAYS)) (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (VBP are) (ADJP-PRD (JJ lucky)))))) (S (PP (IN on) (ADJP (JJ average))) (NP-SBJ (PRP it)) (VP (VBZ takes) (NP (QP (RB about) (CD 6)) (NNS days)))) (. .)) )
+( (NP (INTJ (UH like)) (CD 2) (NN day)) )

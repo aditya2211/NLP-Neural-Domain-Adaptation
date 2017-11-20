@@ -1,0 +1,5 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Love) (NP (NNP Hop) (NNP City)))) )
+( (S (NP-SBJ (DT This) (NN place)) (VP (VBZ is) (ADJP-PRD (JJ great))) (. !)) )
+( (S (NP-SBJ (NNP Craig) (CC and) (NNP Nate)) (VP (VBP are) (ADJP-PRD (JJ wonderful))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP know) (ADVP-TMP (RB now)) (SBAR (WHADVP-9 (WRB where)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ my) (NN wine) (CC and) (NN beer)))) (ADVP-LOC-9 (-NONE- *T*))))))) (. .)) )
+( (NP (DT No) (NN need) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB go) (PP-DIR (IN to) (NP (DT a) (NN grocer))) (ADVP-TMP (RB again))))) (. .)) )

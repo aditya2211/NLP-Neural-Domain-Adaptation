@@ -1,0 +1,3 @@
+( (NP (NP (ADJP (RB Very) (JJ friendly)) (NNS people)) (VP (VBG offering) (NP (DT a) (JJ brilliant) (NN service))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Sent) (NP (NP (VBN scented) (NNS flowers)) (PP-1 (-NONE- *ICH*))) (ADVP (RB home)) (PP-1 (RB instead) (IN of) (NP (NNS postcards)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Recommend) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (VB call) (PRT (RP in)) (PP (IN for) (NP (DT a) (NN look))))))) (. .)) )

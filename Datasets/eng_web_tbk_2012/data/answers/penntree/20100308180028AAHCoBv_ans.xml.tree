@@ -1,0 +1,5 @@
+( (SQ (MD Can) (NP-SBJ (PRP you)) (VP (VB recommend) (NP (NP (DT any) (NNS restaurants)) (PP-LOC (IN in) (NP (NNP Buenos) (NNP Aires))))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (MD will) (VP (VB be) (VP (VBG vacationing) (ADVP-LOC (RB there)))))) )
+( (INTJ (UH Yes) (. .)) )
+( (S (NP-SBJ (EX There)) (VP (VBP are) (NP-PRD (JJ several)) (PP-LOC (ADVP (RB just)) (IN off) (NP (PRP$ their) (JJ beautiful) (NN beach)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Enjoy) (NP (PRP yourself)) (NP-VOC (PRP$ my) (NN friend))) (. !!)) )

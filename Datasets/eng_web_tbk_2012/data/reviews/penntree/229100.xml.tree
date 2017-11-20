@@ -1,0 +1,8 @@
+( (NP (JJ Great) (NN Place) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Love) (NP (DT this) (NN place))) (. !!)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ Has) (NP (NP (DT another) (NN store)) (PP-LOC (IN in) (NP (DT the) (NML (NNP st.) (NNP charles)) (NNP mall))))) (. .)) )
+( (S (NP-SBJ (NN Place)) (VP (VBZ is) (ADJP-PRD (JJ next) (PP (IN to) (NP (NNP carval) (CC and) (NNP walmart))))) (. .)) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Do) (RB nt) (VP (VB go) (PP-DIR (IN to) (NP (NP (DT the) (NN one)) (PP-LOC (IN by) (NP (NNP pepco)))))))) (, ,) (S (NP-SBJ (PRP I)) (VP (VBD got) (ADJP-PRD (JJ confused)))) (. !!!)) )
+( (NP (JJ Bad) (NN place) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Go) (PP-DIR (IN to) (NP (NNP ATLANTIC) (NNP WIRELESS)))) (. !!)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP love) (NP (PRP them))) (. !!!)) )

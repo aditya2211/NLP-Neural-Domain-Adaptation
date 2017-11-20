@@ -1,0 +1,2 @@
+( (SBARQ (WHNP-1 (WP What)) (SQ (VBP are) (NP-SBJ (NP (DT some) (JJ Major) (NN land) (NNS forms)) (PP-LOC (IN in) (NP (NNP Ireland)))) (NP-PRD-1 (-NONE- *T*))) (. ?)) )
+( (NP (NP (NNS Mountains)) (, ,) (NP (NNS cliffs)) (, ,) (NP (NN peat) (NNS bogs)) (, ,) (NP (NNS valleys))) )

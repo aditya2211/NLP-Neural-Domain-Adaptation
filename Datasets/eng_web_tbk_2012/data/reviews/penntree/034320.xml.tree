@@ -1,0 +1,4 @@
+( (FRAG (ADJP (JJ Fresh) (CC and) (JJ unic)) (. !)) )
+( (NP (ADJP (ADJP (RB Very) (JJ professional)) (, ,) (ADJP (JJ talented)) (, ,) (ADJP (JJ unic)) (CC and) (ADJP (JJ fresh))) (NN work) (. .)) )
+( (S (NP-SBJ (NNP Paula)) (VP (VBZ has) (NP (NP (NP (DT an) (JJ amazing) (NN gift)) (PP (IN for) (NP (NN creativity)))) (, ,) (NP (NN vision)) (CC and) (NP (DT the) (NN ability) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB combine) (NP (NN art)) (PP-CLR (IN to) (HYPH /) (IN with) (NP (JJ commercial) (NN purpose))))))))) (. .)) )
+( (INTJ (UH Bravo) (. !)) )

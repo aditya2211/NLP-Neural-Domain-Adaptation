@@ -1,0 +1,4 @@
+( (NP (NP (JJS Best) (NNS Pizzas) (CC and) (NNS Calzones)) (PP-LOC (IN in) (NP (DT the) (NN City))) (. !)) )
+( (NP (WDT What) (DT a) (JJ hidden) (NN gem) (. !)) )
+( (S (S (NP-SBJ (DT The) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ superb)))) (CC and) (S (NP-SBJ-9 (PRP they)) (VP (VBD were) (VP (VBN delivered) (NP-9 (-NONE- *)) (S-ADV (NP-SBJ-9 (-NONE- *PRO*)) (ADJP-PRD (JJ nice) (CC and) (JJ hot)))))) (. !)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB highly)) (VP (VBP recommend) (NP (DT this) (NN place))) (. !)) )

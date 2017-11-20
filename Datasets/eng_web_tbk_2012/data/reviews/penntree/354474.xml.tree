@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN work) (. !)) )
+( (S (NP-SBJ (NP (DT The) (NNS people)) (PP-LOC (IN at) (NP (NML (NNP Gulf) (NNP Coast)) (NNP Siding)))) (VP (VBD were) (ADJP-PRD (ADJP (RB very) (JJ easy) (CC and) (JJ clear)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB work) (PP-CLR (IN with) (NP-1 (-NONE- *T*))))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBD walked) (NP (PRP me)) (PP (IN through) (NP (NP (PDT all) (DT the) (NNS steps)) (ADJP (JJ involved) (PP (IN in) (X (DT the)) (NP (DT the) (NN installation) (NN project)))))) (SBAR-PRP (IN so) (IN that) (S (NP-SBJ (EX there)) (VP (VBD were) (NP-PRD (DT no) (NNS surprises)))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBD found) (S (NP-SBJ (PRP them)) (ADJP-PRD (RB extremely) (JJ professional)))) (CC and) (VP (MD would) (ADVP (RB highly)) (VP (VB recommend) (NP (PRP them))))) (. .)) )
+( (NP (NN Thanks)) )

@@ -1,0 +1,4 @@
+( (S (NP-SBJ (PRP I)) (VP (VP (VBD took) (NP (DT a) (NN tip)) (PP-CLR (IN from) (NP (NNP Carri)))) (CC and) (VP (VBD looked) (PRT (RP up)) (NP (NN Rat) (NNS ASCII's)) (PP-MNR (IN on) (NP (NNP Google))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Check) (NP (DT these)) (PRT (RP out))) (: :)) )
+( (S (`` ") (, ...) (NP-SBJ (EX there)) (VP (VBZ is) (NP-PRD (NP (DT no) (NN companion)) (ADJP (ADJP (RB quite) (ADJP (ADJP (RB so) (JJ devoted)) (, ,) (ADJP (RB so) (JJ communicative)) (, ,) (ADJP (RB so) (JJ loving)) (CC and) (ADJP (RB so) (JJ mesmerizing)))) (PP (IN as) (NP (DT a) (NN rat)))))) (. .) ('' ")) )
+( (NP (NFP ~) (NNP CGoehring)) )

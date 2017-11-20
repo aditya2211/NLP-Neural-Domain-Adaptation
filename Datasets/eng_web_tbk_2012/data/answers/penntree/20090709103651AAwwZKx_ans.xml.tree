@@ -1,0 +1,3 @@
+( (SQ (VBP Do) (NP-SBJ (PRP you)) (VP (VB think) (SBAR (-NONE- *0*) (S (NP-SBJ (EX there)) (VP (VBP are) (NP-PRD (DT any) (NNPS koreans)) (PP-LOC (IN in) (NP (NNP Miramar))))))) (. ?)) )
+( (S (INTJ (UH Heck)) (NP-SBJ (EX there)) (VP (MD must) (VP (VB be) (NP-PRD (ADVP (RB at) (RBS least) (CD 1)) (NNP korean)))) (. .)) )
+( (FRAG (INTJ (UH No)) (, ,) (CC but) (S (NP-SBJ (PRP I)) (VP (VBP do) (VP (VB believe) (SBAR (-NONE- *0*) (S (NP-SBJ (DT some) (NNPS Koreans)) (VP (VBP reside) (PP-LOC (IN in) (NP (NP (DT the) (NN country)) (PP (IN of) (NP (NNP HA) (HYPH -) (NNP ha))))))))))) (. !)) )

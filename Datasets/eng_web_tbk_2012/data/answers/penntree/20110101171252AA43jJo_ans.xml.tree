@@ -1,0 +1,4 @@
+( (SQ (VBZ Is) (NP-SBJ (NNP Hank) (NNP Green)) (ADJP-PRD (JJ Awesome)) (. ?)) )
+( (S (NP-SBJ (NP (DT The) (NNP Hank) (NNP Green)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP know) (NP-9 (-NONE- *T*)))))) (VP (VBZ is) (ADVP (RB hardly)) (ADJP-PRD (JJ awesome))) (. .)) )
+( (S (S (NP-SBJ (PRP He)) (VP (VBZ needs) (NP (DT a) (NN shower)))) (, ,) (CC and) (S (NP-SBJ (PRP he)) (VP (VBZ picks) (NP (PRP$ his) (NN nose)) (NP-TMP (PDT all) (DT the) (NN time)))) (. .)) )
+( (S (NP-SBJ (PRP He)) (VP (VBZ is) (PP-PRD (IN at) (NP (PRP$ his) (JJS best))) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP he)) (VP (VBZ is) (VP (VBG doing) (NP (PRP$ his) (NN Nerd) (NN impression)) (ADVP-TMP-9 (-NONE- *T*))))))) (. ...)) )

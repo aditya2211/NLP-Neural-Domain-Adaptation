@@ -1,0 +1,5 @@
+( (SBARQ (WHNP-1 (WP What)) (SQ (VBZ is) (NP-SBJ (NP (DT the) (JJS nearest) (NNP National) (NNP Park)) (PP (IN to) (NP (NP (NNP Birmingham)) (, ,) (NP-LOC (NNP UK))))) (NP-PRD-1 (-NONE- *T*))) (. ?)) )
+( (S (NP-SBJ (NP (DT The) (NNP Peak) (NNP District)) (NP-LOC (-LRB- -LRB-) (NNP Derbyshire) (-RRB- -RRB-))) (VP (VBZ is) (NP-PRD (DT the) (JJS closest))) (. .)) )
+( (S (NP-SBJ (DT The) (NML (NNP South) (NNP Shropshire)) (NNPS Hills)) (VP (VBP are) (ADJP-PRD (RB far) (JJR closer))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBP are) (RB not) (NP-PRD (DT a) (JJ national) (NN park))) (, ,) (CC but) (VP (VBP are) (ADJP-PRD (RB extremely) (JJ beautiful)))) (. .)) )
+( (NP (ADD www.visitsouthshropshire.co.uk)) )

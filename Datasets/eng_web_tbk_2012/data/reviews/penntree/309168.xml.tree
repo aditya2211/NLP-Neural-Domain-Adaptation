@@ -1,0 +1,2 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP love) (NP (DT this) (NN park)))) )
+( (S (NP-SBJ (DT this)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ great) (NN park)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB have) (NP (NNS kids) (NN birthday) (NNS parties)) (PP-LOC (IN at) (NP-1 (-NONE- *T*))))))))) (. !!)) )

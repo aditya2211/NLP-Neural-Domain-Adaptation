@@ -1,0 +1,5 @@
+( (NP (DT A) (JJ Definite) (NN No)) )
+( (NP (JJ Incompetent) (NNS servers) (, ,) (NN kitchen) (CC and) (NN management) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Expect) (NP (NP (ADJP (CC either) (VBN undercooked) (CC or) (JJ mushy)) (NN food)) (CC and) (NP (JJ lackluster) (NN service)))) (. .)) )
+( (S (NP-SBJ (DT The) (NNS investors)) (VP (VP (VBD put) (NP (JJ big) (NNS bucks)) (PP-CLR (IN into) (NP (DT the) (NN building)))) (CC but) (VP (VBP are) (ADJP-PRD (JJ clueless) (PP (IN about) (SBAR-NOM (WHNP-9 (WP what)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ makes) (NP (DT a) (JJ good) (NML (NN dining) (CC or) (NN bar)) (NN experience))))))))) (. .)) )
+( (S (NP-SBJ-1 (RB Even) (DT the) (ADJP (RBS least) (JJ discriminating)) (NN diner)) (VP (MD would) (VP (VB know) (S (NP-SBJ-1 (-NONE- *PRO*)) (RB not) (VP (TO to) (VP (VB eat) (PP-LOC (IN at) (NP (NNP Sprecher) (POS 's)))))))) (. .)) )

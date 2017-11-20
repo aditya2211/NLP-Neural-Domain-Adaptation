@@ -1,0 +1,4 @@
+( (NP (JJ Good) (JJ local) (NN bike) (NN shop)) )
+( (NP (JJ Good) (JJ local) (NN bike) (NN shop) (. .)) )
+( (S (NP-SBJ (NP (NNP Jason)) (CC and) (NP (DT the) (NNS boys))) (VP (MD can) (VP (VB do) (NP (NP (ADVP (RB about)) (NN anything)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP you)) (VP (VBP need) (NP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ-9 (DT The) (NN shop)) (VP (VBZ is) (VP (VBN located) (NP-9 (-NONE- *)) (PP-LOC (ADVP (RB just)) (IN off) (NP (DT the) (NNP river) (NNP road))))) (. .)) )

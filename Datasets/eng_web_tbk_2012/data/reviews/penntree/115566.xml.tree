@@ -1,0 +1,3 @@
+( (FRAG (VP (VBD Retired))) )
+( (S (NP-SBJ (NNP Dr) (NNP Joseph)) (VP (VBD retired)) (. .)) )
+( (S (NP-SBJ (NNP Dr.) (NNP Dorn)) (VP (VBZ is) (NP-PRD (PRP$ his) (NN backup))) (. .)) )

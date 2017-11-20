@@ -1,0 +1,6 @@
+( (SBAR (WHNP-9 (WP What)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB do) (NP-9 (-NONE- *T*)) (PP-LOC (IN in) (NP (NP (NNP San) (NNP Rafael)) (NP-LOC (NNP Ca))))))) (. ?)) )
+( (S (S (INTJ (UH okay)) (ADVP (RB so)) (NP-SBJ (PRP i)) (VP (VBP live) (PP-LOC (IN in) (NP (NP (NNP San) (NNP Rafael)) (NP-LOC (NNP Ca)))) (INTJ (UH like)) (PP-LOC (IN by) (NP (NP (DT the) (NNP mi) (NNP pueble)) (CC and) (NP (DT the) (NNP Home) (NNP Depot)))))) (, ..) (SBARQ (WHNP-9 (WP what)) (SQ (VBP are) (NP-SBJ (NP (JJ fun) (NNS things)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB do) (NP-1 (-NONE- *T*)) (ADVP-LOC (RB around) (RB there))))))) (NP-PRD-9 (-NONE- *T*)))) (. ?)) )
+( (NP (INTJ (UH like)) (DT any) (NNS lounges) (. ?)) )
+( (S (NP-SBJ (PRP i)) (VP (VBP m) (NP-PRD (CD 15)) (ADVP (RB btw)))) )
+( (FRAG (WHNP (WP what)) (PP (IN about) (NP (NN downtown))) (, ...) (. ?)) )
+( (NP (INTJ (UH like)) (NP (NN 4th) (NN street)) (CC and) (NP (NN stuff)) (. ?)) )

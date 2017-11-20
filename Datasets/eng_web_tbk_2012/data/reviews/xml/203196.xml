@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="203196" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:18 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">203196.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="203196:T1">
+<Signal id="203196:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/203196.txt"></Signal>
+</Timeline>
+<AG id="203196:1" timeline="203196:T1">
+<Metadata>
+<MetadataElement name="endOffset">6</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="203196:1:1" offset="0.000000"></Anchor>
+<Anchor id="203196:1:2" offset="6.000000"></Anchor>
+<Annotation id="203196:1:E1" type="word" start="203196:1:1" end="203196:1:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+</AG>
+<AG id="203196:2" timeline="203196:T1">
+<Metadata>
+<MetadataElement name="endOffset">62</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 1 2 3 4 ) 5 ( NP ( NP 6 ) ( PP-LOC 7 ( NP 8 9 ) ) ) 10 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="203196:2:1" offset="0.000000"></Anchor>
+<Anchor id="203196:2:2" offset="8.000000"></Anchor>
+<Anchor id="203196:2:3" offset="19.000000"></Anchor>
+<Anchor id="203196:2:4" offset="25.000000"></Anchor>
+<Anchor id="203196:2:5" offset="30.000000"></Anchor>
+<Anchor id="203196:2:6" offset="35.000000"></Anchor>
+<Anchor id="203196:2:7" offset="37.000000"></Anchor>
+<Anchor id="203196:2:8" offset="46.000000"></Anchor>
+<Anchor id="203196:2:9" offset="49.000000"></Anchor>
+<Anchor id="203196:2:A" offset="56.000000"></Anchor>
+<Anchor id="203196:2:B" offset="61.000000"></Anchor>
+<Anchor id="203196:2:C" offset="62.000000"></Anchor>
+<Annotation id="203196:2:E1" type="word" start="203196:2:1" end="203196:2:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="203196:2:E2" type="word" start="203196:2:2" end="203196:2:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="203196:2:E3" type="word" start="203196:2:3" end="203196:2:4">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="203196:2:E4" type="word" start="203196:2:4" end="203196:2:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="203196:2:E5" type="word" start="203196:2:5" end="203196:2:6">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="203196:2:E6" type="word" start="203196:2:6" end="203196:2:7">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="203196:2:E7" type="word" start="203196:2:7" end="203196:2:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="203196:2:E8" type="word" start="203196:2:8" end="203196:2:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="203196:2:E9" type="word" start="203196:2:9" end="203196:2:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="203196:2:EA" type="word" start="203196:2:A" end="203196:2:B">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="203196:2:EB" type="word" start="203196:2:B" end="203196:2:C">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

@@ -1,0 +1,5 @@
+( (FRAG (ADJP (JJ Awsome)) (. !)) )
+( (FRAG (NP (JJ Great) (NN food)) (ADJP (JJ cheap))) )
+( (S (NP-SBJ (NP (DT Every) (NN thing)) (ADVP-LOC (RB here))) (VP (VBZ is) (ADJP-PRD (JJ good))) (. .)) )
+( (FRAG (S (NP-SBJ (NN Fish) (NNS tacos)) (VP (VBP are) (NP-PRD (PRP$ my) (NN fave)))) (ADJP (JJ simple) (CC and) (JJ filling)) (S (NP-SBJ (-NONE- *PRO*)) (ADVP (RB Highly)) (VP (VBP recommend) (NP (NNP Mi) (NNP Pueblo)))) (. .)) )
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ Gets) (ADJP-PRD (JJ busy)))) (S-IMP (ADVP (RB so)) (NP-SBJ (-NONE- *PRO*)) (VP (VB come) (ADVP-TMP (RB early))))) )

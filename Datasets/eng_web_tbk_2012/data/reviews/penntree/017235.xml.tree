@@ -1,0 +1,7 @@
+( (FRAG (NP (JJ Antique) (NN Lighting) (, ,) (NNS Fixtures)) (, ,) (NP (NNP Chicago))) )
+( (NP (NP (JJ Great) (NN place)) (PP (IN for) (NP (JJ Antique) (NN Lighting))) (. !)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD visited) (NP (PRP$ their) (JJ huge) (NNP Chicago) (NN lighting) (NN showroom)))) (CC and) (S (NP-SBJ (NP (NP (DT all)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP have) (NP-9 (-NONE- *T*)))))) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB say) (NP-1 (-NONE- *T*))))))) (VP (VBZ is) (INTJ-PRD (UH WOW)))) (. !!)) )
+( (NP (NP (NP (NNS Lots)) (PP (IN of) (NP (NNS collections)))) (, ,) (NP (JJ many) (JJ antique) (NN light) (NNS fixtures)) (, ,) (NP (NNS Chandeliers)) (, ,) (NP (NN custom) (NN lighting)) (ADVP-ETC (FW etc)) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP think) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP they)) (VP (VBP have) (NP (DT the) (JJS largest) (NN collection)) (PP (IN for) (NP (NNS Chandeliers))) (NP-LOC (NNP Chicago)))))) (. .)) )
+( (NP (NP (NNS Antiques)) (, ,) (NP (ADJP (JJ Vintage) (, ,) (JJ Contemporary) (CC &) (JJ Modern)) (NNS Chandeliers)) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recommend) (NP (PRP them)) (PP (IN for) (NP (DT any) (NML (NML (NN custom) (NN lighting)) (CC or) (NML (NN Lighting) (NN Repair) (CC and) (NN Restoration))))) (NP-LOC (NNP Chicago))))) )

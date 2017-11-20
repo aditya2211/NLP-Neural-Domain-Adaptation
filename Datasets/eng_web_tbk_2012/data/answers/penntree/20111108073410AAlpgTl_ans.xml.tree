@@ -1,0 +1,3 @@
+( (SQ (NP-VOC (NNP jay)) (VBZ is) (NP-SBJ (NP (PRP it)) (S-1 (-NONE- *EXP*))) (ADJP-PRD (JJ necessary)) (S-1 (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VP (VB varnish) (NP (PRP$ my) (NN oil) (NNS paintings))) (CC or) (VP (ADVP (RB just)) (VB leave) (S (NP-SBJ (PRP them)) (VP (VB be))))))) (. ?)) )
+( (NP (NP (NN thx)) (PP (IN for) (NP (PRP$ your) (NN ans))) (. .?)) )
+( (S (PP (IN As) (PP-TMP (IN in) (NP (DT the) (JJ old) (NNS days)))) (, ,) (NP-SBJ-9 (NN varnish)) (VP (VBZ is) (ADVP (RB often)) (VP (VBN used) (NP-9 (-NONE- *)) (PP-CLR (IN as) (NP (NP (DT a) (JJ protective) (NN film)) (PP (IN against) (NP (NP (NNS years)) (PP (IN of) (NP (NP (NN dirt)) (, ,) (NP (NN grease)) (, ,) (NP (NN smoke)) (, ,) (ADVP-ETC (FW etc)))))))))) (. .)) )

@@ -1,0 +1,5 @@
+( (NP (JJ Fun) (NN picture) (NNS websites) (NFP -LRB-:) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP-CLR (IN for) (NP (NP (NP (NNS websites)) (PP (IN like) (NP (ADD flickr.com) (ADD tumblr.com) (CC and) (ADD autocorrects.com)))) (CC but) (NP (NP (NNS ones)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VP (VBP are) (RB n't) (ADJP-PRD (RB very) (JJ common))) (CC and) (VP (VBP have) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (JJ funny) (NNS pictures))))))))))))) (. !)) )
+( (S-IMP (INTJ (UH Please)) (NP-SBJ (-NONE- *PRO*)) (VP (VB give) (NP (PRP me)) (NP (NP (NNS lots)) (PP (IN of) (NP (NP (NNS links)) (CC and) (NP (NP (NNS places)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB look) (NP-1 (-NONE- *T*))))))))))) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you))) (NFP -LRB-:)) )
+( (NP (ADD Ifunny.com)) )

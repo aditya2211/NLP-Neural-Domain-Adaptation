@@ -1,0 +1,2 @@
+( (NP (NP (NP (DT No) (NN meat)) (PP-LOC (IN on) (NP (NN Burger)))) (CC and) (NP (ADJP (RB too) (JJ much)) (NN pepper)) (. .)) )
+( (NP (NP (DT no) (NN place)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB seat) (ADVP-1 (-NONE- *T*))))))) )

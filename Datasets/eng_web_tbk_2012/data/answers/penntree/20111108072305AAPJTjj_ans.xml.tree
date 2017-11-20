@@ -1,0 +1,7 @@
+( (NP (NP (NNP Canon) (NNP sx40)) (CC or) (NP (NNP canon) (NNP s100)) (. ?)) )
+( (SBARQ (WHNP-9 (WDT Which) (CD one)) (SQ (MD should) (NP-SBJ (PRP i)) (VP (VB get) (NP-9 (-NONE- *T*)))) (. ?)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ s) (ADVP (RB prettty) (RB much)) (NP-PRD (DT the) (JJ same) (NN $$$)))) (, ,) (S-IMP (INTJ (UH please)) (NP-SBJ (-NONE- *PRO*)) (VP (VB advice))) (. !?????!!!!)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Go) (PP-CLR (IN with) (NP (DT the) (NNP S100)))) (. .)) )
+( (FRAG (S (NP-SBJ (PRP It)) (VP (VBZ 's) (ADJP-PRD (RBR more) (JJ compact)))) (, ,) (FRAG (NP (NML (NN ISO) (CD 6400)) (NN capability) (PRN (-LRB- -LRB-) (FRAG (NP (NNP SX40)) (NP-TMP (RB only) (CD 3200))) (-RRB- -RRB-))) (, ,) (UCP (NP (NP (JJR faster) (NN lens)) (PP (IN at) (NP (NN f/2)))) (CC and) (FRAG (NP (DT the) (NNP SX40)) (NP (QP (RB only)) (NN f) (, /) (CD 2.7))))) (. .)) )
+( (S (S (NP-SBJ (DT Both)) (VP (VBP have) (NP (NP (JJ full) (CD 1080) (NN video)) (PP (IN with) (NP (JJ stereo) (NN recording)))))) (, ,) (S (ADVP (RB so)) (NP-SBJ (DT that)) (VP (VBZ does) (RB n't) (VP (VB matter)))) (. .)) )
+( (S (NP-SBJ (DT The) (NNP S100)) (VP (VBZ has) (NP (NP (DT a) (ADJP (RB slightly) (JJR larger)) (NN screen)) (CC and) (NP (DT the) (JJ new) (NML (NN digic) (CD 5)) (NN processor)))) (. .)) )

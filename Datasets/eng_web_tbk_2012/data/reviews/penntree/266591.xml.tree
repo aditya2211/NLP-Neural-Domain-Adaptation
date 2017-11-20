@@ -1,0 +1,5 @@
+( (NP (NP (JJS Best) (JJ Chineese) (NN food)) (PP-LOC (IN in) (NP (DT the) (NN area)))) )
+( (S (NP-SBJ (NP (DT The) (NN food)) (ADVP-LOC (RB here))) (VP (VBZ is) (ADJP-PRD (JJ fresh) (CC and) (JJ hot) (PP (IN out) (PP (IN of) (NP (DT the) (NN Wok)))))) (. .)) )
+( (S (NP-SBJ-9 (DT The) (NN food)) (VP (VBZ is) (VP (VBN cooked) (NP-9 (-NONE- *)) (ADVP-MNR (RB fast)) (PP (IN by) (NP-LGS (NP (DT the) (CD two) (NNS chefs)) (PP (IN on) (NP (NN duty))))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN lunch) (NNS specials)) (VP (VBP are) (NP-PRD (NP (JJR more) (NN food)) (SBAR (IN than) (S (NP-SBJ (JJS most) (NNS people)) (VP (MD can) (VP (VB eat) (NP (-NONE- *?*))))))) (PP (IN for) (NP (QP (RB about) ($ $) (CD 6)) (-NONE- *U*)))) (. .)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ is) (ADJP-PRD (JJ busy)) (NP-TMP (NP (DT every) (NN day)) (PP (IN at) (NP (NN lunch)))) (PP-PRP (IN for) (NP (DT a) (NN reason))))) (, ,) (S (NP-SBJ (DT the) (NN service)) (VP (VBZ is) (ADJP-PRD (JJ fast)))) (CC and) (S (NP-SBJ (DT the) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ great)))) (. .)) )

@@ -1,0 +1,3 @@
+( (S (NP-SBJ (NP (NNP Holly)) (, -) (NP (DT the) (NN owner))) (, ,) (VP (VBZ knows) (ADVP (RB exactly)) (SBAR (WHADVP-9 (WRB how)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB make) (S (NP-SBJ (PRP you)) (VP (VBP feel) (ADJP-PRD (JJ beautiful)) (PP (IN in) (NP (NNS clothes))))) (ADVP-MNR-9 (-NONE- *T*))))))) (. .)) )
+( (FRAG (ADJP (JJ Stylish) (CC and) (JJ contemporary)) (, ,) (ADVP (RB no) (RB matter) (NP (PRP$ your) (NML (NML (NN size)) (CC or) (NML (NN personality) (NN type))))) (. .)) )
+( (S (S (NP-SBJ (PRP She)) (VP (VBZ 's) (NP-PRD (DT an) (NNP A) (SYM +)))) (CC and) (SINV (ADVP-TPC-1 (RB so)) (VP (VBP are) (ADVP-PRD-1 (-NONE- *T*))) (NP-SBJ (PRP$ her) (NNS clothes))) (. !)) )

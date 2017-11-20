@@ -1,0 +1,2 @@
+( (S (NP-SBJ (NP (DT All)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ-1 (PRP you)) (VP (VBP have) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB do) (NP-9 (-NONE- *T*))))))))) (VP (VBZ is) (S-PRD (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB sign) (PRT (RP up)) (PP-CLR (IN for) (NP (NP (CD one) (JJ free) (NN offer)) (PP (-LRB- -LRB-) (JJ such) (IN as) (NP (NN efax)) (-RRB- -RRB-))))) (CC and) (VP (ADVP-TMP (RB then)) (VB cancel) (PP-TMP (IN within) (NP (DT the) (NN offer) (NN time) (NN frame))))))) (. .)) )
+( (FRAG (ADJP (RB Absolutely) (JJ free)) (. .)) )

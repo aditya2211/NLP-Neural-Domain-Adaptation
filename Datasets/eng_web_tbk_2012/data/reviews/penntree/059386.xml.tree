@@ -1,0 +1,4 @@
+( (FRAG (NP (JJS Best)) (ADVP (RB YET)) (. !)) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBP go) (PP-DIR (IN to) (NP (NNP Japaneiro) (POS 's))) (NP-TMP (PDT all) (DT the) (NN time)))) (CC and) (S (NP-SBJ-9 (PRP we)) (VP (VBP have) (ADVP-TMP (RB NEVER)) (VP (VBN been) (VP (VBN disappointed) (NP-9 (-NONE- *)))))) (. !)) )
+( (S (NP-SBJ-9 (NN Wait) (NN staff)) (VP (VBZ is) (ADVP-TMP (RB always)) (ADJP-PRD (ADJP (JJ ready) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB help) (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (MD ca) (RB n't) (VP (VB decide) (SBAR-ADV (-LRB- -LRB-) (WHNP-1 (WDT which)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (VBZ happens) (NP-TMP (DT every) (NN time)) (PP (IN for) (NP (PRP me))) (PP-PRP (IN d) (HYPH /) (PP (IN t) (NP (NP (DT the) (JJ huge) (NN menu)) (PP (IN of) (NP (NNS rolls)))))))) (-RRB- -RRB-)))))))))) (CC and) (ADJP (ADVP-TMP (RB always)) (JJ courteous)))) (. !)) )
+( (FRAG (ADJP (RB Soooo) (JJ tasty)) (. !)) )

@@ -1,0 +1,6 @@
+( (NP (JJ Hidden) (NN Treasure) (. .)) )
+( (S (NP-TPC-1 (NML (NN Strip) (NN mall)) (JJ asian)) (NP-SBJ (PRP it)) (VP (VBZ is) (RB not) (NP-PRD-1 (-NONE- *T*))) (. !)) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Go) (ADVP-DIR (RB in)))) (CC and) (S (NP-SBJ (PRP you)) (VP (MD will) (RB not) (VP (VB think) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (VBP are) (PP-LOC-PRD (IN in) (NP (NNP Chesapeake))))))))) (. .)) )
+( (FRAG (S (NP-SBJ (DT The) (NN setting)) (VP (VBZ feels) (PP-CLR (IN like) (NP (NP (DT a) (NN Sushi) (NN bar)) (PP-LOC (IN in) (NP (NNP NYC))))))) (, ;) (UCP (ADJP (JJ small)) (, ,) (ADJP (JJ cozy)) (, ,) (CC but) (PP (IN with) (NP (NN flair)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBP Get) (NP (NP (JJ great) (NN service)) (, ,) (NP (JJ fantastic) (NN menu)))) (, ,) (CC and) (VP (VBP relax))) (. .)) )
+( (FRAG (ADJP (JJS Best)) (PP (IN in) (NP (NNP HR))) (ADVP (RB so) (RB far)) (. !)) )

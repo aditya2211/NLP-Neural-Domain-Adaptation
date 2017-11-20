@@ -1,0 +1,2 @@
+( (NP (NP (NNP in) (CC n) (NNP out)) (PP (IN of) (NP (DT the) (NNP chicago) (NN area))) (. ?)) )
+( (SBARQ (WHNP-9 (WDT which) (NN burger) (NN chain)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB think) (SBAR (-NONE- *0*) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (ADJP-PRD (ADJP (RB as) (JJ good) (NAC-1 (-NONE- *ICH*))) (PP (IN as) (NP (NNP in) (CC n) (NNP out))) (NAC-1 (CC or) (JJR better))) (PP-LOC (IN in) (NP (DT the) (NNP chicago) (NN area))) (PP (IN besides) (NP (NP (NNP five) (NNPS guys)) (CC and) (NP (NNP smashburger))))))))) (. ?)) )

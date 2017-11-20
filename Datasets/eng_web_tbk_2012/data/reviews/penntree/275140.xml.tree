@@ -1,0 +1,3 @@
+( (S (NP-SBJ-9 (PRP I)) (VP (VBP 'm) (ADVP (RB really)) (VP (VBN surprised) (NP-9 (-NONE- *)) (PP (IN by) (NP-LGS (DT the) (JJ negative) (NNS reviews))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBP 've) (VP (VBN had) (NP (NP (QP (RB about) (CD 5)) (NNS repairs)) (VP (VBN done) (NP (-NONE- *)) (PP (IN on) (NP (CD 3) (JJ different) (NNS laptops))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP 've) (ADVP-TMP (RB always)) (VP (VBN been) (ADJP-PRD (JJ timely) (CC and) (JJ inexpensive)))) (. .)) )

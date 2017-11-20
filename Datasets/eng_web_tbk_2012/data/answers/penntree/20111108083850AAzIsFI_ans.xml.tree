@@ -1,0 +1,7 @@
+( (S (S (S (NP-SBJ (PRP I)) (VP (VBP m) (PP-PRD (IN in) (NP (NP (NN school)) (PP (IN for) (NP (NN photography))))))) (CC and) (S (NP-SBJ-9 (PRP i)) (VP (VBP want) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB work) (PP-CLR (IN in) (NP (NN forensic))))))))) (SBARQ (ADVP (RB so)) (WHNP-1 (WHNP (WP what)) (ADJP (JJ else))) (SQ (VBP do) (NP-SBJ-2 (PRP i)) (VP (VB need) (S (NP-SBJ-2 (-NONE- *)) (VP (TO to) (VP (VB do) (NP-1 (-NONE- *T*)))))))) (. .?)) )
+( (FRAG (NP (NNS Sciences)) (, -) (NP (ADVP (RB principally)) (NN biology)) (CC but) (NP (ADVP (RB also)) (NN chemistry)) (. .)) )
+( (S (NP-SBJ (PRP You)) (VP (VBP need) (NP (NP (DT a) (NN background)) (PP (IN in) (NP (NN law) (NN enforcement))))) (. .)) )
+( (S (NP-SBJ (NP (PRP It)) (S-1 (-NONE- *EXP*))) (VP (VBZ 's) (RB not) (ADJP-PRD (JJ enough)) (S-1 (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB have) (NP (NN photography) (NNS skills)))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB Talk) (PP-CLR (IN to) (NP (PRP$ your) (JJ academic) (NN adviser)))) (, ,) (VP (VB see) (SBAR (WHNP-9 (WP what)) (S (NP-SBJ (PRP they)) (VP (VBP recommend) (NP-9 (-NONE- *T*))))))) (. .)) )
+( (FRAG (FRAG (ADVP (RB certainly)) (RB not) (NP (`` ") (JJ normal) ('' ") (NN photography))) (, ...) (S (NP-SBJ (JJ forensic) (NN photography)) (VP (VBZ is) (PP-PRD (IN about) (NP (DT the) (NNS facts))))) (: :)) )
+( (NP (ADD http://www.google.co.uk/search?q=forensic+photography&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&safe=active&sout=1)) )

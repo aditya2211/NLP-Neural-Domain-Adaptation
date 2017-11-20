@@ -1,0 +1,7 @@
+( (FRAG (NP (JJ BAD) (NN COFFEE)) (, ,) (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB DO) (RB NT) (VP (VB BOTHER)))) (. !)) )
+( (SQ (MD Ca) (RB n't) (NP-SBJ (PRP you)) (VP (VB make) (NP (NP (DT a) (JJ decent) (NN cup)) (PP (IN of) (NP (NN coffee))))) (. ?)) )
+( (S (S (NP-SBJ (PRP You)) (VP (VBP charge) (NP (RB SO) (JJ MUCH)))) (, ,) (CC yet) (S (NP-SBJ (PRP you)) (VP (VBP use) (NP (DT the) (JJ same) (NNS grounds)) (ADVP (ADVP (RB over)) (CC and) (ADVP (RB over) (RB again))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN coffee)) (VP (VBP taste) (ADJP-PRD (ADJP (JJ BURNT)) (CC and) (ADJP (RB very) (JJ bitter)))) (. .)) )
+( (S (NP-SBJ (NP (DT No) (NN amount)) (PP (IN of) (NP (NN sugar) (CC and) (NN milk)))) (VP (MD can) (VP (VB mask) (NP (PRP it)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB CHANGE) (NP (DT THE) (NN PROCESS)) (, ,) (NP-VOC (NNS PPL))) (. !)) )
+( (S (S (NP-SBJ (NP (NNP Westfield)) (CC and) (NP (NNP Rt) (CD 1))) (VP (VBP do) (NP (PRP it)) (ADVP (RB well)))) (, ,) (SBARQ (WHADVP-1 (WRB WHY)) (SQ (MD CA) (RB NT) (NP-SBJ (PRP U)) (VP (-NONE- *?*) (ADVP-PRP-1 (-NONE- *T*))))) (. ????)) )

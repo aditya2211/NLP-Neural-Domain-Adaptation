@@ -1,0 +1,5 @@
+( (NP (NP (NNP Courage)) (NP (DT the) (JJ cowardly) (NN dog)) (. ?)) )
+( (SBARQ (SBARQ (PP (IN In) (NP (NP (DT the) (NN Episode)) (SINV-TTL (`` ") (PP-TPC-1 (ADVP (RB So)) (IN in) (NP (NNP Louvre))) (VP (VBP Are) (PP-PRD-1 (-NONE- *T*))) (NP-SBJ (PRP We) (NNP Two)) ('' ")))) (, ,) (WHNP-2 (WHADJP (WRB How) (JJ many)) (JJ diffrent) (NN painting) (, /) (NNS scupltures)) (SQ (VBP are) (NP-SBJ (EX their)) (NP-PRD-2 (-NONE- *T*)))) (CC and) (SBARQ (WHNP-3 (WP who)) (SQ (VBP are) (NP-SBJ (DT the) (NNS artists)) (NP-PRD-3 (-NONE- *T*)))) (. ?)) )
+( (NP (NP (NP (NN Link)) (PP (IN to) (NP (NN video)))) (: :) (NP (ADD http://www.livevideo.com/video/C8F5BBEC570C4A4DBC326F694D79942A/courage-the-cowardly-dog-so-.aspx))) )
+( (S (NP-SBJ (PRP You)) (VP (MD should) (ADVP (RB really)) (VP (VB ask) (NP (DT this)) (PP-LOC (IN in) (NP (DT the) (NN art) (NN section))))) (. .)) )
+( (S (NP-SBJ-1 (PRP They)) (VP (VBP re) (ADVP (RB probably)) (ADVP (RB just)) (VP (VBN drawn) (NP-1 (-NONE- *)) (PP-PRP (IN for) (NP (DT the) (NN show))) (ADVP (RB anyways)))) (. .)) )

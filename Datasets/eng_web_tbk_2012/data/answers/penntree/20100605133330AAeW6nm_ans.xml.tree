@@ -1,0 +1,5 @@
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (NP (NNS hundreds)) (PP (IN of) (NP (NN VHS) (NNS movies)))) (VP (VBG lying) (ADVP (RB around)))))) (, ...) (SBARQ (WHNP-1 (WP what)) (SQ (MD should) (NP-SBJ (PRP I)) (VP (VB do) (NP-1 (-NONE- *T*)) (PP-CLR (IN with) (NP (PRP them)))))) (. ?)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP bulk) (PRT (RP up)) (NP (ADJP (RB too) (JJ much)) (NN space)))) )
+( (S (NP-SBJ (PRP I)) (VP (VBD gave) (NP (PRP mine)) (PP-DTV (IN to) (NP (NP (NP (DT a) (NN rest) (NN home)) (PP (IN for) (NP (JJ senior) (NNS citizens)))) (CC and) (NP (DT an) (NP (JJ old) (NNS soldiers) (POS ')) (NN home))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Covert) (PP-CLR (IN into) (NP (NN DVD)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB give) (NP (PRP them)) (PP-DTV (IN to) (NP (DT a) (JJ library)))) (CC or) (VP (VB burn) (NP (PRP them)))) (. .)) )

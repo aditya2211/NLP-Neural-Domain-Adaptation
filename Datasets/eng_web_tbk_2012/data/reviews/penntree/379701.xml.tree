@@ -1,0 +1,4 @@
+( (NP (ADJP (RB VERYYYY) (. !!!!) (RB VERYYY) (. !!) (JJ Good)) (NML (NN auto) (NN repair)) (NNS men) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Do) (NP (DT the) (NN job)) (ADVP (ADVP (RB honest)) (CC and) (ADVP (ADVP (RB quickly)) (SBAR (IN as) (FRAG (ADJP (JJ possible))))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD Would) (VP (NP-ADV (CD 100) (NN %)) (VB recomend) (PP-CLR (IN to) (NP (NNS others))) (PP-PRP (IN for) (NP (DT a) (JJ great) (NN service))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP You)) (NP-VOC (NML (NNP Barry) (POS s)) (NNP Auto) (NNP Tech))) (. !)) )

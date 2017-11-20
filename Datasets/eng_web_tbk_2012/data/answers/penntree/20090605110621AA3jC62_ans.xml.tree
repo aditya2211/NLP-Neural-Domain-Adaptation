@@ -1,0 +1,3 @@
+( (SBARQ (WHNP-9 (WDT What) (NN language)) (SQ (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (VP (VBN talked) (NP-9 (-NONE- *)) (PP-LOC (IN in) (NP (NNP Iguazu)))))) (. ?)) )
+( (NP (NNP portuguese)) )
+( (NP (NNP spanish)) )

@@ -1,0 +1,5 @@
+( (NP (JJ Excellent) (NN Pizza) (. !!)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ s) (NP-PRD (NP (NP (DT the) (JJ only) (NN pizza) (NN place)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP recommend) (NP-9 (-NONE- *T*)))))) (PP-LOC (IN in) (NP (NNP Woodland) (NNPS Hills))))) (. .)) )
+( (INTJ (UH Yum) (. .)) )
+( (S (NP-SBJ (PRP$ My) (NN wife) (CC and) (NNS kids)) (VP (MD ca) (RB n't) (VP (VB get) (NP (JJ enough)))) (. .)) )
+( (FRAG (ADVP (RB Highly)) (VP (VBN recommended) (NP (-NONE- *))) (. .)) )

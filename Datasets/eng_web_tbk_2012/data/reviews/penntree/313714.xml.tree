@@ -1,0 +1,7 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VB Make) (S (NP-SBJ (PRP You)) (VP (VB Feel) (PP-CLR (IN Like) (NP (DT a) (NN Number))))))) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Stay) (ADVP (RB away) (PP (IN from) (NP (NP (NNPS Kids) (RB First)) (NP-LOC (NNP West) (NNP Chester)))))) (. .)) )
+( (S (NP-SBJ (PRP You)) (ADVP-TMP (RB NEVER)) (VP (VB get) (NP (DT a) (NN human)) (PP (IN on) (NP (DT the) (NN phone)))) (. .)) )
+( (S (NP-SBJ (NP (PRP It)) (S-1 (-NONE- *EXP*))) (VP (VBZ 's) (ADJP-PRD (JJ impossible)) (S-1 (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (DT an) (NN appointment)))))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ-1 (PRP you)) (VP (VP (VBP get) (VP (VBN caught) (NP-1 (-NONE- *)) (PP (IN in) (NP (NN traffic))))) (CC and) (VP (VBP are) (ADJP-PRD (NP (DT a) (NN couple) (NNS minutes)) (JJ late)))))) (NP-SBJ (PRP they)) (VP (VBP make) (S (NP-SBJ (PRP you)) (VP (VB re-schedule) (, ...) (PP-CLR (IN for) (NP (NP (CD 6) (NNS weeks)) (ADVP (RBR later))))))) (. .)) )
+( (S (CC And) (ADVP (ADVP (RBS worst)) (PP (IN of) (NP (DT all)))) (NP-SBJ (PRP$ your) (NN child)) (VP (VBZ feels) (PP-PRD (IN like) (NP (NP (DT a) (NN number)) (RB not) (NP (DT a) (NN patient))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Go) (ADVP-DIR (ADVP (RB somewhere)) (ADVP (RB else)))) (. .)) )

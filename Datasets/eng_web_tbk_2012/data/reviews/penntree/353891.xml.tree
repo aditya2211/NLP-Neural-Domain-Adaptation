@@ -1,0 +1,4 @@
+( (NP (JJ Great) (NN Manicure)) )
+( (S (NP-SBJ (DT This) (NN place)) (VP (VBZ offers) (NP (DT a) (JJ great) (NN manicure) (CC and) (NN pedicure))) (. .)) )
+( (S (NP-SBJ (PRP$ My) (NNS nails)) (VP (VBD looked) (ADJP-PRD (JJ great)) (PP-TMP (IN for) (NP (NP (DT the) (JJR better) (NN part)) (PP (IN of) (NP (CD 2) (NNS weeks)))))) (. !)) )
+( (UCP (FRAG (ADVP (RB Also)) (ADJP (RB very) (JJ friendly))) (CC and) (S (NP-SBJ (DT the) (NNS stylists)) (VP (VBP are) (RB not) (PP-PRD (IN in) (NP (DT the) (NML (`` ") (FRAG (VP (VBN been) (ADVP-LOC-PRD (RB there))) (XX /) (VP (VBN done) (NP (DT that)))) ('' ")) (NN mood))))) (. !)) )

@@ -1,0 +1,5 @@
+( (NP (JJ Pure) (NN Beauty)) )
+( (FRAG (NP (WDT What) (DT a) (NN joy)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB stroll) (PP (IN off) (NP (NP (JJ historic) (NNP Canyon) (NNP Road)) (PP-LOC (IN in) (NP (NNP Santa) (NNP Fe))))) (PP-DIR (IN into) (NP (NP (DT a) (NN gallery)) (PP (IN with) (NP (NP (DT a) (JJ gorgeous) (NN diversity)) (PP (IN of) (NP (NN art)))))))))) (. .)) )
+( (S (NP-SBJ (NP (NNP Destiny) (NNP Allison) (POS 's)) (NN metal) (NNS sculptures)) (VP (VBD were) (NP-PRD (PRP$ my) (NN favorite))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NN owner)) (NP (NNP Karla))) (VP (VBZ is) (ADJP-PRD (JJ welcoming) (CC and) (JJ fun))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Give) (NP (PRP yourself)) (NP (NP (DT the) (NN gift)) (PP (IN of) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG visiting) (NP (NNP Winterowd) (NNP Fine) (NNP Art))))))) (. !)) )

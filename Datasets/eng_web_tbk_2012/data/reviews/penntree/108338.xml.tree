@@ -1,0 +1,6 @@
+( (S (NP-SBJ (NP (DT The) (NN internet)) (ADVP-LOC (RB here))) (VP (VBZ is) (ADJP-PRD (JJ terrible))) (. .)) )
+( (S (SBAR-ADV (IN Like) (S (NP-SBJ (DT the) (JJ previous) (NN poster)) (VP (VBD said)))) (, ,) (NP-SBJ-1 (DT the) (NN com) (NNS lines)) (VP (VBP are) (VP (VBN split) (NP-1 (-NONE- *)) (PP-CLR (IN between) (NP (DT the) (JJ entire) (NN building))))) (. .)) )
+( (S (NP-SBJ (DT That)) (VP (VBZ 's) (ADJP-PRD (ADJP (NP (QP (CD 3) (SYM x))) (JJR worse)) (PP (IN than) (NP (NP (NNP Qwest) (NNP DSL) (POS 's)) (NML (JJS lowest) (NN speed)) (NN offering))))) (. !)) )
+( (S (S (NP-SBJ (DT The) (JJ outward) (NN appearance)) (VP (VBZ makes) (S (NP-SBJ (PRP you)) (VP (VB think) (SBAR (-NONE- *0*) (S (NP-SBJ (DT this) (NN place)) (VP (VBZ is) (ADJP-PRD (JJ nice))))))))) (, ,) (CC but) (S (NP-SBJ (NP (NN everything)) (ADVP-LOC (RB inside))) (VP (VBZ is) (ADJP-PRD (JJ cheap) (JJ cheap) (JJ cheap)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBG Moving) (ADVP (RB out)) (ADVP-TMP (ADVP (RB as) (RB soon)) (SBAR (IN as) (S (NP-SBJ (PRP$ our) (NN lease)) (VP (VBZ is) (ADVP-PRD (RB up))))))) (. .)) )
+( (NP (ADD http://www.speedtest.net/result/1155244347.png)) )

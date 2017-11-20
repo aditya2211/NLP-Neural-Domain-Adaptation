@@ -1,0 +1,6 @@
+( (FRAG (NP (NP (JJ Top) (NN range)) (PP (IN of) (NP (NN bike)))) (, ,) (NP (JJ cheap) (NNS prices)) (, ,) (ADJP (JJ excellent)) (NP (NN a) (SYM +++))) )
+( (S (INTJ (UH yep)) (NP-SBJ (PRP they)) (VP (VBD fixeded) (NP (PRP$ my) (NNP thumpstar)) (PP-TMP (IN in) (NP (CD 1) (NN day)))) (. .)) )
+( (S (NP-SBJ (PRP it)) (VP (VP (VBD wase) (RB nt) (VP (VBG going))) (CC an) (VP (VBD had) (NP (DT a) (NML (NN gear) (NN box)) (NN problem)))) (. ....)) )
+( (S (S (NP-SBJ (PRP i)) (VP (MD cold) (RB n't) (VP (VB find) (NP (NP (NP (NP (NN anywere)) (ADJP (JJ else))) (ADJP (JJ local))) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (TO to) (VP (VB fix) (NP (PRP it)))))))))) (S (S (ADVP (RB so)) (NP-SBJ (PRP i)) (VP (VBD took) (NP (PRP it)) (ADVP-DIR (RB there)))) (CC and) (S (NP-SBJ (PRP they)) (VP (VBD fixed) (NP (PRP it)) (PP (IN for) (NP ($ $) (CD 150) (-NONE- *U*)))))) (. ...)) )
+( (FRAG (FRAG (NP (NN thanks)) (NP-VOC (NNS guys))) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ goes) (ADVP (RB really) (RB well)))) (CC and) (FRAG (NP (NN thaks)) (PP (IN 4) (NP (DT the) (JJ cheap) (NN price)))) (. ..)) )
+( (FRAG (ADJP (JJ excellent)) (, ,) (NP (JJ top) (NNS guys)) (NP (NN a) (SYM +++++)) (VP (VB reccommend) (PP (IN to) (NP (NN anyone)))) (. !!!!!!!!!!)) )

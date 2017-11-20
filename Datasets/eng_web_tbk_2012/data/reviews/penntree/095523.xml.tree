@@ -1,0 +1,6 @@
+( (NP (JJ GREAT) (NN SERVICE) (CC AND) (NNS PEOPLE) (. !!)) )
+( (S (S (NP-SBJ (NNP Deb) (NNP Watson)) (VP (VBZ is) (NP-PRD (DT the) (NN contact) (NN person)))) (CC and) (S (NP-SBJ (NP (PRP she)) (CC and) (NP (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN staff))))) (VP (VBD were) (ADJP-PRD (JJ great)))) (. !!!)) )
+( (S (NP-SBJ-9 (PRP She)) (VP (VBZ continues) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB help) (NP (PRP me)) (SBAR-TMP (WHADVP-1 (WRB when)) (S (NP-SBJ-2 (-NONE- *PRO*)) (VP (VBN needed) (NP-2 (-NONE- *)) (ADVP-TMP-1 (-NONE- *T*))))) (SBAR-ADV (ADVP (RB even)) (IN if) (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (DT a) (NN service) (NN question))))))))) (. .)) )
+( (S (SBAR-PRP (IN Since) (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADVP (RB usually)) (PP-PRD (IN at) (NP (NN work))) (ADVP-TMP (RB late))))) (NP-SBJ-9 (NNP Deb)) (VP (VBZ has) (VP (VBN stayed) (ADVP (RB around)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB help) (NP (PRP me)) (PRT (RP out)) (SBAR-TMP (WHADVP-1 (WRB when)) (S (NP-SBJ-2 (-NONE- *PRO*)) (VP (VBN needed) (NP-2 (-NONE- *)) (ADVP-TMP-1 (-NONE- *T*)))))))))) (. .)) )
+( (S (NP-SBJ (DT This)) (VP (VBD was) (SBAR-TMP-PRD (IN after) (S (NP-SBJ (PRP I)) (VP (VBD brought) (NP (DT the) (NN car)))))) (. !!!!) (. !)) )
+( (S (NP-SBJ (NN Service)) (VP (VBZ does) (RB not) (VP (VB get) (ADJP-PRD (RB any) (JJR better)))) (. !!!!)) )

@@ -1,0 +1,4 @@
+( (SQ (VBP Do) (NP-SBJ (PRP you)) (VP (VB prefer) (NP (NN ham) (, ,) (NN bacon) (CC or) (NNS sausages)) (PP (IN with) (NP (PRP$ your) (NN breakfast)))) (. ?)) )
+( (FRAG (PP (IN Without) (NP (DT a) (NN doubt))) (, .....) (NP (NN bacon)) (. !) (NFP :-RRB-)) )
+( (NP (NP (ADJP (RB thick) (VBN cut)) (NN bacon)) (CC or) (NP (ADJP (RB really) (JJ good)) (NNS sausages))) )
+( (S (PP (IN with) (NP (PRP$ my) (NN breakfast))) (NP-SBJ (PRP I)) (VP (VBP like) (NP (NN bacon) (CC and) (NN sausage)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP I)) (VP (VBP having) (NP (NP (DT a) (JJ big) (NN breakfast)) (PP (IN like) (NP (NP (DT a) (JJ grand) (NN slam)) (PP (IN with) (NP (NP (NNS pancakes)) (CC and) (NP (DT the) (NNS works))))))) (ADVP-TMP-9 (-NONE- *T*)))))) (. .)) )

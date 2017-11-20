@@ -1,0 +1,6 @@
+( (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBZ Needs) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB go) (PP (IN out) (PP (IN of) (NP (NN business))))))))) )
+( (S (NP-SBJ (PRP They)) (VP (VBP close) (SBAR-TMP (WHADVP-9 (WRB whenever)) (S (NP-SBJ (PRP they)) (VP (VBP feel) (PP-CLR (IN like) (NP (PRP it))) (ADVP-TMP-9 (-NONE- *T*))))) (, ,) (PP-TMP (ADVP (RB often)) (RB well) (IN before) (NP (PRP$ their) (VBN listed) (NN closing) (NN time)))) (. .)) )
+( (S (NP-SBJ (PRP$ Their) (NN store)) (VP (VP (VBZ is) (ADJP-PRD (JJ dusty) (, ,) (JJ dirty))) (CC and) (VP (VBZ feels) (SBAR (IN like) (S (NP-SBJ (PRP you)) (VP (VBP 're) (VP (VBG stepping) (PP (IN into) (NP (DT the) (NNS 1970s))))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP do) (RB n't) (VP (VB take) (NP (NNS coupons)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP have) (NP (DT a) (NML (NN credit) (NN card)) (NN minimum))) (. .)) )
+( (FRAG (S (NP-SBJ (DT This) (NN place)) (VP (VBZ is) (NP-PRD (NP (DT the) (NN opposite)) (PP (IN of) (NP (NNP QuikTrip)))))) (: :) (FRAG (ADJP (JJ crappy)) (PP (IN in) (NP (DT every) (NN way)))) (. .)) )

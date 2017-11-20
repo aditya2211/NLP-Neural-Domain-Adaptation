@@ -1,0 +1,2 @@
+( (S (NP-SBJ (DT The) (NN food)) (VP (VBZ is) (ADJP-PRD (ADJP (JJ excellent)) (, ,) (CC but) (ADJP (RB very) (JJ overpriced)))) (. .)) )
+( (SBARQ (WHADVP-9 (WRB How)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB run) (NP (DT a) (NN cafe)) (, ,) (PP (IN with) (NP (NP (DT no) (NNS refills)) (PP (IN on) (NP (NN coffee))))) (ADVP-9 (-NONE- *T*)))) (NFP -) (. ?)) )

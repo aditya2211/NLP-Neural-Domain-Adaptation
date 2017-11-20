@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:52 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Signal id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:1" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">1</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( X 0 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:1:2" offset="1.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:1:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:1:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:1:2">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">164</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( S-IMP ( NP-SBJ *PRO* ) ( VP ( VP 0 ) ( VP 1 ( NP-VOC 2 3 ) ) ) ) ( X 4 5 6 7 ) 8 ( S ( ADVP-LOC 9 ) ( PP-LOC 10 ( NP 11 12 ) ) ( ADVP-LOC 13 14 ) 15 ( NP-SBJ 16 ) ( VP 17 ( VP 18 ( PP-LOC 19 ( NP 20 21 ) ) ) ) ) 22 ( X 23 24 25 26 27 ) 28 ( S-IMP ( ADVP-TMP 29 ) ( NP-SBJ *PRO* ) ( VP ( VP 30 ( NP 31 ) ( PRT 32 ) ) 33 ( VP 34 ( INTJ-SEZ 35 36 37 ) ) ) ) ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:2" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:3" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:4" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:5" offset="26.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:6" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:7" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:8" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:9" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:A" offset="52.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:B" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:C" offset="61.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:D" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:F" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:G" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:H" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:I" offset="81.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:J" offset="85.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:K" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:L" offset="95.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:M" offset="98.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:N" offset="102.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:O" offset="106.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:P" offset="108.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Q" offset="114.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:R" offset="120.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:S" offset="124.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:U" offset="127.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:V" offset="132.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:W" offset="134.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:X" offset="139.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Y" offset="144.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Z" offset="147.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:a" offset="150.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:b" offset="154.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:c" offset="158.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:d" offset="160.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:e" offset="163.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:f" offset="164.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:2">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E2" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:2" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:3">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E3" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:3" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:4">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E4" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:4" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E5" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:5" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:6">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E6" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:6" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:7">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E7" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:7" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:8">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E8" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:8" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:9">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:E9" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:9" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:A">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EA" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:A" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:B">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EB" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:B" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:C">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EC" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:C" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:D">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:ED" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:D" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EF" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:F" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:G">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EG" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:G" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:H">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EH" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:H" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:I">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EI" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:I" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EJ" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:J" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:K">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EK" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:K" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:L">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EL" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:L" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:M">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EM" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:M" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:N">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EN" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:N" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:O">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EO" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:O" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:P">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EP" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:P" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Q">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EQ" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Q" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:R">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:ER" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:R" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:S">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:ES" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:S" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:U">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EU" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:U" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:V">
+<Feature name="tag">FW</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EV" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:V" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:W">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EW" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:W" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:X">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EX" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:X" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Y">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EY" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Y" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Z">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:EZ" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Z" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:a">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Ea" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:a" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:b">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Eb" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:b" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:c">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Ec" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:c" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:d">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Ed" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:d" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:e">
+<Feature name="tag">UH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:Ee" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:e" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:2:f">
+<Feature name="tag">''</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:3" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">2</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( X 0 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:3:2" offset="2.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:3:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:3:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:3:2">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">16</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( INTJ 0 1 2 3 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:3" offset="13.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:4" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:5" offset="16.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:E2" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:2" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:E3" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:3" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:4">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:E4" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:4" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:4:5">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">20</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S-IMP ( NP-SBJ *PRO* ) ( VP 0 ( NP 1 2 3 ) ) 4 5 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:3" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:4" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:6" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:7" offset="20.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:2">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:E2" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:2" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:3">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:E3" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:3" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:4">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:E4" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:4" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:E5" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:5" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:6">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:E6" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:6" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:5:7">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:6" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">2</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( X 0 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:6:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:6:2" offset="2.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:6:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:6:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:6:2">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:7" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">2</MetadataElement>
+<MetadataElement name="paragraph">7</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( X 0 ) )</MetadataElement>
+<MetadataElement name="segId">7</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:7:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:7:2" offset="2.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:7:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:7:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:7:2">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">17</MetadataElement>
+<MetadataElement name="paragraph">8</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 1 2 ) )</MetadataElement>
+<MetadataElement name="segId">8</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:3" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:4" offset="17.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:E2" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:2" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:3">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:E3" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:3" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:8:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:9" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">8</MetadataElement>
+<MetadataElement name="paragraph">9</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 ) )</MetadataElement>
+<MetadataElement name="segId">9</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:9:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:9:2" offset="8.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:9:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:9:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:9:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:A" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">23</MetadataElement>
+<MetadataElement name="paragraph">10</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 ) )</MetadataElement>
+<MetadataElement name="segId">10</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:A:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:A:2" offset="23.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:A:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:A:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:A:2">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:B" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">14</MetadataElement>
+<MetadataElement name="paragraph">11</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 ) )</MetadataElement>
+<MetadataElement name="segId">11</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:B:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:B:2" offset="14.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:B:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:B:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:B:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C" timeline="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:T1">
+<Metadata>
+<MetadataElement name="endOffset">13</MetadataElement>
+<MetadataElement name="paragraph">12</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP ( QP 0 1 ) 2 ) )</MetadataElement>
+<MetadataElement name="segId">12</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:2" offset="3.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:3" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:4" offset="13.000000"></Anchor>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:E1" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:1" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:2">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:E2" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:2" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:3">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:E3" type="word" start="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:3" end="groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700:C:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

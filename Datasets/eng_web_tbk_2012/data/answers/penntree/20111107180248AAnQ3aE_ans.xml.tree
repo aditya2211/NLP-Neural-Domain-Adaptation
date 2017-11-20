@@ -1,0 +1,7 @@
+( (SBARQ (INTJ (UH Erm)) (INTJ (UH ya)) (WHADVP-9 (WRB How)) (SQ (MD can) (NP-SBJ (PRP I)) (VP (VB watch) (NP (NNP Fair) (NNP City)) (ADVP (RB Online)) (PP-LOC (IN in) (NP (NNP England))) (INTJ (UH lols)) (ADVP-MNR-9 (-NONE- *T*)))) (. ?)) )
+( (S (NP-SBJ (PRP Ya)) (VP (MD ca) (RB n't) (VP (-NONE- *?*))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP do) (RB n't) (VP (VB show) (NP (PRP it)) (PP (IN on) (NP (NNP RTE) (NNP Player)))))) )
+( (S (S (NP-SBJ (PRP You)) (VP (MD ca) (RB n't) (VP (-NONE- *?*)))) (CC but) (SINV (ADVP-TPC-2 (RB here)) (VP (VBZ 's) (ADVP-LOC-PRD-2 (-NONE- *T*))) (NP-SBJ (DT an) (NN update))) (: :) (S (NP-SBJ-9 (DT The) (NN doctor)) (VP (VBZ is) (ADJP-PRD (JJ about) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB discover) (NP (NP (DT the) (NN affair)) (PP (IN between) (NP (NP (PRP$ her) (NN husband)) (CC and) (NP (NP (NNP Jo)) (SBAR (-LRB- -LRB-) (WHNP-1 (WP who)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (VBZ has) (VP (VBN become) (NP-PRD (PRP$ her) (JJ new) (JJS best) (NN friend))))) (-RRB- -RRB-)))))))))))) (. .)) )
+( (S (NP-SBJ (NNP Deco)) (VP (VBZ is) (ADVP-TMP (RB still)) (PP-PRD (IN with) (NP (NNP Caoimhe)))) (. .)) )
+( (S (NP-SBJ (NNP Suzanne)) (VP (VBZ is) (ADJP-PRD (JJ pregnant))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Hope) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (VBP do) (RB n't) (VP (VB miss) (NP (PRP it)) (ADVP (RB too) (RB much))))))) (. .)) )

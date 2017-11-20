@@ -1,0 +1,5 @@
+( (NP (NP (DT Any) (NN information)) (PP (IN about) (NP (NML (NNP CRAZY) (NNP HORSE)) (NN SCULPTURE))) (. ?)) )
+( (NP (DT any) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP assume) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (VBP mean) (NP (DT the) (NML (NNP crazy) (NNP horse)) (NN memorial)))))) (. .)) )
+( (S (NP-SBJ (PRP they)) (VP (VBP have) (NP (NP (PRP$ their) (JJ own) (NN website)) (SBAR (WHNP-9 (WDT which)) (S (NP-SBJ-1 (PRP you)) (VP (MD can) (ADVP (RB easily)) (VP (VB find) (NP-9 (-NONE- *T*)) (S-ADV (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBG using) (NP (DT any) (NN search) (NN engine)))))))))) (. .)) )
+( (NP (ADD http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial)) )

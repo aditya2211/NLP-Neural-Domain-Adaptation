@@ -1,0 +1,3 @@
+( (NP (NML (NNP Staten) (NNP Island)) (NNPS Computers)) )
+( (FRAG (NP (JJ Superior) (NN work)) (, -) (S (NP-SBJ (-NONE- *PRO*)) (ADVP-TMP (RB always)) (VP (VBZ comes) (PRT (RP through)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP we)) (VP (VBP need) (NP (PRP him)) (ADVP-9 (-NONE- *T*))))))) (. .)) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBP have) (VP (VBN tried) (NP (JJ many) (JJ different) (NN computer) (NNS people)) (PP-TMP (IN until) (ADVP (RB now)))))) (, -) (S (NP-SBJ (PRP we)) (VP (MD will) (VP (VB stick) (PP-CLR (IN with) (NP (NNP Qualitech) (NNPS Computers)))))) (. !!!)) )

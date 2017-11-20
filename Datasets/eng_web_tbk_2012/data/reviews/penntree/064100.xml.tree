@@ -1,0 +1,2 @@
+( (NP (NP (JJ Great) (NN spot)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB kick) (ADVP (RB back)) (PP (IN for) (NP (NP (NP (DT a) (NN cup)) (PP (IN of) (NP (NN joe)))) (CC and) (NP (DT a) (NN snack)))) (ADVP-LOC-1 (-NONE- *T*)))))) (. .)) )
+( (NP (JJ Cool) (NN ambience) (. .)) )

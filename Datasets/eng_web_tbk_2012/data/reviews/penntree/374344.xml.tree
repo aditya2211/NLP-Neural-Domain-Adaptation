@@ -1,0 +1,8 @@
+( (FRAG (ADJP (JJ AMAZING))) )
+( (S (NP-SBJ (NNP Absoul)) (VP (VBZ is) (NP-PRD (NP (DT the) (JJS greatest) (NN donair) (NN man)) (PP-LOC (IN on) (NP (DT the) (NN planet))))) (. .)) )
+( (FRAG (ADVP (RB Highly)) (VP (VBN recommended) (NP (-NONE- *))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP enjoy) (NP (JJ amazing) (NNS things))))) (, ,) (NP-SBJ (PRP you)) (VP (MD must) (VP (VB go) (PP-DIR (IN to) (NP (NP (NNP World) (POS 's)) (NNP Finest) (NNP Donair))))) (. .)) )
+( (SBAR (IN Lest) (S (NP-SBJ (PRP you)) (VP (VB be) (ADJP-PRD (JJ lame)))) (. !!!)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP give) (NP (DT this) (NN place)) (NP (NP (CD 11)) (PP (SYM /) (NP (CD 10))))) (. .)) )
+( (NP (NP (CD 3) (NNS thumbs)) (ADVP (RB up)) (. .)) )
+( (INTJ (UH Bon) (UH appetit) (. !)) )

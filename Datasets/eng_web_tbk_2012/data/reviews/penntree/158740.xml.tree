@@ -1,0 +1,3 @@
+( (NP (JJ awesome) (NN place) (. !!!)) )
+( (S (NP-SBJ (PRP it)) (VP (VBD was) (ADJP-PRD (JJ worth) (PP (IN of) (NP (NP (DT the) (NN ride)) (ADJP (ADJP (JJR more)) (PP (IN than) (NP (DT an) (NN hour)))))))) (. ...)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD had) (NP (ADJP (RB so) (JJ many)) (NNS strawberries)) (PP-LOC (ADVP (RB right)) (IN on) (NP (DT the) (NN field))))) (, ...) (S (NP-SBJ (-NONE- *PRO*)) (ADVP (RB strongly)) (VP (VBP recomend))) (, ...) (S-IMP (NP-SBJ-1 (-NONE- *PRO*)) (VP (VB do) (RB nt) (VP (VB forget) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB try) (NP (PRP$ their) (JJ great) (NN ice) (NN cream))))))))) )

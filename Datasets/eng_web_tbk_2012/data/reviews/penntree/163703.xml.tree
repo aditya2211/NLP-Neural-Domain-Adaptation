@@ -1,0 +1,3 @@
+( (FRAG (NP (NML (NNP Cheap) (NNP Hotel)) (NNP Rome)) (HYPH -) (FRAG (NP (NN Thanks)) (PP (IN for) (NP (PDT all) (PRP$ your) (NN help)))) (. !)) )
+( (FRAG (NP (NML (NNP Cheap) (NNP Hotel)) (NNP Rome)) (HYPH -) (FRAG (NP (NN thanks)) (PP (IN for) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG finding) (NP (PRP us)) (NP (DT a) (NN hotel)) (PP-TMP (IN at) (NP (DT the) (JJ last) (NN minute))))))) (. .)) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBD had) (NP (DT a) (JJ great) (NN stay)))) (, ,) (S (NP-SBJ (PRP$ your) (NN service)) (VP (VBD was) (ADJP-PRD (JJ excellent)))) (CC and) (S (NP-SBJ (PRP we)) (VP (MD will) (VP (VB use) (NP (PRP you)) (ADVP (RB again))))) (. !)) )

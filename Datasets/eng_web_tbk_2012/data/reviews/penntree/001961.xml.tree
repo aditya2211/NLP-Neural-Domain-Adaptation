@@ -1,0 +1,4 @@
+( (S-IMP (NP-VOC (NN Buyer)) (NP-SBJ (-NONE- *PRO*)) (VP (VB Beware)) (. !!)) )
+( (FRAG (NP-SBJ-1 (ADJP (ADJP (VBN Rusted) (RP out)) (CC and) (ADJP (JJ unsafe))) (NNS cars)) (VP (VBN sold) (NP-1 (-NONE- *)) (ADVP-LOC (RB here))) (. !)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Have) (S (NP-SBJ (DT a) (JJ real) (NN mechanic)) (VP (VB check) (SBAR-TMP (IN before) (S (NP-SBJ (PRP you)) (VP (VBP buy))))))) (. !!!!)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB Save) (NP (NN money))) (CC and) (VP (VB go) (ADVP (ADVP (RB somewhere)) (ADVP (RB else))))) (. !)) )

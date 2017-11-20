@@ -1,0 +1,8 @@
+( (NP (NP (DT The) (JJ New) (JJ Italian) (NN Kid)) (PP (IN on) (NP (DT the) (NN Block)))) )
+( (FRAG (NP (DT Another) (JJ Italian) (NN restaurant)) (PP-LOC (IN in) (NP (NNP Collingswood))) (. ?)) )
+( (SQ (VBP Do) (NP-SBJ (PRP we)) (VP (VB need) (NP (DT another) (NN one))) (. ?)) )
+( (SBAR (ADVP (RB Only)) (IN if) (S (NP-SBJ (PRP it)) (VP (VBZ is) (PP-PRD (IN of) (NP (NP (DT the) (NN quality)) (PP (IN of) (S-TTL (NP-SBJ (DT That)) (VP (VBZ 's) (NP-PRD (NNP Amore))))))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN menu)) (VP (VBZ has) (NP (DT the) (JJ usual)))) (CC but) (S (ADVP (RB then)) (NP-SBJ (PRP they)) (VP (VBP step) (NP (PRP it)) (PRT (RP up)) (NP-ADV (DT another) (NN notch)))) (. .)) )
+( (S (NP-SBJ-9 (NP (DT The) (NN arancini) (NN di) (NN riso)) (NP (-LRB- -LRB-) (NN risotto) (NNS fritters) (-RRB- -RRB-))) (VP (VBP are) (RB not) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB be) (VP (VBN missed) (NP-9 (-NONE- *))))))) (. .)) )
+( (S (S (NP-SBJ (NN Chicken) (NN saltimboca)) (VP (VBD was) (ADJP-PRD (JJ excellent)))) (CC and) (S (ADVP (RB then)) (NP-SBJ (EX there)) (VP (VBZ 's) (NP-PRD (NP (DT the) (NN chocolate) (NN mousse)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ comes) (PP (ADVP (RB straight)) (IN from) (NP (NN heaven))))))))) (. .)) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Pay) (NP (JJ extra) (NN attention)) (PP-CLR (IN to) (NP (DT the) (NNS appetizers))))) (, -) (S (NP-TMP (NP (DT the) (JJ next) (NN time)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP go) (ADVP-DIR (RB there)) (ADVP-TMP-1 (-NONE- *T*)))))) (NP-SBJ (PRP I)) (VP (VBP 'm) (VP (VBG planning) (PP-CLR (IN on) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBD ordered) (NP (DT a) (JJ few)) (PP (RB instead) (IN of) (NP (DT an) (NN entree))))))))) (. .)) )

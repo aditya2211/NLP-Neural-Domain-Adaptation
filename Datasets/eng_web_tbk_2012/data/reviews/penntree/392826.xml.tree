@@ -1,0 +1,4 @@
+( (FRAG (ADJP (RB Extremely) (JJ greasy)) (. .)) )
+( (FRAG (NP (NN Hit) (CC or) (NN miss)) (PP (IN on) (NP (DT the) (NN service))) (. .)) )
+( (S (NP-SBJ-1 (PRP$ My) (NNS fries)) (VP (VBD were) (RB n't) (ADVP (RB fully)) (VP (VBN cooked) (NP-1 (-NONE- *)) (NP-TMP (NP (JJ last) (NN time)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBD went) (ADVP-DIR (RB there)) (ADVP-TMP-9 (-NONE- *T*)))))))) (. .)) )
+( (FRAG (ADJP (RB Pretty) (JJ spendy) (PP (IN for) (NP (ADJP (RB really) (RB not) (JJ great)) (NN quality))))) )

@@ -1,0 +1,4 @@
+( (NP (DT No) (NNS complaints)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (DT no) (NNS complaints)) (PP (IN about) (NP (NP (DT the) (NN service)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBD received) (NP-9 (-NONE- *T*))))))))) (. .)) )
+( (S (NP-SBJ (DT This) (NN man)) (VP (VBD was) (ADJP-PRD (JJ polite) (, ,) (JJ professional) (, ,) (JJ clean) (CC and) (JJ quick))) (. .)) )
+( (S (NP-SBJ-1 (PRP I)) (VP (VP (ADVP-TMP (RB never)) (VBD felt) (ADJP-PRD (JJ worried))) (CC and) (VP (VBD walked) (ADVP-DIR (RB away)) (S-ADV (NP-SBJ-1 (-NONE- *PRO*)) (ADJP-PRD (JJ satisfied))))) (. .)) )

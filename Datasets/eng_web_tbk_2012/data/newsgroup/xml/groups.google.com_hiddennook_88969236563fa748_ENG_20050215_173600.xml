@@ -1,0 +1,1387 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:58 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Signal id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">51</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 1 2 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:3" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:4" offset="51.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:2">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:3">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:1:4">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">20</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) ( PP 1 ( NP 2 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:3" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:4" offset="20.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:3">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:2:4">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">13</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 1 2 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:3" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:4" offset="13.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:2">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:3">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:3:4">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">138</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( SBAR 2 ( S ( NP-SBJ 3 4 5 6 7 8 ) ( VP 9 ( VP 10 ( NP ( NP 11 12 13 14 15 ) ( VP 16 ( UCP-DIR ( PP 17 ( NP 18 19 ) ) ( PP 20 ( NP 21 ) ) 22 23 ( ADVP ( ADVP 24 ) ( ADVP 25 ) ) 26 ) ) ) ) ) ) ) ) 27 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:2" offset="3.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:3" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:4" offset="14.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:5" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:6" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:7" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:8" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:9" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:A" offset="54.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:B" offset="57.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:C" offset="69.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:D" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:F" offset="73.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:G" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:H" offset="87.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:I" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:J" offset="95.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:K" offset="100.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:L" offset="104.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:M" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:N" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:O" offset="118.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:P" offset="120.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:Q" offset="124.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:R" offset="129.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:S" offset="135.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:U" offset="137.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:V" offset="138.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:6">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:7">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:8">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:9">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:B">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:C">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:D">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:F">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:H">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:I">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:J">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:K">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:L">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:M">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:N">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:O">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:P">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:Q">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:R">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:S">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:ES" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:S" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:U">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:EU" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:U" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:4:V">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">186</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S 0 ( S-TPC-1 ( NP-SBJ 1 2 ( NML 3 4 ) 5 ) ( VP 6 ( NP ( NP 7 8 9 ) ( SBAR ( WHNP-9 10 ) ( S ( NP-SBJ-9 *T* ) ( VP 11 ( VP 12 ( NP ( NP 13 14 ) ( PP 15 ( NP ( NP 16 ( NML 17 18 19 ) 20 ) ( PP 21 ( NP ( NP 22 23 ) 24 ( NP 25 26 ) ) ) ) ) ) ) ) ) ) ) ) ) 27 28 ( NP-SBJ 29 ) ( VP 30 ( NP 31 ) ( S-1 *T* ) ) 32 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:3" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:4" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:6" offset="31.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:7" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:8" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:9" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:A" offset="56.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:B" offset="69.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:C" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:D" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:F" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:G" offset="93.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:H" offset="104.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:I" offset="107.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:J" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:K" offset="113.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:L" offset="115.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:M" offset="119.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:N" offset="127.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:O" offset="135.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:P" offset="139.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Q" offset="145.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:R" offset="149.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:S" offset="153.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:U" offset="158.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:V" offset="160.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:W" offset="162.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:X" offset="170.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Y" offset="175.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Z" offset="185.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:a" offset="186.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:2">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:3">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:4">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:5">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:8">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:9">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:A">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:B">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:C">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:D">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:F">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:G">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:H">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:I">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:K">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:L">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:N">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:O">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:P">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Q">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:R">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:S">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:ES" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:S" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:U">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EU" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:U" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:V">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EV" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:V" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:W">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EW" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:W" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:X">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EX" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:X" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Y">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EY" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Y" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Z">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:EZ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:Z" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:5:a">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">184</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S 0 ( NP-SBJ 1 2 ) ( VP 3 ( S-NOM ( NP-SBJ-9 *PRO* ) ( VP 4 ( NP 5 6 ) ( S-PRP ( NP-SBJ-9 *PRO* ) ( VP 7 ( VP ( VP 8 ( NAC-1 *RNR* ) ) 9 ( VP 10 ( NAC-1 *RNR* ) ) 11 ( VP 12 13 ( NAC-1 *RNR* ) ) 14 15 ( VP 16 ( NAC-1 *RNR* ) ) ( NP-1 17 ( NML 18 19 20 ) 21 ) ( PP 22 ( NP ( NP ( NP 23 24 ) ( PP 25 ( NP 26 27 ) ) ) 28 ( NP ( NP 29 30 ) ( PP 31 ( NP 32 33 ) ) ) ) ) ) ) ) ) ) ) 34 35 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:3" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:4" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:5" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:6" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:7" offset="36.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:8" offset="44.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:9" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:A" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:B" offset="57.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:C" offset="63.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:D" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:F" offset="72.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:G" offset="77.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:H" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:I" offset="83.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:J" offset="91.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:K" offset="96.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:L" offset="102.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:M" offset="104.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:N" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:O" offset="117.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:P" offset="121.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Q" offset="125.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:R" offset="133.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:S" offset="136.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:U" offset="140.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:V" offset="148.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:W" offset="152.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:X" offset="156.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Y" offset="164.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Z" offset="167.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:a" offset="171.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:b" offset="181.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:c" offset="183.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:d" offset="184.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:2">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:3">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:4">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:5">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:6">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:7">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:9">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:A">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:B">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:C">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:D">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:G">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:H">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:I">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:J">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:L">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:M">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:N">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:O">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:P">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:S">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:ES" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:S" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:U">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EU" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:U" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:V">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EV" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:V" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:W">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EW" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:W" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:X">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EX" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:X" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Y">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EY" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Y" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Z">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:EZ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Z" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:a">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Ea" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:a" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:b">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Eb" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:b" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:c">
+<Feature name="tag">.</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:Ec" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:c" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:6:d">
+<Feature name="tag">''</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">113</MetadataElement>
+<MetadataElement name="paragraph">7</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 1 ( S ( NP-SBJ *PRO* ) ( VP 2 ( VP 3 ( PP-CLR 4 ( NP 5 6 7 ) ) ) ) ) ) 8 ( S ( NP-SBJ 9 10 11 ) ( VP 12 ( VP 13 ( ADJP-PRD 14 15 ( S ( NP-SBJ *PRO* ) ( VP 16 ( VP 17 ( NP ( NP 18 19 ) ( PP 20 ( NP 21 ) ) ) ) ) ) ) ) ) ) 22 ) )</MetadataElement>
+<MetadataElement name="segId">7</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:3" offset="14.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:4" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:5" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:6" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:7" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:8" offset="40.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:9" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:A" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:B" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:C" offset="58.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:D" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:F" offset="69.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:G" offset="72.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:H" offset="78.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:I" offset="84.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:J" offset="87.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:K" offset="92.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:L" offset="94.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:M" offset="102.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:N" offset="107.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:O" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:P" offset="113.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:4">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:A">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:B">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:C">
+<Feature name="tag">POS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:D">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:F">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:G">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:H">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:I">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:J">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:K">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:L">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:N">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:O">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:7:P">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">49</MetadataElement>
+<MetadataElement name="paragraph">8</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 ) ( VP 2 ( VP 3 ( ADJP-PRD 4 5 ) ( ADVP 6 ) ) ) 7 ) )</MetadataElement>
+<MetadataElement name="segId">8</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:3" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:4" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:5" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:6" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:7" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:8" offset="48.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:9" offset="49.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:4">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:6">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:7">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:8">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:8:9">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">125</MetadataElement>
+<MetadataElement name="paragraph">9</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 ( NP 0 ( NML 1 2 ) 3 ) ( NP 4 5 6 ) ) ( VP 7 ( ADVP 8 ) ( VP 9 ( VP 10 ( NP-9 * ) ( PP 11 ( NP-LGS ( NP 12 13 14 ) 15 ( NP ( NP 16 17 ) 18 ( NP 19 20 ) ) ) ) ) ) ) 21 ) )</MetadataElement>
+<MetadataElement name="segId">9</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:2" offset="4.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:3" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:4" offset="26.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:5" offset="34.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:6" offset="36.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:7" offset="40.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:8" offset="42.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:9" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:A" offset="54.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:B" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:C" offset="67.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:D" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:F" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:G" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:H" offset="92.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:I" offset="94.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:J" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:K" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:L" offset="113.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:M" offset="117.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:N" offset="124.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:O" offset="125.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:5">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:6">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:7">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:8">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:9">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:A">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:B">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:C">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:F">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:H">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:I">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:J">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:K">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:L">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:M">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:N">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:9:O">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">156</MetadataElement>
+<MetadataElement name="paragraph">10</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( S ( NP-SBJ ( NP 0 ) ( PP 1 ( NP 2 3 ) ) ) ( VP 4 ( ADJP-PRD 5 6 ( PP 7 ( NP ( NP 8 9 10 ) ( PP 11 ( NP 12 13 14 ) ) ) ) ) ) ) 15 16 ( S ( NP-SBJ 17 ) ( VP 18 ( ADVP 19 ) ( ADJP-PRD 20 ( PP 21 ( NP ( NP 22 23 24 ) ( VP 25 ( NP-1 * ) ( S-CLR ( NP-SBJ-1 *PRO* ) ( NP-PRD 26 ) ) ) ) ) ) ) ) 27 ) )</MetadataElement>
+<MetadataElement name="segId">10</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:4" offset="14.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:5" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:6" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:7" offset="30.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:8" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:9" offset="42.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:A" offset="46.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:B" offset="54.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:C" offset="61.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:D" offset="64.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:F" offset="68.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:G" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:H" offset="83.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:I" offset="85.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:J" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:K" offset="94.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:L" offset="98.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:M" offset="103.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:N" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:O" offset="117.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:P" offset="125.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:Q" offset="131.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:R" offset="139.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:S" offset="146.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:U" offset="155.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:V" offset="156.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:3">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:4">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:5">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:6">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:7">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:A">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:B">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:F">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:H">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:I">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:J">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:L">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:M">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:N">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:O">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:P">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:Q">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:S">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:ES" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:S" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:U">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:EU" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:U" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:A:V">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">139</MetadataElement>
+<MetadataElement name="paragraph">11</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 0 ) ( VP ( VP 1 ( S ( NP-SBJ-9 *PRO* ) ( VP 2 ( VP 3 ( NP-1 4 ) ( S-CLR ( NP-SBJ-1 *PRO* ) ( VP 5 ( VP 6 ( PP-CLR 7 ( NP ( NP ( NP 8 9 ) 10 ) ( PP 11 ( NP 12 13 ) ) ) ) ) ) ) ) ) ) ) 14 15 ( VP 16 ( S ( NP-SBJ-9 * ) ( ADJP-PRD 17 ( SBAR 18 ( S ( NP-SBJ 19 20 21 ) ( VP 22 ( VP 23 ( PP-DIR 24 ( NP 25 26 ) ) ) ) ) ) ) ) ) ) 27 ) )</MetadataElement>
+<MetadataElement name="segId">11</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:3" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:4" offset="13.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:5" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:6" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:7" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:8" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:9" offset="33.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:A" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:B" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:C" offset="48.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:D" offset="52.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:F" offset="58.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:G" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:H" offset="72.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:I" offset="76.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:J" offset="81.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:K" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:L" offset="94.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:M" offset="98.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:N" offset="104.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:O" offset="110.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:P" offset="113.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:Q" offset="120.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:R" offset="123.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:S" offset="128.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:U" offset="138.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:V" offset="139.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:4">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:6">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:7">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:8">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:B">
+<Feature name="tag">POS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:H">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:I">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:J">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:K">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:L">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:M">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:N">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:O">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:P">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:Q">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:R">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:S">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:ES" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:S" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:U">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:EU" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:U" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:B:V">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">267</MetadataElement>
+<MetadataElement name="paragraph">12</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( SINV 0 ( S-TPC-1 ( NP-SBJ 1 ) ( VP 2 ( ADJP-PRD 3 4 ( SBAR 5 ( S ( NP-SBJ ( NP 6 7 8 ) 9 ( NP 10 11 12 13 14 15 ) ) ( VP 16 ( NP 17 18 ( S ( NP-SBJ *PRO* ) ( VP 19 ( VP 20 ( NP 21 22 23 ) ( PP-CLR 24 ( S-NOM ( NP-SBJ *PRO* ) ( VP 25 ( S ( NP-SBJ 26 ) ( VP 27 ( NP ( NP 28 29 ) ( PP 30 ( NP ( NP 31 32 33 ) ( PP 34 ( NP 35 36 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 37 38 ( VP 39 ( S-1 *T* ) ) ( NP-SBJ ( NP 40 41 ) 42 ( NP 43 44 45 46 ) ) 47 ) )</MetadataElement>
+<MetadataElement name="segId">12</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:3" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:4" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:5" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:6" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:7" offset="25.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:8" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:9" offset="35.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:A" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:B" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:C" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:D" offset="56.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:F" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:G" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:H" offset="77.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:I" offset="84.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:J" offset="96.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:K" offset="100.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:L" offset="105.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:M" offset="108.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:N" offset="116.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:O" offset="120.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:P" offset="128.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Q" offset="135.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:R" offset="138.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:S" offset="148.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:U" offset="153.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:V" offset="161.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:W" offset="165.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:X" offset="171.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Y" offset="175.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Z" offset="179.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:a" offset="183.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:b" offset="190.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:c" offset="194.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:d" offset="200.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:e" offset="212.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:f" offset="214.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:g" offset="216.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:h" offset="221.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:i" offset="228.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:j" offset="236.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:k" offset="238.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:l" offset="242.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:m" offset="253.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:n" offset="257.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:o" offset="266.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:p" offset="267.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:2">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:3">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:4">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:5">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:9">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:B">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:C">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:D">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:F">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:H">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:J">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:L">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:M">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:N">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:O">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:P">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Q">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:R">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:S">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:ES" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:S" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:U">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EU" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:U" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:V">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EV" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:V" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:W">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EW" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:W" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:X">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EX" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:X" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Y">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EY" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Y" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Z">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:EZ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Z" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:a">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ea" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:a" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:b">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Eb" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:b" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:c">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ec" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:c" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:d">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ed" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:d" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:e">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ee" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:e" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:f">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ef" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:f" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:g">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Eg" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:g" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:h">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Eh" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:h" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:i">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ei" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:i" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:j">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ej" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:j" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:k">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Ek" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:k" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:l">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:El" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:l" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:m">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Em" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:m" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:n">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:En" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:n" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:o">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:Eo" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:o" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:C:p">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">123</MetadataElement>
+<MetadataElement name="paragraph">13</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( PP 0 ( NP ( NP 1 2 ) ( PP 3 ( NP 4 ( NML 5 6 7 8 9 ) 10 ) ) ) ) 11 ( NP-SBJ 12 ) ( VP 13 ( SBAR 14 ( S ( NP-SBJ 15 16 ) ( VP 17 ( VP 18 ( NP-PRD 19 20 ) ( ADVP-TMP ( ADVP 21 ) ( SBAR 22 ( S ( NP-SBJ 23 ) ( VP 24 ) ) ) ) ) ) ) ) ) 25 ) )</MetadataElement>
+<MetadataElement name="segId">13</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:3" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:4" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:5" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:6" offset="25.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:7" offset="27.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:8" offset="33.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:9" offset="35.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:A" offset="40.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:B" offset="42.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:C" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:D" offset="52.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:F" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:G" offset="61.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:H" offset="66.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:I" offset="72.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:J" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:K" offset="84.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:L" offset="91.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:M" offset="93.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:N" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:O" offset="108.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:P" offset="113.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:Q" offset="116.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:R" offset="122.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:S" offset="123.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:3">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:5">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:6">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:7">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:8">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:9">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:B">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EC" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:C" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:D">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:ED" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:D" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:F">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EF" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:F" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:G">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EG" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:G" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EH" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:H" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EI" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:I" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EJ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:J" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:K">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EK" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:K" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:L">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EL" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:L" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:M">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EM" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:M" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:N">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EN" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:N" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:O">
+<Feature name="tag">RBR</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EO" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:O" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:P">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EP" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:P" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:Q">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:EQ" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:Q" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:R">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:ER" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:R" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:D:S">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">7</MetadataElement>
+<MetadataElement name="paragraph">14</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP-VOC 0 1 ) )</MetadataElement>
+<MetadataElement name="segId">14</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:3" offset="7.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:F:3">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:G" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">2</MetadataElement>
+<MetadataElement name="paragraph">15</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( X 0 ) )</MetadataElement>
+<MetadataElement name="segId">15</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:G:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:G:2" offset="2.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:G:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:G:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:G:2">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H" timeline="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:T1">
+<Metadata>
+<MetadataElement name="endOffset">61</MetadataElement>
+<MetadataElement name="paragraph">16</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( VP 0 ( NP * ) ( PP 1 ( NP-LGS 2 3 ) ) ( PP 4 ( NP 5 6 ) ) ( PP-TMP 7 ( NP 8 9 10 ) ) ) ) )</MetadataElement>
+<MetadataElement name="segId">16</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:3" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:4" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:5" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:6" offset="25.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:7" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:8" offset="37.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:9" offset="40.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:A" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:B" offset="59.000000"></Anchor>
+<Anchor id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:C" offset="61.000000"></Anchor>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E1" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:1" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:2">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E2" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:2" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:3">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E3" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:3" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E4" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:4" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E5" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:5" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E6" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:6" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:7">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E7" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:7" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:8">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E8" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:8" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:E9" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:9" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:A">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:EA" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:A" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:B">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:EB" type="word" start="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:B" end="groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600:H:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

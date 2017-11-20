@@ -1,0 +1,4 @@
+( (S (NP-SBJ (PRP You)) (VP (VBP are) (NP-PRD (DT the) (JJS best))) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (ADVP (RB Just)) (VP (VBD received) (PP-CLR (IN from) (NP (PRP$ your) (NN flower) (NN store)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (ADJP-PRD (RB sooooo) (JJ beautiful))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you)) (NP-VOC (NNS guys))) (. .)) )

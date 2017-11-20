@@ -1,0 +1,4 @@
+( (NP (NN Class) (NN act) (. .)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBD was) (ADJP-PRD (JJ late) (PP (IN in) (NP (DT the) (NN day)))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD was) (ADJP-PRD (JJ worried) (SBAR (-NONE- *0*) (S (NP-SBJ-9 (PRP I)) (VP (MD would) (VP (VP (VB get) (VP (VBN charged) (NP-9 (-NONE- *)) (NP (NP (DT an) (NN arm)) (CC and) (NP (DT a) (NN leg))))) (CC and) (VP (VB have) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB wait) (ADVP-TMP (RB forever))))))))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBD picked) (NP (PRP$ my) (NN car)) (PRT (RP up)) (PP-LOC (IN in) (NP (NNP Yarmouth)))) (CC and) (VP (VBD towed) (PP-DIR (IN to) (NP (NNP Bath))) (PP (IN for) (NP (DT a) (JJ great) (NN price))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD Would) (VP (VB do) (NP (NP (NN business)) (PP (IN with) (NP (PRP them)))) (ADVP (RB again)))) (. .)) )

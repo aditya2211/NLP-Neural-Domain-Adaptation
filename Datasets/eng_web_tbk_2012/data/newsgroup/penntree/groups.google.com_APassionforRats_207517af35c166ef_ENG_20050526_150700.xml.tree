@@ -1,0 +1,7 @@
+( (S (NP-SBJ (DT This)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ beautiful) (NN site)) (CC and) (NP (DT a) (JJ wonderful) (NN idea)))) (. .)) )
+( (S (CC And) (NP-SBJ (NP (DT a) (NN portion)) (PP (IN of) (NP (NP (DT each) (NN package) (CC or) (NN memorial)) (VP (VBN purchased) (NP (-NONE- *)))))) (VP (VBZ goes) (PP (IN to) (NP (NP (DT a) (NN charity)) (PP (IN on) (NP (PRP$ their) (NN database)))))) (. .)) )
+( (S-IMP (ADVP (RB So)) (NP-SBJ-9 (-NONE- *PRO*)) (VP (VP (VB be) (ADJP-PRD (JJ sure) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (NP (PRP$ your) (NN pet) (POS 's)) (NN memorial)) (PP (IN on) (NP (DT the) (NN site)))))))) (CC and) (VP (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (VBP have) (NP (DT a) (NN charity) (, /) (NN rescue))))) (, ,) (VB make) (S (NP-SBJ (-NONE- *PRO*)) (ADJP-PRD (JJ sure) (SBAR (-NONE- *0*) (S (NP-SBJ-1 (PRP it)) (VP (VBZ is) (VP (VBN listed) (NP-1 (-NONE- *)) (PP (IN on) (NP (PRP$ their) (NN database))) (SBAR-PRP (IN so) (S (NP-SBJ (PRP you)) (VP (MD can) (VP (VB receive) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NNS profits)) (PP (IN from) (NP (DT the) (NN site)))))))))))))))))) (. .)) )
+( (FRAG (ADJP (JJS Best)) (, ,)) )
+( (NP (NNP Cindy)) )
+( (S (`` ") (, ...) (NP-SBJ (EX there)) (VP (VBZ is) (NP-PRD (NP (DT no) (NN companion)) (ADJP (ADJP (RB quite) (ADJP (ADJP (RB so) (JJ devoted)) (, ,) (ADJP (RB so) (JJ communicative)) (, ,) (ADJP (RB so) (JJ loving)) (CC and) (ADJP (RB so) (JJ mesmerizing)))) (PP (IN as) (NP (DT a) (NN rat)))))) (. .) ('' ")) )
+( (NP (NFP ~) (NNP CGoehring)) )

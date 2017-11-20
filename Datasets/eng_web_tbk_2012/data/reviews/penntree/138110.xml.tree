@@ -1,0 +1,2 @@
+( (S (NP-SBJ (DT This)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ great) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (DT a) (NN permit)) (ADVP-LOC-9 (-NONE- *T*))))))))) )
+( (S (S (NP-SBJ-9 (PRP I)) (VP (VBD had) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB get) (NP (DT a) (NN permit)) (ADVP-LOC (RB here))))))) (, ,) (S (NP-SBJ (PRP it)) (VP (VBD was) (ADJP-PRD (JJ cool))))) )

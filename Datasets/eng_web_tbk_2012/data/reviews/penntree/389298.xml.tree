@@ -1,0 +1,4 @@
+( (NP (NP (JJ Great) (NN quality) (NNS doors)) (CC and) (NP (JJ great) (NN quality) (NNS people)) (. !)) )
+( (S (S (NP-SBJ (DT The) (NN door)) (VP (VBZ is) (ADJP-PRD (ADJP (JJ easy)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB use) (NP-1 (-NONE- *T*))))))))) (CC and) (S (NP-SBJ (PRP it)) (VP (VBZ keeps) (NP-2 (DT the) (NN cold)) (S-CLR (NP-SBJ-2 (-NONE- *PRO*)) (ADVP-PRD (RB out))) (PP-TMP (IN during) (NP (DT the) (NN winter))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NNS sales) (NNS staff)) (CC and) (NP (DT the) (NN installation) (NNS staff))) (VP (VBD were) (RB all) (ADJP-PRD (JJ easy) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (ADVP-CLR (RB along)) (PP-CLR (IN with) (NP-1 (-NONE- *T*))))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB highly)) (VP (VBP recommend) (NP (NNP Garage) (NNPS Pros)) (PP-CLR (IN to) (NP (PRP$ my) (NNS friends)))) (. .)) )

@@ -1,0 +1,5 @@
+( (NP (JJ Excellent) (NN Tattoo) (NN Shop)) )
+( (S (S (NP-SBJ (PRP I)) (ADVP-TMP (RB recently)) (VP (VBD got) (S (NP-SBJ-1 (DT a) (NN tattoo)) (VP (VBN done) (NP-1 (-NONE- *)) (PP-LOC (IN at) (NP (NNP Aztec))))))) (CC and) (S (NP-SBJ (PRP I)) (VP (MD could) (RB not) (VP (VB be) (ADJP-PRD (JJR happier))))) (. .)) )
+( (S (NP-SBJ-1 (PRP It)) (VP (VBD came) (ADVP (RB out)) (S-ADV (NP-SBJ-1 (-NONE- *PRO*)) (ADJP-PRD (ADJP (JJR better)) (SBAR (IN than) (S (NP-SBJ (PRP I)) (ADVP (RB even)) (VP (VBD imagined))))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN shop)) (VP (VBD was) (ADJP-PRD (JJ great)))) (, ,) (S (NP-SBJ (DT the) (NN service)) (VP (VBD was) (ADJP-PRD (JJ excellent)))) (CC and) (S (NP-SBJ (DT the) (NNS employees)) (VP (VBD were) (NP-PRD (JJ fun) (NNS guys)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (ADVP (RB highly)) (VP (VB recommend) (NP (DT this) (NN shop)) (PP-CLR (IN to) (NP (NP (NN anyone)) (VP (VBG looking) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (S (NP-SBJ-1 (DT a) (JJ quality) (NN tattoo)) (VP (VBN done) (NP-1 (-NONE- *)))))))))))) (. .)) )

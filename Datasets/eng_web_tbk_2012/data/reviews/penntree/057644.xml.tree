@@ -1,0 +1,7 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB find) (NP (DT another) (NN place)))) )
+( (FRAG (ADJP (VBN Run) (RP down)) (. .)) )
+( (NP (JJ Dark) (, ,) (JJ dark) (JJ main) (NN room) (. .)) )
+( (NP (NP (DT No) (NN way)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB read) (SYM /) (VB relax) (ADVP-MNR-9 (-NONE- *T*)))))) (. .)) )
+( (S (NP-SBJ (NP (`` ') (JJ Electric) ('' ') (NN blanket)) (PP-LOC (IN on) (NP (CD one) (NN bed)))) (VP (VBD did) (RB not) (VP (VB heat))) (. .)) )
+( (FRAG (ADJP (RB Quite) (JJ cold)) (. .)) )
+( (S (S-NOM-SBJ (NP-SBJ (-NONE- *PRO*)) (VP (VBG Removing) (NP (NP (CD 90) (NN %)) (PP (IN of) (NP (NP (`` ') (NN sit) (HYPH -) (NNS abouts) ('' ')) (PP-LOC (IN in) (NP (JJ main) (NN room)))))))) (VP (MD would) (VP (VB look) (ADJP-PRD (JJR cleaner)))) (. .)) )

@@ -1,0 +1,5 @@
+( (NP (NP (JJ GREAT) (NN Store)) (NP (JJ GREAT) (NN Service)) (. !)) )
+( (S (`` ") (NP-SBJ (DT This) (NN store)) (VP (VBZ is) (ADJP-PRD (JJ great))) (. !!)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBP love) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBG walking) (ADVP (RB in))) (CC and) (VP (RB not) (VBG being) (VP (VBN hassled) (NP-9 (-NONE- *))))))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD was) (ADVP-LOC-PRD (RB there)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP they)) (VP (VBD did) (NP (DT a) (JJ free) (NN raffle)) (PP-TMP (IN in) (NP (NNP August))) (ADVP-TMP-9 (-NONE- *T*))))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD won) (NP (DT a) (JJ hard) (NN drive)))) (. !)) )
+( (S (NP-SBJ (NP (DT The) (NN reason)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP go) (ADVP-DIR (RB back)) (ADVP-PRP-9 (-NONE- *T*)))))) (VP (VBZ is) (SBAR-PRP-PRD (IN because) (S (NP-SBJ (DT the) (NNS employees)) (VP (VBP are) (ADJP-PRD (RB sooooo) (JJ nice)))))) (. .) ('' ")) )

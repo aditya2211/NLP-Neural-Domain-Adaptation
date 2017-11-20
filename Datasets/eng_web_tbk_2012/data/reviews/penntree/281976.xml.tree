@@ -1,0 +1,6 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB do) (RB NOT) (VP (VB bring) (NP (PRP$ your) (NN car)) (ADVP-DIR (RB here))))) )
+( (S (NP-SBJ (PRP I)) (VP (VBD got) (NP (NP (DT a) (NN coupon)) (PP-1 (-NONE- *ICH*))) (PP-CLR (IN from) (NP (NNP Pennysaver))) (PP-1 (IN for) (NP (DT this) (NN station)))) (. .)) )
+( (S (INTJ (UH Yes)) (, ,) (NP-SBJ (PRP they)) (VP (VBD accepted) (NP (PRP it))) (. .)) )
+( (S (ADVP (RB However)) (, ,) (PP-TMP (IN during) (NP (DT the) (NN test))) (, ,) (NP-SBJ (PRP they)) (VP (VBD did) (SBAR-NOM (WHNP-1 (WP whatever)) (S (NP-SBJ (PRP they)) (VP (MD can) (VP (-NONE- *?*) (NP-1 (-NONE- *T*)) (S-PRP (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (S (NP-SBJ-2 (PRP$ my) (NN test)) (VP (VBN failed) (NP-2 (-NONE- *)))))))))))) (. .)) )
+( (S (ADVP-TMP (RB Then)) (, ,) (NP-SBJ (PRP they)) (VP (VBD sold) (NP (PRP me)) (NP (NP (JJ overpriced) (NNS stuffs)) (, ,) (PP (JJ such) (IN as) (NP (NML (NN oil) (NN tank)) (NN cap)))) (, ,) (SBAR-PRP (IN so) (IN that) (S (NP-SBJ (PRP$ my) (NN car)) (VP (MD can) (VP (VB pass) (NP (PRP it)) (ADVP-TMP (RB right) (RB away))))))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD ended) (PRT (RP up)) (S (NP-SBJ-9 (-NONE- *)) (VP (VBG paying) (NP (RB much) (JJR more))))) (. .)) )

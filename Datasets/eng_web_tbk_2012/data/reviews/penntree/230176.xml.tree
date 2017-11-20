@@ -1,0 +1,6 @@
+( (NP (JJ Excellent) (NNS Physiotherapists) (. !)) )
+( (S (NP-SBJ (NP (NNP Kusal) (NNP Goonewardena)) (CC and) (NP (NP (PRP$ his) (NN team)) (PP (IN of) (NP (NNS Physios))))) (VP (VBP are) (ADJP-PRD (JJ unbelievable))) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBP have) (VP (VBN been) (VP (VBG suffering) (PP-CLR (IN from) (NP (NN back) (NN pain))) (PP-TMP (IN for) (NP (QP (RB over) (CD 12)) (NNS years)))))) (CC and) (VP (VBP have) (VP (VBN been) (PP-DIR-PRD (IN to) (NP (JJ numerous) (NNS specialists) (, ,) (NNS physios) (, ,) (NN osteos) (CC and) (NNS chiros))) (PP (IN with) (NP (DT no) (NN help)))))) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBD took) (NP (DT the) (NNP Vigor) (NN team)) (NP (QP (RB only) (CD 4)) (NNS visits)) (S-CLR (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (S (NP-SBJ (PRP me)) (VP (VBG feeling) (ADJP-PRD (JJ normal)))))))) (. !)) )
+( (S (CC And) (ADVP-TMP (RB now)) (PP-TMP (NP-ADV (CD 2) (NNS months)) (IN after) (NP (PRP$ my) (JJ last) (NN appointment))) (NP-SBJ (PRP I)) (VP (VBP am) (ADJP-PRD (ADJP (JJR better)) (PP (IN than) (ADVP (RB ever))))) (. .)) )
+( (FRAG (NP (NN Thanks)) (NP-VOC (NNS guys)) (. !)) )

@@ -1,0 +1,4 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB STAY) (ADVP-PRD (RB AWAY)))) )
+( (NP (JJ Horrible) (NN service) (. .)) )
+( (FRAG (ADJP (RB Absolutely) (JJ rude)) (. .)) )
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Did) (NP (NP (NNS services)) (SBAR (WHNP-2 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBD asked) (NP-1 (PRP them)) (S (NP-SBJ-1 (-NONE- *PRO*)) (RB NOT) (VP (TO to) (VP (VB do) (NP-2 (-NONE- *T*))))))))))) (CC and) (S (NP-SBJ-3 (-NONE- *PRO*)) (VP (VBD was) (ADVP-TMP (RB still)) (VP (VBN charged) (NP-3 (-NONE- *))))) (. .)) )

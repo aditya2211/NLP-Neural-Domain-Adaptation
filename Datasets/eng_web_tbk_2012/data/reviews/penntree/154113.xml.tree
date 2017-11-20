@@ -1,0 +1,3 @@
+( (NP (DT A) (JJ good) (NN cut) (. !)) )
+( (S (NP-SBJ (NNP Cecile)) (VP (VP (VBZ is) (NP-PRD (DT a) (NN hairdresser))) (CC and) (VP (VBZ has) (ADVP-TMP (RB just)) (VP (VBN moved) (PP-DIR (IN into) (NP (DT the) (NN neighbourhood)))))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBP go) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB see) (NP (PRP her)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB have) (S (NP-SBJ-1 (PRP$ my) (NN hair)) (VP (VBN cut) (NP-1 (-NONE- *))))))))))) (. .)) )

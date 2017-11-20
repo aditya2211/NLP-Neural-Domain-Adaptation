@@ -1,0 +1,7 @@
+( (FRAG (ADJP (JJ Over-rated)) (. ...)) )
+( (S (NP-SBJ (DT This) (NN restaurant)) (VP (VBZ is) (ADJP-PRD (JJ over-rated))) (. .)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ is) (ADJP-PRD (JJ hard) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB find) (NP-1 (-NONE- *T*))))))))) (, ...) (CC and) (S (NP-SBJ-9 (DT the) (JJ mexican) (NN food)) (VP (VBZ is) (ADJP-PRD (ADJP (JJ bland)) (, ,) (ADJP (ADVP (RB almost)) (JJ equivalent) (PP (IN to) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG eating) (PP (IN out) (PP (IN of) (NP (DT a) (NN can))))))))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN service)) (VP (VBZ is) (ADJP-PRD (JJ poor))) (. ...)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBD asked) (PP-CLR (IN for) (NP (NP (DT a) (VBN fried) (NN egg)) (PP-LOC (IN on) (NP (PRP$ my) (NNS enchiladas)))))) (, ...) (CC and) (VP (VBD did) (RB not) (VP (VB get) (NP (PRP it))))) (. .!)) )
+( (FRAG (FRAG (S (ADVP (RB Secondly)) (, ,) (NP-SBJ (DT the) (NNS enchladas)) (VP (VBD did) (RB not) (VP (VB come) (PP-CLR (IN with) (NP (NN enchilada) (NN sauce)))))) (, ..) (CC but) (FRAG (NP (NN chili)) (, ...) (PP (IN like) (NP (NP (NNP Hormel) (POS 's)) (NN chili))))) (, ..) (S (NP-SBJ (DT the) (NN cheese)) (VP (VBD was) (NP-PRD (JJ American) (NN cheese)))) (. !)) )
+( (S (NP-SBJ (DT The) (NN Chili) (NN Relleno)) (, ..) (VP (VBD had) (NP (DT no) (NN batter)) (PP-LOC (IN on) (NP (PRP it)))) (. .)) )

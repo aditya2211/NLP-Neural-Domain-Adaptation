@@ -1,0 +1,5 @@
+( (FRAG (NP (NML (NNP Range) (NNP Rover)) (NNP Sport)) (NP (NN Window) (NNS Tints))) )
+( (FRAG (FRAG (S (NP-SBJ (NP (NNP Mark)) (PP (IN at) (NP (NNP Tintman) (NNP Nationwide) (NNPS tints) (NNP Ltd)))) (, ,) (VP (VBD did) (NP (DT a) (ADJP (RB very) (JJ Professional)) (NN job)) (ADVP (RB very) (RB quick)))) (, ,) (NP (DT no) (NN fuss))) (, ,) (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD deliverd) (NP (DT the) (NN car)) (PP-CLR (IN to) (NP (PRP me))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD drove) (NP (PRP him)) (ADVP (RB back) (RB home))))) (, ,) (FRAG (NP (JJ Great) (NN arrangement)) (NP (JJ Great) (NN price))) (. !!)) )
+( (FRAG (ADVP (RB Highly)) (VP (VBN recommended) (NP (-NONE- *))) (. !!)) )
+( (FRAG (NP (NN Thanks)) (NP-VOC (NNP Mark)) (. .)) )
+( (NP (NP (NNP Steve)) (, ....) (NP (NP (JJ proud) (NML (NML (NNP Range) (NNP Rover)) (NNP Sport)) (NN owner)) (PP (-LRB- -LRB-) (IN with) (NP (JJ rear) (NNS tints)) (-RRB- -RRB-)))) )

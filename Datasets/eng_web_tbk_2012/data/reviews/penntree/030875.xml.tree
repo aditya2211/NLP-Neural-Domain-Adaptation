@@ -1,0 +1,3 @@
+( (FRAG (NP (NNP Slice) (NNP Pizza)) (PP (IN at) (NP (JJ former) (NP (NNP Britt) (POS 's)) (NN Location)))) )
+( (S (NP-SBJ (NP (NNP Britt) (POS 's)) (NNP Pizza)) (VP (VBZ is) (ADJP-PRD (RB long) (JJ gone))) (. .)) )
+( (S (NP-SBJ (NP (PRP$ Their) (NN location)) (, ,) (NP (NP (DT the) (NN northwest) (NN corner)) (PP (IN of) (NP (NML (NML (NNP S.) (NNP 10th)) (CC &) (NML (NNP Federal))) (NNPS Sts.))))) (, ,) (VP (VBZ is) (ADVP-TMP (RB now)) (NP-PRD (NP (NN home)) (PP (IN to) (NP (NNP Slice) (NNP Pizza))))) (. .)) )

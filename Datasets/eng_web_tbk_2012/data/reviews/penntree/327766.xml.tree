@@ -1,0 +1,4 @@
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Checked) (PRT (RP in)) (ADVP-TMP (RB real) (RB late)))) (, ,) (CC but) (S (NP-SBJ (NN staff)) (VP (VBD was) (ADJP-PRD (RB very) (JJ kind) (CC and) (JJ helpful)))) (. .)) )
+( (UCP (FRAG (NP (NNS Rooms)) (ADJP (RB very) (JJ clean))) (CC and) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD smelled) (ADJP-PRD (RB very) (JJ fresh)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recommend) (NP (DT this) (NN hotel)) (PP-CLR (IN to) (NP (NN anyone))))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD loved) (NP (NP (PRP$ my) (NN stay)) (ADVP-LOC (RB here))))) (CC and) (S (SBAR-ADV (IN if) (FRAG (ADVP (RB ever)) (PP-LOC (RB back) (PP (IN in) (NP (DT the) (NN area)))))) (, ,) (NP-SBJ (PRP I)) (VP (MD will) (VP (VB be) (VP (VBG staying) (ADVP-LOC (RB here)) (ADVP-TMP (RB again)))))) (. .)) )

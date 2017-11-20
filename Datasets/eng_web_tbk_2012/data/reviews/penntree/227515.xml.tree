@@ -1,0 +1,4 @@
+( (NP (NP (JJS BEST) (NN DENTIST)) (ADVP (RB EVER)) (, -)) )
+( (NP (ADJP (RB Very) (JJ fast) (CC and) (JJ efficient)) (NN service) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN had) (NP (JJ several) (NNS dentists)) (PP-TMP (IN in) (NP (PRP$ my) (NN life)))))) (, ,) (CC but) (S (NP-SBJ (NNP Dr.) (NNP Deters)) (VP (VBZ is) (PP (IN by) (ADVP (RB far))) (NP-PRD (PRP$ my) (JJ favorite)))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (ADVP-TMP (RB never)) (VP (VB wait) (PP-LOC (IN in) (NP (DT the) (NN waiting) (NN room))) (NP (QP (JJR more) (IN than) (CD two)) (NNS minutes)))) (CC and) (S (NP-SBJ (DT the) (NNS cleanings)) (VP (VBP are) (ADJP-PRD (JJ quick) (CC and) (JJ painless)))) (. .)) )

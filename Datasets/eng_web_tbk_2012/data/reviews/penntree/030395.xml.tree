@@ -1,0 +1,4 @@
+( (S (NP-SBJ (NNP Sanctuary)) (VP (VBZ is) (ADJP-PRD (JJ amazing))) (. !)) )
+( (S (NP-SBJ (NNP Sanctuary)) (VP (VBZ serves) (NP (JJ delicious) (, ,) (ADJP (RB somewhat) (JJ healthy)) (NN food)) (PP (IN in) (NP (DT a) (JJ great) (NML (NML (NN restaurant)) (, /) (NML (JJ fast) (NN food))) (NN style)))) (. .)) )
+( (S (NP-SBJ (DT The) (NNS employees)) (VP (VBP are) (ADJP-PRD (RB really) (JJ friendly))) (. .)) )
+( (S (CC And) (NP-SBJ (PRP they)) (VP (VBP deliver)) (. !)) )

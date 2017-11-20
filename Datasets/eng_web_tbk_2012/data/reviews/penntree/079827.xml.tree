@@ -1,0 +1,6 @@
+( (NP (JJ Fantastic) (JJ fresh) (NN food) (. !)) )
+( (FRAG (NP (NP (WDT What) (DT a) (JJ neat) (NN gem)) (PP (IN of) (NP (DT a) (NN restaurant)))) (PP-LOC (IN in) (NP (NP (DT a) (NN corner)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (PRP one)) (VP (MD would) (RB n't) (VP (VB expect) (NP (PRP it)) (ADVP-LOC-1 (-NONE- *T*)))))))) (. .)) )
+( (FRAG (NP (JJ Cozy) (, ,) (JJ warm) (NN atmosphere)) (, ,) (NP (JJ great) (NN service)) (. .)) )
+( (S (ADVP (RBS Most) (RB importantly)) (, ,) (NP-SBJ (DT the) (NN food)) (VP (VBD was) (ADJP-PRD (JJ outstanding))) (. .)) )
+( (S (NP-SBJ-9 (PRP It)) (ADVP (RB clearly)) (VP (VBD had) (VP (VBN been) (VP (VBN prepared) (NP-9 (-NONE- *)) (PP (IN from) (NP (JJ fresh) (NNS ingredients)))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (MD 'll) (VP (VB be) (ADVP-PRD (RB back)) (ADVP-TMP (RB often)))) (. .)) )

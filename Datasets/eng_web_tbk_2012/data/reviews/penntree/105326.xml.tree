@@ -1,0 +1,2 @@
+( (SBAR (WHADVP-9 (WRB How)) (S (NP-SBJ (DT a) (NN pizza) (NN place)) (VP (MD should) (VP (VB be) (ADVP-PRD-9 (-NONE- *T*))))) (. !)) )
+( (S (SYM +) (NP-SBJ (EX there)) (VP (VBZ is) (NP-PRD (DT a) (JJ free) (NN cola)) (PP (IN with) (NP (DT every) (NN pizza)))) (. .)) )

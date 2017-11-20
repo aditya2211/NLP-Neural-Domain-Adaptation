@@ -1,0 +1,3 @@
+( (SBARQ (WHNP-9 (WP What)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB eat) (NP-9 (-NONE- *T*)) (PP-LOC (IN in) (NP (NNP Miramar))))) (. ?)) )
+( (NP (NP (NN Food)) (PP (IN like) (NP (NP (DT the) (NN stuff)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP they)) (VP (VBP eat) (NP-1 (-NONE- *T*)) (PP-LOC (IN in) (NP (JJ Spanish) (NNS countries)))))))) (PP (IN like) (NP (NP (NNS tacos)) (, ,) (NP (NNS beans)) (, ,) (NP (NN rice)) (, ,) (NP (NN pork)) (, ,) (NP (NN steak)) (, ,) (ADVP-ETC (FW ect)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Try) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG googling) (NP (PRP it)) (PP (IN for) (NP (JJR more) (NN info)))))) (NFP :-RRB-)) )

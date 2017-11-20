@@ -1,0 +1,4 @@
+( (PP (IN Out) (PP (IN of) (NP (NN business))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP think) (SBAR (-NONE- *0*) (S (NP-SBJ (DT this) (NN location)) (VP (VBZ is) (ADVP-TMP (RB no) (RBR longer)) (PP-PRD (IN in) (NP (NN business))))))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP check) (NP (ADD RecWarehouse.com))))) (, ,) (NP-SBJ (PRP they)) (VP (VBP do) (RB n't) (VP (VB list) (NP (DT this)) (PP-CLR (IN as) (NP (DT a) (NN location))))) (. .)) )
+( (S (NP-SBJ-9 (PRP You)) (VP (MD 'll) (VP (VB have) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB drive) (PP (NP-ADV (CD 10) (NNS miles)) (IN down) (NP (CD 75))) (PP-DIR (IN to) (NP (NNP Allen)))))))) (. .)) )

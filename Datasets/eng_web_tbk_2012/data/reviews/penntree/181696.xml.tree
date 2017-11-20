@@ -1,0 +1,3 @@
+( (NP (VBG Winning) (NN Attorney) (. !)) )
+( (NP (NP (DT The) (JJ only) (CD 10.0) (NML (`` ") (JJ Perfect) (NN Score) ('' ")) (ADJP (NNP AVVO) (VBN Rated)) (NN Attorney)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP Have) (ADVP-TMP (RB Ever)) (VP (VBN Met) (NP-1 (-NONE- *T*)))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB Highly)) (VP (VBP Recommend) (, ,) (NP (NP (DT The) (NN Law) (NNS Offices)) (PP (IN Of) (NP (NNP Dale) (NNP Gribow))))) (. !!)) )

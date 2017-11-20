@@ -1,0 +1,4 @@
+( (NP (NP (CD ONe)) (PP (IN of) (NP (DT a) (JJ few))) (. .)) )
+( (S (NP-SBJ (NNP Hancocks)) (VP (VBZ is) (NP-PRD (NP (CD one)) (PP (IN of) (NP (NP (CD four) (JJ fabric) (NNS stores)) (PP-LOC (IN in) (NP (NNP Fort) (NNP Smith))))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBP have) (NP (NP (NNP Hobby) (NNP Lobby)) (, ,) (NP (NML (PP (RB Just) (IN for) (NP (NNP Fun)))) (NNPS Fabrics)) (, ,) (NP (NNP Walmart)) (, ,) (CC and) (NP (NNP Interior) (NNP Mall))) (PP-LOC (ADVP (RB just)) (IN inside) (NP (NNP Barling)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP do) (VP (VB have) (NP (NP (DT a) (JJ good) (NN selection)) (PP (IN of) (NP (NN fabric) (CC and) (NNS notions)))))) (. .)) )

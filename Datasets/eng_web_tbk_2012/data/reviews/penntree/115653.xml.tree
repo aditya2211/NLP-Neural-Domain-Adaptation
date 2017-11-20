@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN Doctor) (. !)) )
+( (S (NP-SBJ (NNP Dr.) (NNP Faris)) (VP (VBZ is) (NP-PRD (DT a) (JJ great) (NN doctor))) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recommend) (NP (PRP him)) (PP-CLR (IN to) (NP (NN anyone))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD was) (VP (VBG experiencing) (NP (JJ severe) (NN back) (NN pain)) (PP (IN to) (NP (NP (DT the) (NN point)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ-1 (PRP I)) (VP (MD could) (ADVP (RB barely)) (VP (VP (VB walk) (ADVP-9 (-NONE- *T*))) (CC or) (VP (ADVP (RB even)) (VB bare) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB sit)))) (ADVP-9 (-NONE- *T*))))))))))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD went) (PP (IN from) (NP (NP (DT a) (NN pain) (NN scale)) (PP (IN of) (NP (NP (CD 8)) (PP (SYM -) (NP (CD 9))))))) (PP (IN to) (NP (CD 0))))) (CC and) (S (NP-SBJ-9 (PRP I)) (VP (VBD was) (ADJP-PRD (JJ able) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB run) (PP (IN in) (NP (DT the) (NNP Crim))) (ADVP-TMP (NP (RB just) (DT a) (NN week)) (RBR later)))))))) (. !!)) )

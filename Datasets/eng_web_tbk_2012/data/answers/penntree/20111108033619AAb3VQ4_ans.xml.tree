@@ -1,0 +1,5 @@
+( (SQ (VBP Do) (NP-SBJ (NNS people)) (VP (JJ Bare) (HYPH -) (NN knuckle) (VB box) (PP-LOC (IN in) (NP (NNP Ireland)))) (. ?)) )
+( (UCP (S (NP-SBJ (NP (JJ Certain) (NNS elements)) (PP (IN of) (NP (DT the) (NN travelling) (NN community)))) (VP (VBP engage) (PP-CLR (IN in) (NP (DT this) (NN activity))))) (, ,) (CC but) (FRAG (ADVP (RB overall)) (INTJ (UH no)) (RB not) (ADVP (RB really))) (. .)) )
+( (INTJ (INTJ (UH Er)) (, ,) (INTJ (UH no)) (. ?)) )
+( (S (NP-SBJ (NP (DT some) (NNS members)) (PP (IN of) (NP (DT the) (NN traveler) (NN community)))) (VP (JJ bare) (NN knuckle) (VBP box)) (. .)) )
+( (S (ADVP (RB other) (PP (IN than) (NP (DT that)))) (NP-SBJ (PRP i)) (VP (VBP do) (RB n't) (VP (VB know))) (. .)) )

@@ -1,0 +1,4 @@
+( (NP (NP (ADJP (ADJP (JJ Friendly)) (ADJP (JJ Efficient)) (CC and) (ADJP (RB overall) (JJ great))) (NN place)) (PP (IN for) (NP (NP (NNS people)) (PP (IN in) (NP (JJ chronic) (JJ intractable) (NN pain)))))) )
+( (NP (NP (JJ Great) (NN place)) (PP (IN for) (NP (NP (NNS people)) (PP (IN in) (NP (JJ chronic) (NN pain))))) (. .)) )
+( (S (S (NP-SBJ (NN Staff)) (VP (VBZ is) (ADJP-PRD (RB very) (JJ friendly)))) (S (NP-SBJ (PRP they)) (VP (VBP treat) (NP (PRP you)) (PP (IN like) (NP (NP (DT a) (JJ human) (NN being)) (CONJP (CC and) (RB not)) (NP (RB just) (DT another) (NN patient)))))) (. .)) )
+( (FRAG (ADJP (RB Very) (JJ efficient) (PP (IN at) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG treating) (NP (JJ chronic) (NN pain)))))) (. !)) )

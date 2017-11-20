@@ -1,0 +1,2 @@
+( (UCP (FRAG (NP (NP (JJS Worst) (NN experience)) (ADVP (RB ever))) (PP (IN like) (NP (DT a) (NN sardine) (NN can)))) (CC and) (S (NP-SBJ (NP (DT the) (NN bartender)) (ADVP (RB downstairs))) (VP (VBZ is) (NP-PRD (NP (DT the) (JJS rudest) (NN person)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP have) (ADVP (RB ever)) (VP (VBN met) (NP-9 (-NONE- *T*))))))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB DO) (RB Nt) (VP (VB Go) (ADVP-DIR (RB here))))) )

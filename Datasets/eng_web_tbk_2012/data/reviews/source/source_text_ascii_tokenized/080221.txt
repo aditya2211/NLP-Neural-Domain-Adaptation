@@ -1,0 +1,13 @@
+<en=1>Hino Dealer of the Year
+<en=2>Congratulations Prestige Hino !
+<en=3>You have been awarded the converted Hino Dealer of the Year !
+<en=4>Each of you should be proud of your massive contributions throughout the year !
+<en=5>Major Awards - Overall Hino dealer of the year .
+<en=6>Overall Hino finance dealer of the year .
+<en=7>Major Awards - Market leader overall , Dandenong PMA , sales .
+<en=8>Market leader medium duty , sales .
+<en=9>Well done to Anthony and the team !
+<en=10>Bronze award service excellence , metro .
+<en=11>Well done to Brendan and the team !
+<en=12>Gold award parts excellence , metro .
+<en=13>Well done to Jason and the team !

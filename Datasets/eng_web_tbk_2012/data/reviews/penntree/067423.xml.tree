@@ -1,0 +1,4 @@
+( (S (NP-SBJ (NNP Doctor) (NNP Hank)) (VP (VBZ is) (ADJP-PRD (JJ Amazing)))) )
+( (S (NP-SBJ (PRP$ Our) (NN family)) (VP (VBZ has) (VP (VBN been) (VP (VBG trusting) (NP (NNP Doctor) (NNP Hank)) (PP-CLR (IN with) (NP (PRP$ our) (NN teeth))) (PP-TMP (IN for) (NP (DT the) (JJ last) (CD seven) (NNS years)))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (RB n't) (VP (VB go) (PP-DIR (IN to) (NP (NP (NN anyone)) (ADJP (JJ else)))))) (. .)) )
+( (S (NP-SBJ (NP (NN Everyone)) (PP (IN on) (NP (NN staff)))) (VP (VBZ is) (ADJP-PRD (RB very) (JJ professional) (CC and) (JJ friendly))) (. .)) )

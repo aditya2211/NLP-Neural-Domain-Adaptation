@@ -1,0 +1,6 @@
+( (NP (NML (NN heating) (NN system)) (NNS Angels)) )
+( (SQ (ADVP (RB seriously)) (, ,) (MD can) (NP-SBJ (PRP you)) (VP (VB imagine) (S-NOM (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBG having) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB live) (PP-CLR (IN through) (NP (DT these) (JJ last) (JJ few) (NNS nights))) (PP (IN without) (NP (NN heat))))))))) (. ?)) )
+( (S (NP-SBJ-1 (PRP I)) (VP (MD would) (VP (VB have) (VP (VBN had) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (-NONE- *?*)))) (SBAR-PRP (IN because) (S (PP (IN with) (S-NOM (NP-SBJ (DT the) (NN economy)) (NP-PRD (NP (DT the) (NN way)) (SBAR (WHADVP-2 (-NONE- *0*)) (S (NP-SBJ (PRP it)) (VP (VBZ is) (ADVP-PRD-2 (-NONE- *T*)))))))) (NP-SBJ (PRP i)) (VP (VBP ai) (RB nt) (VP (VBZ haves) (NP (NP (JJ much) (NNS monies)) (PP (IN fo) (NP (NP (NNS repairs)) (PP (IN round) (NP (DT the) (NN House))))))))))))) (. ....)) )
+( (S (NP-SBJ (NNP Comfort) (NNP zone)) (VP (VP (VBD came) (ADVP (RB out))) (CC and) (VP (VBD did) (NP (PRP$ my) (NN house) (NN heat)) (PP (IN on) (NP (DT the) (JJ cheap))))) (. .)) )
+( (S (CC and) (NP-SBJ (PRP it)) (VP (VBZ works)) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you)) (NP-VOC (NNP Comfort) (NNP Zone)))) )

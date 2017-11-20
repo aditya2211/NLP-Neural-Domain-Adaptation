@@ -1,0 +1,4 @@
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP (NP (ADJP (RB cheaply) (VBN made)) (NN glass)) (PP (IN from) (NP (NNP India) (CC and) (NNP China))))))) (, ,) (NP-SBJ (DT this)) (VP (VBZ is) (RB not) (NP-PRD (PRP$ your) (NN place))) (. .)) )
+( (S (NP-SBJ (DT These) (NNS people)) (ADVP (RB only)) (VP (VBP carry) (NP (DT the) (ADJP (RB very) (JJS best)) (JJ American) (VBN blown) (NN glass))) (. .)) )
+( (S (S (NP-SBJ (PRP$ Their) (NN selection)) (VP (VBZ is) (ADJP-PRD (JJ top) (NN notch)))) (CC and) (S (NP-SBJ (DT the) (NN staff)) (VP (VBZ is) (ADJP-PRD (RB very) (JJ knowledgable)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Go) (PP-DIR (IN to) (NP (DT the) (NNP Looking) (NNP Glass))) (PP (IN for) (NP (PDT all) (PRP$ your) (NN smoking) (NNS needs)))) (. !!!!!!!!!!)) )

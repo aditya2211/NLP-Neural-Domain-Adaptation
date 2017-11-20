@@ -1,0 +1,3 @@
+( (NP (WDT What) (DT a) (NN Preschool) (. !)) )
+( (S-IMP (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP (NP (DT the) (JJS best)) (PP (IN for) (NP (PRP$ your) (NN child))))))) (, ,) (NP-SBJ (-NONE- *PRO*)) (VP (VB do) (RB n't) (VP (VB hesitate) (PP-CLR (IN in) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG visiting) (NP (DT this) (JJ wornderful) (NN school))))))) (. .)) )
+( (S (NP-SBJ (DT This)) (VP (VBZ is) (NP-PRD (NP (DT the) (RB very) (JJS best)) (PP (IN in) (NP (DT the) (NNP Gables))))) (. .)) )

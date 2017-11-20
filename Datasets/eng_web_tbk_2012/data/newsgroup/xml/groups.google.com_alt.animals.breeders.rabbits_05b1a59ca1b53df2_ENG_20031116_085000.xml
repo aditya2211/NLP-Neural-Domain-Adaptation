@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:54 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1">
+<Signal id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1" timeline="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1">
+<Metadata>
+<MetadataElement name="endOffset">50</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP ( NP 2 3 4 5 ) ( NP 6 7 8 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:4" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:5" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:6" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:7" offset="26.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:8" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:9" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:A" offset="50.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E1" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:1" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E2" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:2" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E3" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:3" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:4">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E4" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:4" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E5" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:5" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:6">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E6" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:6" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:7">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E7" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:7" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:8">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E8" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:8" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:9">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:E9" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:9" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:1:A">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2" timeline="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1">
+<Metadata>
+<MetadataElement name="endOffset">37</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP 2 ) ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:3" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:4" offset="37.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:E1" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:1" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:2">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:E2" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:2" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:E3" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:3" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:2:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3" timeline="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1">
+<Metadata>
+<MetadataElement name="endOffset">175</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 0 ) ( VP 1 ( VP 2 ( S ( NP-SBJ-9 *PRO* ) ( VP 3 ( VP 4 ( NP-1 5 ) ( S ( NP-SBJ-1 *PRO* ) ( VP 6 ( VP 7 ( PP-DIR 8 ( NP ( NP 9 10 ) ( SBAR ( WHADVP-2 11 ) ( S ( NP-SBJ 12 ) ( VP 13 ( VP 14 ( NP ( NP 15 16 ) ( SBAR ( WHNP-3 17 ) ( S ( NP-SBJ-3 *T* ) ( VP 18 ( VP 19 ( ADVP 20 ) ( VP 21 ) ) 22 23 ( VP ( ADVP 24 ) 25 ( PP-MNR 26 ( NP 27 28 29 ) ) ) ) ) ) ) ( ADVP-LOC-2 *T* ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 30 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:4" offset="13.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:6" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:7" offset="27.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:8" offset="30.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:9" offset="35.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:A" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:B" offset="40.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:C" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:D" offset="51.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:F" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:G" offset="59.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:H" offset="64.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:I" offset="72.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:J" offset="82.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:K" offset="87.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:L" offset="91.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:M" offset="95.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:N" offset="100.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:O" offset="110.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:P" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:Q" offset="116.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:R" offset="125.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:S" offset="133.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:U" offset="136.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:V" offset="150.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:W" offset="165.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:X" offset="174.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:Y" offset="175.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E1" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:1" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E2" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:2" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E3" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:3" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:4">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E4" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:4" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:5">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E5" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:5" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E6" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:6" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:7">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E7" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:7" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:8">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E8" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:8" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:9">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:E9" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:9" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EA" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:A" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:B">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EB" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:B" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EC" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:C" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:D">
+<Feature name="tag">WRB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:ED" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:D" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:F">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EF" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:F" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:G">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EG" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:G" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:H">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EH" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:H" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:I">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EI" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:I" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:J">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EJ" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:J" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:K">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EK" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:K" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:L">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EL" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:L" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:M">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EM" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:M" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:N">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EN" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:N" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:O">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EO" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:O" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:P">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EP" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:P" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:Q">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EQ" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:Q" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:R">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:ER" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:R" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:S">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:ES" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:S" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:U">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EU" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:U" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:V">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EV" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:V" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:W">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EW" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:W" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:X">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:EX" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:X" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:3:Y">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4" timeline="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1">
+<Metadata>
+<MetadataElement name="endOffset">126</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( NP-PRD ( NP ( NP 2 3 4 ) ( PP 5 ( NP 6 ( NML 7 8 ) 9 ) ) ) 10 ( NP ( NP 11 12 13 14 15 ) ( PP 16 ( NP 17 ( NML 18 19 ) 20 ) ) ) ) ) 21 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:4" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:6" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:7" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:8" offset="36.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:9" offset="43.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:A" offset="56.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:B" offset="62.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:C" offset="66.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:D" offset="68.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:F" offset="73.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:G" offset="77.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:H" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:I" offset="84.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:J" offset="88.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:K" offset="94.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:L" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:M" offset="114.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:N" offset="125.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:O" offset="126.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E1" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:1" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E2" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:2" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E3" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:3" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:4">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E4" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:4" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:5">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E5" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:5" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E6" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:6" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E7" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:7" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E8" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:8" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:E9" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:9" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:A">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EA" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:A" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:B">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EB" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:B" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:C">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EC" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:C" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:D">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:ED" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:D" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EF" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:F" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EG" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:G" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:H">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EH" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:H" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EI" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:I" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:J">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EJ" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:J" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EK" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:K" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:L">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EL" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:L" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EM" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:M" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:N">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:EN" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:N" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:4:O">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:5" timeline="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:T1">
+<Metadata>
+<MetadataElement name="endOffset">29</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:5:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:5:2" offset="29.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:5:E1" type="word" start="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:5:1" end="groups.google.com_alt.animals.breeders.rabbits_05b1a59ca1b53df2_ENG_20031116_085000:5:2">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

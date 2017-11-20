@@ -1,0 +1,8 @@
+( (NP (JJ FANTASTIC) (NN STORE) (. !!!)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD came) (PP (IN upon) (NP (DT this) (NN store))) (SBAR-ADV (IN as) (S (NP-SBJ (DT the) (NN building)) (VP (VBD caught) (NP (PRP$ my) (NN eye)))))) (. .)) )
+( (S (NP-SBJ-9 (PRP It)) (VP (VBZ 's) (VP (VBN located) (NP-9 (-NONE- *)) (PP-LOC (IN in) (NP (DT the) (JJ huge) (NML (NNP HONKA) (NNP Log) (NNPS Homes)) (NN building))) (, ,) (PP-LOC (IN by) (NP (NNP Walmart))) (PP-LOC (IN off) (PP (IN of) (NP (NNP Evergreen) (NNP Parkway)))))) (. .)) )
+( (S (NP-SBJ-9 (DT The) (NN store)) (VP (VBD was) (VP (VBN decorated) (NP-9 (-NONE- *)) (PP-CLR (IN with) (NP (NNS furnishings) (CC &) (NNS accessories))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (JJ friendly) (NN crew)) (VP (VBG working))) (VP (VBD was) (ADJP-PRD (ADJP (JJ great)) (CC &) (ADJP (RB very) (JJ helpful)))) (. .)) )
+( (S (NP-SBJ (DT This) (NN store)) (VP (VBZ is) (SBAR-NOM-PRD (WHNP-1 (WP what)) (S (NP-SBJ (NNP Colorado)) (VP (VBZ is) (PP-PRD (RB all) (IN about) (NP-1 (-NONE- *T*))))))) (. .)) )
+( (S (S (ADVP (RB Also)) (, ,) (NP-SBJ (PRP I)) (VP (VBD purchased) (NP (DT some) (NN furniture)) (NP-TMP (JJ last) (NN year)))) (CC and) (S (NP-SBJ (DT all)) (VP (VBZ has) (VP (VBN been) (ADJP-PRD (JJ great))))) (. !)) )
+( (S (S (NP-SBJ (PRP$ It's) (NN durability) (CC &) (NN look)) (VP (VBD was) (ADJP-PRD (JJ perfect)))) (CC and) (S (NP-SBJ (PRP I)) (VP (MD will) (ADVP (RB definitely)) (VP (VB be) (VP (VBG adding) (PP-CLR (IN to) (NP (PRP$ my) (NN collection))) (ADVP-TMP (RB soon)))))) (. !)) )

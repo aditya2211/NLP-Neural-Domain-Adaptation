@@ -1,0 +1,6 @@
+( (NP (NN Trivia) (. !)) )
+( (SBARQ (WHADVP-9 (WRB When)) (SQ (VBD was) (NP-SBJ-1 (NNP Miramar)) (VP (VBN founded) (NP-1 (-NONE- *)) (ADVP-TMP-9 (-NONE- *T*)))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (MD 'll) (VP (VB give) (NP (JJS best) (NN answer)) (PP (IN for) (NP (NP (DT the) (JJ first) (NN person)) (SBAR (WHNP-9 (WP who)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ gets) (S (NP-SBJ (PRP it)) (ADJP-PRD (JJ right)))))))))) (. !)) )
+( (NP (NP (NNP September) (CD 20)) (, ,) (NP-TMP (CD 1888)) (. ?)) )
+( (S (NP-SBJ-9 (PRP It)) (VP (VBD was) (VP (VBN incorporated) (NP-9 (-NONE- *)) (PP (IN as) (NP (DT a) (NN city))) (PP-TMP (IN on) (NP (NP (NNP May) (CD 26)) (, ,) (NP-TMP (CD 1955)))))) (. .)) )
+( (S (NP-SBJ-9 (NNP Miramar)) (VP (VBD was) (VP (VBN founded) (NP-9 (-NONE- *)) (NP-TMP (NP (NNP September) (CD 20)) (NP-TMP (CD 1888))))) (. .)) )

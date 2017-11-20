@@ -1,0 +1,5 @@
+( (NP (PRP$ My) (JJ favorite) (NN florist) (. !)) )
+( (S (S (NP-SBJ-9 (PRP I)) (VP (VBD came) (PP-DIR (IN to) (NP (NNP La) (NNP Crosse))) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB go) (PP-DIR (IN to) (NP (NN college)))))))) (, ,) (CC and) (S (NP-SBJ (PRP$ my) (NN mom)) (VP (MD would) (VP (VB send) (NP (PRP me)) (NP (NN birthday) (NNS flowers)) (PP-LOC (IN though) (ADVP (RB here)))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBD were) (ADJP-PRD (JJ beautiful))) (CC and) (VP (VBD lasted) (ADVP-TMP (RB forever)))) (. !)) )
+( (S (ADVP-TMP (RB Now) (SBAR (IN that) (S (NP-SBJ (PRP I)) (VP (VBP live) (ADVP-LOC (RB here)))))) (, ,) (NP-SBJ (DT this)) (VP (VBZ is) (NP-PRD (NP (PRP$ my) (JJ favorite) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB grab) (NP (NP (NNS flowers)) (PP (IN for) (NP (NNS friends) (CC and) (NNS coworkers)))) (ADVP-LOC-9 (-NONE- *T*)))))))) (. !)) )
+( (FRAG (NP-ADV (NP (NNS Hands)) (ADVP (RB down))) (, ,) (NP (NP (JJS best) (NN place)) (PP-LOC (IN in) (NP (DT the) (NN area)))) (. !)) )

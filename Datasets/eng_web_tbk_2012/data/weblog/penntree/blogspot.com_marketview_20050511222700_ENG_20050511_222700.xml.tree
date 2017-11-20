@@ -1,0 +1,7 @@
+( (SQ (-LRB- -LRB-) (CC And) (, ,) (PP (IN by) (NP (DT the) (NN way))) (, ,) (VBZ is) (NP-SBJ (NP (NN anybody)) (ADJP (JJ else))) (ADJP-PRD (NP (RB just) (DT a) (JJ little)) (NN nostalgic) (PP (IN for) (NP (NP (DT the) (NNS days)) (SBAR (WHADVP-1 (WRB when)) (S (NP-SBJ (DT that)) (VP (VBD was) (NP-PRD (DT a) (JJ good) (NN thing)) (ADVP-TMP-1 (-NONE- *T*)))))))) (. ?) (-RRB- -RRB-)) )
+( (S (S (NP-SBJ (DT This) (NNP BuzzMachine) (NN post)) (VP (VBZ argues) (SBAR (IN that) (S (NP-SBJ (NP (NP (NNP Google) (POS 's)) (NN rush)) (PP (IN toward) (NP (NN ubiquity)))) (VP (MD might) (VP (VB backfire) (, --) (SBAR-ADV (WHNP-9 (WDT which)) (S (NP-SBJ (PRP we)) (VP (VBP 've) (RB all) (VP (VBN heard) (NP-9 (-NONE- *T*)) (ADVP-TMP (RB before)))))))))))) (, ,) (CC but) (S (NP-SBJ (PRP it)) (VP (VBZ 's) (ADVP (RB particularly)) (ADJP-PRD (RB well) (HYPH -) (VBN put)) (PP-LOC (IN in) (NP (DT this) (NN post))))) (. .)) )
+( (S (NP-SBJ (NNP Google)) (VP (VBZ is) (NP-PRD (DT a) (JJ nice) (NN search) (NN engine))) (. .)) )
+( (SQ (VBZ Does) (NP-SBJ (NN anybody)) (VP (VB use) (NP (PRP it)) (PP-PRP (IN for) (NP (NP (NN anything)) (ADJP (JJ else))))) (. ?)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP own) (NP (NNP blogger)) (, ,) (ADVP (RB of) (RB course))) (. .)) )
+( (SQ (VBZ Is) (NP-SBJ (DT that)) (NP-PRD (DT a) (NN money) (NN maker)) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 'm) (VP (VBG staying) (ADVP (RB away) (PP (IN from) (NP (DT the) (NN stock)))))) (. .)) )

@@ -1,0 +1,8 @@
+( (FRAG (NP (NML (CD 24) (NN hour)) (JJ fast) (NNS resturants)) (ADVP-LOC (RB near) (RB by)) (. ?)) )
+( (S (INTJ (UH Well)) (NP-SBJ (EX there)) (VP (VBZ s) (NP-PRD (NP (NNP Mc.) (NNP Donald) (POS s)) (, ,) (NP (NNP Taco) (NNP Bell)) (, ,) (NP (NNP Burger) (NNP King)))) (. .....)) )
+( (S (CC But) (S (NP-SBJ (PRP$ my) (NN resturant)) (VP (VBZ is) (ADJP-PRD (ADJP (RB way) (JJR better)) (PP (IN than) (NP (NP (DT all)) (PP (IN of) (NP (PRP them)))))))) (, ...) (CC and) (S (NP-SBJ (PRP it)) (VP (VBZ 's) (ADVP-LOC-PRD (RB quite) (RB close)))) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ 's) (PP-LOC-PRD (PP (ADVP (RB just)) (IN up) (NP (DT the) (NN highway))) (CC and) (PP (ADVP (RB right)) (IN around) (NP (DT the) (NN corner))))) (. ....)) )
+( (PP (IN Nearby) (NP (WP what)) (. ?)) )
+( (FRAG (NP (NNP Loop)) (, ,) (NP (NNP North) (NNP Side)) (, ,) (NP (NNP South) (NNP Side)) (, ,) (NP (JJ near) (NNS suburbs)) (, ,) (NP (JJ far) (NNS suburbs)) (. ?)) )
+( (S (NP-SBJ (NNP Chicago)) (VP (VBZ 's) (NP-PRD (DT a) (JJ big) (NN area))) (. .)) )
+( (NP (NP (NNP PORTILLO) (POS 'S)) (NNP OR) (NP (NNP WHITE) (NNP CASTLE)) (. !) (NFP :D)) )

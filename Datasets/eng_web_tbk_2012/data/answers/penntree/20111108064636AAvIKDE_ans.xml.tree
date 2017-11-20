@@ -1,0 +1,7 @@
+( (SBARQ (WHNP-9 (WP What)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB think) (NP-9 (-NONE- *T*)) (PP-CLR (IN of) (NP (NNP Air) (NNP France))))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP love) (NP (NNP Air) (NNP France))) (. !)) )
+( (S (S (NP-SBJ (PRP$ Their) (NN service)) (VP (VBZ is) (ADJP-PRD (JJ top) (HYPH -) (NN notch)))) (CC and) (S (NP-SBJ (PRP I)) (ADVP (RB especially)) (VP (VBP love) (NP (NP (DT the) (JJ free) (JJ French) (NN champagne)) (VP (VBN served) (NP (-NONE- *)) (PP-LOC (ADVP (RB even)) (IN in) (NP (NN Economy))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB also)) (VP (VBP find) (S (NP-SBJ (PRP$ their) (NN food) (RB way)) (ADJP-PRD (ADJP (JJR better)) (PP (IN than) (NP (JJ many) (JJ other) (NNS airlines)))))) (. .)) )
+( (S (CC Plus) (NP-SBJ (PRP you)) (VP (VBP land) (PP-CLR (IN in) (NP (DT a) (JJ preferential) (NN terminal)))) (. ...)) )
+( (S (NP-SBJ-1 (PRP I)) (VP (VBP go) (PP (IN out) (PP (IN of) (NP (PRP$ my) (NN way)))) (S-PRP (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB use) (NP (NNP Air) (NNP France)))))) (. .)) )
+( (FRAG (ADJP (JJ expensive))) )

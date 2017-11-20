@@ -1,0 +1,2 @@
+( (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJR better) (JJ vegetarian) (NNS sandwiches)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP 've) (VP (VBN had) (NP-1 (-NONE- *T*)) (PP-LOC (IN in) (NP (NNP Seattle))))))))) (. .)) )
+( (FRAG (CC And) (PP (IN from) (NP (NP (DT a) (NN place)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ specializes) (PP-CLR (IN in) (NP (NML (JJ high) (NN quality)) (NN meat))) (, ,) (ADVP (RB too))))))) (. .)) )

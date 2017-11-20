@@ -1,0 +1,6 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD Ca) (RB n't) (VP (VB say) (NP (JJ enough))))) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD used) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB tan) (PP-LOC (IN down) (NP (DT the) (NN street))) (SBAR-TMP (IN before) (S (NP-SBJ-1 (PRP I)) (VP (VBD was) (VP (VBN referred) (NP-1 (-NONE- *)) (PP-CLR (IN to) (NP (DT this) (NN place))) (PP (IN by) (NP-LGS (NP (CD one)) (PP (IN of) (NP (PRP$ my) (NNS friends))))))))))))) (. .)) )
+( (INTJ (UH WOW) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD did) (RB n't) (VP (VB know) (SBAR (WHNP-9 (WP what)) (S (NP-SBJ (PRP I)) (VP (VBD was) (VP (VBG missing) (NP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (JJS lowest) (NN bed)) (ADVP-LOC (RB here))) (VP (VBZ is) (ADJP-PRD (ADJP (JJR better)) (PP (IN than) (NP (NP (PRP$ my) (JJ last) (NN salon) (POS s)) (JJS highest) (NN level))))) (. .)) )
+( (S (S (NP-SBJ (NN Salon)) (VP (VBZ is) (ADJP-PRD (JJ clean)))) (CC and) (S (NP-SBJ (NNS girls)) (VP (VBP are) (ADJP-PRD (JJ nice)))) (. .)) )

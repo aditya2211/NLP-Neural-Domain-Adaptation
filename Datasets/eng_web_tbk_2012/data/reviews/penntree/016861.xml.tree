@@ -1,0 +1,4 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Stayed) (PP-LOC (IN in) (NP (DT the) (NN Seaview) (NN room))) (ADVP-LOC (RB here)) (PP-TMP (IN in) (NP (NP (NNP December)) (NP-TMP (CD 2009))))) (. !)) )
+( (FRAG (INTJ (UH WOW)) (WHNP (WDT what) (JJ stunning) (NNS views)) (. .)) )
+( (S (NP-SBJ (DT The) (NN furnishing) (CC and) (NNS finishes)) (VP (VBP are) (ADJP-PRD (JJ great))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB highly)) (VP (VBP recommend) (NP (NNP Bay) (NNP View)) (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (VBP are) (VP (VBG looking) (PP-CLR (IN for) (NP (NP (NN Accommodation)) (PP-LOC (IN in) (NP (NNPS Camps) (NNP Bay)))))))))) (. .)) )

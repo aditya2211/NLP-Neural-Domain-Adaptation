@@ -1,0 +1,12 @@
+<en=1>Grocery and Daily Needs Store
+<en=2>Before using FusionRetail Before installing FusionRetail store was running on a dos based software .
+<en=3>We were having a major problem in maintaining cash .
+<en=4>Being a grocery shop , maintaining 5000 different products was a challenging job .
+<en=5>Managing POS counter without barcoding was really a tough time .
+<en=6>How FusionRetail has overcome these issues ?
+<en=7>FusionRetail helps us to maintain the store in an organised way .
+<en=8>Usage of product barcodes and smooth maintenance of inventory with proper recording of transactions like sale , purchase and returns was never easy before .
+<en=9>How long does it take to train new people at work ?
+<en=10>Billing takes 15 minutes and back office jobs takes 1 day 's training How fast your support queries get answered ?
+<en=11>Over telephone , immediate .
+<en=12>On call , it takes a day to get our issues resolved .

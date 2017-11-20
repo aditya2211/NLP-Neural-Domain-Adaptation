@@ -1,0 +1,4 @@
+( (SBAR (WHADVP-9 (WRB How)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB prepare) (NP (DT a) (NML (NN silicon) (NN rubber)) (NN mould)) (PP (IN for) (NP (NP (JJ human) (NN statue)) (PP (IN of) (NP (NP (NN size)) (NP (NP (CD 375) (NNS mm)) (PP (IN in) (NP (NN height)))))))) (ADVP-MNR-9 (-NONE- *T*))))) (. ?)) )
+( (SINV (ADVP-TPC-1 (RB Here)) (VP (VBZ is) (ADVP-LOC-PRD-1 (-NONE- *T*))) (NP-SBJ (NP (DT a) (NN product) (NN page)) (PP (IN from) (NP (NP (DT a) (NN company)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ makes) (NP (NML (NN mold) (NN making)) (NNS materials))))))))) )
+( (NP (ADD http://www.smooth-on.com/p132/Beginner-Brushable-Mold-Rubber-Options/pages.html)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ is) (NP-PRD (NP (DT a) (NN starting) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB look) (ADVP-LOC-9 (-NONE- *T*))))))))) )

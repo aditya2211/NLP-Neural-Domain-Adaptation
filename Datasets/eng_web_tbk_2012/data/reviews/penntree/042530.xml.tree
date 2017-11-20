@@ -1,0 +1,4 @@
+( (NP (DT a) (NN staple) (. !)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP live) (PP-LOC (IN in) (NP (DT the) (NN neighborhood))))) (CC and) (S (NP-SBJ (DT this) (NN place)) (VP (VBZ is) (NP-PRD (NP (CD one)) (PP (IN of) (NP (NP (PRP$ my) (NNS favorites)) (PP (IN for) (NP (DT a) (ADJP (JJ tasty) (, ,) (JJ quick) (CC and) (JJ inexpensive)) (NN meal)))))))) (. .)) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB Branch) (PRT (RP out))) (CC and) (VP (VB try) (NP (NP (NN something)) (ADJP (JJ other) (PP (IN than) (NP (DT the) (NNP Pad) (NNP Thai)))))))) (, ,) (S (NP-SBJ (DT the) (NNS curries)) (VP (VBP are) (ADJP-PRD (JJ fantastic)))) (. .)) )
+( (FRAG (NP (ADJP (JJ Fast) (CC and) (JJ friendly)) (NN service)) (, ,) (S (NP-SBJ (PRP they)) (VP (VBP know) (NP (PRP$ my) (NN order)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP I)) (VP (VBP walk) (PP-DIR (IN in) (NP (DT the) (NN door))) (ADVP-TMP-9 (-NONE- *T*))))))) (. !)) )

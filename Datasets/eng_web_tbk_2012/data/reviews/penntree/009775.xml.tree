@@ -1,0 +1,5 @@
+( (FRAG (VP (VB Want) (NP (DT a) (JJ great) (NN burger))) (. ?)) )
+( (S (NP-SBJ-1 (DT The) (NN smokehouse)) (VP (MD ca) (RB n't) (VP (VB be) (VP (VBN beat) (NP-1 (-NONE- *)) (ADVP-LOC (RB anywhere))))) (. .)) )
+( (S (S (NP-SBJ-9 (NN Salad) (NN bar)) (VP (VBZ is) (NP-PRD (NN hit) (CC and) (NN miss)) (PP (IN for) (NP (NN freshness))))) (, -) (S (ADVP-TMP (RB sometimes)) (NP-SBJ (DT the) (NN broccoli)) (VP (VBZ looks) (ADJP-PRD (JJ browned) (PP-LOC (IN around) (NP (DT the) (NNS edges)))))) (. .)) )
+( (FRAG (ADVP (RB Never)) (NP (DT a) (JJ bad) (NN smokehouse) (NN burger)) (ADVP (RB though)) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP crave) (NP (DT those))) (. .)) )

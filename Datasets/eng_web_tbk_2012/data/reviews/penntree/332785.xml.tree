@@ -1,0 +1,4 @@
+( (FRAG (NP (NN Thanks)) (PP (IN for) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG following) (NP (PRP me)) (PP (IN around) (NP (DT the) (NN store))))))) )
+( (FRAG (NP-SBJ-1 (JJ Enough)) (VP (VBN said) (NP-1 (-NONE- *))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP do) (RB n't) (VP (VB steal)))) (, ,) (S (NP-SBJ (PRP I)) (VP (VBD was) (RB n't) (VP (VBG acting) (ADVP-MNR (RB suspiciously))))) (. .)) )
+( (S (S (NP-SBJ-9 (PRP I)) (VP (VBD was) (ADJP-PRD (JJ ready) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB buy) (NP (NP (DT a) (JJ new) (NN jacket)) (, ,) (NP (DT a) (JJ new) (NN sweater)) (CC and) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (PRP$ your) (JJ overpriced) (NNS belts))))))))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD walked) (ADVP-DIR (RB out)) (PP-PRP (IN because) (IN of) (NP (PRP$ your) (JJ obvious) (NN lurking)))))) )

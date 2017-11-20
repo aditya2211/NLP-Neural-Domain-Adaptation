@@ -1,0 +1,5 @@
+( (SBARQ (WHNP-9 (WDT What) (NNS foods)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB eat) (NP-9 (-NONE- *T*)) (PP-LOC (IN in) (NP (NNP Miramar))))) (. ?)) )
+( (FRAG (NP (JJ Argentinian) (NNS foods)) (ADVP (RB of) (RB course)) (, ,) (INTJ (UH LMAO)) (. .)) )
+( (INTJ (UH lol) (. !)) )
+( (NP (NN seafood)) )
+( (S (S (NP-SBJ (PRP you)) (VP (VBP mean) (NP (NP (NNP miramar)) (NP-LOC (NNP florida))))) (S (NP-SBJ (PRP theyy)) (VP (VBP have) (NP (JJ good) (NN seafood)) (ADVP-LOC (RB there))))) )

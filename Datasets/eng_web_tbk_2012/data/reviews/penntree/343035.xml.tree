@@ -1,0 +1,3 @@
+( (NP (JJ Excellent) (NN piano) (NNS lessons)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADJP-PRD (RB very) (JJ happy) (PP (IN with) (NP (NP (DT the) (NN piano) (NNS lessons)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (NNP Mrs.) (NNP Lynda) (NNP Mcmanus)) (VP (VBD taught) (NP (PRP me)) (NP-9 (-NONE- *T*))))))))) (. .)) )
+( (S (ADVP-TMP (RB Now)) (NP-SBJ-9 (PRP I)) (VP (VBP 'm) (ADJP-PRD (JJ able) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB play) (NP (DT the) (NN piano)) (ADVP (RB pretty) (RB well))))))) (. .)) )

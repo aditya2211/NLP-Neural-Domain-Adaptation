@@ -1,0 +1,5 @@
+( (S-IMP (NP-VOC (NN Buyer)) (NP-SBJ (-NONE- *PRO*)) (VP (VB beware))) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Do) (RB not) (VP (VB use) (NP (DT these) (NNS guys)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (MD 'll) (VP (VP (VB tell) (NP (PRP you)) (NP (CD one) (NN thing))) (VP (ADVP (RB then)) (ADVP (NP ($ $) (CD 5,000) (-NONE- *U*)) (RBR later)) (VB do) (NP (DT another))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBD Lied) (PP (ADVP (RB right)) (IN to) (NP (PRP$ my) (NN face)))) (VP (ADVP-TMP (RB then)) (VBD denied) (NP (PRP it)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Run) (ADVP (RB away))) (. .)) )

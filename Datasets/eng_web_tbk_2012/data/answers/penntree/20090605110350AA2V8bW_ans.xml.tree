@@ -1,0 +1,3 @@
+( (S (NP-SBJ (NNP Iguazu)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ big) (NML-1 (-NONE- *RNR*))) (CC or) (NP (DT a) (JJ small) (NML-1 (-NONE- *RNR*))) (NML-1 (NN country)))) (. ?)) )
+( (S (NP-SBJ (NNP Iguazu)) (VP (VBZ is) (RB NOT) (NP-PRD (DT a) (NN country))) (. ....)) )
+( (S (NP-SBJ (NNP Iguazu)) (VP (VBZ is) (PP-LOC-PRD (IN in) (NP (NNP Argentina)))) (NFP :-RRB-)) )

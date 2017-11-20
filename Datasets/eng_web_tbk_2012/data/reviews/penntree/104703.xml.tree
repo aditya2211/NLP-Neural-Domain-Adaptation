@@ -1,0 +1,3 @@
+( (FRAG (ADJP (JJS best))) )
+( (NP (NP (JJS Best) (NN pedi) (NN mani)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP ve) (ADVP-TMP (RB ever)) (VP (VBN had) (NP-1 (-NONE- *T*)))))) (. .)) )
+( (S (S (NP-SBJ (NNP Darla)) (VP (VBZ is) (ADJP-PRD (JJ amazing)))) (, ,) (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recoment) (NP (PRP her)) (PP-CLR (IN to) (NP (NN anyone)))))) (. .)) )

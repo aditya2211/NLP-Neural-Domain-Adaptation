@@ -1,0 +1,3 @@
+( (S (NP-SBJ (DT that)) (VP (VBZ is) (SBAR-NOM-PRD (WHADVP-9 (WRB how)) (S (NP-SBJ (PRP i)) (VP (VBP want) (S (NP-SBJ (PRP you)) (VP (TO to) (VP (VB refer) (PP-CLR (IN to) (NP (PRP me))) (ADVP-MNR-9 (-NONE- *T*)))))))) (PP-TPC (IN as) (NP (`` ") (DT the) (NN king) ('' "))))) )
+( (S (NP-SBJ (PRP i)) (VP (VBP do) (RB n't) (VP (VB think) (ADVP-CLR (RB so)))) (. .)) )
+( (S (NP-SBJ (PRP i)) (VP (VBP 'm) (NP-PRD (DT the) (NN king)))) )

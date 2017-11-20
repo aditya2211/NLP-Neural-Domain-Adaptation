@@ -1,0 +1,7 @@
+( (NP (-LRB- [) (ADD http://www.usatoday.com/tech/science/space/2005-03-09-nasa-search_x.htm?csp=34) (-RRB- ])) )
+( (S (SBAR-ADV (IN While) (S (NP-SBJ (EX there)) (VP (VBP have) (VP (VBN been) (NP-PRD (NP (NNS spasms)) (PP (IN of) (NP (NP (NN speculation)) (PP (IN about) (S-NOM (NP-SBJ (DT the) (NNP Bush) (NN administration)) (VP (VBG naming) (NP (NP (DT a) (NN replacement)) (PP (IN for) (NP (NNP O'Keefe)))))))))))))) (, ,) (NP-SBJ-9 (DT no) (NN nominee)) (VP (VBZ has) (VP (VBN been) (VP (VBN declared) (NP-9 (-NONE- *))))) (. .)) )
+( (S (NP-SBJ (NML (NML (NN Shuttle) (NN veteran)) (CC and) (NML (RB longtime) (NNP NASA) (NN executive))) (NNP Fred) (NNP Gregory)) (VP (VBZ is) (ADVP (RB temporarily)) (PP-PRD (IN at) (NP (NP (DT the) (NN helm)) (PP (IN of) (NP (DT the) (NML (CD 18,000) (HYPH -) (NN person)) (NN agency)))))) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ looks) (PP-CLR (IN like) (S-NOM (NP-SBJ (NP (DT the) (NN future)) (PP (IN of) (NP (NN space) (NN exploration)))) (VP (MD might) (ADVP (RB as) (RB well)) (VP (VB be) (PP-PRD (IN with) (NP (DT the) (NN space) (NNS tourists)))))))) (. .)) )
+( (FRAG (ADJP (RB Very) (JJ sad)) (ADVP (RB too)) (SBAR-PRP (IN since) (S (NP-SBJ (NP (NNP NASA) (POS 's)) (NNS astronaut's)) (VP (MD may) (RB not) (VP (VB fly) (PP-TMP (IN in) (NP (DT the) (JJ next) (CD five) (NNS years))))))) (. .)) )
+( (X (NFP --)) )
+( (FRAG (VP (VBN Posted) (NP (-NONE- *)) (PP (IN by) (NP-LGS (NNP Hidden) (NNP Nook))) (PP (IN to) (NP (NNP Hidden) (NNP Nook))) (PP-TMP (IN at) (NP (CD 3/9/2005) (CD 11:16:00) (NN PM))))) )

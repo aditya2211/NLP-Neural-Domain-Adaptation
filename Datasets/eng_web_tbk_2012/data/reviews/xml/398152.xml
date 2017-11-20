@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="398152" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:38 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">398152.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="398152:T1">
+<Signal id="398152:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/398152.txt"></Signal>
+</Timeline>
+<AG id="398152:1" timeline="398152:T1">
+<Metadata>
+<MetadataElement name="endOffset">10</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 1 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="398152:1:1" offset="0.000000"></Anchor>
+<Anchor id="398152:1:2" offset="4.000000"></Anchor>
+<Anchor id="398152:1:3" offset="10.000000"></Anchor>
+<Annotation id="398152:1:E1" type="word" start="398152:1:1" end="398152:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:1:E2" type="word" start="398152:1:2" end="398152:1:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="398152:2" timeline="398152:T1">
+<Metadata>
+<MetadataElement name="endOffset">49</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( NP 2 3 ) ( ADVP 4 ) ( PP-PRP 5 ( NP 6 7 8 9 ) ) ) 10 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="398152:2:1" offset="0.000000"></Anchor>
+<Anchor id="398152:2:2" offset="2.000000"></Anchor>
+<Anchor id="398152:2:3" offset="10.000000"></Anchor>
+<Anchor id="398152:2:4" offset="13.000000"></Anchor>
+<Anchor id="398152:2:5" offset="17.000000"></Anchor>
+<Anchor id="398152:2:6" offset="20.000000"></Anchor>
+<Anchor id="398152:2:7" offset="24.000000"></Anchor>
+<Anchor id="398152:2:8" offset="26.000000"></Anchor>
+<Anchor id="398152:2:9" offset="33.000000"></Anchor>
+<Anchor id="398152:2:A" offset="43.000000"></Anchor>
+<Anchor id="398152:2:B" offset="48.000000"></Anchor>
+<Anchor id="398152:2:C" offset="49.000000"></Anchor>
+<Annotation id="398152:2:E1" type="word" start="398152:2:1" end="398152:2:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:2:E2" type="word" start="398152:2:2" end="398152:2:3">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="398152:2:E3" type="word" start="398152:2:3" end="398152:2:4">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="398152:2:E4" type="word" start="398152:2:4" end="398152:2:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:2:E5" type="word" start="398152:2:5" end="398152:2:6">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="398152:2:E6" type="word" start="398152:2:6" end="398152:2:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:2:E7" type="word" start="398152:2:7" end="398152:2:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:2:E8" type="word" start="398152:2:8" end="398152:2:9">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="398152:2:E9" type="word" start="398152:2:9" end="398152:2:A">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="398152:2:EA" type="word" start="398152:2:A" end="398152:2:B">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:2:EB" type="word" start="398152:2:B" end="398152:2:C">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="398152:3" timeline="398152:T1">
+<Metadata>
+<MetadataElement name="endOffset">117</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( SBAR *0* ( S ( NP-SBJ-9 2 ) ( VP ( VP 3 ( NP 4 ) ( PP-CLR 5 ( NP 6 7 8 ) ) ) 9 10 ( VP 11 ( S ( NP-SBJ-9 *PRO* ) ( VP 12 ( VP 13 ( SBAR 14 ( S ( NP-SBJ 15 16 ) ( VP 17 18 ( VP 19 ( SBAR-ADV 20 ( S ( NP-SBJ 21 ) ( VP 22 ( NP 23 24 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 25 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="398152:3:1" offset="0.000000"></Anchor>
+<Anchor id="398152:3:2" offset="2.000000"></Anchor>
+<Anchor id="398152:3:3" offset="8.000000"></Anchor>
+<Anchor id="398152:3:4" offset="13.000000"></Anchor>
+<Anchor id="398152:3:5" offset="21.000000"></Anchor>
+<Anchor id="398152:3:6" offset="24.000000"></Anchor>
+<Anchor id="398152:3:7" offset="28.000000"></Anchor>
+<Anchor id="398152:3:8" offset="31.000000"></Anchor>
+<Anchor id="398152:3:9" offset="36.000000"></Anchor>
+<Anchor id="398152:3:A" offset="41.000000"></Anchor>
+<Anchor id="398152:3:B" offset="43.000000"></Anchor>
+<Anchor id="398152:3:C" offset="47.000000"></Anchor>
+<Anchor id="398152:3:D" offset="53.000000"></Anchor>
+<Anchor id="398152:3:F" offset="56.000000"></Anchor>
+<Anchor id="398152:3:G" offset="64.000000"></Anchor>
+<Anchor id="398152:3:H" offset="69.000000"></Anchor>
+<Anchor id="398152:3:I" offset="72.000000"></Anchor>
+<Anchor id="398152:3:J" offset="76.000000"></Anchor>
+<Anchor id="398152:3:K" offset="82.000000"></Anchor>
+<Anchor id="398152:3:L" offset="86.000000"></Anchor>
+<Anchor id="398152:3:M" offset="91.000000"></Anchor>
+<Anchor id="398152:3:N" offset="98.000000"></Anchor>
+<Anchor id="398152:3:O" offset="100.000000"></Anchor>
+<Anchor id="398152:3:P" offset="109.000000"></Anchor>
+<Anchor id="398152:3:Q" offset="111.000000"></Anchor>
+<Anchor id="398152:3:R" offset="116.000000"></Anchor>
+<Anchor id="398152:3:S" offset="117.000000"></Anchor>
+<Annotation id="398152:3:E1" type="word" start="398152:3:1" end="398152:3:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:3:E2" type="word" start="398152:3:2" end="398152:3:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="398152:3:E3" type="word" start="398152:3:3" end="398152:3:4">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:3:E4" type="word" start="398152:3:4" end="398152:3:5">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="398152:3:E5" type="word" start="398152:3:5" end="398152:3:6">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:3:E6" type="word" start="398152:3:6" end="398152:3:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:3:E7" type="word" start="398152:3:7" end="398152:3:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:3:E8" type="word" start="398152:3:8" end="398152:3:9">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="398152:3:E9" type="word" start="398152:3:9" end="398152:3:A">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:3:EA" type="word" start="398152:3:A" end="398152:3:B">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="398152:3:EB" type="word" start="398152:3:B" end="398152:3:C">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="398152:3:EC" type="word" start="398152:3:C" end="398152:3:D">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="398152:3:ED" type="word" start="398152:3:D" end="398152:3:F">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="398152:3:EF" type="word" start="398152:3:F" end="398152:3:G">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="398152:3:EG" type="word" start="398152:3:G" end="398152:3:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:3:EH" type="word" start="398152:3:H" end="398152:3:I">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="398152:3:EI" type="word" start="398152:3:I" end="398152:3:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:3:EJ" type="word" start="398152:3:J" end="398152:3:K">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="398152:3:EK" type="word" start="398152:3:K" end="398152:3:L">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="398152:3:EL" type="word" start="398152:3:L" end="398152:3:M">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="398152:3:EM" type="word" start="398152:3:M" end="398152:3:N">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:3:EN" type="word" start="398152:3:N" end="398152:3:O">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:3:EO" type="word" start="398152:3:O" end="398152:3:P">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="398152:3:EP" type="word" start="398152:3:P" end="398152:3:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:3:EQ" type="word" start="398152:3:Q" end="398152:3:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:3:ER" type="word" start="398152:3:R" end="398152:3:S">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="398152:4" timeline="398152:T1">
+<Metadata>
+<MetadataElement name="endOffset">103</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( S ( ADVP-TMP ( NP 0 1 ) 2 ) 3 ( NP-SBJ 4 ) ( VP 5 ( NP 6 7 ) ( PP-DIR 8 ( NP 9 10 ) ) ) ) 11 ( S ( NP-SBJ 12 ) ( VP 13 ( NP 14 15 16 ) ( PP 17 ( NP 18 19 ) ) ) ) 20 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="398152:4:1" offset="0.000000"></Anchor>
+<Anchor id="398152:4:2" offset="4.000000"></Anchor>
+<Anchor id="398152:4:3" offset="12.000000"></Anchor>
+<Anchor id="398152:4:4" offset="18.000000"></Anchor>
+<Anchor id="398152:4:5" offset="20.000000"></Anchor>
+<Anchor id="398152:4:6" offset="22.000000"></Anchor>
+<Anchor id="398152:4:7" offset="27.000000"></Anchor>
+<Anchor id="398152:4:8" offset="30.000000"></Anchor>
+<Anchor id="398152:4:9" offset="34.000000"></Anchor>
+<Anchor id="398152:4:A" offset="39.000000"></Anchor>
+<Anchor id="398152:4:B" offset="43.000000"></Anchor>
+<Anchor id="398152:4:C" offset="50.000000"></Anchor>
+<Anchor id="398152:4:D" offset="54.000000"></Anchor>
+<Anchor id="398152:4:F" offset="57.000000"></Anchor>
+<Anchor id="398152:4:G" offset="64.000000"></Anchor>
+<Anchor id="398152:4:H" offset="68.000000"></Anchor>
+<Anchor id="398152:4:I" offset="78.000000"></Anchor>
+<Anchor id="398152:4:J" offset="83.000000"></Anchor>
+<Anchor id="398152:4:K" offset="88.000000"></Anchor>
+<Anchor id="398152:4:L" offset="95.000000"></Anchor>
+<Anchor id="398152:4:M" offset="102.000000"></Anchor>
+<Anchor id="398152:4:N" offset="103.000000"></Anchor>
+<Annotation id="398152:4:E1" type="word" start="398152:4:1" end="398152:4:2">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="398152:4:E2" type="word" start="398152:4:2" end="398152:4:3">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="398152:4:E3" type="word" start="398152:4:3" end="398152:4:4">
+<Feature name="tag">RBR</Feature>
+</Annotation>
+<Annotation id="398152:4:E4" type="word" start="398152:4:4" end="398152:4:5">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="398152:4:E5" type="word" start="398152:4:5" end="398152:4:6">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:4:E6" type="word" start="398152:4:6" end="398152:4:7">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="398152:4:E7" type="word" start="398152:4:7" end="398152:4:8">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="398152:4:E8" type="word" start="398152:4:8" end="398152:4:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:4:E9" type="word" start="398152:4:9" end="398152:4:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:4:EA" type="word" start="398152:4:A" end="398152:4:B">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:4:EB" type="word" start="398152:4:B" end="398152:4:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:4:EC" type="word" start="398152:4:C" end="398152:4:D">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="398152:4:ED" type="word" start="398152:4:D" end="398152:4:F">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:4:EF" type="word" start="398152:4:F" end="398152:4:G">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="398152:4:EG" type="word" start="398152:4:G" end="398152:4:H">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:4:EH" type="word" start="398152:4:H" end="398152:4:I">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="398152:4:EI" type="word" start="398152:4:I" end="398152:4:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:4:EJ" type="word" start="398152:4:J" end="398152:4:K">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:4:EK" type="word" start="398152:4:K" end="398152:4:L">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="398152:4:EL" type="word" start="398152:4:L" end="398152:4:M">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="398152:4:EM" type="word" start="398152:4:M" end="398152:4:N">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="398152:5" timeline="398152:T1">
+<Metadata>
+<MetadataElement name="endOffset">98</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( SBAR-ADV 0 ( S ( NP-SBJ 1 ) ( VP 2 ( NP-PRD ( NP 3 4 ) ( PP 5 ( NP ( NP 6 ) 7 ( S-NOM ( NP-SBJ-1 *PRO* ) ( VP 8 ( VP 9 ( NP-1 * ) ( PRT 10 ) ) ) ) 11 12 ( NP 13 14 ) ) ) ) ) ) ) 15 ( NP-SBJ 16 ) ( VP 17 ( NP-PRD ( NP 18 19 ) ( PP 20 ( NP 21 ) ) ) ) 22 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="398152:5:1" offset="0.000000"></Anchor>
+<Anchor id="398152:5:2" offset="3.000000"></Anchor>
+<Anchor id="398152:5:3" offset="7.000000"></Anchor>
+<Anchor id="398152:5:4" offset="11.000000"></Anchor>
+<Anchor id="398152:5:5" offset="13.000000"></Anchor>
+<Anchor id="398152:5:6" offset="17.000000"></Anchor>
+<Anchor id="398152:5:7" offset="20.000000"></Anchor>
+<Anchor id="398152:5:8" offset="27.000000"></Anchor>
+<Anchor id="398152:5:9" offset="29.000000"></Anchor>
+<Anchor id="398152:5:A" offset="35.000000"></Anchor>
+<Anchor id="398152:5:B" offset="42.000000"></Anchor>
+<Anchor id="398152:5:C" offset="46.000000"></Anchor>
+<Anchor id="398152:5:D" offset="48.000000"></Anchor>
+<Anchor id="398152:5:F" offset="52.000000"></Anchor>
+<Anchor id="398152:5:G" offset="58.000000"></Anchor>
+<Anchor id="398152:5:H" offset="68.000000"></Anchor>
+<Anchor id="398152:5:I" offset="70.000000"></Anchor>
+<Anchor id="398152:5:J" offset="75.000000"></Anchor>
+<Anchor id="398152:5:K" offset="78.000000"></Anchor>
+<Anchor id="398152:5:L" offset="82.000000"></Anchor>
+<Anchor id="398152:5:M" offset="89.000000"></Anchor>
+<Anchor id="398152:5:N" offset="93.000000"></Anchor>
+<Anchor id="398152:5:O" offset="97.000000"></Anchor>
+<Anchor id="398152:5:P" offset="98.000000"></Anchor>
+<Annotation id="398152:5:E1" type="word" start="398152:5:1" end="398152:5:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:5:E2" type="word" start="398152:5:2" end="398152:5:3">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:5:E3" type="word" start="398152:5:3" end="398152:5:4">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="398152:5:E4" type="word" start="398152:5:4" end="398152:5:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:5:E5" type="word" start="398152:5:5" end="398152:5:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:5:E6" type="word" start="398152:5:6" end="398152:5:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:5:E7" type="word" start="398152:5:7" end="398152:5:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:5:E8" type="word" start="398152:5:8" end="398152:5:9">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="398152:5:E9" type="word" start="398152:5:9" end="398152:5:A">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="398152:5:EA" type="word" start="398152:5:A" end="398152:5:B">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="398152:5:EB" type="word" start="398152:5:B" end="398152:5:C">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="398152:5:EC" type="word" start="398152:5:C" end="398152:5:D">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="398152:5:ED" type="word" start="398152:5:D" end="398152:5:F">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="398152:5:EF" type="word" start="398152:5:F" end="398152:5:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:5:EG" type="word" start="398152:5:G" end="398152:5:H">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="398152:5:EH" type="word" start="398152:5:H" end="398152:5:I">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="398152:5:EI" type="word" start="398152:5:I" end="398152:5:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:5:EJ" type="word" start="398152:5:J" end="398152:5:K">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="398152:5:EK" type="word" start="398152:5:K" end="398152:5:L">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="398152:5:EL" type="word" start="398152:5:L" end="398152:5:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="398152:5:EM" type="word" start="398152:5:M" end="398152:5:N">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:5:EN" type="word" start="398152:5:N" end="398152:5:O">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="398152:5:EO" type="word" start="398152:5:O" end="398152:5:P">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="398152:6" timeline="398152:T1">
+<Metadata>
+<MetadataElement name="endOffset">28</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S-IMP ( SBAR-ADV 0 ( FRAG 1 ) ) 2 ( NP-SBJ *PRO* ) ( VP 3 ( ADVP-DIR ( ADVP 4 ) ( ADVP 5 ) ) ) 6 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="398152:6:1" offset="0.000000"></Anchor>
+<Anchor id="398152:6:2" offset="3.000000"></Anchor>
+<Anchor id="398152:6:3" offset="7.000000"></Anchor>
+<Anchor id="398152:6:4" offset="9.000000"></Anchor>
+<Anchor id="398152:6:5" offset="12.000000"></Anchor>
+<Anchor id="398152:6:6" offset="22.000000"></Anchor>
+<Anchor id="398152:6:7" offset="27.000000"></Anchor>
+<Anchor id="398152:6:8" offset="28.000000"></Anchor>
+<Annotation id="398152:6:E1" type="word" start="398152:6:1" end="398152:6:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="398152:6:E2" type="word" start="398152:6:2" end="398152:6:3">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="398152:6:E3" type="word" start="398152:6:3" end="398152:6:4">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="398152:6:E4" type="word" start="398152:6:4" end="398152:6:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="398152:6:E5" type="word" start="398152:6:5" end="398152:6:6">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="398152:6:E6" type="word" start="398152:6:6" end="398152:6:7">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="398152:6:E7" type="word" start="398152:6:7" end="398152:6:8">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

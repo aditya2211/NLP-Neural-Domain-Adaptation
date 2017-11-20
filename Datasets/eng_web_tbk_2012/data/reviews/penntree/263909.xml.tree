@@ -1,0 +1,4 @@
+( (NP (NP (JJ Great) (NN Service)) (NP (JJ Great) (NNS People))) )
+( (S (S (NP-SBJ-9 (NNP Bisconti)) (VP (VBD wanted) (NP (QP (RB over) ($ $) (CD 300)) (-NONE- *U*)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB fix) (NP (PRP$ my) (NN laptop))))))) (CC and) (S (NP-SBJ (DT these) (NNS guys)) (VP (VBD fixed) (NP (PRP it)) (PP (IN for) (NP ($ $) (CD 90) (-NONE- *U*))))) (. !)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Call) (NP (PRP them)) (NP-TMP (NN today))) (. !)) )
+( (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VP (VBD Had) (S (NP-SBJ-2 (PRP it)) (VP (VBN fixed) (NP-2 (-NONE- *)) (PP-TMP (IN within) (NP (DT a) (JJ few) (NNS days)))))) (-LRB- -LRB-) (VP (VBD had) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB order) (NP (DT a) (NN part)))))) (-RRB- -RRB-)) (. .)) )

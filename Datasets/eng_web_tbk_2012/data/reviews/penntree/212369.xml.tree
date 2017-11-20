@@ -1,0 +1,3 @@
+( (S (NP-SBJ (NN Place)) (VP (VBZ is) (ADJP-PRD (JJ legit))) (. .)) )
+( (S (NP-SBJ-1 (PRP We)) (VP (VBD got) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBN upgraded) (NP-1 (-NONE- *)) (PP-CLR (IN to) (NP (DT a) (NN corner) (NN suite)))))) (. !)) )
+( (S (NP-SBJ (NN Room)) (VP (VBD was) (ADJP-PRD (JJ amazing))) (. .)) )

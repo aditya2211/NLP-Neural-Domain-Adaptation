@@ -1,0 +1,15 @@
+<en=1>10 gallon nano reef ideas ?
+<en=2>I have a 10 gallon nano reef with 10 lbs of live fiji rock , and 10 lbs of live carribean sand .
+<en=3>I am aware of the maintenance involved in keeping a tank this size .
+<en=4>I am currently maintaining a gravity level of 1.024 .
+<en=5>I have a 10 gallon filter on it .
+<en=6>I also have a powerhead , getting another soon .
+<en=7>I have a few questions , first I want to start a sump filter , but I have no idea on how the water intake and water return would work .
+<en=8>How would I need to set a sump for this 10 gallon ?
+<en=9>Do I need a protein skimmer or any other equipment ?
+<en=10>thanks
+<en=11>Unless the tank has a built in overflow box ( which I 'm certain it does n't ) then you have to get one of those hang on back overflow boxes so that you can install a sump .
+<en=12>The piping would lead down into your sump from the overflow box .
+<en=13>On the other end of the sump , you would have a small return pump with a hose that puts the water back into your tank .
+<en=14>If you 're going to go through the trouble of creating a sump for this tank , getting a protein skimmer would n't be a bad idea .
+<en=15>The Hydor SlimSkim Nano is a good nano protein skimmer , it 's an in - tank design that could easily sit in your sump .

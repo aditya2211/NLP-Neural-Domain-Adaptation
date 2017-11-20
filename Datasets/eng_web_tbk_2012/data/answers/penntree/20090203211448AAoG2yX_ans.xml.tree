@@ -1,0 +1,4 @@
+( (NP (NP (JJ Green) (NN Tea)) (CC Or) (NP (JJ White) (NN Tea)) (. ?)) )
+( (FRAG (ADJP (JJ Green))) )
+( (NP (JJ Green) (NN Tea) (. .)) )
+( (NP (JJ Green) (NN tea)) )

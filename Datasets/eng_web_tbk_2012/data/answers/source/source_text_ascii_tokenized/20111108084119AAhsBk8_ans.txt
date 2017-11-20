@@ -1,0 +1,16 @@
+<en=1>My myTouch 4G crashes with most custom ROMs I install .
+<en=2>Can that be fixed ?
+<en=3>I really like the MIUI , but a process crashes repeatedly about every 3 seconds .
+<en=4>And I ca n't even load the newest version of Cyanogen Mod .
+<en=5>not by the company ... as you voided your warrenty by installing custom roms
+<en=6>you are best to either recover to the standard ROM , or find one that does n't crash .
+<en=7>cynangon mod should work .
+<en=8>Have you tried using clockwork recovery ?
+<en=9>Get the older version of Cynagon mod .
+<en=10>Also you could use a stable rom like bugless beast and baked snake .
+<en=11>Those roms focus on speed and stability .
+<en=12>Or you could just use a home screen launcher replacement .
+<en=13>I would recommend go launcher or adw launcher .
+<en=14>They are both excellent and speed up the phone quite a bit .
+<en=15>As a mytouch 4g owner I know the phone is pretty fast and their is no point installing a rom .
+<en=16>Hope you read through this .

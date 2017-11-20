@@ -1,0 +1,8 @@
+( (UCP (PP (IN On) (NP (NN time))) (, ,) (ADJP (JJ Clean)) (CC and) (ADJP (RB very) (JJ nice))) )
+( (S (NP-SBJ (PRP I)) (VP (VBD called) (PP-TMP (IN over) (NP (DT the) (NN weekend))) (PP-PRP (IN due) (IN to) (NP (VBN clogged) (NN kitchen) (NN sink)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBN Scheduled) (NP (NP (NN appointment)) (PP (IN for) (NP (CD 8:30) (NNP Monday) (NN morning))))) (. .)) )
+( (S (NP-SBJ (NNP Rich)) (VP (VBD was) (ADVP-LOC-PRD (RB here)) (PP-TMP (IN before) (NP (DT the) (VBN scheduled) (NN time)))) (. .)) )
+( (S (NP-SBJ-9 (PRP He)) (VP (VP (VBD was) (ADJP-PRD (ADJP (RB very) (JJ clean)) (, ,) (ADJP (ADJP (RB very) (JJ nice)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB work) (PP-CLR (IN with) (NP-1 (-NONE- *T*)))))))))) (CC and) (VP (VBD gave) (NP (DT a) (ADJP (RB very) (JJ reasonable)) (NN price)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (ADVP (RB HIGHLY)) (VP (VBP recommend)) (. .)) )
+( (FRAG (NP (NN thanks)) (NP (NNP Rich))) )
+( (NP (NNP Seth) (NNP K) (. .)) )

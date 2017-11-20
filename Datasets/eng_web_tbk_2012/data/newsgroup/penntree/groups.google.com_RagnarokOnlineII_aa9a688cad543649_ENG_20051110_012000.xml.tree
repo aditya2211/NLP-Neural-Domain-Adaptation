@@ -1,0 +1,4 @@
+( (FRAG (NP (NN Email)) (: :) (NP (ADD franz371...@gmail.com))) )
+( (S-HLN (NP-SBJ-1 (NN Site)) (VP (VBN made) (NP-1 (-NONE- *))) (. !)) )
+( (S (CC and) (S (NP-SBJ (PRP it)) (VP (VBZ seems) (SBAR (-NONE- *0*) (S (NP-SBJ (DT this)) (VP (VBZ is) (NP-PRD (NP (DT the) (JJ FIRST) (NN site)) (PP (IN of) (NP (NNP ragnarok) (NNP 2))))))))) (INTJ (UH hahaha)) (S-IMP (SBAR-PRP (IN since) (S (NP-SBJ (DT the) (NN site)) (VP (VBZ is) (ADJP-PRD (JJ new))))) (NP-SBJ (-NONE- *PRO*)) (VP (VB send) (NP (PRP me)) (NP (PRP$ your) (NNS suggestions) (CC and) (NNS comments))))) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Reply))) )

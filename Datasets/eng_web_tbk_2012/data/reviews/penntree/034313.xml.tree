@@ -1,0 +1,4 @@
+( (NP (NML (JJ criminal) (NN defense)) (NN lawyer)) )
+( (S (NP-SBJ (NNP Mr.) (NNP Villega)) (VP (VBZ is) (NP-PRD (DT an) (JJ exceptional) (NNP California) (NML (JJ criminal) (NN defense)) (NN lawyer))) (. .)) )
+( (S (NP-SBJ (PRP He)) (VP (VP (VB cross) (VBD examined) (NP (NNS witnesses)) (ADVP (RB relentlessly))) (CC and) (VP (VBD had) (S (NP-SBJ (PRP them)) (VP (VP (VB break) (PRT (RP down))) (CC and) (VP (VB tell) (NP (DT the) (NN truth))))))) (. .)) )
+( (S-IMP (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP (NP (DT an) (NN attorney)) (SBAR (WHNP-1 (WP who)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (MD will) (VP (VB defend) (NP (PRP$ your) (NN right)))))))))) (, ,) (NP-SBJ (-NONE- *PRO*)) (VP (VB contact) (NP (NP (NNP Law) (NNPS Offices)) (PP (IN of) (NP (NNP Armando) (NNP Villega)))))) )

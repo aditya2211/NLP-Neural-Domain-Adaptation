@@ -1,0 +1,7 @@
+( (FRAG (ADJP (JJ Horrible))) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VP (VBP have) (VP (VBN been) (VP (VBG growing) (NP (PRP$ my) (NN hair)) (ADVP (RB out)) (PP-TMP (IN for) (NP (CD 1) (NN year) (QP (RB plus))))))) (CC and) (VP (VBD went) (ADVP-DIR (RB in)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (S (NP-SBJ-1 (CD 1) (NN inch)) (VP (VBN taken) (NP-1 (-NONE- *)) (PRT (RP off))))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD walked) (ADVP-DIR (RB out)) (PP (IN with) (NP (NP (NP (ADJP (NP (CD 5) (NN inch)) (JJ long)) (NN hair)) (PP-LOC (IN on) (NP (DT the) (NN top)))) (, ,) (NP (NP (QP (NP (CD 2) (NN inch)) (JJ long)) (NN hair)) (PP-LOC (IN on) (NP (DT the) (NNS sides)))) (, ,) (CC and) (NP (NP (CD 1.5)) (PP-LOC (IN in) (NP (DT the) (NN back))))))) (. .)) )
+( (S (S (NP-SBJ (PRP$ My) (NN hair)) (VP (VBZ is) (ADJP-PRD (JJ uneven)))) (CC and) (S (NP-SBJ (PRP it)) (VP (VBZ looks) (ADJP-PRD (JJ rediculous)))) (. .)) )
+( (S (NP-SBJ (DT This) (NN woman)) (VP (MD should) (VP (VB be) (VP (VBG working) (PP (IN in) (NP (NNP supercuts))) (, ...) (SBAR-ADV (IN if) (FRAG (NP (DT that))))))) (. .)) )
+( (S (S (NP-SBJ (DT This)) (VP (VBD was) (NP-PRD (DT a) (JJ terrible) (NN experience)))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBP hope) (SBAR (IN that) (S (NP-SBJ (NP (DT no) (NN one)) (ADJP (JJ else))) (VP (VBZ goes) (PP (IN through) (NP (DT that)))))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB Do) (NP (GW your) (PRP self)) (NP (DT a) (NN favor))) (CC and) (VP (VB do) (RB not) (VP (VB go) (PP-DIR (IN to) (NP (DT this) (NN establishment)))))) (. .)) )

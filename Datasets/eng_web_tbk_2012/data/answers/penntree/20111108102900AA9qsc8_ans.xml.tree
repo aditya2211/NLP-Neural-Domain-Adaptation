@@ -1,0 +1,7 @@
+( (SQ (VBZ is) (NP-SBJ (NNP r2d2)) (NP-PRD (NP (DT a) (JJ stupid) (NN name)) (PP (IN for) (NP (DT a) (NN cat)))) (. ?)) )
+( (S (NP-SBJ (PRP i)) (VP (MD could) (VP (VB call) (NP-1 (PRP him)) (S-CLR (NP-SBJ-1 (-NONE- *PRO*)) (NP-PRD (NNP r2))) (PP (IN for) (ADJP (JJ short)))))) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN cat)) (VP (VBN named) (NP-1 (-NONE- *)) (S-CLR (NP-SBJ-1 (-NONE- *PRO*)) (NP-PRD (NNP GummiBear))))))) (, ,) (S (ADVP (RB so)) (INTJ (UH no)) (, ,) (NP-SBJ (NNP R2D2)) (VP (VBZ is) (RB not) (NP-PRD (DT a) (JJ stupid) (NN name)))) (. .)) )
+( (S (S (NP-SBJ (PRP it)) (VP (VBZ s) (NP-PRD (PRP$ your) (NN cat)))) (S (NP-SBJ (PRP you)) (VP (MD can) (VP (VB pick) (NP (NP (DT and) (NN name)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP-1 (-NONE- *T*)))))))))) )
+( (INTJ (UH Hell) (UH no) (. .)) )
+( (S (NP-SBJ (DT That)) (VP (VBZ s) (NP-PRD (DT a) (JJ great) (NN name))) (. .)) )
+( (NP (NN Kudos) (. .)) )

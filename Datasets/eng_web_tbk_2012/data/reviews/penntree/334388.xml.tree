@@ -1,0 +1,6 @@
+( (NP (DT No) (NN way) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VP (VBP 'm) (ADVP (RB certainly)) (NP-PRD=1 (NP (DT no) (NN expert)) (PP (IN on) (NP (JJ asian) (NN food))))) (VP (PP (IN in) (NP (NN fact))) (RB not) (NP-PRD=1 (NP (RB even) (DT a) (NN lover)) (PP (IN of) (NP (JJ Vietnamese) (NN food))))))) (CC but) (S (NP-SBJ-9 (PRP I)) (VP (VBD wanted) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB try) (NP (NP (DT the) (JJ real) (NNS things)) (ADVP-LOC (RB here)) (PP-LOC (IN at) (NP (NNP A) (NNP Dong))))))))) (. .)) )
+( (S (NP-SBJ (JJ Cold) (, ,) (JJ slimy) (, ,) (JJ tasteless)) (ADVP (RB however)) (VP (VBZ is) (NP-PRD (DT the) (JJ same)) (PP (IN in) (NP (DT all) (NNS languages) (CC and) (NNS foods)))) (. .)) )
+( (UCP (FRAG (ADJP (RB Not) (JJ good)) (, ,) (ADJP (RB not) (JJ great))) (, ,) (CC and) (NP (NP (ADVP (RB again)) (DT another) (NN disappointment)) (PP-LOC (IN in) (NP (NNP Central) (NNP Iowa)))) (. .)) )
+( (SBARQ (WHADVP-9 (WRB How)) (SQ (VBP do) (NP-SBJ (DT these) (NNS places)) (VP (VB stay) (PP (IN in) (NP (NN business))) (ADVP-9 (-NONE- *T*)))) (. .)) )
+( (S (S (NP-SBJ (DT This) (NN town)) (VP (VBZ needs) (NP (DT some) (NN food) (NN soul)))) (CC and) (S (NP-SBJ (DT this)) (VP (VBZ is) (RB not) (NP-PRD (PRP it)))) (. .)) )

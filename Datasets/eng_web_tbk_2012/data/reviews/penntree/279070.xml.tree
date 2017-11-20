@@ -1,0 +1,4 @@
+( (NP (JJ Great) (NN Meal)) )
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Happened) (PP (IN on) (PP (IN to) (NP (DT this) (NN place)))) (SBAR-TMP (IN while) (S (FRAG (PP-PRD (IN out) (PP (IN of) (NP (NN town)))) (PP (IN on) (NP (NN business)))))))) (, ,) (CC and) (S (NP-SBJ (PRP it)) (VP (VBD was) (ADJP-PRD (JJ great)))) (. !)) )
+( (S (S (NP-SBJ (DT The) (NN food)) (VP (VBD was) (ADJP-PRD (JJ excellent)))) (CC and) (S (NP-SBJ (DT the) (NN service)) (VP (VBD was) (ADJP-PRD (JJ terrific)))) (. .)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ is) (NP-PRD (NP (DT a) (NN cloth) (NN napkin) (NN kind)) (PP (IN of) (NP (NN place)))))) (, ,) (CC but) (S (NP-SBJ (PRP I)) (VP (VBD thought) (SBAR (-NONE- *0*) (FRAG (ADJP (RB well) (JJ worth) (NP (PRP it))))))) (. .)) )

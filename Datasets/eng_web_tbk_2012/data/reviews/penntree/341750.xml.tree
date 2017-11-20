@@ -1,0 +1,6 @@
+( (FRAG (ADJP (RB Not) (RB so) (JJ good))) )
+( (FRAG (ADJP (RB Not) (JJ worth) (NP (DT the) (NN money))) (. .)) )
+( (FRAG (ADJP (ADJP (JJ Bland)) (CC and) (ADJP (GW over) (JJ cooked))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD felt) (SBAR-PRD (IN as) (IN if) (S (NP-SBJ (PRP I)) (VP (VBD was) (PP-LOC-PRD (IN in) (NP (DT an) (ADJP (GW over) (JJ priced)) (NNP Olive) (NNP Garden))))))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD was) (VP (VBG hoping) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB have) (VP (VBN found) (NP (NP (DT a) (JJ regular) (NN place)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB eat) (ADVP-LOC-1 (-NONE- *T*))))))))))))) (. .)) )
+( (FRAG (CC But) (RB not) (ADVP (RB so)) (. .)) )

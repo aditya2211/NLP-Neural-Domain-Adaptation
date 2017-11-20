@@ -1,0 +1,2 @@
+( (FRAG (NP (NNS kudos)) (PP (IN to) (NP (NML (NNP Allentown) (NNP Post) (NNP Office)) (NNS staff)))) )
+( (S (NP-SBJ (NP (DT The) (NNS staff)) (PP-LOC (IN in) (NP (NNP Allentown)))) (VP (VBP are) (UCP-PRD (ADJP (JJ friendly)) (, ,) (ADJP (JJ helpful)) (CC and) (NP (NP (DT a) (NN delight)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB know) (NP-1 (-NONE- *T*))))))))) (. ..)) )

@@ -1,0 +1,4 @@
+( (SBARQ (WHNP-1 (WDT Which)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB prefer) (NP-1 (-NONE- *T*)) (NP-TPC (NN Crab) (CC or) (NN Shrimp)))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP like) (NP (NP (NN shrimp)) (, ,) (VP (VBN fried) (, ,) (VBN grilled) (, ,) (CC or) (VBN steamed) (NP (-NONE- *))))) (. .)) )
+( (NP (NN crab)) )
+( (NP (NN shrimp)) )

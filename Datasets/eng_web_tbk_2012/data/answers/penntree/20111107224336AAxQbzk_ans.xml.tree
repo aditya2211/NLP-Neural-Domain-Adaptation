@@ -1,0 +1,4 @@
+( (SQ (VBZ does) (NP-SBJ (NP (NP (NN teacher) (POS 's)) (NN camp)) (PP-LOC (IN in) (NP (NNP baguio)))) (ADVP (RB also)) (VP (VB accomodate) (NP (RB even) (CD 1) (NN person))) (. ??)) )
+( (SBAR (IN cos) (S (S (NP-SBJ (PRP i)) (VP (MD ll) (VP (VB be) (VP (VBG going) (PP-DIR (IN to) (NP (NNP baguio))) (ADVP (RB alone)))))) (CC and) (S (NP-SBJ (PRP i)) (VP (VBP have) (NP (JJ tight))))) (. ?)) )
+( (NP (ADD http://www.couchsurfing.org/)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB try) (NP (NML (NN couch) (NN surfing)) (NN po))) (. .)) )

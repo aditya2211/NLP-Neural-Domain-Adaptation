@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:41 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Signal id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000.txt"></Signal>
+</Timeline>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">73</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( SBAR *0* ( S ( NP-SBJ 2 ) ( VP 3 ( VP 4 ( NP 5 6 ) ( PP 7 ( S-NOM ( NP-SBJ *PRO* ) ( VP 8 ( NP 9 10 ) ) ) ) ) ) ) ) ) 11 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:2" offset="5.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:3" offset="10.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:4" offset="13.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:5" offset="16.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:6" offset="25.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:7" offset="33.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:8" offset="40.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:9" offset="48.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:A" offset="56.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:B" offset="64.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:C" offset="72.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:D" offset="73.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:4">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:5">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:6">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:7">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:A">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:B">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:C">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:1:D">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">59</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 2 ) ( VP 3 4 ( VP 5 ( NP 6 7 8 ) ) ) 9 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:3" offset="11.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:4" offset="18.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:5" offset="23.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:6" offset="27.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:7" offset="35.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:8" offset="39.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:9" offset="47.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:A" offset="58.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:B" offset="59.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:5">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:6">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:7">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:9">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:A">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:2:B">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">40</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( NP 3 4 5 ) ) ) 6 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:3" offset="8.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:4" offset="16.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:5" offset="20.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:6" offset="28.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:7" offset="39.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:8" offset="40.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:4">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:3:8">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">23</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S 0 ( NP-SBJ 1 ) ( VP 2 ( NP-PRD 3 4 ) ) 5 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:3" offset="10.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:4" offset="13.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:5" offset="16.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:6" offset="22.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:7" offset="23.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:2">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:3">
+<Feature name="tag">EX</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:4">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:4:7">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">142</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( S ( NP-SBJ 0 ) ( VP 1 ( NP ( NP ( NP 2 3 ) ( PP-LOC 4 ( NP 5 6 ) ) ) ( VP 7 ( NP 8 9 10 ) ( PP-CLR 11 ( S-NOM ( NP-SBJ-9 *PRO* ) ( VP 12 ( ADJP-PRD 13 ( S ( NP-SBJ-9 *PRO* ) ( VP 14 ( VP 15 ( NP 16 17 18 ) ) ) ) ) ) ) ) ) ) ) ) 19 ( S ( NP-SBJ 20 ) ( VP 21 ( PP-CLR 22 ( NP 23 24 ) ) ) ) 25 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:2" offset="2.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:3" offset="7.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:4" offset="10.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:5" offset="18.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:6" offset="21.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:7" offset="26.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:8" offset="35.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:9" offset="44.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:A" offset="48.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:B" offset="56.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:C" offset="67.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:D" offset="70.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:F" offset="76.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:G" offset="84.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:H" offset="87.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:I" offset="93.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:J" offset="95.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:K" offset="103.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:L" offset="107.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:M" offset="111.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:N" offset="113.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:O" offset="124.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:P" offset="129.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:Q" offset="133.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:R" offset="141.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:S" offset="142.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:3">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:4">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:7">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:8">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:9">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:A">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:B">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:F">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EF" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:F" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:G">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EG" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:G" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:H">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EH" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:H" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:I">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EI" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:I" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EJ" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:J" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:K">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EK" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:K" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:L">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EL" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:L" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:M">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EM" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:M" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:N">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EN" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:N" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:O">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EO" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:O" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:P">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EP" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:P" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:EQ" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:Q" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:ER" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:R" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:5:S">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">120</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( ADVP 2 ) ( VP 3 ( ADJP-PRD 4 ( PP 5 ( NP 6 ( NML 7 8 ) 9 10 ) ) ) ( PP 11 ( NP ( NP 12 ) ( PP 13 ( NP 14 15 16 ) ) ) ) ) ) 17 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:2" offset="5.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:3" offset="9.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:4" offset="19.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:5" offset="25.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:6" offset="31.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:7" offset="34.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:8" offset="38.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:9" offset="45.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:A" offset="53.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:B" offset="62.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:C" offset="70.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:D" offset="73.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:F" offset="84.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:G" offset="89.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:H" offset="93.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:I" offset="112.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:J" offset="119.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:K" offset="120.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:5">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:9">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:B">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:C">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EF" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:F" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:G">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EG" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:G" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:H">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EH" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:H" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EI" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:I" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:EJ" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:J" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:6:K">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">136</MetadataElement>
+<MetadataElement name="paragraph">7</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 ) ( VP 2 ( ADVP 3 ) ( VP 4 ( SBAR *0* ( S ( NP-SBJ-9 5 ) ( VP 6 ( VP 7 ( S ( NP-SBJ-9 *PRO* ) ( VP 8 ( VP 9 ( S ( NP-SBJ-2 10 ) ( VP 11 ( NP-2 * ) ( PP 12 ( NP 13 14 ) ) ) ) ( SBAR-ADV ( WHNP-3 15 ) ( S ( NP-SBJ-1 16 ) ( VP 17 18 ( ADVP 19 ) ( VP 20 ( S ( NP-SBJ-1 * ) ( VP 21 ( VP 22 ( NP-3 *T* ) ( PP 23 ( NP 24 25 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 26 ) )</MetadataElement>
+<MetadataElement name="segId">7</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:3" offset="14.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:4" offset="18.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:5" offset="23.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:6" offset="28.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:7" offset="31.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:8" offset="37.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:9" offset="42.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:A" offset="45.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:B" offset="49.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:C" offset="56.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:D" offset="62.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:F" offset="66.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:G" offset="70.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:H" offset="74.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:I" offset="80.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:J" offset="83.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:K" offset="89.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:L" offset="93.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:M" offset="98.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:N" offset="104.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:O" offset="107.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:P" offset="111.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:Q" offset="119.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:R" offset="127.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:S" offset="135.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:U" offset="136.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:4">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:5">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:6">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:7">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:8">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:9">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:A">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:B">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:C">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:D">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:F">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EF" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:F" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:G">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EG" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:G" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:H">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EH" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:H" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:I">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EI" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:I" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:J">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EJ" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:J" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:K">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EK" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:K" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:L">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EL" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:L" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:M">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EM" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:M" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:N">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EN" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:N" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:O">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EO" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:O" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:P">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EP" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:P" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:Q">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:EQ" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:Q" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:R">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:ER" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:R" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:S">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:ES" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:S" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:7:U">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">71</MetadataElement>
+<MetadataElement name="paragraph">8</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S 0 ( NP-SBJ 1 ) ( VP 2 ( VP 3 ( SBAR 4 ( S ( NP-SBJ 5 ) ( VP 6 ( NP 7 8 ) ( PP-PRP 9 ( NP 10 11 ) ) ) ) ) ) ) 12 ) )</MetadataElement>
+<MetadataElement name="segId">8</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:3" offset="7.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:4" offset="11.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:5" offset="20.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:6" offset="25.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:7" offset="28.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:8" offset="34.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:9" offset="42.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:A" offset="48.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:B" offset="52.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:C" offset="61.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:D" offset="70.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:F" offset="71.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:2">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:3">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:4">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:5">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:7">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:8">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:9">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:A">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:B">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:C">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:D">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:8:F">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">75</MetadataElement>
+<MetadataElement name="paragraph">9</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 0 1 ) ( VP 2 ( S ( NP-SBJ-9 *PRO* ) ( VP 3 ( VP 4 ( NP 5 ) ( PP 6 ( NP 7 ) ) ( PP 8 9 ( NP 10 11 ) ) ) ) ) ) 12 ) )</MetadataElement>
+<MetadataElement name="segId">9</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:2" offset="5.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:3" offset="12.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:4" offset="17.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:5" offset="20.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:6" offset="24.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:7" offset="34.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:8" offset="39.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:9" offset="44.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:A" offset="51.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:B" offset="56.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:C" offset="65.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:D" offset="74.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:F" offset="75.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:3">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:4">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:5">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:9">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:B">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:C">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:D">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:9:F">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">25</MetadataElement>
+<MetadataElement name="paragraph">10</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( SQ 0 1 ( NP-SBJ 2 ) ( VP 3 ) 4 ) )</MetadataElement>
+<MetadataElement name="segId">10</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:3" offset="9.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:4" offset="19.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:5" offset="24.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:6" offset="25.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:2">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:A:6">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">52</MetadataElement>
+<MetadataElement name="paragraph">11</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( SQ 0 1 ( NP-SBJ 2 ) ( VP 3 ( NP 4 5 ) ( PP 6 ( NP 7 ) ) ) 8 ) )</MetadataElement>
+<MetadataElement name="segId">11</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:3" offset="8.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:4" offset="15.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:5" offset="19.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:6" offset="28.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:7" offset="37.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:8" offset="45.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:9" offset="51.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:A" offset="52.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:2">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:B:A">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">108</MetadataElement>
+<MetadataElement name="paragraph">12</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 ) ( VP 2 ( PRT 3 ) ( SBAR 4 ( S ( NP-SBJ 5 6 ) ( VP 7 ( NP ( NP 8 9 ) ( PP-LOC 10 ( NP 11 12 ) ) ) ( SBAR-TMP ( WHADVP-9 13 ) ( S ( NP-SBJ 14 ) ( VP 15 ( NP-1 16 ) ( S-CLR ( NP-SBJ-1 *PRO* ) ( NP-PRD 17 ) ) ( ADVP-TMP-9 *T* ) ) ) ) ) ) ) ) 18 ) )</MetadataElement>
+<MetadataElement name="segId">12</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:3" offset="11.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:4" offset="19.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:5" offset="23.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:6" offset="28.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:7" offset="32.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:8" offset="42.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:9" offset="50.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:A" offset="54.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:B" offset="64.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:C" offset="67.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:D" offset="71.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:F" offset="79.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:G" offset="84.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:H" offset="89.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:I" offset="94.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:J" offset="99.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:K" offset="107.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:L" offset="108.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:2">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:4">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:5">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:8">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:9">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:A">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:B">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:C">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:D">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EF" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:F" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:G">
+<Feature name="tag">WRB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EG" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:G" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:H">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EH" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:H" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:I">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EI" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:I" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:J">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EJ" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:J" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:K">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:EK" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:K" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:C:L">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">20</MetadataElement>
+<MetadataElement name="paragraph">13</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( NP 3 ) ) ) 4 ) )</MetadataElement>
+<MetadataElement name="segId">13</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:2" offset="3.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:3" offset="7.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:4" offset="14.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:5" offset="19.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:6" offset="20.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:4">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:D:6">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">31</MetadataElement>
+<MetadataElement name="paragraph">14</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 0 ) ( VP 1 2 ( VP 3 ( S ( NP-SBJ-9 * ) ( VP 4 ( VP 5 ( NP 6 ) ) ) ) ) ) 7 ) )</MetadataElement>
+<MetadataElement name="segId">14</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:2" offset="3.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:3" offset="6.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:4" offset="10.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:5" offset="15.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:6" offset="18.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:7" offset="26.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:8" offset="30.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:9" offset="31.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:6">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:7">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:8">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:F:9">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">24</MetadataElement>
+<MetadataElement name="paragraph">15</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S 0 ( NP-SBJ 1 ) ( VP 2 3 ( VP 4 ( NP 5 ) ) ) 6 ) )</MetadataElement>
+<MetadataElement name="segId">15</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:2" offset="4.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:3" offset="7.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:4" offset="10.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:5" offset="14.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:6" offset="20.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:7" offset="23.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:8" offset="24.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:2">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:3">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:4">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:5">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:7">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:G:8">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H" timeline="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:T1">
+<Metadata>
+<MetadataElement name="endOffset">90</MetadataElement>
+<MetadataElement name="paragraph">16</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( SBAR 3 ( S ( NP-SBJ 4 ) ( ADVP 5 ) ( VP ( VP 6 ( NP 7 ) ) 8 ( VP ( ADVP-TMP 9 ) 10 ( PP 11 ( NP ( NP 12 ) ( PP 13 ( NP 14 ) ) ) ) ) ) ) ) ) ) 15 ) )</MetadataElement>
+<MetadataElement name="segId">16</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:1" offset="0.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:2" offset="3.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:3" offset="8.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:4" offset="13.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:5" offset="18.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:6" offset="27.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:7" offset="38.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:8" offset="43.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:9" offset="54.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:A" offset="58.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:B" offset="63.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:C" offset="68.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:D" offset="75.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:F" offset="80.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:G" offset="83.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:H" offset="89.000000"></Anchor>
+<Anchor id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:I" offset="90.000000"></Anchor>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E1" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:1" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E2" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:2" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E3" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:3" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:4">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E4" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:4" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:5">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E5" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:5" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:6">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E6" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:6" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:7">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E7" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:7" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:8">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E8" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:8" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:E9" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:9" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:A">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:EA" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:A" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:B">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:EB" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:B" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:C">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:EC" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:C" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:ED" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:D" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:EF" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:F" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:G">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:EG" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:G" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:H">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:EH" type="word" start="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:H" end="blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000:H:I">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

@@ -1,0 +1,8 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBG Studying) (PP-LOC (IN in) (NP (NP (NNP Quebec)) (, ,) (NP-LOC (NNP Canada))))) (. ?)) )
+( (SBAR (IN If) (S (NP-SBJ (PRP I)) (VP (VBD went) (PP (IN into) (NP (DT the) (`` ") (JJ pre-university) ('' ") (NN direction))) (SBAR-ADV (IN with) (S (NP-SBJ (NN business) (NN administration)) (PP-PRD (IN in) (NP (NN mind))))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Say) (SBAR-TMP (IN after) (S (S (NP-SBJ (PRP I)) (VP (VBD finished) (NP (DT those) (CD 2) (NNS years)))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD found) (NP (DT a) (NN job))))))) (. .)) )
+( (SQ (MD would) (NP-SBJ-9 (PRP I)) (VP (VB be) (ADJP-PRD (JJ able) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB go) (ADVP-DIR (RB back) (PP (IN to) (NP (NN school)))) (PP-TMP (IN after) (NP (NP (DT a) (NN year) (NN break)) (PP-LOC (IN at) (NP (DT a) (NN university))))) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (NP (DT a) (NP (NNP Bachelor) (POS s)) (NN degree)) (PP (IN in) (NP (NN business) (NN administration)))))))))))) (. ?)) )
+( (S (NP-SBJ (DT Any) (NN information)) (VP (MD would) (VP (VB help))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you)))) )
+( (S (NP-SBJ-1 (PRP You)) (VP (MD should) (VP (VB be) (ADJP-PRD (JJ able) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (-NONE- *?*))))) (NP-ADV (DT no) (NN problem)))) (. .)) )
+( (S (NP-SBJ (NNS Universities)) (VP (MD will) (VP (VB take) (NP (PRP you)) (SBAR-ADV (WHNP-9 (WDT whatever) (NN age)) (S (NP-SBJ (PRP you)) (VP (VBP are) (NP-PRD-9 (-NONE- *T*))))))) (. .)) )

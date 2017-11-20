@@ -1,0 +1,4 @@
+( (NP (PRP$ My) (JJ favorite) (NN place) (, ...)) )
+( (S (NP-SBJ (NP (PRP$ My) (NN daughter)) (CC and) (NP (PRP I))) (VP (VBD stayed) (ADVP-LOC (RB here)) (ADVP (RB again)) (PP-TMP (IN from) (NP (DT the) (NN 7th))) (PP-TMP (IN to) (NP (NP (DT the) (NN 14th)) (PP (IN of) (NP (NNP December)))))) (. .)) )
+( (S (ADVP-TMP (RB yet) (RB again)) (NP-SBJ (PRP it)) (VP (VBD was) (NP-PRD (NP (DT a) (JJ great) (NN stay)) (PP-TMP (IN from) (NP (NN begiinning))) (PP-TMP (IN to) (NP (NN end))))) (. .)) )
+( (S (INTJ (UH Okay)) (S (NP-SBJ (PRP$ our) (NN room)) (VP (VBD was) (PP (IN at) (NP (NNS times))) (ADJP-PRD (JJ noisy)))) (CC but) (S (NP-SBJ (PRP we)) (VP (VBD were) (PP-LOC-PRD (IN in) (NP (DT a) (ADJP (AFX mega) (JJ busy)) (NN city))) (PP-PRP (IN at) (NP (NP (DT an) (ADJP (RB extremely) (JJ busy)) (NN time)) (PP (IN of) (NP (NN year))))))) (. .)) )

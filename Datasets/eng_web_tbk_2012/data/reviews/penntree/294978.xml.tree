@@ -1,0 +1,3 @@
+( (FRAG (RB not) (ADJP (JJ impressive) (RB enough))) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ 's) (NP-PRD (DT a) (JJ fine) (NN place)))) (, ,) (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADVP (RB just)) (ADJP-PRD (NP (DT a) (JJ little)) (JJ mystified) (PP (IN about) (NP (DT the) (NNP Michelin) (NN star)))))) (. .)) )
+( (FRAG (NP (NP (NN Nothing)) (ADJP (JJ wrong) (PP (IN with) (NP (PRP it))))) (, ,) (ADVP (RB just)) (NP (NP (JJR better) (NNS options)) (PP (IN at) (NP (DT this) (NN price) (NN point)))) (. .)) )

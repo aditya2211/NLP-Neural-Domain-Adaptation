@@ -1,0 +1,2 @@
+( (NP (NP (JJ Good) (NN food)) (, ,) (NP (JJ good) (NN location)) (, ,) (CC and) (NP (JJ good) (NNS prices)) (. .)) )
+( (S (CC But) (NP-SBJ (DT the) (NNS servers)) (VP (VBP do) (RB n't) (VP (VB pay) (NP-CLR (NN attention)) (PP-CLR (IN to) (NP (PRP you))) (SBAR-ADV (IN whether) (S (NP-SBJ (PRP it)) (VP (VBZ 's) (ADJP-PRD (JJ busy))) (CC or) (VP (FRAG (RB not))))))) (. .)) )

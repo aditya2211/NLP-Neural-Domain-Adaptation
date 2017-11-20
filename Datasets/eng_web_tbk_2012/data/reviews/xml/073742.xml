@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="073742" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:37:45 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">073742.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="073742:T1">
+<Signal id="073742:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/073742.txt"></Signal>
+</Timeline>
+<AG id="073742:1" timeline="073742:T1">
+<Metadata>
+<MetadataElement name="endOffset">19</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( ADVP-TMP 2 ) ( ADJP-PRD 3 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="073742:1:1" offset="0.000000"></Anchor>
+<Anchor id="073742:1:2" offset="5.000000"></Anchor>
+<Anchor id="073742:1:3" offset="8.000000"></Anchor>
+<Anchor id="073742:1:4" offset="15.000000"></Anchor>
+<Anchor id="073742:1:5" offset="19.000000"></Anchor>
+<Annotation id="073742:1:E1" type="word" start="073742:1:1" end="073742:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="073742:1:E2" type="word" start="073742:1:2" end="073742:1:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="073742:1:E3" type="word" start="073742:1:3" end="073742:1:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="073742:1:E4" type="word" start="073742:1:4" end="073742:1:5">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

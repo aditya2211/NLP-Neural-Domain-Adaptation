@@ -1,0 +1,5 @@
+( (S (NP-SBJ (DT these) (NNS guys)) (VP (VBD were) (ADJP-PRD (JJ fantastic))) (. !)) )
+( (S (NP-SBJ (PRP they)) (VP (VBD fixed) (NP (PRP$ my) (NN garage) (NNS doors)) (PP-TMP (IN in) (NP (QP (RB literally) (JJR less) (IN than) (DT an)) (NN hour)))) (. .)) )
+( (S (S (NP-SBJ (DT the) (NN guy)) (VP (VP (VBD came) (PP-TMP (IN on) (NP (NN time)))) (CC and) (VP (VBD did) (RB n't) (VP (VB take) (NP (DT any) (NN breaks)))))) (, ,) (S (NP-SBJ-1 (PRP he)) (VP (VP (VBD went) (ADVP (RB straight)) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB work))))) (CC and) (VP (VBD finished) (NP (DT the) (NN job)) (ADVP-MNR (RB efficiently) (CC and) (RB promptly))))) (. !)) )
+( (S (NP-SBJ (PRP i)) (VP (MD could) (RB n't) (VP (VB be) (ADJP-PRD (RBR more) (JJR happier) (PP (IN with) (NP (NP (DT the) (NN way)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (PRP$ my) (NN garage)) (VP (VBZ looks) (ADVP-9 (-NONE- *T*)))))))))) (. .)) )
+( (FRAG (NP (JJ GREAT) (NN JOB)) (NP-VOC (NNS GUYS)) (. !)) )

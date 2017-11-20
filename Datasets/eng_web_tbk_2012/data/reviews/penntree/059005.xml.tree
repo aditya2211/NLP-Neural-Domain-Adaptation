@@ -1,0 +1,6 @@
+( (S (NP-SBJ (PRP I)) (VP (VBP <3) (NP (NNP Max) (POS 's)))) )
+( (NP (NP (JJ Excellent) (NNS bagels)) (CC and) (NP (JJ excellent) (NN service)) (. !)) )
+( (S (S (NP-SBJ-1 (PRP I)) (VP (VBP go) (ADVP-DIR (RB in)) (NP-TMP (ADVP (RB about)) (DT every) (NN morning)) (S-PRP (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (NNS bagels)) (PP-BNF (IN for) (NP (NP (PRP myself)) (CC or) (NP (PRP$ my) (NNS co-workers))))))))) (CC and) (S (NP-SBJ (NP (DT the) (NNS employees)) (PP (IN at) (NP (NNP Max) (POS 's)))) (VP (VBP are) (ADJP-PRD (JJ great)))) (. !!)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (ADJP-PRD (JJ friendly) (CC and) (JJ fast))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (ADVP-TMP (RB never)) (VP (VBN had) (NP (NP (DT a) (NN problem)) (PP (IN with) (NP (PRP$ their) (NNS hours)))) (SBAR-PRP (IN because) (S (NP-SBJ (PRP I)) (ADVP-TMP (RB always)) (VP (VBP go) (PP-TMP (IN during) (NP (DT the) (NNS mornings)))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (ADJP-PRD (JJ great))) (. !)) )

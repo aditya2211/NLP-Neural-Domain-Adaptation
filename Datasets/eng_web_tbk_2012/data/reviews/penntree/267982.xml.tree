@@ -1,0 +1,4 @@
+( (S (NP-SBJ (PRP I)) (VP (VBD won) (NP (NP (DT a) (NML (NN golf) (NN lesson)) (NN certificate)) (PP (IN with) (NP (NNP Adz)))) (PP (IN through) (NP (DT a) (NN charity) (NN auction)))) (. .)) )
+( (S (NP-SBJ-9 (DT The) (NN lesson)) (VP (VBD was) (VP (VBN donated) (NP-9 (-NONE- *)) (PP (IN by) (NP-LGS (NP (DT the) (NN teacher)) (NP (NNP Adz)))))) (. .)) )
+( (S (ADVP (RB So)) (NP-SBJ (PRP i)) (VP (VP (VBD booked) (NP (DT the) (NN lesson))) (CC and) (VP (VBD loved) (NP (PRP it)))) (. .)) )
+( (NP (JJ Great) (NN teacher) (. .)) )

@@ -1,0 +1,6 @@
+<en=1>Will USB cell phone chargers still charge even if they 're hooked up to a computer that is turned off ?
+<en=2>Mine does .
+<en=3>I have the HTC Evo .
+<en=4>depends on the computer
+<en=5>if the computer is completely shut off , the USB ports are n't getting power , so they wo n't charge your phone
+<en=6>many PCs have sleep & charge now , that allow the PC to go into sleep mode , and still allow the USB ports to charge things like phones .

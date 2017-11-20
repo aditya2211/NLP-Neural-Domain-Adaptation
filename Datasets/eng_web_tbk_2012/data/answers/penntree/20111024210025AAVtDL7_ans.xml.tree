@@ -1,0 +1,6 @@
+( (SBARQ (WHNP-1 (WP What)) (SQ (VBZ is) (NP-SBJ (NP (DT the) (NN dress) (NN code)) (PP (IN for) (NP (NNS females))) (PP-LOC (IN at) (NP (NP (NNP Del) (NNP Frisco) (POS 's)) (NP-LOC (NNP Philadelphia))))) (NP-PRD-1 (-NONE- *T*))) (. ?)) )
+( (S (S (NP-SBJ (PRP I)) (VP (MD will) (VP (VB be) (VP (VBG going) (PP-DIR (IN to) (NP (NNP Del) (NNP Frisco) (POS 's))) (PP-TMP (IN in) (NP (JJ late) (NNP November))) (PP (IN for) (NP (NN dinner))))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD was) (VP (VBG wondering) (SBAR (WHNP-9 (WP what)) (S (NP-SBJ (DT the) (NN dress) (NN code)) (VP (VBZ is) (NP-PRD-9 (-NONE- *T*)) (PP (IN for) (NP (DT a) (NN female))))))))) (. .)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ says) (NP (NN business) (NN casual)))) (CC but) (S (NP-SBJ (PRP I)) (VP (VBP know) (SBAR (-NONE- *0*) (S (NP-SBJ-9 (DT this)) (VP (MD can) (VP (VB be) (VP (VBN interpreted) (NP-9 (-NONE- *)) (PP-MNR (IN in) (NP (JJ many) (NNS ways)))))))))) (. .)) )
+( (S-IMP (INTJ (UH Please)) (NP-SBJ (-NONE- *PRO*)) (VP (VB help)) (. .)) )
+( (FRAG (NP (CD 5765)) (HYPH -) (NP (NN NTKB))) )
+( (S (NP-SBJ (PRP you)) (VP (MD can) (VP (VB view) (PP-LOC (IN at) (NP (ADD dresscod.com)))))) )

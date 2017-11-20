@@ -1,0 +1,3 @@
+( (NP (NP (JJ Great) (NN place)) (PP (IN for) (NP (NN embroidery))) (. .)) )
+( (S (NP-SBJ (NN Service)) (VP (VBD was) (ADJP-PRD (ADJP (JJ friendly)) (CC and) (ADJP (RB VERY) (JJ fast)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBD purchased) (NP (CD four) (NN gift) (NNS items)) (ADVP-LOC (RB there))) (CC and) (VP (VBD had) (S (NP-SBJ-1 (NP (PRP them)) (NP (DT all))) (VP (VBN embroidered) (NP-1 (-NONE- *)) (PP-TMP (IN within) (NP (DT a) (NN week))))))) (. .)) )

@@ -1,0 +1,4 @@
+( (NP (JJ exelent) (NN Job)) )
+( (S (`` ") (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you)) (ADVP (RB so) (RB much)) (PP-CLR (IN for) (NP (NP (DT the) (JJ superior) (NN job)) (ADJP (RB well) (VBN done))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBP love) (NP (NP (NN everything)) (PP (IN about) (NP (DT the) (NN fence))))) (. .)) )
+( (S (NP-SBJ-9 (PRP$ You) (NN company) (CC and) (NNS services)) (VP (MD will) (VP (VB be) (VP (VBN recommended) (NP-9 (-NONE- *)) (PP (IN by) (NP-LGS (PRP us))) (PP-CLR (IN to) (NP (NN everyone)))))) (. .) ('' ")) )

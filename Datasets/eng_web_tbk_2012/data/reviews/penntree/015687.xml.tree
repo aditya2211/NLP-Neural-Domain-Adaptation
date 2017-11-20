@@ -1,0 +1,2 @@
+( (NP (NNP marisol)) )
+( (S (S (NP-SBJ (DT this) (NN place)) (VP (VBZ is) (ADJP-PRD (JJ awesome)))) (S (NP-SBJ (NNP twelve)) (VP (VBD did) (NP (DT an) (JJ amazing) (NN job)))) (S (S (NP-SBJ (NN place)) (VP (VBZ is) (ADJP-PRD (JJ clean)))) (CC and) (S (NP-SBJ (NN staff)) (VP (VBZ is) (ADJP-PRD (JJ friendly)))))) )

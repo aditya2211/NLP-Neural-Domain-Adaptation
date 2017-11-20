@@ -1,0 +1,5 @@
+( (NP (NP (JJ Average) (NN food)) (CC and) (NP (ADJP (RB deathly) (JJ slow)) (NN service))) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN eaten) (ADVP-LOC (RB here)) (NP-TMP (JJ several) (NNS times))))) (CC and) (S (NP-TMP (DT every) (NN time)) (NP-SBJ (DT the) (NN service)) (VP (VBZ is) (ADJP-PRD (ADJP (JJR slower)) (PP (IN than) (ADJP (JJ slow)))))) (. .)) )
+( (S (NP-TMP (CD One) (NN time)) (NP-SBJ (PRP we)) (ADVP (RB even)) (VP (VBD left) (PP-TMP (IN after) (S-NOM (NP-SBJ-9 (-NONE- *PRO*)) (VP (VP (VBG sitting) (PP-LOC (IN at) (NP (DT the) (NN table))) (PP-TMP (IN for) (NP (CD 20) (NNS minutes)))) (CC and) (VP (RB not) (VBG being) (VP (VBN greeted) (NP-9 (-NONE- *)) (PP (IN with) (NP (DT a) (NN drink) (NN order))))))))) (. .)) )
+( (FRAG (ADJP (JJ Ridiculous)) (. .)) )
+( (S (NP-SBJ (EX There)) (VP (MD must) (VP (VB be) (NP-PRD (DT a) (JJR better) (JJ mexican) (NN place)) (PP-LOC (IN in) (NP (NNP Rockland))))) (. .)) )

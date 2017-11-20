@@ -1,0 +1,5 @@
+( (FRAG (NP (NNP Cathy)) (NFP ******) (NP (CD Five) (NNS Stars)) (PP (IN for) (NP (NML (NNP Lake) (NNP Forest)) (NNPS Tots))) (. .)) )
+( (S (NP-SBJ (DT The) (NN program)) (VP (VBZ has) (VP (VBN been) (NP-PRD (NP (DT a) (JJ postive) (NN experience)) (PP (IN for) (NP (PRP$ my) (NNS children)))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN had) (S (NP-SBJ (NP (PDT all) (CD three)) (PP (IN of) (NP (PRP$ my) (NNS children)))) (VP (VB attend) (NP (NML (NNP Lake) (NNP Forest)) (NNPS Tots)))))) (. .)) )
+( (S (S (NP-SBJ-1 (DT The) (NN program)) (VP (VBZ is) (ADVP (RB well)) (VP (VBN established) (NP-1 (-NONE- *))))) (CC and) (S (NP-SBJ (PRP we)) (VP (VBP have) (VP (VBN been) (ADJP-PRD (RB extremely) (JJ satisfied) (PP (IN with) (NP (NP (DT the) (NNS teachers)) (, ,) (NP (DT the) (NNS programs)) (CC and) (NP (DT the) (NN director)))))))) (. .)) )
+( (FRAG (NP (JJ Good) (NN job)) (, ,) (NP-VOC (NML (NNP Lake) (NNP Forest)) (NNPS Tots)) (. !)) )

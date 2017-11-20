@@ -1,0 +1,5 @@
+( (NP (JJ Excellent) (NN service) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP am) (ADJP-PRD (RB so) (JJ glad) (SBAR (IN that) (S (NP-SBJ (PRP we)) (ADVP-TMP (RB now)) (VP (VBP have) (NP (NP (DT a) (JJ good) (NN nail) (NN shop)) (PP-LOC (IN on) (NP (NML (NNP San) (NNP Mateo)) (NNP Avenue))))))))) (. !)) )
+( (FRAG (ADVP (RB No) (RBR more)) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG having) (S (NP-SBJ (-NONE- *)) (VP (TO to) (VP (VB drive) (PP-CLR (IN to) (NP (NNP San) (NNP Francisco))) (PP-PRP (IN for) (NP (DT a) (JJ great) (NN mani) (NN pedi)))))))) (. .)) )
+( (S (NP-SBJ (CC Both) (NNP Tina) (CC and) (NNP Vicky)) (VP (VBP are) (ADJP-PRD (JJ excellent))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD will) (ADVP (RB definitely)) (VP (VB refer) (NP (PRP$ my) (NNS friends) (CC and) (NN family)))) (NFP :-RRB-)) )

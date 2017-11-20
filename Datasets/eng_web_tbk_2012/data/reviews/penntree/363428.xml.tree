@@ -1,0 +1,4 @@
+( (NP (NP (NNP Pam)) (NP (DT the) (NNP Pom))) )
+( (NP (NP (JJ Fantastic) (NN couple)) (PP (IN of) (NP (NNS days))) (. .)) )
+( (NP (NP (JJ Breathtaking) (NNS views)) (CC and) (NP (JJ fabulous) (NN accommodation)) (. .)) )
+( (FRAG (FRAG (NP-SBJ (NN Nothing)) (NP-PRD (NP (RB too) (JJ much) (NN trouble)) (PP (IN for) (NP (NNP Ian))))) (, ,) (FRAG (NP (NN thanks)) (PP (IN for) (NP (DT a) (JJ great) (NN stay)))) (. .)) )

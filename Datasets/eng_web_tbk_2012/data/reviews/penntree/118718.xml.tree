@@ -1,0 +1,7 @@
+( (NP (JJ Great) (NN Surgeon)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD needed) (S (NP-SBJ-1 (NN wisdom) (NN teeth)) (VP (VBN taken) (NP-1 (-NONE- *)) (ADVP (RB out))))) (. .)) )
+( (S (NP-SBJ (NP (NNP Dr.) (NNP Wallen)) (CC and) (NP (NN staff))) (VP (VBD was) (ADJP-PRD (JJ excellent))) (. .)) )
+( (S (NP-SBJ-9 (PRP They)) (VP (VP (VBD were) (ADJP-PRD (JJ accomdating)) (PP (IN with) (NP (PRP$ my) (NN scheduled)))) (CC and) (VP (VBP work) (PP-CLR (IN with) (NP (PRP$ my) (NN insurance))) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (NP (NN payment)) (PP (IN for) (NP (DT the) (NN surgery))))))))) (. .)) )
+( (S (NP-SBJ (NNP Dr.) (NNP Wallen)) (VP (VP (VBD explained) (NP (DT the) (NN procedure)) (PP-MNR (IN in) (NP (NN detail)))) (CC and) (VP (VBD took) (NP (PRP$ his) (NN time)) (PP (IN with) (NP (PRP me))))) (. .)) )
+( (S (NP-SBJ (NN Staff)) (VP (VP (VBD explained) (NP (NN insurance) (NNS procedures))) (CC and) (VP (VBD was) (ADJP-PRD (RB very) (JJ helpful)))) (. .)) )
+( (S (NP-SBJ (NN Everyone)) (VP (VBD was) (ADJP-PRD (RB very) (JJ nice))) (. .)) )

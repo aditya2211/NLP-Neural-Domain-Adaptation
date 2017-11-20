@@ -1,0 +1,5 @@
+( (FRAG (NP (NNP PAT) (NNP testing)) (ADJP (JJ quick) (CC &) (JJ efficient))) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP rang) (NP (NNP SRD) (NNP PAT) (NNP testing)))) (CC and) (S (PP-TMP (IN within) (NP (CD 3) (NNS hours))) (NP-SBJ (NNP Scot)) (VP (VP (VBD had) (VP (VP (VBN come) (PP-DIR (IN to) (NP (PRP$ my) (NNS premises)))) (CC and) (VP (NN PAT) (VBN tested) (NP (PDT all) (X (PRP$ my)) (PRP$ our) (NML (S (NP-SBJ (-NONE- *PRO*)) (VP (VB Spill) (NP (DT The) (NNP Whisky))))) (NML (NN barn) (NN dance)) (NN band) (NN equipment))))) (, ,) (CC and) (VP (VBN supplied) (NP (DT a) (NN certificate)) (PP (IN for) (NP (NP (RB only) (CD 70) (NN p)) (PP (IN per) (NP (NN unit)))))))) (. .)) )
+( (NP (ADJP (JJ Fantastic) (, ,) (JJ quick) (CC and) (JJ efficient)) (NN service) (. .)) )
+( (FRAG (ADJP (WRB How) (JJ rare)) (. !)) )
+( (FRAG (ADJP (RB Well) (VBN done)) (. .)) )

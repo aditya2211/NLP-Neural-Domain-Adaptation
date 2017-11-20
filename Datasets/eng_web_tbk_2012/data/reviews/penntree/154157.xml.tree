@@ -1,0 +1,5 @@
+( (NP (ADJP (JJ FAST) (CC and) (JJ reasonable)) (NN $)) )
+( (S (NP-SBJ (PRP We)) (VP (VP (VBD went) (PP-DIR (IN to) (NP (NNP Kobey) (POS s))) (PP-TMP (IN on) (NP (NNP Saturday)))) (CC and) (VP (VBD had) (S (NP-SBJ-1 (NP (PRP$ our) (JJ whole) (NN team) (POS s)) (NNS uniforms)) (VP (VBN done) (NP-1 (-NONE- *)))))) (. !)) )
+( (S (S (NP-SBJ (PRP He)) (VP (VBD was) (NP-PRD (NP (QP (JJR less) (IN than) (NN half))) (PP (IN of) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NP (DT the) (JJS cheapest) (NN quote)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP we)) (VP (VBD got) (NP-9 (-NONE- *T*)))))))))))) (, ,) (CC and) (S (NP-SBJ (PRP$ his) (NN work)) (VP (VBD was) (ADJP-PRD (JJ top) (NN notch)))) (. .)) )
+( (UCP (ADVP (RB Down) (PP (IN to) (NP (NN earth)))) (CC and) (NP (JJ fast) (NN service)) (. .)) )
+( (FRAG (VP (VBG Going) (ADVP (RB back)) (S-PRP (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB have) (S (NP-SBJ-1 (DT some) (JJ lab) (NNS coats)) (VP (VBN done) (NP-1 (-NONE- *))))))) (NP-TMP (DT this) (NN weekend))) (. !)) )

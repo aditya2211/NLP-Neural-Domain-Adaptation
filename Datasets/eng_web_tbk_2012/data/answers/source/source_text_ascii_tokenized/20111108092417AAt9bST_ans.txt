@@ -1,0 +1,5 @@
+<en=1>What is the nearest National Park to Birmingham , UK ?
+<en=2>The Peak District ( Derbyshire ) is the closest .
+<en=3>The South Shropshire Hills are far closer .
+<en=4>They are not a national park , but are extremely beautiful .
+<en=5>www.visitsouthshropshire.co.uk

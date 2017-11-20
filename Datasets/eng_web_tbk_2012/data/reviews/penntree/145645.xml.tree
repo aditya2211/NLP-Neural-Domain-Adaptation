@@ -1,0 +1,3 @@
+( (NP (NP (VBN spoken) (NNP english)) (NNP rushi)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD can) (ADVP-TMP (RB ever) (VB &) (RB never)) (VP (VB forget) (NP (NP (NP (DT the) (NN training)) (VP (VBN undergone) (NP (-NONE- *)) (ADVP-LOC (RB here)))) (SBAR (WHNP-1 (WDT which)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (VBD made) (S (NP-SBJ (PRP$ my) (NN life)) (VP (VB step) (PP (IN onto) (NP (DT the) (JJ successful) (NN job))) (PP (IN without) (NP (DT any) (NNS hurdles))))))))))) (. .)) )
+( (FRAG (NP (DT The) (NML (NN staff)) (, ,) (NML (NML (NN material)) (VP (VBN provided) (NP (-NONE- *)))) (, ,) (NML (AFX infra) (NN structure)) (, ,) (NML (NN environment)) (CC &) (NML (JJ low) (NNS fees))) (PP (ADVP (RB totally)) (IN above) (NP (DT the) (JJ satisfactory) (NN mark)))) )

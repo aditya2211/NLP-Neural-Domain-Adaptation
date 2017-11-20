@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:54 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:T1">
+<Signal id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1" timeline="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:T1">
+<Metadata>
+<MetadataElement name="endOffset">29</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP 2 ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:4" offset="29.000000"></Anchor>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:E1" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:1" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:E2" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:2" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:E3" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:3" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:1:4">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2" timeline="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:T1">
+<Metadata>
+<MetadataElement name="endOffset">235</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( INTJ 0 ) 1 ( S ( NP-SBJ-2 2 3 4 ) ( VP 5 ( ADVP 6 ) ( S-ADV ( NP-SBJ-2 *PRO* ) ( ADJP-PRD 7 8 ) ) ) ) 9 ( S ( S ( S ( NP-SBJ-9 10 ) ( VP 11 ( VP 12 ( S ( NP-SBJ-9 *PRO* ) ( VP 13 ( VP 14 ( NP 15 16 17 ) ( SBAR-TMP 18 ( S ( NP-SBJ 19 ) ( VP 20 ( NP ( NP 21 22 ) ( SBAR ( WHNP-3 *0* ) ( S ( NP-SBJ-1 23 ) ( VP 24 ( VP 25 ( S ( NP-SBJ-1 * ) ( VP 26 ( VP 27 ( NP-3 *T* ) ( ADVP-CLR 28 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 29 ( S ( S ( NP-SBJ 30 ) ( VP 31 ( PRT 32 ) ( PP-CLR 33 ( NP 34 ) ) ) ) ( S ( ADVP 35 ) ( NP-SBJ 36 ) ( VP 37 ( NP-PRD 38 39 40 ) ( ADVP-TMP 41 ) ) ) ) ) 42 43 ( S ( NP-SBJ 44 ) ( VP 45 ( VP 46 ( NP 47 48 ) ( ADVP-TMP 49 ) ( INTJ 50 ) ) ) ) ) 51 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:2" offset="4.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:3" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:4" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:6" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:7" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:8" offset="33.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:9" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:A" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:B" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:C" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:D" offset="53.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:F" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:G" offset="63.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:H" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:I" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:J" offset="83.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:K" offset="91.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:L" offset="97.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:M" offset="99.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:N" offset="107.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:O" offset="111.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:P" offset="116.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Q" offset="118.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:R" offset="122.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:S" offset="131.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:U" offset="134.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:V" offset="138.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:W" offset="141.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:X" offset="145.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Y" offset="147.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Z" offset="151.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:a" offset="155.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:b" offset="158.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:c" offset="163.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:d" offset="166.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:e" offset="172.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:f" offset="176.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:g" offset="179.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:h" offset="184.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:i" offset="193.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:j" offset="197.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:k" offset="201.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:l" offset="205.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:m" offset="207.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:n" offset="211.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:o" offset="215.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:p" offset="219.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:q" offset="225.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:r" offset="230.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:s" offset="234.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:t" offset="235.000000"></Anchor>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E1" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:1" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:2">
+<Feature name="tag">UH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E2" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:2" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:3">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E3" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:3" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:4">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E4" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:4" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E5" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:5" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E6" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:6" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:7">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E7" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:7" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:8">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E8" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:8" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:9">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:E9" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:9" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:A">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EA" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:A" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:B">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EB" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:B" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:C">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EC" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:C" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:D">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:ED" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:D" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:F">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EF" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:F" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:G">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EG" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:G" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:H">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EH" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:H" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:I">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EI" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:I" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:J">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EJ" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:J" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:K">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EK" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:K" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:L">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EL" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:L" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:M">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EM" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:M" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:N">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EN" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:N" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:O">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EO" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:O" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:P">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EP" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:P" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Q">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EQ" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Q" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:R">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:ER" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:R" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:S">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:ES" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:S" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:U">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EU" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:U" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:V">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EV" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:V" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:W">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EW" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:W" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:X">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EX" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:X" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Y">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EY" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Y" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Z">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:EZ" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Z" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:a">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ea" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:a" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:b">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Eb" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:b" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:c">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ec" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:c" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:d">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ed" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:d" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:e">
+<Feature name="tag">EX</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ee" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:e" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:f">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ef" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:f" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:g">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Eg" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:g" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:h">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Eh" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:h" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:i">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ei" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:i" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:j">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ej" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:j" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:k">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ek" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:k" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:l">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:El" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:l" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:m">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Em" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:m" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:n">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:En" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:n" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:o">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Eo" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:o" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:p">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Ep" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:p" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:q">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Eq" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:q" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:r">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Er" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:r" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:s">
+<Feature name="tag">UH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:Es" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:s" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:2:t">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:3" timeline="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:T1">
+<Metadata>
+<MetadataElement name="endOffset">5</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S-IMP ( NP-SBJ *PRO* ) ( VP 0 ) ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:3:2" offset="5.000000"></Anchor>
+<Annotation id="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:3:E1" type="word" start="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:3:1" end="groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100:3:2">
+<Feature name="tag">VB</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

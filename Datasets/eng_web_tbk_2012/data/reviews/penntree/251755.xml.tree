@@ -1,0 +1,5 @@
+( (NP (ADJP (RB Absolutely) (JJ amazing)) (NN job) (. !)) )
+( (S (NP-SBJ (NNP Susanna)) (VP (VBZ is) (NP-PRD (NP (DT the) (JJS best) (NML (NML (NN dress) (NN maker)) (, /) (NML (NN tailor)))) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP 've) (ADVP-TMP (RB ever)) (VP (VBN come) (PP-CLR (IN across) (NP-1 (-NONE- *T*))) (PP-TMP (IN in) (NP (PRP$ my) (JJ whole) (NN life))))))))) (. !)) )
+( (S (NP-SBJ (PRP She)) (VP (VBZ makes) (S (NP-SBJ (DT every) (NN item)) (VP (VB fit) (NP (PRP you)) (ADVP-MNR (RB perfectly))))) (. .)) )
+( (S (NP-SBJ (PRP She)) (VP (VBZ is) (ADVP-TMP (RB always)) (ADJP-PRD (RB so) (JJ busy)) (, ,) (ADVP (RB too)) (, ,) (SBAR-ADV (WHNP-9 (WDT which)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ good) (NN indication)) (PP (IN of) (NP (PRP$ her) (NN talent)))))))) (. .)) )
+( (S (NP-SBJ (PRP She)) (VP (VBZ 's) (NP-PRD (DT the) (JJS best))) (. !)) )

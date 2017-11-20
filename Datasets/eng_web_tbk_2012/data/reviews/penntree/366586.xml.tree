@@ -1,0 +1,6 @@
+( (S (NP-SBJ (PRP They)) (VP (MD must) (VP (VB have) (VP (VP (VBN read) (NP (DT these) (NNS reviews))) (CC and) (VP (VBN improved))))) (. !)) )
+( (S (NP-SBJ (NP (PRP$ My) (NN husband)) (CC and) (NP (PRP I))) (VP (VBD happened) (ADVP (RB in)) (PP (IN on) (NP (DT a) (NN whim)))) (. .)) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBD sat) (PP-LOC (IN in) (NP (DT the) (JJ front) (NN dining) (NN area))))) (, ,) (S (NP-SBJ (PRP it)) (VP (VBD was) (ADJP-PRD (RB very) (JJ cozy) (CC and) (JJ pleasant)))) (. .)) )
+( (S (S (NP-SBJ (PRP$ Our) (NN server)) (VP (VBD was) (ADJP-PRD (RB quite) (JJ attentive)))) (CC and) (S (NP-SBJ (DT the) (NN food)) (VP (VBD was) (ADJP-PRD (JJ fantastic)))) (. .)) )
+( (S (S (NP-SBJ (PRP$ My) (NN husband)) (VP (VBZ has) (VP (VBN been) (NP-PRD (DT a) (JJ professional) (NN chef))))) (, ,) (S (ADVP (RB so)) (NP-SBJ (PRP he)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ good) (NN judge)) (PP (IN of) (NP (JJ quality) (NN food)))))) (. .)) )
+( (S (NP-SBJ (DT This)) (VP (VBD was) (NP-PRD (NP (DT a) (JJ flavorful) (, ,) (JJ enjoyable) (NN meal)) (PP (IN for) (NP (NP (DT both)) (PP (IN of) (NP (PRP us))))))) (. .)) )

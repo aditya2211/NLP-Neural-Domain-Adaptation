@@ -1,0 +1,8 @@
+( (FRAG (ADJP (RB So) (RB very) (JJ delicious)) (. !)) )
+( (FRAG (ADJP (JJ Excellent)) (. !)) )
+( (UCP (FRAG (NP (NP (NNP November) (CD 7)) (, ,) (NP-TMP (CD 2010))) (NP (NP (JJ First) (NN time)) (VP (VBG eating) (PP-LOC (IN at) (NP (NNP Caffe) (NNP Bella) (NNP Italia)))))) (CC and) (S (NP-SBJ (PRP it)) (VP (VBD was) (NP-PRD (DT a) (JJ wonderful) (NN experience)))) (. .)) )
+( (S (UCP (PP (IN From) (NP (DT the) (JJ delectable) (NN Antipasto) (NN Misto))) (PP (IN to) (NP (NP (DT the) (NN Spaghetti) (NN alla) (NN Barese)) (CC and) (NP (DT the) (NN Parmigiana)))) (CC and) (S-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VBG ending) (PP-CLR (IN with) (NP (NN gelato)))))) (, ,) (NP-SBJ (DT all)) (VP (VBD was) (ADJP-PRD (NN mouth) (VBG watering))) (. .)) )
+( (FRAG (ADJP (RB Too) (JJ bad) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP they)) (VP (VBD were) (PP-PRD (IN out) (PP (IN of) (NP (DT the) (NN Chocolate) (NN Lava) (NN Cake)))))))) (. .)) )
+( (S (ADVP (RB Maybe)) (NP-TMP (JJ next) (NN time)) (NP-SBJ (PRP they)) (VP (MD will) (VP (VB have) (NP (PRP it)))) (. .)) )
+( (S (NP-SBJ (NN Service)) (VP (VBD was) (ADJP-PRD (JJ excellent))) (. !)) )
+( (NP (NNP Sandy)) )

@@ -1,0 +1,7 @@
+( (SBARQ (WHNP-1 (WP What)) (SQ (VBP are) (NP-SBJ (`` ") (JJ good) (`` ") (NNS speakers)) (NP-PRD-1 (-NONE- *T*))) (. ?)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG looking) (PP-CLR (IN at) (NP (DT the) (NNP bose) (NML (NNP sound) (NNP dock)) (CD 10))))))) (S (NP-SBJ (PRP i)) (VP (VBP ve) (ADVP-TMP (RB currently)) (VP (VBN got) (NP (DT a) (NNP jvc) (AFX mini) (NN hifi) (NN system))))) (, ,) (S (NP-SBJ (PRP i)) (VP (VBD was) (VP (VBG wondering) (SBAR (WHNP-1 (WP what)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (MD would) (VP (VB be) (NP-PRD (NP (DT a) (JJ good) (NN set)) (PP (IN of) (NP (NNS speakers))))))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP like) (NP-1 (NN music)) (S-ADV (NP-SBJ-1 (-NONE- *PRO*)) (UCP-PRD (ADJP (RB very) (JJ loud)) (CC and) (PP (IN with) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN bass)))))))) (. .)) )
+( (S (ADVP (RB also)) (NP-SBJ (PRP i)) (VP (VBD was) (VP (VBG wondering) (, ,) (SQ (VBZ is) (S (NP-SBJ (NP (PRP it)) (SBAR-1 (-NONE- *EXP*))) (ADJP-PRD (JJ true)) (SBAR-1 (IN that) (FRAG (S-ADV (ADJP-TPC-9 (DT the) (JJR bigger)) (NP-SBJ (DT the) (NNS speakers)) (VP (VBP are) (ADJP-PRD-9 (-NONE- *T*)))) (ADJP (DT the) (JJR better)))))))) (. .)) )
+( (NP (NN thanks)) )
+( (NP (JJ B) (CC &) (JJ w) (. .)) )
+( (S (NP-SBJ (NNP Bose)) (VP (VBZ is) (RB not) (ADJP-PRD (JJ good)))) )

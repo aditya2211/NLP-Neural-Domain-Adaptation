@@ -1,0 +1,4 @@
+( (NP (NP (JJS Best) (NN Electrician)) (PP-LOC (IN in) (NP (NNP Florence)))) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN been) (VP (VBG using) (NP (NNP Steele) (NNP Electric)) (PP-TMP (IN for) (NP (NNS years)))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP have) (ADVP-TMP (RB always)) (VP (VBN done) (NP (NP (DT a) (JJ great) (NN job)) (PP (IN at) (NP (DT a) (JJ reasonable) (NN price)))))) (. .)) )
+( (FRAG (ADVP (RB Highly)) (VP (VBN recommended) (NP (-NONE- *))) (. .)) )

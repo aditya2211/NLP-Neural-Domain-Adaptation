@@ -1,0 +1,7 @@
+( (NP (JJ Great) (NNS staff) (. .)) )
+( (FRAG (ADJP (RB Very) (JJ helpful)) (. !!!!)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBD interviewed) (NP (PRP me))) (, ,) (VP (VBD gave) (NP (PRP me)) (NP (NP (NNS tests)) (PP (IN in) (NP (NP (DT the) (NN software)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBD included) (NP-9 (-NONE- *T*)) (PP (IN on) (NP (PRP$ my) (NN resume)))))))))) (, ,) (CC and) (VP (VBD placed) (NP (PRP me)) (PP-CLR (IN in) (NP (NP (DT a) (NN position)) (SBAR (WHNP-1 (WDT that)) (S (NP-SBJ (PRP I)) (VP (VBD kept) (NP-1 (-NONE- *T*)) (PP-TMP (IN for) (NP (JJ several) (NNS years)))))))))) (. .)) )
+( (SINV (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBD Re-interviewed)) (CC and) (VP (VB am) (VP (VBG going) (PP (IN on) (NP (NP (NNS interviews)) (PP (IN for) (NP (DT a) (JJ new) (NN job)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADJP-PRD (RB really) (JJ thankful) (PP (IN for) (NP (NP (DT the) (NNS folks)) (PP-LOC (IN at) (NP (NNP HR) (NNP Office))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBP are) (ADJP-PRD (JJ dependable))) (, ,) (VP (VBP have) (NP (NP (JJ great) (NNS connections)) (PP (IN in) (NP (DT the) (NN community))))) (, ,) (CC and) (VP (VBP are) (NP-PRD (NP (DT a) (JJ great) (NN resource)) (PP (IN for) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG finding) (NP (DT a) (NN job)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB highly)) (VP (VBP recommend) (NP (PRP them)) (PP-CLR (IN to) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ my) (NNS friends)))))) (. !!!!) (. !)) )

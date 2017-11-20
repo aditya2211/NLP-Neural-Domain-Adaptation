@@ -1,0 +1,6 @@
+( (NP (JJ Bad) (NN Service)) )
+( (S (ADVP (RB Definately)) (NP-SBJ (-NONE- *PRO*)) (VP (MD wo) (RB n't) (VP (VB be) (VP (VBG returning)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Travelled) (NP (CD 40) (NNS mins)) (PP-TMP (IN after) (S-NOM (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBG calling) (S-PRP (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB see) (SBAR (IN if) (S (NP-SBJ (DT a) (NN product)) (VP (VBD was) (PP-PRD (IN in) (NP (NN stock))))))))))))) (. .)) )
+( (FRAG (VP (VBN Told) (NP (-NONE- *)) (SBAR (IN that) (S (NP-SBJ (PRP they)) (VP (VBD had) (NP (NN plenty)))))) (. .)) )
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Get) (ADVP-LOC (RB there)))) (CC and) (S (NP-SBJ (EX there)) (VP (VBD was) (NP-PRD (NN nothing)))) (. .)) )
+( (FRAG (ADJP (RB Not) (JJ impressed)) (. !!!)) )

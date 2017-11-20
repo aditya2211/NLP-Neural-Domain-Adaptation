@@ -1,0 +1,5 @@
+( (NP (WDT What) (DT a) (NN Dump) (. !)) )
+( (S (NP-SBJ (DT The) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ terrible))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN place)) (VP (VBZ smells))) (CC and) (S (NP-SBJ (DT the) (NN owner)) (VP (VBZ is) (ADJP-PRD (ADVP (RB very) (RB very)) (JJ rude)))) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (MD could) (VP (VB go) (ADVP (RB on) (CC and) (RB on)))) (. !)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (ADVP (RB Just)) (VP (VB do) (RB n't) (VP (VB go) (ADVP-DIR (RB there)))) (. .)) )

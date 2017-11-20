@@ -1,0 +1,5 @@
+( (S (NP-SBJ (DT This) (NN office)) (VP (VBZ is) (ADJP-PRD (JJ awesome))) (. !)) )
+( (S (NP-SBJ (NP (NN everyone)) (ADVP-LOC (RB here))) (VP (VBZ is) (ADJP-PRD (RB super) (JJ friendly) (CC and) (JJ efficient))) (. !)) )
+( (S (NP-SBJ (NP (PRP it)) (S-1 (-NONE- *EXP*))) (VP (VBZ s) (ADJP-PRD (JJ great)) (S-1 (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB know) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (MD can) (VP (VB get) (NP (NP (JJ great) (NN service)) (, ,) (NP (JJ great) (NN product))) (, ,) (NAC (CC and) (PP (IN for) (NP (DT the) (JJS best) (NN price)))) (S-ADV (NP-SBJ (DT all)) (PP-PRD (IN in) (NP (CD one)))))))))))) (. !)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP 've) (VP (VBN referred) (NP (NP (NN everyone)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP i)) (VP (VBP know) (NP-9 (-NONE- *T*)))))) (ADVP (RB here))))) (CC and) (S (NP-SBJ (NP (PRP they)) (NP (DT all))) (VP (VBP feel) (NP-PRD (DT the) (JJ same) (NN way)))) (. !!)) )
+( (S (NP-SBJ (PRP i)) (VP (MD 'll) (VP (VB be) (VP (VBG coming) (ADVP (RB back)) (PP-TMP (IN for) (NP (NP (NNS years)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (TO to) (VP (VB come)))))))))) (. !)) )

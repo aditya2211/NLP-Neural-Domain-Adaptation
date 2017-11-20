@@ -1,0 +1,3 @@
+( (NP (NP (JJS Best) (NN Cigar) (NN lounge)) (PP-LOC (IN on) (NP (DT the) (NN blouvard))) (. .)) )
+( (S (NP-SBJ-9 (NNP Encino)) (VP (VBZ has) (VP (VBN been) (VP (VBN blessed) (NP-9 (-NONE- *)) (PP (IN by) (NP-LGS (NP (DT the) (NN opening)) (PP (IN of) (NP (DT this) (NN smoke) (NN shop))))) (ADVP (RBS most) (RB definately))))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP mention) (NP (NP (DT the) (NN name)) (NP (NNP Amir)))))) (NP-SBJ (PRP you)) (VP (MD will) (VP (VB receive) (NP (NP (NN %) (CD 10)) (ADVP (RB off))) (PP-TMP (IN at) (NP (NP (NN time)) (PP (IN of) (NP (NN purchase)))))))) )

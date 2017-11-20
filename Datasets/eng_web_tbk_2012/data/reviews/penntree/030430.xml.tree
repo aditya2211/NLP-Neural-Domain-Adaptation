@@ -1,0 +1,4 @@
+( (NP (JJ Amazing) (NN customer) (NN service)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP think) (SBAR (-NONE- *0*) (S (NP-SBJ (NP (DT the) (NNS women)) (PP-LOC (IN at) (NP (DT this) (NN salon)))) (VP (VBP know) (SBAR (IN that) (S (NP-SBJ-9 (PRP$ their) (NN business)) (VP (VBZ is) (VP (VBN based) (NP-9 (-NONE- *)) (PP-CLR (ADVP (RB primarily)) (IN from) (NP (NNS referrals))))))))))) (. .) (NFP :-RRB-)) )
+( (S (NP-SBJ (PRP They)) (VP (VBD were) (ADJP-PRD (RB amazingly) (JJ hospitable))) (. .)) )
+( (S (S (NP-SBJ (NNP Edit)) (VP (VBD was) (NP-PRD (NP (DT the) (JJS best) (NN massage) (NN therapist)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP 've) (ADVP-TMP (RB ever)) (VP (VBN had) (NP-9 (-NONE- *T*))))))))) (CC and) (S (NP-SBJ (PRP I)) (VP (MD would) (ADVP (RB HIGHLY)) (VP (VB recommend) (NP (PRP her))))) (. !)) )

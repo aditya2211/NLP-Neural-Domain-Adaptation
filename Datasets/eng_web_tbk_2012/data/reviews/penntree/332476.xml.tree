@@ -1,0 +1,6 @@
+( (NP (NP (JJ Amazing) (NNS Pictures)) (PP (IN at) (NP (DT an) (JJ Amazing) (NN Price)))) )
+( (S (NP-SBJ (NNP Rendy)) (VP (VBZ is) (ADJP-PRD (RB totally) (JJ amazing))) (. .)) )
+( (S (NP-SBJ (PRP She)) (VP (VP (VBD gave) (NP (PRP me)) (NP (JJ amazing) (NNS pictures)) (PP (IN at) (NP (DT an) (JJ amazing) (NN price)))) (CC and) (VP (VBD made) (S (NP-SBJ (PRP$ my) (NN wedding) (NN day)) (ADJP-PRD (RB so) (JJ memorable))))) (. .)) )
+( (S (S (NP-SBJ-9 (PRP She)) (VP (VP (VBD was) (ADJP-PRD (RB way) (JJ easy) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB work) (PP-CLR (IN with) (NP-1 (-NONE- *T*))))))))) (CC and) (VP (VBN made) (S (NP-SBJ (PRP$ my) (NN wedding) (NN day)) (ADJP-PRD (RB so) (JJ easy)))))) (CC and) (S (NP-SBJ (PRP she)) (VP (VBD got) (NP (NP (DT some) (JJ amazing) (NNS pictures)) (, ,) (PP (CONJP (RB not) (RB only)) (PP (IN of) (NP (PRP me))) (, ,) (CC but) (PP (IN of) (NP (PRP$ my) (NN family) (CC and) (NNS friends))))))) (. .)) )
+( (S (NP-SBJ (PRP She)) (VP (VBZ is) (ADJP-PRD (JJ amazing))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recommend) (NP (PRP her)) (PP-DTV (IN to) (NP (NN anyone))))) (. !)) )

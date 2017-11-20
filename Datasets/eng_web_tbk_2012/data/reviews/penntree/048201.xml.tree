@@ -1,0 +1,4 @@
+( (NP (ADJP (RB Very) (JJ Mediocre)) (NNS donuts) (. !)) )
+( (S (NP-SBJ (DT The) (NNS Donuts)) (VP (VBD were) (ADJP-PRD (RB very) (RB over) (JJ proofed)) (, ,) (S-ADV (NP-SBJ (-NONE- *PRO*)) (VP (VBG making) (S (NP-SBJ (PRP them)) (ADJP-PRD (JJ stale) (CC and) (JJ bready)))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN service)) (VP (VBD was) (ADJP-PRD (JJ friendly) (CC and) (JJ fast)))) (, ,) (CC but) (S (NP-SBJ (DT this)) (ADVP (RB just)) (VP (VBZ does) (RB nt) (VP (VB make) (PRT (RP up)) (PP-CLR (IN for) (NP (DT the) (ADJP (JJ lack) (HYPH -) (JJ luster)) (NN product)))))) (. .)) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBD tried) (NP (NP (CD 4) (JJ different) (NN style)) (PP (IN of) (NP (NNS donuts)))))) (, ,) (S (NP-SBJ (PRP they)) (VP (VBD were) (RB all) (NP-PRD (DT the) (JJ same)) (SBAR-ADV (WHADVP-1 (WRB when)) (S (NP-SBJ (PRP it)) (VP (VBD came) (PP-CLR (IN to) (NP (NN quality))) (ADVP-1 (-NONE- *T*))))))) (. .)) )

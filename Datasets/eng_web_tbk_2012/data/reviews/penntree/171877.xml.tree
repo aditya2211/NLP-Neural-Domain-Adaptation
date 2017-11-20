@@ -1,0 +1,4 @@
+( (NP (NNP ipad) (NN reiew)) )
+( (S (NP-SBJ (PRP they)) (VP (VBP are) (NP-PRD (NP (DT the) (JJS best) (NNS orthodontics)) (PP (IN in) (NP (DT the) (NN world))))) (. .)) )
+( (S (NP-SBJ (PRP i)) (VP (VBD went) (ADVP-DIR (RB there)) (SBAR-TMP (IN since) (S (NP-SBJ (PRP i)) (VP (VBD was) (NP-PRD (CD four)))))) (. .)) )
+( (S (ADVP-TMP (RB now)) (NP-SBJ (PRP i)) (VP (MD will) (VP (VB have) (NP (ADJP (RB really) (JJ straight)) (NN teeth)))) (. .)) )

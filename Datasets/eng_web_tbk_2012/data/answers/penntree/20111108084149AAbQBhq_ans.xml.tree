@@ -1,0 +1,5 @@
+( (SQ (MD Can) (NP-SBJ (NN police)) (VP (VB trace) (NP (DT a) (NN cell) (NN phone)) (SBAR-ADV (ADVP (RB even)) (IN if) (S (NP-SBJ-9 (PRP it)) (VP (VBZ is) (VP (VBN switched) (NP-9 (-NONE- *)) (PRT (RP off))))))) (. ?)) )
+( (SQ (MD Can) (NP-SBJ (NN police)) (VP (VB trace) (NP (DT a) (NN cell) (NN phone)) (SBAR-ADV (ADVP (RB even)) (IN if) (S (NP-SBJ-9 (PRP it)) (VP (VBZ is) (VP (VBN switched) (NP-9 (-NONE- *)) (PRT (RP off))))))) (. ?)) )
+( (S (S (INTJ (UH Yeah)) (NP-SBJ-1 (PRP you)) (VP (VBP got) (S (NP-SBJ-1 (-NONE- *)) (VP (TO ta) (VP (VB burn) (NP (PRP it))))))) (, ..) (S (NP-SBJ (DT that)) (VP (VBZ s) (NP-PRD (DT the) (JJ only) (NN way))))) )
+( (S (INTJ (UH Yes)) (, ,) (NP-SBJ (NP (PRP they)) (NP (DT all))) (VP (VBP have) (NP (NP (JJ secret) (NN locator) (NNS chips)) (, ,) (PP (ADVP (RB just)) (IN like) (NP (NN gps)))))) )
+( (INTJ (UH Yes) (. .)) )

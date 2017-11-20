@@ -1,0 +1,6 @@
+( (SBARQ (WHADVP-1 (WRB How) (VB come)) (SQ (NP-SBJ-2 (DT no) (NN one)) (VP (VBZ bothers) (S (NP-SBJ-2 (-NONE- *PRO*)) (VP (TO to) (VP (VB ask) (NP (DT any) (NNS questions)) (PP-LOC (IN in) (NP (DT this) (NN section))) (ADVP-PRP-1 (-NONE- *T*))))))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP mean) (FRAG (PP (IN besides) (NP (PRP me))) (ADVP (RB of) (RB course)))) (. .)) )
+( (SBAR (IN Because) (S (ADVP (RB obviously)) (NP-SBJ (JJS most) (NNS people)) (VP (VBP have) (ADVP-TMP (RB never)) (ADVP (RB even)) (VP (VBN heard) (PP-CLR (IN of) (NP (DT this) (NN section)))))) (. .)) )
+( (S (NP-SBJ-9 (NN Someone)) (VP (VBD had) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB be) (ADJP-PRD (JJ first)))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (ADVP-TMP (RB never)) (VP (VBN been) (ADVP-LOC-PRD (RB there)))) (. .)) )
+( (S (INTJ (UH well)) (, ,) (NP-SBJ (PRP I)) (VP (VBP do) (RB n't) (VP (VB ask) (NP (NNS questions)) (ADVP-LOC (RB here)) (SBAR-PRP (IN because) (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (DT no) (NN clue)) (SBAR (WHNP-9 (WP what)) (S (NP-SBJ (`` ") (NNP Iguazu) ('' ")) (VP (VBZ is) (NP-PRD-9 (-NONE- *T*))))))))))) (. ...)) )

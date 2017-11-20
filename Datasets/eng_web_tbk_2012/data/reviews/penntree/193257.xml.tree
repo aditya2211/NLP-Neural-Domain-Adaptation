@@ -1,0 +1,3 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ Gets) (S (NP-SBJ (DT the) (NN Job)) (ADJP-PRD (JJ Done))))) )
+( (S (NP-SBJ (PRP We)) (VP (VP (VBP have) (VP (VBN utilized) (NP (NP (NNP Mr.) (NNP Pozza)) (CC and) (NP (PRP$ his) (NN firm))) (ADVP-TMP (RB twice)) (ADVP-TMP (RB now)) (PP (IN in) (NP (PRP$ our) (NN family))))) (CC and) (VP (NP-TMP (DT both) (NNS times)) (VBP have) (VP (VBN been) (ADJP-PRD (RB very) (JJ pleased))))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (MD would) (RB not) (VP (VB hesitate) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VP (VB use) (NP (PRP him)) (ADVP (RB again))) (CC or) (VP (VB refer) (NP (PRP him)) (PP-CLR (IN to) (NP (PRP$ my) (NN family) (CC or) (NNS friends))))))))) (. .)) )

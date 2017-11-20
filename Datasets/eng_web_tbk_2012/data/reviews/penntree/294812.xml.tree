@@ -1,0 +1,2 @@
+( (S (NP-SBJ-9 (PRP It)) (VP (VBZ 's) (ADVP-TMP (RB now)) (VP (VBN called) (NP-9 (-NONE- *)) (S-CLR (NP-SBJ-9 (-NONE- *PRO*)) (NP-PRD (NNP Sushi) (NNP Lover))))) (. .)) )
+( (S (S (NP-SBJ-9 (NN Food)) (VP (VBZ is) (ADJP-PRD (RB just) (JJ okay)))) (. ..) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VP (MD wo) (RB n't) (VP (VB crave) (NP (PRP it)))) (, ,) (CC but) (VP (MD would) (RB n't) (VP (VB mind) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBG coming) (ADVP (RB back)) (PP (IN for) (NP (DT a) (JJ quick) (NN meal))))))))) (. .)) )

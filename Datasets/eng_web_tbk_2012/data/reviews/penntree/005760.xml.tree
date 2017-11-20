@@ -1,0 +1,4 @@
+( (FRAG (NP (JJ OK) (NN Food)) (, ,) (NP (JJ Slow) (NN service))) )
+( (S (NP-SBJ (DT The) (NN food)) (VP (VBD was) (ADJP-PRD (RB incredibly) (JJ bland))) (. .)) )
+( (FRAG (S (NP-SBJ-9 (PRP$ Their) (NN Thali)) (VP (VBD was) (RB not) (VP (VBN brought) (NP-9 (-NONE- *)) (ADVP (RB out)) (SBAR-ADV (IN as) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBN described) (NP-1 (-NONE- *)))))))) (FRAG (-LRB- -LRB-) (DT no) (NN saag) (-RRB- -RRB-)) (. .)) )
+( (FRAG (ADJP (JJ Expensive)) (PP (IN for) (NP (NP (NP (DT the) (NN level)) (PP (IN of) (NP (NN food)))) (CC and) (NP (NP (DT the) (NN quality)) (PP (IN of) (NP (NN service)))))) (. .)) )

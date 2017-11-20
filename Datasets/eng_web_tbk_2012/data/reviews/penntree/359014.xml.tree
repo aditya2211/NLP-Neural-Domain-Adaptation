@@ -1,0 +1,6 @@
+( (NP (JJ Good) (JJ honest) (NN wrok)) )
+( (S (NP-SBJ (NNP Harlan)) (VP (VBZ provides) (NP (JJ great) (NN service))) (. .)) )
+( (S (NP-SBJ (PRP He)) (VP (VP (VBZ is) (ADJP-PRD (RB very) (JJ knowledgeable))) (CC and) (VP (VBD took) (NP (NP (DT the) (NN time)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB explain) (NP (DT the) (NNS repairs)) (PP-CLR (IN to) (NP (PRP me))) (ADVP-TMP-9 (-NONE- *T*))))))))) (. .)) )
+( (S (S (NP-SBJ-9 (NP (DT The) (NN work)) (PP (IN on) (NP (PRP$ my) (NN car)))) (VP (VBD was) (VP (VBN done) (NP-9 (-NONE- *)) (ADVP (RB quickly))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBD felt) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP I)) (VP (MD could) (VP (VB trust) (NP (PRP$ his) (NN work)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (NN nothing)) (PP (IN but) (NP (NP (JJ fantastic) (NNS things)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB say) (NP-1 (-NONE- *T*)))))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB highly)) (VP (VBP recommend) (NP (PRP$ his) (NN shop))) (. .)) )

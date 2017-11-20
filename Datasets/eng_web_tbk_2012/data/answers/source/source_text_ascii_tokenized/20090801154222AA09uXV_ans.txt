@@ -1,0 +1,4 @@
+<en=1>Which do you prefer Crab or Shrimp ?
+<en=2>I like shrimp , fried , grilled , or steamed .
+<en=3>crab
+<en=4>shrimp

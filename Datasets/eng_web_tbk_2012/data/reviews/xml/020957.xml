@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="020957" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:37:38 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">020957.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="020957:T1">
+<Signal id="020957:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/020957.txt"></Signal>
+</Timeline>
+<AG id="020957:1" timeline="020957:T1">
+<Metadata>
+<MetadataElement name="endOffset">13</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( ADJP-PRD 2 ) ) 3 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="020957:1:1" offset="0.000000"></Anchor>
+<Anchor id="020957:1:2" offset="3.000000"></Anchor>
+<Anchor id="020957:1:3" offset="6.000000"></Anchor>
+<Anchor id="020957:1:4" offset="12.000000"></Anchor>
+<Anchor id="020957:1:5" offset="13.000000"></Anchor>
+<Annotation id="020957:1:E1" type="word" start="020957:1:1" end="020957:1:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="020957:1:E2" type="word" start="020957:1:2" end="020957:1:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="020957:1:E3" type="word" start="020957:1:3" end="020957:1:4">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="020957:1:E4" type="word" start="020957:1:4" end="020957:1:5">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="020957:2" timeline="020957:T1">
+<Metadata>
+<MetadataElement name="endOffset">28</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 2 ( VP 3 ( PP-DIR 4 ( NP ( NP 5 ) ( ADJP 6 ) ) ) ) ) 7 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="020957:2:1" offset="0.000000"></Anchor>
+<Anchor id="020957:2:2" offset="2.000000"></Anchor>
+<Anchor id="020957:2:3" offset="5.000000"></Anchor>
+<Anchor id="020957:2:4" offset="9.000000"></Anchor>
+<Anchor id="020957:2:5" offset="12.000000"></Anchor>
+<Anchor id="020957:2:6" offset="15.000000"></Anchor>
+<Anchor id="020957:2:7" offset="22.000000"></Anchor>
+<Anchor id="020957:2:8" offset="27.000000"></Anchor>
+<Anchor id="020957:2:9" offset="28.000000"></Anchor>
+<Annotation id="020957:2:E1" type="word" start="020957:2:1" end="020957:2:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="020957:2:E2" type="word" start="020957:2:2" end="020957:2:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="020957:2:E3" type="word" start="020957:2:3" end="020957:2:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="020957:2:E4" type="word" start="020957:2:4" end="020957:2:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="020957:2:E5" type="word" start="020957:2:5" end="020957:2:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="020957:2:E6" type="word" start="020957:2:6" end="020957:2:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="020957:2:E7" type="word" start="020957:2:7" end="020957:2:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="020957:2:E8" type="word" start="020957:2:8" end="020957:2:9">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

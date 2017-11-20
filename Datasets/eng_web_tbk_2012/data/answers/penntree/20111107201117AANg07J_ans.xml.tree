@@ -1,0 +1,6 @@
+( (SBARQ (WHADVP-9 (WRB how)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB mold) (NP (NN silicone) (CC or) (NN rubber)) (PP-CLR (IN into) (NP (DT a) (NN mermaid) (NN tail))) (ADVP-MNR-9 (-NONE- *T*)))) (. ?)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Carve) (NP (CD one)) (PP-MNR (IN in) (NP (PRP$ your) (VBN chosen) (NN medium)))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Make) (NP (DT a) (NN mold))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Cast)) (. .)) )
+( (S-IMP (PP (VBG Depending) (PP (IN on) (NP (NN scale)))) (, ,) (NP-SBJ (-NONE- *PRO*)) (VP (VP (ADVP (RB just)) (VB buy) (NP (DT a) (NN fish))) (CC and) (VP (VB make) (NP (DT a) (NN mold)) (PP-MNR (IN from) (NP (DT that)))))) )
+( (S (NP-SBJ (PRP They)) (VP (VBP sell) (NP (DT these) (NNS kits)) (PP-LOC (IN in) (NP (JJS most) (NML (NN hobby) (CC and) (NN craft)) (NNS stores)))) (. .)) )

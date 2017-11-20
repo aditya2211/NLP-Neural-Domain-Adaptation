@@ -1,0 +1,6 @@
+( (FRAG (ADJP (JJ Good) (CC and) (JJ Bad))) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD had) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB take) (NP-CLR (NN care)) (PP-CLR (IN of) (NP (DT the) (NNS ants))) (NP-ADV (PRP myself)))))) (. .)) )
+( (S (CC But) (NP-SBJ (PRP I)) (VP (VBD found) (S (S (NP-SBJ (DT the) (NN location)) (ADJP-PRD (JJ wonderful))) (CC and) (S (NP-SBJ (DT the) (NNS neighbors)) (ADJP-PRD (RB very) (JJ kind))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (ADVP-TMP (RB Never)) (VBD had) (NP (NP (DT a) (NN problem)) (PP (IN with) (NP (DT the) (NN staff))))) (CC and) (VP (VBD found) (S (NP-SBJ (PRP them)) (ADJP-PRD (RB very) (JJ helpful)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (NN something)) (VP (VBD went) (ADJP-PRD (JJ wrong)) (ADVP-TMP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Loved) (NP (DT the) (NN pool) (CC and) (NN BBQ))) (. .)) )
+( (S (PP-PRP (IN Because) (IN of) (NP (DT the) (NNS ants))) (NP-SBJ (PRP I)) (VP (VBD dropped) (NP (PRP them)) (PP (IN to) (NP (DT a) (CD 3) (NN star)))) (. .)) )

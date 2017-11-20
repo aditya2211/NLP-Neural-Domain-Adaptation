@@ -1,0 +1,4 @@
+( (UCP (FRAG (ADJP (JJ Fresh))) (CC and) (NP (JJ Excellent) (NN Quality))) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBP order) (NP (NN take) (NN out)) (PP (IN from) (ADVP (RB here))) (NP-TMP (PDT all) (DT the) (NN time)))) (CC and) (S (NP-SBJ (PRP we)) (VP (VBP are) (ADVP-TMP (RB never)) (ADJP-PRD (JJ disappointed)))) (. .)) )
+( (S (NP-SBJ (DT The) (NN food)) (VP (VBZ is) (ADVP-TMP (RB always)) (ADJP-PRD (JJ fresh) (CC and) (JJ delicious))) (. .)) )
+( (S (S (NP-SBJ (PRP It)) (VP (MD can) (VP (VB be) (PP-PRD (NP-ADV (DT a) (NN little)) (IN on) (NP (DT the) (JJ spicy) (NN side)))))) (CC but) (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (ADVP (RB just)) (VP (VB ask) (NP (PRP them)) (SBAR (ADVP (RB exactly)) (WHNP-1 (WP what)) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP-1 (-NONE- *T*))))))) (CC and) (S (NP-SBJ (PRP they)) (VP (VBP are) (ADJP-PRD (RB very) (JJ helpful))))) (. .)) )

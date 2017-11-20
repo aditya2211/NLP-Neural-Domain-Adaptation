@@ -1,0 +1,4 @@
+( (NP (NML (CD 5) (NN star)) (NN detail) (NN job)) )
+( (S (S (S (NP-SBJ (PRP I)) (VP (VBD took) (NP (PRP$ my) (NNP Mustang)) (ADVP-LOC (RB here)))) (CC and) (S (NP-SBJ (PRP it)) (VP (VBD looked) (ADJP-PRD (JJ amazing)) (SBAR-TMP (IN after) (S (NP-SBJ (PRP they)) (VP (VBD were) (ADJP-PRD (JJ done)))))))) (, ,) (S (NP-SBJ (PRP they)) (VP (VBD did) (NP (DT a) (JJ great) (NN job)))) (, ,) (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADJP-PRD (RB very) (JJ satisfied) (PP (IN with) (NP (DT the) (NNS results)))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN paint) (CC and) (NNS wheels)) (VP (VBD looked) (PP-CLR (IN like) (NP (NN glass))))) (CC and) (S (NP-SBJ (DT the) (JJ interior)) (VP (VBD looked) (ADJP-PRD (JJ new)))) (. !)) )
+( (S (ADVP (RB Also)) (, ,) (NP-SBJ (PRP they)) (VP (VBP have) (NP (NP (JJ great) (NN customer) (NN service)) (CC and) (NP (DT a) (ADJP (RB very) (JJ knowledgeable)) (NN staff))))) )

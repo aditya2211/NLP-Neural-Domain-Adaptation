@@ -1,0 +1,4 @@
+( (NP (NNP Relish)) )
+( (NP (NP (DT A) (NML (JJ Top) (NN Quality)) (NN Sandwich)) (VP (VBN made) (NP (-NONE- *)) (PP (IN to) (NP (JJ artistic) (NNS standards)))) (. .)) )
+( (NP (NP (DT The) (JJS best)) (SBAR (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (NNP darlington)) (VP (VBZ has) (NP-1 (-NONE- *T*))))) (SBAR (WHNP-2 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB offer) (NP-2 (-NONE- *T*)) (PP (IN in) (NP (JJ contemporary) (NN sandwicheering)))))))) (. .)) )
+( (FRAG (NP (NN Drum) (CC and) (NN bass)) (PP (IN as) (NP (NN standard))) (. .)) )

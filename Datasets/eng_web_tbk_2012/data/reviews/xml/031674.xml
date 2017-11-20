@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="031674" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:37:40 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">031674.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="031674:T1">
+<Signal id="031674:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/031674.txt"></Signal>
+</Timeline>
+<AG id="031674:1" timeline="031674:T1">
+<Metadata>
+<MetadataElement name="endOffset">41</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( ADJP 0 ) 1 ( VP 2 ( NP-9 3 ) ( S-CLR ( NP-SBJ-9 *PRO* ) ( ADJP-PRD 4 ( PP 5 ( NP 6 ) ) ) ) ) 7 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="031674:1:1" offset="0.000000"></Anchor>
+<Anchor id="031674:1:2" offset="11.000000"></Anchor>
+<Anchor id="031674:1:3" offset="13.000000"></Anchor>
+<Anchor id="031674:1:4" offset="18.000000"></Anchor>
+<Anchor id="031674:1:5" offset="21.000000"></Anchor>
+<Anchor id="031674:1:6" offset="30.000000"></Anchor>
+<Anchor id="031674:1:7" offset="33.000000"></Anchor>
+<Anchor id="031674:1:8" offset="40.000000"></Anchor>
+<Anchor id="031674:1:9" offset="41.000000"></Anchor>
+<Annotation id="031674:1:E1" type="word" start="031674:1:1" end="031674:1:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="031674:1:E2" type="word" start="031674:1:2" end="031674:1:3">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="031674:1:E3" type="word" start="031674:1:3" end="031674:1:4">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="031674:1:E4" type="word" start="031674:1:4" end="031674:1:5">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="031674:1:E5" type="word" start="031674:1:5" end="031674:1:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="031674:1:E6" type="word" start="031674:1:6" end="031674:1:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="031674:1:E7" type="word" start="031674:1:7" end="031674:1:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="031674:1:E8" type="word" start="031674:1:8" end="031674:1:9">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

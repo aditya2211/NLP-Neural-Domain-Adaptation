@@ -1,0 +1,3 @@
+( (S (NP-SBJ (NNP Farrell) (NNP Electric)) (VP (VBZ is) (NP-PRD (DT a) (ADJP (RB very) (JJ good)) (JJ electrical) (NN contractor))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADJP-PRD (JJ pleased) (SBAR (IN that) (S (NP-SBJ (NN someone)) (VP (VBD referred) (NP (PRP me)) (PP-CLR (IN to) (NP (PRP them))) (PP (IN for) (NP (PRP$ my) (JJ commercial) (NN business)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBP own) (NP (DT a) (NML (NN property) (NN management)) (NN firm))) (CC and) (VP (VBP need) (NP (NP (DT a) (NN contractor)) (PP (IN with) (NP (NP (DT the) (NNS credentials)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ (NNP Farrell) (NNP Electric)) (VP (VBZ has) (NP-9 (-NONE- *T*)))))))))) (. .)) )

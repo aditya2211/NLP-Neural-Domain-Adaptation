@@ -1,0 +1,6 @@
+( (NP (JJ Fantastic) (NML (NNP Nova) (NNP Scotia)) (NN Cottage)) )
+( (S (NP-SBJ (PRP We)) (VP (VBD had) (NP (DT a) (JJ fantastic) (NN time))) (. .)) )
+( (NP (NP (PDT Such) (DT a) (JJ relaxing) (NN atmosphere)) (CC and) (NP (JJ inspiring) (NN architecture)) (. .)) )
+( (S (NP-SBJ (NML (NNP Sand) (NNP Hill)) (NNP park)) (VP (VBD was) (NP-PRD (DT a) (JJ great) (NN beach))) (. ...)) )
+( (NP (JJ Nice) (JJ warm) (NN water) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (HYPH -) (NP (PRP You)) (PP-CLR (IN for) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG sharing) (NP (PRP$ your) (NN cottage)))))) (. !)) )

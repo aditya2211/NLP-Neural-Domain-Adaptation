@@ -1,0 +1,4 @@
+( (NP (NP (DT An) (NN Hour)) (PP (IN Of) (NP (NNP Prego) (NN Bliss))) (. !)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBP schedule) (NP (PRP$ my) (JJ weekly) (NN appointment)) (ADVP-LOC (RB here)) (S-PRP (NP-SBJ (-NONE- *PRO*)) (ADVP (RB just)) (VP (TO to) (VP (VB get) (NP (DT a) (NN chance) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB lie) (ADVP-MNR (RB comfortably)) (PP-LOC (IN on) (NP (PRP$ my) (NN tummy))))))))))) (. .)) )
+( (S (CC And) (NP-SBJ (DT the) (NNS massages)) (VP (VBP are) (ADJP-PRD (JJ heavenly))) (. !)) )
+( (NP (ADJP (RB Very) (JJ friendly)) (NN place) (. .)) )

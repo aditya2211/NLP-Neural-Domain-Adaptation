@@ -1,0 +1,3 @@
+( (FRAG (NP (NN Email)) (: :) (NP (ADD davidr...@optonline.net))) )
+( (FRAG (NP (NNS Groups)) (: :) (NP (NN alt.animals.breeders.rabbits) (, ,) (NN alt.animals.cat) (, ,) (NN alt.animals.crab) (, ,) (NN alt.animals.dog) (, ,) (NN alt.animals.dogs.collies.open-forum) (, ,) (NN alt.animals.dolphins) (, ,) (NN alt.animals.eagle.bald) (, ,) (NN alt.animals.ethics.vegetarian) (, ,) (NN alt.animals.falcon))) )
+( (S (NP-SBJ-9 (DT This) (NN message)) (VP (VBD was) (VP (VBN cancelled) (NP-9 (-NONE- *)) (PP (IN from) (PP (IN within) (NP (NNP Mozilla)))))) (. .)) )

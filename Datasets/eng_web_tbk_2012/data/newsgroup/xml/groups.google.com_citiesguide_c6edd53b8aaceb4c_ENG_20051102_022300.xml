@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:56 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Signal id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">52</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP ( NP 2 3 ) ( NP 4 5 6 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:4" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:5" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:6" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:7" offset="51.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:8" offset="52.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:6">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:7">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:1:8">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">16</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP ( NP 0 1 ) 2 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:3" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:4" offset="16.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:3">
+<Feature name="tag">POS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:2:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">98</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NP 0 1 ) 2 ( NP 3 ) ) ( VP 4 ( PP-PRD 5 ( NP ( NP 6 7 ) ( SBAR ( WHNP-9 8 ) ( S ( NP-SBJ-9 *T* ) ( VP 9 ( NP ( NP 10 11 ) ( PP 12 ( NP ( NP 13 ) ( PP 14 ( NP 15 16 ) ) ) ) ) ) ) ) ) ) ) 17 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:2" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:3" offset="19.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:4" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:5" offset="34.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:6" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:7" offset="44.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:8" offset="48.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:9" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:A" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:B" offset="64.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:C" offset="66.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:D" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:F" offset="73.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:G" offset="82.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:H" offset="85.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:I" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:J" offset="97.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:K" offset="98.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:3">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:4">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:5">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:6">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:A">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:B">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:C">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:D">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:F">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EH" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:H" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:I">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EI" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:I" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:EJ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:J" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:3:K">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">79</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NP 0 ) ( S-1 *EXP* ) ) ( VP 1 ( ADJP-PRD 2 ) ( S-1 ( NP-SBJ *PRO* ) ( VP 3 ( VP 4 ( NP ( NP 5 6 ) ( PP 7 ( NP 8 ) ) ) ) ) ) ( SBAR-PRP 9 ( S ( NP-SBJ 10 ) ( VP 11 ( ADVP-TMP 12 13 ) ) ) ) ) 14 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:2" offset="3.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:3" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:4" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:5" offset="14.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:6" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:7" offset="27.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:8" offset="35.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:9" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:A" offset="44.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:B" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:C" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:D" offset="62.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:F" offset="67.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:G" offset="78.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:H" offset="79.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:4">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:5">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:7">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:A">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:B">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:C">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:D">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:F">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:G">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:4:H">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">31</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 1 2 ) ( PP 3 ( NP 4 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:3" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:4" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:5" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:6" offset="31.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:4">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:5">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:5:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">179</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NP 0 ) ( PP 1 ( NP 2 3 ) ) ) ( ADVP 4 ) ( VP 5 ( NP 6 7 8 ) ( SBAR-PRP 9 ( S ( NP-SBJ 10 ) ( VP 11 ( PRT 12 ) ( PP 13 ( NP ( NP 14 ) ( PP 15 ( NP 16 17 ) ) ) ) ( PP-TMP 18 ( NP 19 20 21 ) ) ( PP 22 ( PP 23 ( NP ( NP 24 25 26 27 ) ( SBAR ( WHNP-9 *0* ) ( S ( NP-SBJ 28 ) ( VP 29 ( NP-9 *T* ) ( PP-CLR 30 ( NP 31 32 ) ) ) ) ) ) ) ) ) ) ) ) 33 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:4" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:5" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:6" offset="27.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:7" offset="31.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:8" offset="37.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:9" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:A" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:B" offset="57.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:C" offset="62.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:D" offset="66.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:F" offset="69.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:G" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:H" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:I" offset="82.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:J" offset="86.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:K" offset="95.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:L" offset="99.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:M" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:N" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:O" offset="116.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:P" offset="122.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Q" offset="125.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:R" offset="129.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:S" offset="138.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:U" offset="142.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:V" offset="151.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:W" offset="156.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:X" offset="160.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Y" offset="165.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Z" offset="169.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:a" offset="178.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:b" offset="179.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:3">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:4">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:6">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:7">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:A">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:B">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:C">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:D">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:F">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:G">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:H">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EH" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:H" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:I">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EI" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:I" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EJ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:J" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:K">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EK" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:K" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:L">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EL" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:L" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:M">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EM" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:M" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:N">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EN" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:N" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:O">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EO" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:O" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:P">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EP" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:P" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Q">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EQ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Q" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:R">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:ER" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:R" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:S">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:ES" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:S" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:U">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EU" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:U" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:V">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EV" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:V" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:W">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EW" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:W" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:X">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EX" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:X" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Y">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EY" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Y" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Z">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:EZ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Z" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:a">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:Ea" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:a" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:6:b">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">113</MetadataElement>
+<MetadataElement name="paragraph">7</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 0 1 ) ( VP 2 ( VP 3 ( NP-9 * ) ( PP-CLR 4 ( NP 5 6 ) ) ( PP 7 ( NP 8 9 ) ) ( S-PRP ( NP-SBJ *PRO* ) ( VP 10 ( VP 11 ( NP ( NP 12 13 ) ( PP 14 ( NP 15 16 ) ) ) ) ) ) ) ) 17 ) )</MetadataElement>
+<MetadataElement name="segId">7</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:2" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:3" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:4" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:5" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:6" offset="33.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:7" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:8" offset="48.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:9" offset="56.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:A" offset="61.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:B" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:C" offset="73.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:D" offset="81.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:F" offset="88.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:G" offset="96.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:H" offset="100.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:I" offset="106.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:J" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:K" offset="113.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:3">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:4">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:5">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:7">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:8">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:A">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:B">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:C">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:D">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:F">
+<Feature name="tag">JJR</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EH" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:H" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:I">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EI" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:I" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:EJ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:J" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:7:K">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">28</MetadataElement>
+<MetadataElement name="paragraph">8</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 1 2 ) )</MetadataElement>
+<MetadataElement name="segId">8</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:2" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:3" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:4" offset="28.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:3">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:8:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">110</MetadataElement>
+<MetadataElement name="paragraph">9</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NP 0 1 ) ( PP 2 ( NP 3 4 5 ) ) ) ( VP 6 ( NP 7 ) ( PP 8 ( NP 9 10 ) ) ( PP-TMP 11 ( NP ( NP 12 13 ) ( PP 14 ( NP 15 16 ) ) ) ) ) 17 ) )</MetadataElement>
+<MetadataElement name="segId">9</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:3" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:4" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:5" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:6" offset="33.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:7" offset="43.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:8" offset="51.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:9" offset="59.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:A" offset="63.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:B" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:C" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:D" offset="87.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:F" offset="92.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:G" offset="97.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:H" offset="100.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:I" offset="104.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:J" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:K" offset="110.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:3">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:6">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:7">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:8">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:B">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:C">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:F">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EH" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:H" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:I">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EI" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:I" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:EJ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:J" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:9:K">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">87</MetadataElement>
+<MetadataElement name="paragraph">10</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( PP-TMP 0 ( NP 1 2 ) ) 3 ( NP-SBJ 4 ) ( VP 5 ( NP ( NP 6 7 8 ) ( PP 9 ( NP 10 11 ) ) ) ( PP 12 ( NP 13 14 ) ) ) 15 ) )</MetadataElement>
+<MetadataElement name="segId">10</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:3" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:4" offset="19.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:5" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:6" offset="26.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:7" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:8" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:9" offset="42.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:A" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:B" offset="53.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:C" offset="59.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:D" offset="67.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:F" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:G" offset="78.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:H" offset="86.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:I" offset="87.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:3">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:5">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:6">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:7">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:A">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:B">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:C">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:D">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:F">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:G">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:H">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:EH" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:H" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:A:I">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">132</MetadataElement>
+<MetadataElement name="paragraph">11</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( SBAR-ADV 0 ( S ( NP-SBJ 1 ) ( VP 2 ( VP 3 ( PP-CLR 4 ( NP 5 6 7 ) ) ( PP-TMP 8 ( NP 9 10 ) ) ) ) ) ) 11 ( NP-SBJ 12 ) ( VP 13 ( VP 14 ( NP ( NP 15 16 17 ) 18 ( SBAR ( WHNP-9 19 ) ( S ( NP-SBJ-9 *T* ) ( VP 20 ( ADVP 21 ) ( VP 22 ( NP 23 ) ) ) ) ) ) ) ) 24 ) )</MetadataElement>
+<MetadataElement name="segId">11</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:2" offset="3.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:3" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:4" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:5" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:6" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:7" offset="26.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:8" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:9" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:A" offset="48.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:B" offset="53.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:C" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:D" offset="62.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:F" offset="66.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:G" offset="70.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:H" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:I" offset="84.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:J" offset="93.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:K" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:L" offset="103.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:M" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:N" offset="113.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:O" offset="118.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:P" offset="127.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:Q" offset="131.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:R" offset="132.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:3">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:4">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E6" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:6" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E7" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:7" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E8" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:8" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:E9" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:9" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EA" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:A" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:B">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EB" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:B" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EC" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:C" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:D">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:ED" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:D" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:F">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EF" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:F" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:G">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EG" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:G" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:H">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EH" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:H" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:I">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EI" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:I" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:J">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EJ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:J" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:K">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EK" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:K" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:L">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EL" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:L" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:M">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EM" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:M" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:N">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EN" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:N" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:O">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EO" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:O" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:P">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EP" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:P" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:Q">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:EQ" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:Q" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:B:R">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C" timeline="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:T1">
+<Metadata>
+<MetadataElement name="endOffset">94</MetadataElement>
+<MetadataElement name="paragraph">12</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 1 ) ( PP 2 3 ( NP 4 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">12</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:2" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:3" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:4" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:5" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:6" offset="94.000000"></Anchor>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:E1" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:1" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:E2" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:2" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:E3" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:3" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:E4" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:4" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:5">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:E5" type="word" start="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:5" end="groups.google.com_citiesguide_c6edd53b8aaceb4c_ENG_20051102_022300:C:6">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

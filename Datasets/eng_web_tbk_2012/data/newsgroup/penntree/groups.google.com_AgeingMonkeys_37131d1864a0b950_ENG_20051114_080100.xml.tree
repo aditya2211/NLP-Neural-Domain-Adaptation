@@ -1,0 +1,5 @@
+( (S (S-PRP (NP-SBJ (-NONE- *PRO*)) (ADVP (RB Just)) (VP (TO to) (VP (VB let) (S (NP-SBJ (NP (PRP you)) (NP (DT all))) (VP (VB know)))))) (NP-SBJ (NNP Matt)) (VP (VBZ has) (VP (VBN confirmed) (SBAR (-NONE- *0*) (S (NP-SBJ (NP (DT the) (NN booking)) (PP (IN for) (NP (NN 3rd) (NNP Dec)))) (VP (GW i) (VBZ s) (ADJP-PRD (JJ OK))))))) (. .)) )
+( (S (NP-SBJ-1 (PRP He)) (VP (VP (VBZ has) (ADVP (RB also)) (VP (VBN had) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB pay) (NP (NP (DT the) ($ L) (CD 15) (-NONE- *U*)) (NP (DT each))) (ADVP (RB up) (RB front))))))) (VP (ADVP (RB so)) (GW woul) (MD d) (VP (VB be) (ADJP-PRD (JJ grateful)) (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (MD could) (VP (VB get) (NP (DT the) (NN cash)) (PP-DTV (IN to) (NP (PRP him))) (ADVP-TMP (ADVP (RB as) (RB soon)) (SBAR (IN as) (FRAG (ADJP (GW poss) (JJ ible)))))))))))) (. .)) )
+( (NP (NN Thanks)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VB See) (NP-1 (PRP you)) (S-ADV (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBG climbing))) (ADVP-TMP (RB later)))) )
+( (NP (NNP Lizzie)) )

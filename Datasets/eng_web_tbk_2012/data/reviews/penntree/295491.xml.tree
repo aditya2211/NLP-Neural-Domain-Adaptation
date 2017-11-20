@@ -1,0 +1,7 @@
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Skip) (NP (DT te) (NN rest)))) (, -) (S (NP-SBJ (DT this)) (VP (VBZ is) (NP-PRD (DT the) (JJS best))))) )
+( (FRAG (ADJP (RB Absolutely) (JJ great)) (. !)) )
+( (NP (NP (JJ Clean) (, ,) (VBN updated) (NN room)) (, ,) (NP (JJ friendly) (NNS staff)) (, ,) (NP (JJ safe) (NN location)) (. .)) )
+( (S (S (NP-SBJ (NN Staff)) (VP (VBZ is) (ADJP-PRD (RB super) (JJ friendly)))) (, ,) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP treat) (NP (PRP you)) (PP-CLR (IN as) (NP (DT a) (NN friend))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD Can) (RB not) (VP (VB ask) (PP-CLR (IN for) (NP (DT a) (JJR better) (NN experience))))) (. .)) )
+( (SQ (NP-SBJ (-NONE- *PRO*)) (VP (MD Will) (VP (VB be) (VP (VBG staying) (ADVP-LOC (RB here)) (NP-TMP (NP (DT any) (CC and) (DT every) (NN time)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP come) (ADVP-LOC (RB anywhere) (RB near)) (ADVP-TMP-9 (-NONE- *T*))))))))) (. .)) )
+( (S (ADVP (RB Overall)) (, ,) (NP-SBJ (NNP Joe)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ happy) (NN camper)) (SBAR (WHNP-9 (WP who)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ has) (VP (VBN found) (NP (DT a) (JJ great) (NN spot)))))))) (. .)) )

@@ -1,0 +1,5 @@
+( (NP (NP (JJS Slowest) (, ,) (JJ Unfriendly) (NN Sstaff)) (PP-TMP (IN on) (NP (NNS Weekends)))) )
+( (S (NP-SBJ (EX There)) (VP (VBP are) (NP-PRD (NP (CD three) (NNP Starbucks) (NNS locations)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ (PRP I)) (VP (VBP frequent) (NP-9 (-NONE- *T*))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (DT a) (NN bit)) (PP (IN of) (NP (NP (NN experience)) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG watching) (NP (DT the) (JJ usual) (NN assembly) (NN line)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB also)) (VP (VBP understand) (SBAR (IN that) (S (NP-SBJ (NN weekend) (NNS staffs)) (VP (VBP are) (UCP-PRD (ADJP (ADJP (JJ different)) (PP (IN than) (NP (NN daytime) (NN staffs)))) (CC and) (NP (NP (ADVP (RB not) (RB necessarily)) (NNP Starbucks) (NN A) (HYPH -) (NN team)) (CC or) (NP (RB even) (JJ full) (HYPH -) (NN time)))))))) (. .)) )
+( (S (CC But) (NP-SBJ (DT this) (NN location)) (VP (VBZ has) (NP (NP (DT the) (JJS worst) (NN weekend) (NN staff)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP 've) (VP (VBN seen) (NP-9 (-NONE- *T*)) (ADVP-TMP (RB EVER)))))))) (. .)) )

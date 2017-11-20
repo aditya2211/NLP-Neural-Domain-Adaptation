@@ -1,0 +1,4 @@
+( (NP (NP (JJ Nice) (NNS teachers)) (NP (JJ good) (NN school))) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (NP-PRD (NP (ADJP (RB very) (JJ good)) (NNS teachers)) (CC and) (NP (NP (JJ nice) (NNS people)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB meet) (NP-1 (-NONE- *T*)))))))) (ADVP-LOC (RB here))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD enjoyed) (ADVP (RB very) (RB much)) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB study) (ADVP-LOC (RB here)))))) (. .)) )
+( (NP (NP (DT A) (JJ good) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB improve) (NP (PRP$ your) (NNP English)) (ADVP-LOC-9 (-NONE- *T*))))))) )

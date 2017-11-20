@@ -1,0 +1,2 @@
+( (S (NP-SBJ (NN LOCATION)) (VP (VBZ HAS) (VP (VBN CLOSED))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ HAS) (VP (VBN MOVED) (PP-DIR (IN TO) (FRAG (NP (CD 4783) (NNP Bay) (NNP Rd)) (NP (NP (NNP Saginaw)) (, ,) (NP-LOC (NNP Michigan))) (NP (CD 48604)) (NP (-LRB- -LRB-) (CD 989) (-RRB- -RRB-) (CD 755-1109))))))) )

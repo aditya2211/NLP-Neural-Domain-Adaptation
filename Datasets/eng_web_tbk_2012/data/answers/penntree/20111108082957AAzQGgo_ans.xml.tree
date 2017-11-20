@@ -1,0 +1,3 @@
+( (SBARQ (WHNP-9 (WP What)) (SQ (NP-SBJ-9 (-NONE- *T*)) (VP (VBD influenced) (NP (NP (NP (NNP Picasso) (POS 's)) (NN cubism) (NN style)) (PP (IN of) (NP (NN painting)))))) (. ?)) )
+( (S (S (NP-SBJ (PRP i)) (VP (VBP 've) (VP (VBN seen) (NP (DT that))))) (, .......) (S (NP-SBJ (DT that)) (VP (VBZ does) (RB not) (VP (VB help) (NP (PRP me)) (ADVP (RB at) (RB all))))) (S (NP-SBJ (PRP it)) (VP (VBZ says) (SBAR (SBAR (WHNP-1 (WP what)) (S (NP-SBJ (NN cubism)) (VP (VBD influenced) (NP-1 (-NONE- *T*))))) (RB not) (SBAR (WHNP-2 (WP what)) (S (NP-SBJ-2 (-NONE- *T*)) (VP (VBD influnced) (NP (NN cubism))))))))) )
+( (NP (ADD http://en.wikipedia.org/wiki/Cubism)) )

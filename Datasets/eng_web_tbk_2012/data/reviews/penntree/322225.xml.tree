@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN Wine) (CC &) (NN Service)) )
+( (S (NP-SBJ (DT This) (NN place)) (VP (VBZ is) (ADJP-PRD (RB so) (JJ great))) (. !)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP have) (NP (NP (DT a) (JJ great) (NN selection)) (PP (IN of) (NP (NP (NN wine)) (PP (IN from) (PP (RB all) (IN over) (NP (DT the) (NN world))))))) (PP (IN with) (NP (DT all) (JJ different) (NNS prices)))) (. .)) )
+( (S (NP-SBJ (DT The) (NNS employees)) (VP (VP (VBP make) (S (NP-SBJ (PRP you)) (VP (VB feel) (ADJP-PRD (RB very) (JJ comfortable))))) (CC and) (VP (VBP are) (ADJP-PRD (RB very) (JJ helpful)) (, ,) (SBAR-ADV (IN whether) (S (NP-SBJ (PRP you)) (VP (VP (VBP are) (ADJP-PRD (RB very) (JJ knowledgeable))) (CC or) (VP (VBP do) (RB n't) (VP (VB know) (NP (NP (NN anything)) (ADVP (RB at) (RB all)) (PP (IN about) (NP (NN wine))))))))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Check) (PRT (RP out)) (NP (NP (PRP$ their) (NN wine) (NNS tastings)) (NP-TMP (DT every) (NNP Friday) (NN night)))) (. !)) )

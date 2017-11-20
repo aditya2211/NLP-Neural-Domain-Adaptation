@@ -1,0 +1,6 @@
+( (FRAG (NP (NP (NNP Ham) (POS s)) (PP-LOC (IN on) (NP (NNP Friendly)))) (, ...) (INTJ (UH RIP))) )
+( (S (S (NP-SBJ (DT This)) (VP (VBZ is) (NP-PRD (NP (NP (DT the) (JJ original) (NNP Ham) (POS 's)) (NN restaurant)) (, ,) (VP (VBN expanded) (NP (-NONE- *)) (PP-CLR (IN into) (NP (DT a) (JJ regional) (NN chain))) (PP-LOC (IN in) (NP (DT the) (JJ late) (NNS 80's))))))) (, --) (CC but) (S (NP-SBJ (DT this) (NN one)) (VP (VBZ is) (ADVP-PRD (RB no) (RBR more)))) (. .)) )
+( (NP (NP (NN Victim)) (PP (IN of) (NP (NP (JJ hard) (NNS times)) (CC and) (PRN (S (NP-SBJ (PRP I)) (VP (VBP suspect)))) (NP (VBG failing) (JJ corporate) (NN management)))) (. .)) )
+( (S (PP (VBG According) (PP (IN to) (NP (NN news) (NNS accounts)))) (, ,) (NP-SBJ (DT the) (NN company)) (VP (VBZ is) (VP (VBG struggling))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (JJ many) (JJ fond) (NNS memories)) (PP (IN of) (NP (NP (PRP$ my) (NN college) (NNS evenings)) (ADVP-LOC (RB there)) (ADVP-TMP (RB long) (RB ago)))))) (. .)) )
+( (S (INTJ (INTJ (RB So) (RB long)) (NP-VOC (NNP Ham) (POS s))) (, ...) (NP-SBJ-9 (PRP you)) (VP (MD will) (VP (VB be) (VP (VBN missed) (NP-9 (-NONE- *))))) (. .)) )

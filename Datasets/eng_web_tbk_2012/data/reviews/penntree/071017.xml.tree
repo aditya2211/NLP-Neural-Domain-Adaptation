@@ -1,0 +1,4 @@
+( (FRAG (FRAG (S (NP-SBJ (PRP It)) (VP (VBD was) (ADJP-PRD (JJ ok)))) (, ,) (NP (JJ nice) (NN management))) (, ,) (S (S (NP-SBJ (PRP they)) (VP (VBD let) (S (NP-SBJ (PRP us)) (VP (VB check) (PRT (RP in)) (ADVP-TMP (RB early)))))) (, ,) (CC but) (S (NP-SBJ (DT the) (NN place)) (VP (VBD was) (ADJP-PRD (JJ old))))) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBD was) (ADJP-PRD (ADJP (JJ clean)) (, ,) (CC but) (ADJP (NP (RB just) (DT a) (JJ little)) (JJ dumpy)))) (. .)) )
+( (NP (NP (NNS Lots)) (PP (IN of) (NP (NP (NN room)) (PP (IN for) (NP (NML (JJ big) (NN rig)) (NN parking))))) (. .)) )
+( (FRAG (ADJP (ADJP (JJ Hard)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (PP (IN into) (NP-1 (-NONE- *T*)))))))) (ADVP (RB though)) (PP-PRP (IN because) (IN of) (NP (NN road) (NN construction))) (. .)) )

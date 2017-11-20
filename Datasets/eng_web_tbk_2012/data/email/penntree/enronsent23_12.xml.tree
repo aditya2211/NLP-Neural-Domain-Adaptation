@@ -1,0 +1,4 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD ca) (RB n't) (VP (VB believe) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (VBD left) (NP-TMP (JJ last) (NN night))))))) (. .)) )
+( (NP (JJ nice) (NN sarcasm) (. .)) )
+( (S (S (NP-SBJ (DT that)) (VP (VBZ 's) (ADJP-PRD (JJ fine)))) (, ,) (S (NP-SBJ-9 (PRP i)) (VP (VBP do) (RB n't) (VP (VB want) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB see) (NP (PRP you))))) (ADVP (RB either))))) (, ,) (S (NP-SBJ-1 (PRP i)) (ADVP (RB just)) (VP (VBP need) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB make) (NP (DT a) (NN cd))))))) (. .)) )
+( (S (NP-SBJ (PRP i)) (VP (MD ca) (RB n't) (VP (VB wait)))) )

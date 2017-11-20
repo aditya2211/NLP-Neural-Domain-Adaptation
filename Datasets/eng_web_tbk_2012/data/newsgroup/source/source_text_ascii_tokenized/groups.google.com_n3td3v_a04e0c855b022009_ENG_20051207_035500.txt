@@ -1,0 +1,7 @@
+<en=1>Email : BBC Breaking News Alert < dailyem...@ebs.bbc.co.uk >
+<en=2>The former Iraqi leader Saddam Hussein is refusing to enter the Baghdad courtroom , in protest at how his trial is being conducted .
+<en=3>For more details : http://www.bbc.co.uk/news
+<en=4>------------------------------------------------
+<en=5>This e-mail is never sent unsolicited .
+<en=6>You have received this BBC Breaking News Alert because you subscribed to it or , someone forwarded it to you .
+<en=7>To unsubscribe ( or subscribe if this message was forwarded to you ) go to : http://www.bbc.co.uk/email

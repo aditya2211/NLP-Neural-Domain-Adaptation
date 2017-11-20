@@ -1,0 +1,5 @@
+( (NP (NP (NN information)) (PP (IN on) (NP (DT the) (NNP Eurostar) (NN train))) (. ?)) )
+( (SQ (SQ (MD can) (NP-SBJ (NNS children)) (VP (VB go) (PP-LOC (IN on) (NP (DT the) (NNP Eurostar) (NN train))) (PP-MNR (IN on) (NP (PRP$ there) (JJ own))) (PP-DIR (IN to) (NP (NNP France))))) (CC and) (SBARQ (WHADVP-9 (WRB where) (RB about)) (SQ (VBZ is) (NP-SBJ-1 (DT the) (NNP Eurostar)) (VP (VBN located) (NP-1 (-NONE- *)) (ADVP-LOC-9 (-NONE- *T*)))))) )
+( (NP (DT No) (JJ under) (NNS 12's) (. .)) )
+( (S (S (NP-SBJ-9 (NP (NNS People)) (ADJP (VBN aged) (NP (NP (CD 13)) (PP (SYM -) (NP (CD 17)))))) (VP (MD may) (VP (VB be) (VP (VBN allowed) (NP-9 (-NONE- *)) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB travel) (ADVP (RB alone)) (PP (IN at) (NP (NP (NNP Eurostar) (POS 's)) (NN discretion)))))))))) (, -) (S (NP-SBJ (PRP you)) (VP (MD should) (VP (VB email) (NP (PRP them)) (PP (IN for) (NP (DT a) (NN decision)))))) (. .)) )
+( (S (NP-SBJ (NNP Eurostar)) (VP (VBZ runs) (PP-DIR (IN from) (NP (NNP London) (NML (NNP St) (NNP Pancras)) (NN station)))) (. .)) )

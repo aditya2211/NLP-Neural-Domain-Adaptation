@@ -1,0 +1,8 @@
+( (NP (JJ happy) (NN customer)) )
+( (S (NP-SBJ (NNP Mr.) (NNP Squeege)) (VP (VBZ is) (NP-PRD (DT THE) (JJS BEST))) (. .)) )
+( (NP (JJ Prompt) (, ,) (JJ Clean) (NNS Windows) (. .)) )
+( (NP (JJ Affordable) (NN pricing) (. .)) )
+( (NP (JJ Friendly) (NNS responses) (. .)) )
+( (SBARQ (WHADVP-9 (WRB How) (RB else)) (SQ (MD can) (NP-SBJ-1 (JJ excellent)) (VP (VB be) (VP (VBN described) (NP-1 (-NONE- *)) (PP (IN for) (NP (NP (DT a) (NN business)) (PP (IN of) (NP (DT this) (NN sort))))) (ADVP-9 (-NONE- *T*))))) (. ?)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP have) (VP (VBN been) (NP (PRP$ my) (RB only) (NML (`` ") (S (NP-SBJ (-NONE- *PRO*)) (VP (VB go) (HYPH -) (PP-DIR (IN to) (NP (-NONE- *?*))))) ('' ")) (VB resource)) (SBAR-PRP (IN since) (S (NP-SBJ (PRP we)) (ADVP (RB first)) (VP (VBD did) (NP (NN business)) (ADVP (RB together))))))) (. .)) )
+( (S (NP-SBJ (PRP You)) (VP (MD will) (VP (VB find) (S (NP-SBJ (DT the) (JJ same)) (VP (TO to) (VP (VB be) (ADJP-PRD (JJ true)) (PP (IN for) (NP (PRP you)))))))) (. .)) )

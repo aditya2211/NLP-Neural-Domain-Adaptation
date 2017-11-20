@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN place)) )
+( (NP (NP (ADJP (RB Really) (JJ great)) (NN service)) (CC and) (NP (JJ kind) (NN staff)) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN haircut)) (VP (VBD was) (ADJP-PRD (JJ inexpensive)))) (CC and) (SINV (ADVP-TPC-1 (RB so)) (VP (VBD were) (ADVP-PRD-1 (-NONE- *T*))) (NP-SBJ (DT the) (NN salon) (NNS services))) (S (-LRB- -LRB-) (NP-SBJ (NNS eyebrows)) (VP (VBD were) (ADJP-PRD (JJ cheap))) (. !) (NFP -RRB-)) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ 's) (NP-PRD (NP (DT a) (JJ nice) (, ,) (JJ relaxed) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VP (VB get) (S (NP-SBJ-1 (NN stuff)) (VP (VBN done) (NP-1 (-NONE- *))))) (CC and) (VP (VB relax)) (ADVP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP plan) (PP-CLR (IN on) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG going) (ADVP-TMP (RB again)))))) (. .)) )

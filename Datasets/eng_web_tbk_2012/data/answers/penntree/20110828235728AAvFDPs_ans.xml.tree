@@ -1,0 +1,2 @@
+( (SBARQ (WHNP-9 (WRB How) (JJ much)) (SQ (VBZ does) (NP-SBJ (PRP it)) (VP (VB cost) (NP-9 (-NONE- *T*)) (S-CLR (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB buy) (NP (DT a) (NML (NNP Big) (NNP Mac)) (NN meal))))) (PP-LOC (IN in) (NP (PRP$ your) (NN area))))) (. ?)) )
+( (S (ADVP-LOC (RB Here) (PP (IN in) (NP (NNP Indiana)))) (NP-SBJ (PRP I)) (VP (VBP think) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP it)) (VP (VBZ 's) (INTJ (UH like)) (NP-PRD (NP ($ $) (CD 3) (-NONE- *U*)) (CC or) (NP ($ $) (CD 4) (-NONE- *U*))) (PP (IN for) (NP (DT a) (NN meal))))))) (. .)) )

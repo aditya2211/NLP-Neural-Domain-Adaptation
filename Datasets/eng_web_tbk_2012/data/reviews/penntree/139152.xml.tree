@@ -1,0 +1,4 @@
+( (NP (NN Hospitality) (. .!)) )
+( (FRAG (NP-SBJ-1 (ADJP (RB Very) (JJ good)) (NN hospitality)) (VP (VBN offered) (NP-1 (-NONE- *))) (. .!)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Keep) (NP (PRP it)) (PRT (RP up))) (. .)) )
+( (NP (, -) (NNP Shree) (NNP Ghatkopar) (NNP Bhatia) (NNP Mitra) (NNP Mandal)) )

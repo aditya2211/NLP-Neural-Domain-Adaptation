@@ -1,0 +1,2 @@
+( (S (NP-SBJ (PRP It)) (VP (VBZ 's) (ADJP-PRD (JJ fine) (PP-UNF (IN for)))) (. ...)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ 's) (ADJP-PRD (JJ fine) (PP (IN for) (NP (NML (JJ mass) (HYPH -) (NN market)) (NN chocolate)))))) (, ,) (CC but) (FRAG (PP (IN with) (NP (NP (NNS companies)) (PP (IN like) (NP (NP (NNP Scharffen) (NNP Berger)) (, ,) (NP (NNP TCHO)) (, ,) (CC and) (NP (JJS smaller) (NN artisan) (NN chocolate) (NNS makers)))) (PP-LOC (IN in) (NP (DT the) (NN area))))) (, ,) (WHADVP (WRB why))) (. ?)) )

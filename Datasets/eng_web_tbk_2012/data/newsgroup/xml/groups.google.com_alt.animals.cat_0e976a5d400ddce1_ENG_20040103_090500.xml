@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:55 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1">
+<Signal id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1" timeline="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1">
+<Metadata>
+<MetadataElement name="endOffset">38</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP ( NP 2 3 ) ( NP 4 5 6 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:4" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:5" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:6" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:7" offset="37.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:8" offset="38.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E1" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:1" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E2" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:2" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E3" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:3" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E4" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:4" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E5" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:5" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:6">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E6" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:6" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:7">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:E7" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:7" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:1:8">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2" timeline="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1">
+<Metadata>
+<MetadataElement name="endOffset">94</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP 2 3 4 5 6 7 8 ) ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:3" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:4" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:5" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:6" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:7" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:8" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:9" offset="73.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:A" offset="94.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E1" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:1" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:2">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E2" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:2" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E3" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:3" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E4" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:4" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:5">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E5" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:5" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E6" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:6" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:7">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E7" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:7" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E8" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:8" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:9">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:E9" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:9" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:2:A">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3" timeline="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1">
+<Metadata>
+<MetadataElement name="endOffset">27</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S-IMP ( NP-SBJ *PRO* ) ( VP 0 1 ( PP 2 3 ( NP 4 ) ) ) ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:2" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:3" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:4" offset="14.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:6" offset="27.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:E1" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:1" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:2">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:E2" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:2" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:3">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:E3" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:3" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:E4" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:4" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:5">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:E5" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:5" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:3:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4" timeline="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1">
+<Metadata>
+<MetadataElement name="endOffset">263</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( ADVP-TMP 2 ) ( VP 3 ( NP 4 5 ) ( PP 6 7 ( NP ( NP ( NP 8 9 10 ) ( NP 11 ) ( PRN 12 ( FRAG ( NP 13 ( NML 14 15 ) 16 ) ( NP-TMP 17 ) ) 18 ) ) 19 ( NP ( NP ( NP ( NP 20 ) 21 ( NP 22 23 ) ) ( NP 24 ) ) ( NP 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 ) ) ) ) ) ) 42 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:2" offset="4.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:3" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:4" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:5" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:6" offset="33.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:7" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:8" offset="42.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:9" offset="44.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:A" offset="52.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:B" offset="56.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:C" offset="62.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:D" offset="99.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:F" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:G" offset="106.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:H" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:I" offset="121.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:J" offset="126.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:K" offset="132.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:L" offset="134.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:M" offset="136.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:N" offset="139.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:O" offset="143.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:P" offset="147.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Q" offset="151.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:R" offset="182.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:S" offset="187.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:U" offset="189.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:V" offset="197.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:W" offset="199.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:X" offset="207.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Y" offset="209.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Z" offset="215.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:a" offset="217.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:b" offset="223.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:c" offset="225.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:d" offset="234.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:e" offset="236.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:f" offset="247.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:g" offset="249.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:h" offset="253.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:i" offset="257.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:j" offset="262.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:k" offset="263.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E1" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:1" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E2" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:2" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E3" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:3" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E4" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:4" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:5">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E5" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:5" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E6" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:6" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:7">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E7" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:7" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E8" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:8" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:9">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:E9" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:9" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EA" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:A" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:B">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EB" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:B" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:C">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EC" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:C" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:D">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:ED" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:D" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:F">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EF" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:F" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:G">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EG" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:G" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:H">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EH" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:H" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EI" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:I" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EJ" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:J" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:K">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EK" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:K" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:L">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EL" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:L" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:M">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EM" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:M" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:N">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EN" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:N" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:O">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EO" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:O" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:P">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EP" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:P" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Q">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EQ" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Q" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:R">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:ER" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:R" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:S">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:ES" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:S" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:U">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EU" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:U" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:V">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EV" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:V" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:W">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EW" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:W" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:X">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EX" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:X" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Y">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EY" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Y" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Z">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:EZ" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Z" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:a">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ea" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:a" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:b">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Eb" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:b" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:c">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ec" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:c" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:d">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ed" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:d" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:e">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ee" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:e" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:f">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ef" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:f" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:g">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Eg" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:g" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:h">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Eh" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:h" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:i">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ei" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:i" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:j">
+<Feature name="tag">JJR</Feature>
+</Annotation>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:Ej" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:j" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:4:k">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:5" timeline="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:T1">
+<Metadata>
+<MetadataElement name="endOffset">2</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( X 0 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:5:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:5:2" offset="2.000000"></Anchor>
+<Annotation id="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:5:E1" type="word" start="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:5:1" end="groups.google.com_alt.animals.cat_0e976a5d400ddce1_ENG_20040103_090500:5:2">
+<Feature name="tag">NFP</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

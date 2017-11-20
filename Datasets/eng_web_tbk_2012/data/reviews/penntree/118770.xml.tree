@@ -1,0 +1,4 @@
+( (S (NP-SBJ-1 (DT This) (NN place)) (VP (VBZ is) (ADJP-PRD (ADJP (JJ clean)) (CC and) (ADJP (RB well) (VBN run) (PP (IN with) (NP (JJ great) (NNS people)))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN food)) (VP (VP (VBZ is) (ADJP-PRD (JJ fresh))) (CC and) (VP (VBP taste) (ADJP-PRD (JJ great)))) (. .)) )
+( (NP (JJ Great) (NN value) (CC and) (NN service) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (MD will) (VP (VB be) (ADVP-PRD (RB back)) (ADVP (RB again) (CC and) (RB again)))) (. !!)) )

@@ -1,0 +1,2 @@
+( (FRAG (RB Not) (NP (DT a) (NN clothing) (NN store))) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Be) (ADJP-PRD (RBR more) (JJ careful)) (SBAR-TMP (WHADVP-2 (WRB when)) (S (NP-SBJ (PRP you)) (VP (VBP write) (NP (NNS reviews)) (ADVP-TMP-2 (-NONE- *T*))))))) (, -) (S (NP-SBJ (DT this)) (VP (VBZ is) (NP-PRD (NP (DT an) (NN accounting) (NN group)) (, ,) (RB not) (NP (NP (NNP Hollister)) (NP (DT the) (NN clothing) (NN store)))))) (. .)) )

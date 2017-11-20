@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="046906" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:37:42 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">046906.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="046906:T1">
+<Signal id="046906:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/046906.txt"></Signal>
+</Timeline>
+<AG id="046906:1" timeline="046906:T1">
+<Metadata>
+<MetadataElement name="endOffset">16</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( PP 2 ( NP 3 ) ) ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="046906:1:1" offset="0.000000"></Anchor>
+<Anchor id="046906:1:2" offset="4.000000"></Anchor>
+<Anchor id="046906:1:3" offset="10.000000"></Anchor>
+<Anchor id="046906:1:4" offset="14.000000"></Anchor>
+<Anchor id="046906:1:5" offset="16.000000"></Anchor>
+<Annotation id="046906:1:E1" type="word" start="046906:1:1" end="046906:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="046906:1:E2" type="word" start="046906:1:2" end="046906:1:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="046906:1:E3" type="word" start="046906:1:3" end="046906:1:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="046906:1:E4" type="word" start="046906:1:4" end="046906:1:5">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

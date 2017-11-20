@@ -1,0 +1,6 @@
+( (NP (NP (JJS Best) (NN food)) (PP-LOC (IN in) (NP (NN northeast)))) )
+( (S (NP-SBJ (EX There)) (VP (VBZ s) (NP-PRD (NP (DT a) (NN reason)) (SBAR (WHADVP-9 (WRB why)) (S (NP-SBJ-1 (NNP Frank) (NNP mcclelland)) (VP (VBD was) (VP (VBN named) (NP-1 (-NONE- *)) (S-CLR (NP-SBJ-1 (-NONE- *PRO*)) (NP-PRD (NP (JJS best) (NN chef)) (PP (IN of) (NP (DT the) (ADJP (JJ north) (JJ east)) (NN reigon))))) (ADVP-PRP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (NP (NN Food)) (ADVP-LOC (RB here))) (VP (VBZ is) (ADJP-PRD (RB absolutely) (JJ superb))) (. .)) )
+( (S (NP-SBJ-9 (NN Everything)) (VP (VBZ is) (UCP-PRD (ADJP (JJ delicous)) (CC and) (VP (VBN cooked) (NP-9 (-NONE- *)) (ADVP-MNR (RB perfectly))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN waiting) (NN staff)) (VP (VBZ is) (PP-PRD (IN beyond) (ADJP (JJ impeccable))))) (S (-LRB- -LRB-) (NP-SBJ (PRP they)) (VP (VBP refold) (NP (PRP$ your) (NN napkin)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP you)) (VP (VBP go) (PP-DIR (IN to) (NP (DT the) (NN bathroom))) (ADVP-TMP-9 (-NONE- *T*)))))) (-RRB- -RRB-)) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP (JJ great) (NN food))))) (ADVP (RB then)) (NP-SBJ (NNP L'espalier)) (VP (VBZ is) (NP-PRD (NP (DT the) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB go) (ADVP-DIR-9 (-NONE- *T*)))))))) (. .)) )

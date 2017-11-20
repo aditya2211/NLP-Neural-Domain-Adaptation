@@ -1,0 +1,7 @@
+( (S (NP-SBJ (NP (DT All)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (MD can) (VP (VB say) (NP-1 (-NONE- *T*))))))) (VP (VBZ is) (SBAR-PRD (IN that) (S (NP-SBJ (PRP I)) (VP (VBP am) (ADJP-PRD (JJ glad) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP I)) (VP (VBD went) (ADVP-DIR (RB in)))))))))) (. !)) )
+( (S (S (NP-SBJ (DT The) (NNS nurses)) (VP (VBP are) (ADJP-PRD (ADJP (JJ sweet)) (PP (IN as) (NP (NN pie)))))) (CC and) (S (NP-SBJ (DT the) (NN doctor)) (VP (VBZ is) (ADJP-PRD (JJ wonderful)))) (. .)) )
+( (S (NP-SBJ (DT This) (NN place)) (VP (VBZ is) (PP-PRD (IN about) (NP (NP (NN healing)) (, ,) (RB not) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG making) (NP (DT a) (NN buck))))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN followup) (NN visit)) (VP (VBZ is) (ADJP-PRD (JJ FREE))) (. !!)) )
+( (S (PP-TMP (IN After) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBG going) (PP-DIR (IN to) (NP (DT the) (NN hospital)))) (CC and) (VP (VBG paying) (NP (NN ER) (NNS prices)))))) (, ...) (NP-SBJ (EX there)) (VP (VBZ is) (NP-PRD (NP (DT no) (NN way)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (MD wo) (RB n't) (VP (VB be) (ADVP-PRD (RB back) (ADVP (RB here))) (ADVP-1 (-NONE- *T*)))))))) (. !!)) )
+( (S (NP-SBJ (PRP I)) (VP (MD will) (VP (VB be) (UCP-PRD (ADVP (RB back)) (CC and) (VP (VBG telling) (NP (NN EVERYONE)) (PP-CLR (IN about) (NP (DT this) (NN clinic))))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP THANK) (NP (PRP YOU))) (. !!)) )

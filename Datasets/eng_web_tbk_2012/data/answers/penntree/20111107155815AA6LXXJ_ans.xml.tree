@@ -1,0 +1,7 @@
+( (UCP (SBARQ (PP (IN out) (PP (IN of) (NP (NML (NML (NNP carnival)) (, ,) (NML (NNP royal) (NNP caribbean)) (, ,) (CC and) (NML (NNP norweigan))) (-LRB- -LRB-) (NNS cruises) (-RRB- -RRB-)))) (WHNP-1 (WDT which)) (SQ (NP-SBJ-1 (-NONE- *T*)) (VP (VBZ is) (NP-PRD (DT the) (JJS best))))) (CC and) (FRAG (WHADVP (WRB why))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP prefer) (NP (NNP Royal) (NNP Caribbean)) (PP (IN out) (PP (IN of) (NP (PDT all) (DT these))))) (. .)) )
+( (S (NP-SBJ (EX There)) (VP (VBZ is) (NP-PRD (NP (RB so) (JJ much)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB do) (NP-1 (-NONE- *T*)) (ADVP-LOC (RB onboard)))))))) (. .)) )
+( (S (NP-SBJ (DT The) (JJ new) (NNP NCL) (NNP Epic)) (VP (VBZ does) (VP (VB sound) (ADJP-PRD (JJ amazing)) (, ,) (SBAR-ADV (IN although) (S (NP-SBJ (PRP I)) (VP (VBP have) (RB n't) (VP (VBN sailed) (PP-LOC (IN on) (NP (PRP her))) (ADVP-TMP (RB yet)))))))) (. .)) )
+( (NP (NP (NN None)) (PP (IN of) (NP (DT the) (JJ above))) (. .)) )
+( (S (PP (IN Of) (NP (DT THESE) (CD three))) (, ,) (NP-SBJ (PRP it)) (VP (VBZ 's) (NP-PRD (NP (DT a) (NN toss) (HYPH -) (NN up)) (PP (IN between) (NP (NNP Royal) (CC and) (NNP Carnival))))) (. .)) )
+( (S (NP-SBJ (NNP NCL)) (VP (VBZ is) (PP-PRD (NP-ADV (DT a) (NN notch)) (IN below) (NP (DT either))) (, ,) (PP (IN in) (NP (NP (NNS terms)) (PP (IN of) (NP (NN quality) (CC and) (NN service)))))) (. .)) )

@@ -1,0 +1,3 @@
+( (FRAG (ADJP (JJ great)) (. !) (NFP :P)) )
+( (S (S (NP-SBJ (PRP you)) (VP (VBP get) (NP (NP (DT a) (ADJP (RB really) (JJ good)) (NN view)) (PP (IN of) (NP (DT the) (NN city)))))) (CC and) (S (NP-SBJ (EX there)) (VP (VBZ is) (ADVP (RB also)) (NP-PRD (NP (NNS attractions)) (PP (IN like) (NP (NP (NN simulator)) (, ,) (NP (JJ short) (NNS movies))))))) (. .)) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Try) (NP (DT the) (CD 360) (NN restraunt)))) (S (NP-SBJ (PRP u)) (VP (VBP spin) (PP-LOC (IN in) (NP (DT the) (NNP cn) (NNP tower))) (PP (IN with) (NP (DT a) (JJ beautiful) (NN view))))) (S (NP-SBJ (DT the) (NML (NN sky) (NN pod)) (NN elevator)) (VP (VBZ is) (NP-PRD (NML (QP (RB about) (DT an)) (NN hour)) (NN line) (NN up)) (PP-TMP (IN in) (NP (DT the) (NN summer)))))) )

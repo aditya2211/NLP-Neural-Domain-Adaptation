@@ -1,0 +1,6 @@
+( (NP (JJ Lovely) (NN Cottage)) )
+( (S (NP-SBJ (DT This) (NN cottage)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ charming) (JJ homely) (, ,) (JJ friendly) (, ,) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB stay) (ADVP-LOC-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (NNP Mary)) (VP (VBZ is) (NP-PRD (NP (DT an) (JJ excellent) (NN host)) (SBAR (WHNP-9 (WP who)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ does) (NP (JJ yummy) (NNS breakfasts))))))) (. .)) )
+( (S (S (NP-SBJ (PRP$ My) (NN room)) (VP (VBD was) (ADJP-PRD (JJ delightful)))) (CC and) (S (NP-SBJ (NP (DT the) (NN attention)) (PP (IN to) (NP (NN detail)))) (VP (VBD was) (ADJP-PRD (JJ amazing)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD Will) (VP (VB come) (ADVP (RB again)))) (. !)) )
+( (NP (NNP Sophie) (. .)) )

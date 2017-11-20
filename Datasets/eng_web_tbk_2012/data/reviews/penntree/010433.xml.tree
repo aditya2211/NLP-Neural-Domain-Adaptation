@@ -1,0 +1,7 @@
+( (FRAG (FRAG (NP (NN Food)) (ADJP (JJ good))) (, ,) (FRAG (NP (NN service)) (ADJP (JJ poor)))) )
+( (FRAG (NP (DT No) (NN silverware)) (, ,) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VP (VBD asked) (PP-CLR (IN for) (NP (NP (DT a) (NN spoon)) (PP (IN for) (NP (NP (PRP$ my) (NN son) (POS s)) (NN mac) (CC and) (NN cheese)))))) (VP (VBD ended) (PRT (RP up)) (S (NP-SBJ-1 (-NONE- *)) (VP (VBG having) (S (NP-SBJ-1 (-NONE- *)) (VP (TO to) (VP (VB use) (NP (PRP$ my) (NN tea) (NN spoon)))))))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBD Asked) (PP-CLR (IN for) (NP (NML (NN bar) (HYPH -) (NN b) (HYPH -) (NN que)) (NN sauce)))) (VP (ADVP-TMP (RB never)) (VBD got) (NP (PRP it)))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (ADVP-TMP (RB Never)) (VP (VBD checked) (ADVP (RB back)) (PP-CLR (IN with) (NP (PRP us))) (SBAR-TMP (IN once) (S (NP-SBJ (PRP we)) (VP (VBD got) (NP (PRP$ our) (NN food)))))) (. .)) )
+( (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (VBD Had) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB go) (X (DT the)) (NP (NP (DT the) (NN bus) (NN boy) (POS s)) (NN station)) (NP-ADV (PRP ourselves)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (NNS napkins))))))))) (. .)) )
+( (FRAG (NP (RB Only) (CD one) (NN server)) (, ,) (ADJP (RB too) (JJ buys) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBG talking) (PP-CLR (IN with) (NP (NNS others)))))) (S (NP-SBJ (PRP I)) (VP (VBP guess))) (. .)) )
+( (S (S (NP-SBJ (NN Food)) (VP (VBD was) (ADJP-PRD (JJ good)))) (, ,) (CC but) (S (NP-SBJ (NN service)) (VP (VBZ means) (NP (DT a) (NN lot)) (PP-CLR (IN to) (NP (PRP me))))) (. .)) )

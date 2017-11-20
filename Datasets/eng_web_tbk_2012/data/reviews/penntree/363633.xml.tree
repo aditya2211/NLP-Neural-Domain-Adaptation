@@ -1,0 +1,4 @@
+( (NP (JJ Favorite) (NN Restaurant)) )
+( (NP (NP (JJS Best) (JJ yellow) (NN curry)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ (PRP I)) (VP (VBP have) (ADVP-TMP (RB ever)) (VP (VBN tasted) (NP-9 (-NONE- *T*)))))) (. .)) )
+( (S (NP-SBJ (NN Staff)) (VP (VBZ is) (ADJP-PRD (ADJP (RB super) (JJ friendly)) (CC and) (ADJP (RB very) (JJ attentive)))) (. .)) )
+( (S (NP-SBJ (NN Price)) (VP (VBZ is) (ADVP (RB also)) (ADJP-PRD (RB very) (JJ reasonable))) (. .)) )

@@ -1,0 +1,4 @@
+( (FRAG (NP (NP (NNP Ray) (POS 's)) (NNP pizza)) (: :) (NP (PRP$ my) (NN favorite))) )
+( (S (NP-SBJ (NP (NNP Ray) (POS 's)) (NNP Pizza)) (VP (VBZ is) (ADVP (RB just)) (ADJP-PRD (RB too) (JJ good))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP wish) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP I)) (VP (MD could) (VP (VB have) (NP (DT a) (NN slice)) (PP (IN for) (NP (DT every) (JJ single) (NN meal)))))))) (. .)) )
+( (S (S (ADVP (RB Luckily)) (NP-SBJ (PRP I)) (VP (VBP live) (ADVP-LOC (RB very) (RB close)))) (, ,) (S (ADVP (RB so)) (NP-SBJ (PRP I)) (VP (MD can) (VP (VB abuse) (NP (PRP it)) (PP-TMP (IN during) (NP (NN week) (HYPH -) (NNS ends)))))) (. ...)) )

@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN Doc)) )
+( (S (NP-SBJ (NNP Dr) (NNP Greenwalt)) (VP (VP (VBD fixed) (NP (PRP$ my) (NN neck)) (PP (IN from) (NP (DT a) (NN snowboard) (NN injury)))) (CC and) (VP (VBD was) (ADJP-PRD (ADJP (ADVP (RB way)) (RBR more) (JJ effective)) (PP (IN that) (NP (DT a) (JJ regular) (NN doctor)))))) (. .)) )
+( (S (S (NP-SBJ (PRP He)) (VP (VBD did) (RB nt) (VP (VB prescribe) (NP (NP (NN pain) (NNS meds)) (CC or) (NP (JJ other) (NNS drugs)))))) (, ,) (S (NP-SBJ (PRP he)) (VP (VBD used) (NP (NP (PRP$ his) (NN bodytalk) (NN method)) (SBAR (WHNP-1 (WDT which)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (VBZ is) (ADJP-PRD (JJ unusual)))))))) (CC but) (S (NP-SBJ (DT the) (NNS results)) (VP (VBP are) (ADJP-PRD (JJ undeniable)))) (. .)) )
+( (S (NP-SBJ (PRP$ My) (NN neck)) (VP (VBZ is) (ADJP-PRD (JJ fixed))) (. !.)) )
+( (S (NP-SBJ (PRP He)) (VP (VBZ knows) (SBAR (WHNP-9 (WP what)) (S (NP-SBJ (PRP he)) (VP (VBZ s) (VP (VBG doing) (NP-9 (-NONE- *T*))))))) (. .)) )

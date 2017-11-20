@@ -1,0 +1,8 @@
+( (SBARQ (WHNP-9 (WHNP (WDT What) (NN kind)) (PP (IN of) (NP (NN Meal)))) (SQ (VBP do) (NP-SBJ (NP (NNS peopel)) (PP-LOC (IN in) (NP (NNP Argentina)))) (VP (VB have) (NP-9 (-NONE- *T*)))) (. ?)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VP (VBP am) (VP (VBG doing) (NP (DT a) (NN project)))) (CC and) (VP (VBP need) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB know) (SBAR (WHNP-1 (WHNP (WDT what) (NN kind)) (NP (NN food))) (S (NP-SBJ (NNP Argentina) (NNS people)) (VP (VBP eat) (NP-1 (-NONE- *T*)) (PP (IN for) (NP (NN breakfast) (, ,) (NN lunch) (, ,) (CC and) (NN dinner))))))))))) (. .)) )
+( (SBARQ (CC And) (WHNP-1 (WP what)) (SQ (VBZ is) (NP-SBJ (NP (PRP$ their) (ADJP (JJ big) (, /) (JJ main)) (NN meal)) (PP (IN of) (NP (DT the) (NN day)))) (NP-PRD-1 (-NONE- *T*))) (. .)) )
+( (S (INTJ (UH Like)) (PP-LOC (IN in) (NP (NNP America))) (NP-SBJ (NN dinner)) (VP (VBZ is) (NP-PRD (PRP$ our) (JJ main) (NN meal))) (. .)) )
+( (SBARQ (CC and) (WHPP-1 (IN around) (WHNP (WDT what) (NN time))) (SQ (NP-SBJ (PRP they)) (VP (VBP eat) (NP (NP (DT each)) (PP (IN of) (NP (PRP$ their) (NNS meals)))) (PP-TMP-1 (-NONE- *T*)))) (. .)) )
+( (FRAG (NP (JJ Edible) (NNS ones)) (, ,) (PRN (S (NP-SBJ (PRP I)) (VP (VBP hope)))) (, -) (NP (NP (NN beef)) (, ,) (NP (NN pork)) (, ,) (NP (NN chicken)) (, ,) (NP (NN fish))) (. ...)) )
+( (SBARQ (WHADVP-1 (WRB Why)) (SQ (NP-SBJ (-NONE- *PRO*)) (RB not) (VP (VB look) (NP (PRP it)) (PRT (RP up)) (ADVP-PRP-1 (-NONE- *T*)))) (. !)) )
+( (S (NP-SBJ (PRP they)) (VP (VBP eat) (NP (NP (NNS lots)) (PP (IN of) (NP (NP (NP (VBN grilled) (NN meat)) (, ,) (NP (NN chorizo)) (, ,) (CC and) (NP (JJ such))) (, ,) (PP (IN with) (NP (NNS potatoes)))))))) )

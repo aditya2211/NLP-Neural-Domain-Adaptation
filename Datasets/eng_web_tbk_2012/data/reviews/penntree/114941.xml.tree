@@ -1,0 +1,4 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Give) (NP (PRP them)) (NP (DT a) (NN try))) (. !)) )
+( (S (NP-SBJ (DT The) (NNS pizzas)) (VP (VBP are) (ADJP-PRD (ADJP (JJ huge)) (CC and) (ADJP (RB super) (JJ delicious)))) (. .)) )
+( (S (S (NP-SBJ (PRP They)) (VP (VBP 're) (NP-PRD (NP (PRP$ our) (JJ favorite) (NN pizza) (NN place)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB order) (PP-CLR (IN from) (NP-1 (-NONE- *T*)))))))))) (, ...) (CC and) (S (NP-SBJ (PRP they)) (VP (VBP 're) (NP-PRD (DT a) (JJ local) (, ,) (ADJP (NN family) (VBN owned)) (NN company)))) (. !)) )
+( (SBARQ (WHADJP-9 (WHADVP (WRB How) (RB much)) (JJR better)) (SQ (VBZ does) (NP-SBJ (PRP it)) (VP (VB get) (ADJP-PRD-9 (-NONE- *T*)))) (. ?!)) )

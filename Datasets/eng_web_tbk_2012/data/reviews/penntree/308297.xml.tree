@@ -1,0 +1,4 @@
+( (NP (JJ Great) (NN Place) (. !)) )
+( (S (NP-SBJ (DT This)) (VP (VBZ is) (NP-PRD (NP (CD one)) (PP (IN of) (NP (NP (PRP$ my) (JJ favorite) (NNS places)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB eat) (PP-CLR (IN for) (NP (NN lunch))) (ADVP-LOC-9 (-NONE- *T*)))))))))) (. .)) )
+( (S (S (NP-SBJ (PRP They)) (VP (VBP offer) (NP (DT a) (JJ good) (NNS portions)) (PP (IN at) (NP (DT a) (JJ great) (NN price))))) (, ,) (S (NP-SBJ (PRP it)) (VP (VBZ 's) (NP-PRD (NP (JJ enough) (NN food)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (TO to) (VP (VB fill) (NP (PRP you)) (PRT (RP up))))))))) (, ,) (CC but) (S (NP-SBJ (PRP you)) (VP (VBP do) (RB n't) (ADVP-TMP (RB ever)) (VP (VB feel) (SBAR (IN like) (S (NP-SBJ (PRP you)) (VP (VBD ate) (NP (RB too) (JJ much)))))))) (. .)) )
+( (S (CC Plus) (, ,) (NP-SBJ (PRP it)) (VP (VBZ 's) (ADJP-PRD (RB super) (JJ healthy))) (. !)) )

@@ -1,0 +1,3 @@
+( (S (S (NP-SBJ (PRP They)) (VP (VBP have) (NP (JJ fresh) (NNS flowers)))) (, ,) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD lasted) (NP-TMP (DT a) (JJ long) (NN while)) (PP-LOC (IN in) (NP (DT the) (NN vase))))) (, ,) (CC and) (S (NP-SBJ (NP (DT the) (CD two) (NNS ladies)) (PP-LOC (IN at) (NP (DT the) (NN shop)))) (VP (VBP know) (NP (DT the) (NN business)) (ADVP (RB well)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD had) (NP (NP (DT no) (NN problem)) (PP (IN with) (NP (PRP$ my) (NN delivery))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD will) (VP (VB go) (ADVP-DIR (RB there)) (ADVP (RB again)))) (. .)) )

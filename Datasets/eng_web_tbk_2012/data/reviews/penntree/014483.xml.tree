@@ -1,0 +1,3 @@
+( (NP (JJ Poor) (NN Service)) )
+( (S (PP-TMP (IN After) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG firing) (NP (DT this) (NN company))))) (NP-SBJ (PRP$ my) (JJ next) (NN pool) (NN service)) (VP (VBD found) (SBAR (-NONE- *0*) (S (NP-SBJ-1 (DT the) (NNS filters)) (VP (VBD had) (RB not) (VP (VBN been) (VP (VBN cleaned) (NP-1 (-NONE- *)) (SBAR-MNR (IN as) (S (NP-SBJ (PRP they)) (VP (MD should) (VP (VB have) (VP (VBN been) (VP (-NONE- *?*))))))))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recommend) (S-NOM (NP-SBJ (-NONE- *PRO*)) (RB not) (VP (VBG using) (NP (DT this) (NN company)))))) (. .)) )

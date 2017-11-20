@@ -1,0 +1,4 @@
+( (NP (JJ Horrible) (NN customer) (NN service) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD came) (ADVP-DIR (RB in)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (DT a) (JJ nice) (NN gift)) (PP-BNF (IN for) (NP (PRP$ my) (NN wife))))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (CD one) (NN guy)) (SBAR (WHNP-2 (WP who)) (S (NP-SBJ-2 (-NONE- *T*)) (VP (VBD was) (ADVP-LOC-PRD (RB there))))) (PRN (, ,) (S (NP-SBJ (PRP I)) (VP (VBP 'm) (VP (VBG guessing) (SBAR (-NONE- *0*) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD was) (NP-PRD (DT the) (NN owner)))))))) (, ,))) (VP (VBD was) (ADVP (RB probably)) (NP-PRD (NP (DT the) (ADJP (RBS least) (JJ helpful)) (NN person)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP 've) (ADVP-TMP (RB ever)) (VP (VBN met) (NP-1 (-NONE- *T*)))))))) (. .)) )
+( (S (CC But) (ADVP (RB thankfully)) (NP-SBJ (EX there)) (VP (VBP are) (NP-PRD (NP (JJ other) (NNS flowers) (NNS shops)) (PP-LOC (IN around) (NP (NNP Norman))))) (. .)) )

@@ -1,0 +1,4 @@
+( (FRAG (NP (NN excellence)) (PP (IN in) (NP (NNP glasgow)))) )
+( (S (NP-SBJ (PRP I)) (VP (VBP v) (ADVP (RB just)) (VP (VBN had) (S (NP-SBJ-1 (PRP$ my) (NML (NNP bmw) (NNP z3)) (JJ rear) (NN window)) (VP (VBN replaced) (NP-1 (-NONE- *)) (PP (IN by) (NP-LGS (NP (DT the) (NNS guys)) (PP-LOC (IN at) (NP (NNP kelvin) (NNPS trimmers))))))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NN team)) (SBAR (WHNP-9 (WP who)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBP work) (ADVP-LOC (RB there)))))) (VP (VP (VBP are) (ADJP-PRD (ADJP (JJ helpfull)) (, ,) (ADJP (JJ friendly)) (CC and) (ADJP (RB extremely) (JJ knowledgeable)))) (CC and) (VP (MD will) (VP (VB help) (NP (PRP you)) (ADVP (ADVP (RB as) (RB much)) (SBAR (IN as) (S (NP-SBJ (PRP they)) (VP (MD can) (VP (-NONE- *?*)))))) (PP-MNR (IN with) (NP (NP (PRP$ thier) (NNS years)) (PP (IN of) (NP (NML (NNS hands) (RB on)) (NN practice)))))))) (. .)) )
+( (FRAG (ADVP (RB Highly)) (VP (VBN recomended) (NP (-NONE- *))) (. .)) )

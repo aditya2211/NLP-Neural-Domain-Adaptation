@@ -1,0 +1,4 @@
+( (FRAG (FRAG (ADJP (JJ good)) (ADVP (RB outside))) (, ,) (FRAG (ADJP (JJ bad)) (ADVP (RB inside)))) )
+( (S (S (NP-SBJ (DT the) (NN apartment)) (ADVP (RB only)) (VP (VBZ looks) (ADJP-PRD (JJ good)) (ADVP-LOC (RB outsize)))) (, ,) (S (NP-SBJ (NN inside)) (VP (VBZ is) (ADJP-PRD (RB too) (JJ bad)))) (. .)) )
+( (FRAG (NP (ADJP (RB too) (JJ many)) (NNS bugs)) (NP (NP (DT some)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP you)) (ADVP (RB even)) (ADVP-TMP (RB never)) (VP (VBN seen) (NP-1 (-NONE- *T*)) (ADVP-TMP (RB before)))))) (. .)) )
+( (S (S (NP-SBJ (NP (DT the) (NN attitude)) (PP (IN of) (NP (DT some) (NN staff)))) (VP (VBZ is) (ADJP-PRD (JJ terrible)))) (, ,) (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBD did) (RB not) (VP (VB solve) (NP (NN anything)))) (VP (ADVP (RB only)) (VBP say) (S (NP-SBJ (PRP i)) (VP (MD can) (VP (VB do) (NP (NN nothing)))))))) (. .)) )

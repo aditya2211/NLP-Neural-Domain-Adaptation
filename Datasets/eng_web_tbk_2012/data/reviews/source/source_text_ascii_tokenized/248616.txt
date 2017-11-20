@@ -1,0 +1,4 @@
+<en=1>Took a laptop in for a video cable to be replaced .
+<en=2>Everything except the display worked fine before I took it in .
+<en=3>The video cable was replaced and suddenly the motherboard was dead .
+<en=4>Phone calls were n't returned when promised and the botched repair took a week longer than promised .

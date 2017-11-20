@@ -1,0 +1,3 @@
+( (NP (NP (JJ Great) (NN Service)) (CC and) (NP (NP (NNS hairstyles)) (SBAR (WHNP-1 (WDT that)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (VBP last))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP am) (ADJP-PRD (JJ pleased) (PP (IN with) (NP (NP (DT the) (NN service)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ (PRP i)) (VP (VBP get) (NP-9 (-NONE- *T*)) (PP-LOC (IN at) (NP (NNP Luxe)))))))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN staff)) (VP (VBZ is) (ADJP-PRD (RB very) (JJ pleasant)))) (CC and) (S (NP-SBJ (PRP$ my) (NN hair)) (VP (VBZ is) (ADVP-TMP (RB always)) (ADJP-PRD (JJ fresh)))) (. .)) )

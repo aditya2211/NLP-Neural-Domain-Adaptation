@@ -1,0 +1,4 @@
+( (SBARQ (WHNP-9 (WRB How) (JJ much)) (SQ (VBZ is) (NP-SBJ (DT a) (NNP big) (NNP mac)) (NP-PRD-9 (-NONE- *T*)) (PP-LOC (IN in) (NP (PRP$ your) (NN country)))) (. ?)) )
+( (FRAG (NP ($ $) (CD 5.76) (-NONE- *U*)) (PP (IN For) (NP (DT the) (NNP Combo) (NNP Meal))) (. !!)) )
+( (X (NFP :--RRB-)) )
+( (X (NFP \\) (NFP //)) )

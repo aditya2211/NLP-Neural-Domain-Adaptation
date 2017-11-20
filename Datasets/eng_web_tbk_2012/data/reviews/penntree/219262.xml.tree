@@ -1,0 +1,8 @@
+( (NP (NN Furnace) (NN repair)) )
+( (S (NP-SBJ (NNP Tiger) (NNP Heating)) (VP (VBZ is) (ADJP-PRD (JJ awesome))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD had) (NP (NP (NNP John) (CC and) (NNP Dustin)) (VP (VBG working) (ADVP (RB feverishly)) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (S (NP-SBJ-1 (PRP$ my) (NN exhaust) (NN motor)) (VP (VBN replaced) (NP-1 (-NONE- *)))))))))) (. .)) )
+( (S (NP-SBJ (DT These) (NNS guys)) (VP (VBD were) (ADJP-PRD (RB absolutely) (JJ professional))) (. .)) )
+( (S (NP-SBJ (NNP John)) (VP (VBD was) (ADVP-LOC-PRD (RB here)) (PP-TMP (IN in) (NP (CD 45) (NNS minutes))) (SBAR-TMP (IN after) (S (NP-SBJ (PRP I)) (VP (VBD called) (PP-TMP (IN on) (NP (DT a) (QP (CD 10) (IN below) (CD zero)) (JJ early) (NNP Sunday) (NN morning))))))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP need) (NP (NP (NN someone)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (TO to) (VP (VB help) (NP (PRP you)) (PRT (RP out)) (PP-CLR (IN with) (NP (PRP$ your) (NN heating) (NNS problems))))))))))) (, ,) (NP-SBJ (PRP I)) (ADVP (RB DEFINITELY)) (VP (MD would) (VP (VB call) (NP (NNP TIGER) (NNP HEATING) (CC and) (NNP AIR)))) (. .)) )
+( (FRAG (ADVP (RB Absolutely)) (NP (DT a) (JJ wonderful) (NN company)) (. .)) )
+( (S (NP-SBJ (NP (PRP$ My) (NN family)) (CC and) (NP (PRP I))) (VP (VBP thank) (NP (PRP you))) (. !!!!!!!!!!)) )

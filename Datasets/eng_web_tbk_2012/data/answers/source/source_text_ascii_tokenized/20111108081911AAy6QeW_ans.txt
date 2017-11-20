@@ -1,0 +1,6 @@
+<en=1>I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?
+<en=2>I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?
+<en=3>You do n't ... there 's no such thing as " pause " in digital recording .
+<en=4>That 's because of the buffer that holds the data until it 's ready to be recorded to the memory card .
+<en=5>When you press the button to stop recording the data is moved from the buffer to the memory card - no pause .
+<en=6>All you can do is take each section ( individual video ) and edit them together on software .

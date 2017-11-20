@@ -1,0 +1,4 @@
+( (FRAG (NP (NP (NNP mazzoni) (POS 's)) (NNP deli)) (NP (NP (JJS best) (JJ italian) (NN food)) (PP-LOC (IN in) (NP (NP (NNP phila)) (NP-LOC (NNP pa))))) (. ?)) )
+( (SQ (VBZ is) (NP-SBJ (NP (NP (NNP mazzoni) (POS 's)) (NNP deli)) (PP-LOC (IN at) (NP (NP (CD 3901) (NNP conshocken) (NN ave)) (PP-LOC (IN in) (NP (NP (NNP phila)) (NP-LOC (NNP pa))))))) (ADVP (RB really)) (NP-PRD (NP (DT the) (JJS best) (JJ italian) (NN food)) (PP-LOC (IN in) (NP (DT the) (NN country)))) (. ???)) )
+( (SBAR (IN because) (S (S (NP-SBJ (NP (DT all)) (PP (IN of) (NP (NP (DT the) (NN food) (NNS blogs)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP ve) (VP (VBN read) (NP-1 (-NONE- *T*))))))))) (VP (VBP say) (ADVP-CLR (RB so)))) (CC and) (S (NP-SBJ (PRP I)) (VP (MD will) (VP (VB travel) (PP-DIR (IN from) (NP (NNP maryland))) (SBAR-ADV (IN if) (S (NP-SBJ (DT that)) (VP (VBZ s) (ADJP-PRD (JJ true)))))))))) )
+( (INTJ (UH yep)) )

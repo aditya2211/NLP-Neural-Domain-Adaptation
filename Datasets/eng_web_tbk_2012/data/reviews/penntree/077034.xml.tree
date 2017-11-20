@@ -1,0 +1,4 @@
+( (S (S (S (NP-SBJ (PRP I)) (VP (VBD loved) (NP (NP (DT the) (NN atmosphere)) (ADVP-LOC (RB here))))) (CC and) (S (NP-SBJ (DT the) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ good))))) (, ,) (S (ADVP (RB however)) (NP-SBJ (DT the) (NNS tables)) (VP (VBP are) (ADJP-PRD (ADJP (RB so) (JJ close) (JJ together)) (SBAR (IN that) (S (NP-SBJ (PRP it)) (VP (VBZ feels) (ADJP-PRD (RB very) (JJ cramped)))))))) (. .)) )
+( (S (NP-SBJ-9 (PRP We)) (VP (VBD were) (VP (VBN made) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB feel) (ADJP-PRD (RB very) (JJ welcome))))))) (. .)) )
+( (FRAG (ADJP (RB Well) (JJ worth) (NP (DT a) (NN visit))) (. .)) )
+( (NP (ADD http://cambridgefoodfrivolity.blogspot.com/)) )

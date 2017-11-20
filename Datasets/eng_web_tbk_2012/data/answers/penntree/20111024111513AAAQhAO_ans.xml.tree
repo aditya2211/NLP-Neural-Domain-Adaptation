@@ -1,0 +1,7 @@
+( (NP (NP (JJS Best) (NN POS) (NN system)) (PP-LOC (IN in) (NP (NNP Philadelphia))) (. ?)) )
+( (SBARQ (WHNP-9 (WP What)) (SQ (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (NP-PRD (NP (DT the) (JJS best) (NN pos) (NN system)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (MD can) (VP (VB buy) (NP-1 (-NONE- *T*)) (PP-LOC (IN in) (NP (NP (NNP philadelphia)) (NP-LOC (NNP pa))))))))))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP need) (NP (NP (NN something)) (ADJP (ADJP (JJ reliable)) (CC and) (ADJP (JJ good) (JJ looking))))) (. .)) )
+( (S (NP-SBJ (NNP Prosperity) (NNP POS)) (VP (VBZ makes) (NP (DT the) (JJS best) (NN pos) (NNS systems))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBP use) (NP (PRP them)) (PP (IN for) (NP (PRP$ my) (NN restaurant)))) (CC and) (VP (ADVP-TMP (RB always)) (VBP get) (NP (NP (NNS compliments)) (PP (IN on) (NP (NP (NP (DT the) (JJ sleek) (NN look)) (PP (IN of) (NP (DT the) (NN mac) (NN system)))) (CONJP (RB not) (TO to) (VB mention)) (SBAR-NOM (WHADJP-1 (WRB how) (JJ good)) (S (NP-SBJ (DT the) (NN support)) (VP (VBZ is) (ADJP-PRD-1 (-NONE- *T*)))))))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB Do) (NP (PRP yourself)) (NP (DT a) (NN favor))) (CC and) (VP (VB give) (NP (PRP them)) (NP (DT a) (NN call)))) (. .)) )
+( (NP (ADD http://www.prosperitypos.com?p=ya)) )

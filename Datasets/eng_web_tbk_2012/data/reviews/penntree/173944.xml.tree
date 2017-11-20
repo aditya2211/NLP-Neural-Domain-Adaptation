@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN Service)) )
+( (S (NP-SBJ (NNP Dr) (NNP Mcdonald)) (VP (VBZ is) (ADJP-PRD (JJ wonderful))) (. .)) )
+( (S (NP-SBJ (PRP She)) (VP (VP (VBZ answers) (NP (NP (DT all) (NNS questions)) (VP (VBN asked) (NP (-NONE- *))))) (CC and) (VP (VBZ provides) (NP (NP (DT the) (JJS best) (NN service)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP i)) (VP (VBP have) (ADVP-TMP (RB ever)) (VP (VBN seen) (NP-9 (-NONE- *T*))))))))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (DT a) (ADJP (JJ new) (JJ born)) (NN daughter)))) (CC and) (S (NP-SBJ (PRP she)) (VP (VBD helped) (NP (PRP me)) (PP (IN with) (NP (DT a) (NN lot))))) (. .)) )
+( (FRAG (NP (JJ Good) (NN Job)) (NP-VOC (NNP DR)) (. .)) )

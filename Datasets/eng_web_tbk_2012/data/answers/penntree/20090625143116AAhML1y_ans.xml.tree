@@ -1,0 +1,5 @@
+( (FRAG (SBARQ (WHNP-9 (WHNP (WDT Which)) (PP (IN of) (NP (DT these)))) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB like) (NP-9 (-NONE- *T*))))) (: :) (NP (NP (NNP McDonald) (POS s)) (, ,) (NP (NNP Burger) (NNP King)) (, ,) (NP (NNP Taco) (NNP Bell)) (, ,) (NP (NNP Wendy) (POS s))) (. ?)) )
+( (NP (NNP Burger) (NNP King)) )
+( (S (S (NP-SBJ (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP-SBJ (PRP I)) (VP (VBP 'm) (PP-LOC-PRD (IN at) (NP (NP (DT a) (JJ real) (NN restaurant)) (PP (IN like) (NP (NNP Applebee) (POS s)))))))))) (, ,) (S (NP-SBJ (PRP$ their) (NN food)) (VP (VBZ is) (ADVP (RB usually)) (ADJP-PRD (RB that) (JJ good))))) )
+( (FRAG (NP-SBJ (NNP McDonal) (POS s)) (NP-PRD (DT the) (JJS best)) (PP (IN for) (NP (PRP me)))) )
+( (S (NP-SBJ (NP (DT the) (CD one)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP i)) (VP (VBP like) (NP-9 (-NONE- *T*)) (ADVP (DT the) (RBS most)))))) (VP (MD would) (VP (VB be) (NP-PRD (NNP wendy) (POS 's)))) (. .)) )

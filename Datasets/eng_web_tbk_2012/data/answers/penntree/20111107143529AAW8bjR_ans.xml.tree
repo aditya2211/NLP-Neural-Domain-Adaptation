@@ -1,0 +1,7 @@
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBG Arriving) (PP-LOC (IN in) (NP (NNP Auckland))) (PP (IN on) (NP (NP (DT a) (JJ direct) (NN flight)) (PP (IN from) (NP (NNP Canada)))))) (. .?)) )
+( (SQ (MD Will) (NP-SBJ-9 (PRP we)) (VP (VB be) (VP (VBN allowed) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB take) (NP (ADJP (NN duty) (JJ free)) (NNS bottles)) (PP-DIR (IN onto) (NP (NP (PRP$ our) (VBG connecting) (NN flight)) (PP (IN to) (NP (NNP Christchurch)))))))))) (. ?)) )
+( (UCP (PP-LOC (IN In) (NP (PRP$ our) (NN hand) (NN luggage))) (CC or) (SQ (VBP do) (NP-SBJ-9 (PRP we)) (VP (VB have) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB put) (NP (PRP it)) (PP-LOC-CLR (IN into) (NP (PRP$ our) (VBN checked) (NN luggage)))))))) (. ?)) )
+( (INTJ (UH Yes) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP do) (RB n't) (VP (VB think) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP it)) (VP (VBZ matters))))))) )
+( (S (NP-SBJ (PRP We)) (VP (MD 'll) (VP (VB see) (NP (PRP you)) (PP (IN on) (NP-TTL (`` ') (NN Border) (NN Patrol) ('' ')))))) )
+( (S (INTJ (UH Yes)) (NP-SBJ (PRP you)) (VP (MD can) (VP (VB carry) (NP (NP (PRP$ your) (ADJP (NN duty) (JJ free)) (NNS bottles)) (, ,) (CC and) (NP (NNS liquids))) (PP-DIR (IN onto) (NP (PRP$ your) (NN connection))) (SBAR-PRP (IN as) (S (NP-SBJ (PRP it)) (VP (VBZ is) (ADVP (RB only)) (NP-PRD (DT a) (JJ domestic) (NN flight))))))) (NFP :--RRB-)) )

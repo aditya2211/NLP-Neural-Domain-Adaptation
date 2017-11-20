@@ -1,0 +1,3 @@
+( (FRAG (ADJP (JJ excellent)) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBD answered) (NP (PDT all) (PRP$ my) (NNS questions))) (, ,) (CC and) (VP (VBD called) (NP (PRP me)) (ADVP (RB back)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP I)) (VP (VBD needed) (NP (NN something)) (ADVP-TMP-9 (-NONE- *T*))))))) (. .)) )
+( (FRAG (ADVP (RB highly)) (VP (VBN recommended) (NP (-NONE- *))) (. !)) )

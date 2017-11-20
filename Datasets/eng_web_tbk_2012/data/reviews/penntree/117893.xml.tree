@@ -1,0 +1,4 @@
+( (FRAG (ADJP (JJ Aweesome))) )
+( (SINV (INTJ (JJ Holy) (NN cow)) (VBD was) (NP-SBJ (DT that)) (NP-PRD (DT a) (JJ delicious) (NN meal)) (. .)) )
+( (FRAG (ADJP (JJ Hot)) (, ,) (ADJP (JJ fresh)) (, ,) (ADJP (JJ delicious)) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Loved) (NP (NP (DT every) (NN bit)) (PP (IN of) (NP (PRP it))))) (. .) (NFP :-RRB-)) )

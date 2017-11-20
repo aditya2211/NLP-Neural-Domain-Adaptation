@@ -1,0 +1,4 @@
+( (NP (JJ Great) (NN Neighborhood) (NN Hangout)) )
+( (NP (NP (JJ Great) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VP (VB catch) (NP (DT a) (NN band)) (ADVP-LOC-9 (-NONE- *T*))) (CC or) (VP (VB catch) (PRT (RP up)) (PP-CLR (IN with) (NP (NNS friends))) (ADVP-LOC-9 (-NONE- *T*))))))) (. .)) )
+( (NP (NP (ADJP (JJ Ice) (JJ cold)) (NN beer)) (CC and) (NP (JJ good) (NNS prices)) (. .)) )
+( (S (NP-SBJ (NN Kitchen)) (VP (VP (VBZ puts) (ADVP (RB out)) (NP (JJ good) (NN food))) (CC and) (VP (VBZ has) (NP (JJ daily) (NNS specials)))) (. .)) )

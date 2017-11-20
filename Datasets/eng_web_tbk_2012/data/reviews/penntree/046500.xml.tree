@@ -1,0 +1,2 @@
+( (FRAG (NP (NP (NP (NNS Men) (POS s)) (CC and) (NP (NNS Boys))) (NNS Barbers)) (, ,) (PP-LOC (IN on) (NP (DT the) (NML (NN number) (CD 9)) (NN Bus) (NN route))) (. .)) )
+( (FRAG (NP (NNS Ladies) (NN room)) (, ,) (ADJP (JJ Open)) (NP-TMP (NNPS Sundays))) )

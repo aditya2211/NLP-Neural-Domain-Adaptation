@@ -1,0 +1,4 @@
+( (FRAG (ADJP (JJ Rude) (CC and) (JJ Untrustworthy))) )
+( (S (NP-SBJ (DT These) (NNS guys)) (VP (VBD took) (NP (NN Customer) (NN Service) (CD 101)) (PP (IN from) (NP (DT a) (NNP Neanderthal)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (ADJP-PRD (RB especially) (JJ rude) (PP (IN to) (NP (NNS women))))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Do) (RB not) (VP (VB trust) (NP (PRP them)))) (. !)) )

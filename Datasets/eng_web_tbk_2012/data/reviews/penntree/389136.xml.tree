@@ -1,0 +1,5 @@
+( (FRAG (ADJP (JJ great)) (. !)) )
+( (S (NP-SBJ-1 (PRP I)) (VP (VBP go) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VP (NN Disco) (VBG dancing)) (CC and) (VP (VBG Cheerleading))))) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ s) (ADJP-PRD (JJ fab))) (. !)) )
+( (S-IMP (ADVP (RB so)) (NP-SBJ-1 (-NONE- *PRO*)) (VP (VP (VB go)) (CC and) (VP (VB get) (S (NP-SBJ-1 (-NONE- *)) (VP (VBG dancing))))) (. !!!!!!!!!!!!!!!!!!!!!!!!!)) )
+( (PP (IN By) (NP (NNP samantha) (NNP Fox))) )

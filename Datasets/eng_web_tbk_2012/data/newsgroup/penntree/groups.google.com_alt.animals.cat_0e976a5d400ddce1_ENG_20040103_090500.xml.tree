@@ -1,0 +1,5 @@
+( (FRAG (NP (NN Email)) (: :) (NP (NP (NNP Roving) (NNP Mouse)) (NP (-LRB- <) (ADD s...@tack.net) (-RRB- >)))) )
+( (FRAG (NP (NNS Groups)) (: :) (NP (NN alt.animals) (, ,) (NN alt.animals.cat) (, ,) (NN alt.animals.ethics.vegetarian) (, ,) (NN talk.politics.animals))) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Followup) (HYPH -) (PP (IN To) (: :) (NP (NN alt.animals))))) )
+( (S (NP-SBJ (PRP You)) (VP (MD will) (ADVP-TMP (RB always)) (VP (VB find) (NP (JJ fascinating) (NNS links)) (PP (IN at) (: :) (NP (NP (NP (NNP Extreme) (NNP Web) (NNPS Surfs)) (NP (ADD http://extremewebsurfs.blogspot.com/)) (PRN (-LRB- -LRB-) (FRAG (NP (JJ nice) (NML (JJ urban) (NN wildlife)) (NN post)) (NP-TMP (NN today))) (-RRB- -RRB-))) (CC &) (NP (NP (NP (NP (PRP Me)) (CC and) (NP (DT the) (NNP Web))) (NP (ADD http://maartenvt.blogspot.com/))) (NP (NNS Arts) (, ,) (NN History) (, ,) (NNS Animals) (, ,) (NN Music) (, ,) (NNS Games) (, ,) (NNS Politics) (, ,) (NN Technology) (, ,) (NN Fun) (CC and) (JJR more))))))) (. !)) )
+( (X (NFP ..)) )

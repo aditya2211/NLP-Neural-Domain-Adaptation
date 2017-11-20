@@ -1,0 +1,4 @@
+<en=1>How many days will speed post take to reach from Delhi to Mumbai ?
+<en=2>Give it three days barring Sundays and holidays .
+<en=3>3 TO 4 DAYS if you are lucky on average it takes about 6 days .
+<en=4>like 2 day

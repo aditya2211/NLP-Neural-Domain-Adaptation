@@ -1,0 +1,7 @@
+( (NP (DT A) (JJ TERRIBLE) (NN EXPERIENCE) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP remain) (ADJP-PRD (JJ unhappy))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP-TMP (RB still)) (VP (VBP have) (NP (JJ noticeable) (NN scarring))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP-TMP (RB still)) (VP (VBP have) (NP (ADJP (RB surgically) (VBN induced)) (NN hair) (NN loss))) (. .)) )
+( (S (NP-SBJ (PRP$ My) (NNS results)) (VP (VBD were) (ADJP-PRD (RB just) (JJ AWFUL))) (. .)) )
+( (S (NP-SBJ (PRP$ My) (JJ post-op) (NN treatment)) (VP (VBD was) (ADJP-PRD (JJ TERRIBLE))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (MD would) (RB n't) (VP (VB recommend) (NP (DT this) (NN place)) (NP-TMP (JJ last) (NN year))))) (, ,) (CC and) (S (NP-SBJ (PRP I)) (ADVP (RB certainly)) (VP (MD would) (RB n't) (VP (VB recommend) (NP (PRP them)) (NP-TMP (DT this) (NN year))))) (. .)) )

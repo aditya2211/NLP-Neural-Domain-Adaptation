@@ -1,0 +1,4 @@
+( (NP (NP (NNP Walgreens)) (PP-LOC (IN on) (NP (NNP University)))) )
+( (S (S (NP-SBJ-1 (PRP$ My) (NN pharmacy) (NN order)) (VP (VBZ is) (ADVP-TMP (RB always)) (UCP-PRD (ADJP (JJ correct)) (CC and) (VP (ADVP-MNR (RB promptly)) (VBN delivered) (NP-1 (-NONE- *)))))) (CC but) (S (NP-SBJ-9 (DT the) (NN pharmacy) (NNS staff)) (VP (VP (VBP are) (ADVP-TMP (RB always)) (ADJP-PRD (RB very) (JJ short) (PP (IN with) (NP (PRP me))))) (CC and) (VP (VBP do) (RB n't) (VP (VB seem) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB like) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (VBG answering) (NP (NNS questions))))))))))) (. .)) )
+( (FRAG (NP (JJ Clean) (NN store)) (, ,) (NP (NP (RB friendly) (ADJP (VB check) (HYPH -) (RP out)) (NN staff)) (ADVP-LOC (RB up) (RB front))) (. .)) )
+( (NP (JJ Good) (NN selection) (. .)) )

@@ -1,0 +1,5 @@
+( (NP (NN A) (SYM +)) )
+( (NP (NP (JJ Excellent) (NN customer) (NN service)) (CC and) (NP (JJ honest) (NN feedback)) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NN team)) (PP-LOC (IN at) (NP (NNP Bradley) (NNP Chevron)))) (VP (VBD kept) (NP-1 (PRP$ my) (NN car)) (S-CLR (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBG running) (PP-TMP (IN for) (PP (ADVP (RB well)) (IN past) (NP (PRP$ its) (VBN expected) (NN death))))))) (. !)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBP are) (ADJP-PRD (JJ honest) (PP (IN about) (NP (NP (`` ') (JJ immediate) ('' ') (NNS concerns)) (PP (IN versus) (NP (`` ') (VBN recommended) ('' ') (NNS repairs))))))) (CC and) (VP (VBP have) (NP (ADJP (RB very) (JJ fair)) (NNS prices)))) (. .)) )
+( (FRAG (NP (PDT Such) (DT a) (JJ convenient) (NN location)) (ADVP (RB as) (RB well)) (SBAR (IN with) (S (NP-SBJ (NP (NN coffee) (NN shop)) (CC and) (NP (NNP bradley) (NNP food) (CC and) (NNP beverage))) (PP-LOC-PRD (ADVP (RB right)) (IN around) (NP (NN corner))))) (. .)) )

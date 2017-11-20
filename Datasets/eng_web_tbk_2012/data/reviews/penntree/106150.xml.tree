@@ -1,0 +1,5 @@
+( (S (NP-SBJ (PRP We)) (VP (VBP love) (NP (NNP Little) (NNP Farmer)))) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBP attend) (NP (NNP LFTD)))) (CC and) (S (NP-SBJ (PRP$ our) (NNS children)) (VP (VBP LOVE) (NP (PRP it)))) (. !!)) )
+( (S (NP-SBJ-9 (PRP They)) (ADVP (RB even)) (VP (VBP want) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB go) (PP-DIR (IN to) (NP (NN school))) (PP-TMP (IN on) (NP (DT the) (NNS weekends))))))) (. !!)) )
+( (S (S (NP-SBJ (PRP They)) (VP (VBP are) (VP (VBG preparing) (NP (PRP$ my) (JJR older) (NN son)) (PP-CLR (IN for) (NP (NN kindergarten)))))) (CC and) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ looks) (ADVP (RB forward)) (PP-CLR (IN to) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG seeing) (NP (PRP$ his) (NN teacher) (CC and) (NNS friends))))) (NP-TMP (DT every) (NN day)))) (. .)) )
+( (S (NP-SBJ (PRP$ My) (NN infant)) (VP (VBZ is) (ADJP-PRD (JJ content)) (NP-TMP (DT every) (NN day)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP I)) (VP (VP (VBP drop) (PRT (RP off)) (ADVP-TMP-9 (-NONE- *T*))) (CC and) (VP (VB pick) (PRT (RP up)) (ADVP-TMP-9 (-NONE- *T*))))))) (. .)) )

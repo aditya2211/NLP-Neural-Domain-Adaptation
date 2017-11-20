@@ -1,0 +1,15 @@
+<en=1>Change of boarding station ?
+<en=2>How can I change my boarding station against the ticket I booked a month back from counter ?
+<en=3>My origin Station is Howrah , but I want to board at Asansol ..
+<en=4>Does your train pass Asansol when starting from Howrah ?
+<en=5>If yes , you do n't need to change it because you board later .
+<en=6>If no , you 'll have to go to one of the train stations .
+<en=7>In Calcutta there is a Foreigner 's reservation office where they speak English very well .
+<en=8>I do n't remember near which station it is though .
+<en=9>They can help you and it is close to a train station in Calcutta so check a few big ones ?
+<en=10>Even if you do n't find the foreigner 's office you 'll be fine in the normal Reservation Office of any big train station .
+<en=11>This is where you can get AND change express train tickets .
+<en=12>well if your desired boarding station comes after more than 2 or 3 halts of the actual boarding point , then the TC will cancel you ticket and allot the seat to others .
+<en=13>so better inquire in railway office
+<en=14>Contact the Indian railways .
+<en=15>You might end up as a no show passenger .

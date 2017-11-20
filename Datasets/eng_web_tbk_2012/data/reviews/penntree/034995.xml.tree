@@ -1,0 +1,2 @@
+( (S (S (NP-SBJ-9 (NN Food)) (VP (VBZ is) (ADVP-TMP (RB often)) (ADJP-PRD (JJ expired)))) (S-IMP (ADVP (RB so)) (NP-SBJ (-NONE- *PRO*)) (VP (VB check) (NP (DT the) (NNS dates)) (NP-TMP (DT every) (NN time)))) (. !)) )
+( (S (ADVP (RB Also)) (ADVP-TMP (ADVP (RBR more) (RB often)) (SBAR (IN than) (FRAG (RB not)))) (NP-SBJ (PRP you)) (VP (VBP end) (PRT (RP up)) (PP-CLR (IN with) (NP (NP (DT a) (JJ healthy) (NN dose)) (PP (IN of) (NP (NP (JJ nasty) (JJ rude) (NN attitude)) (PP (IN from) (NP (DT the) (NNS employees)))))))) (. !)) )

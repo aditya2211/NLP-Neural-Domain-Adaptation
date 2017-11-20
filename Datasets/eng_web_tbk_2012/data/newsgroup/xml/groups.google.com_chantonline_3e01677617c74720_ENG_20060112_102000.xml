@@ -1,0 +1,1065 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:38:56 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Signal id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000.txt"></Signal>
+</Timeline>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">44</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( NP 0 ) 1 ( NP ( NP 2 3 4 ) ( NP 5 6 7 ) ) ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:4" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:5" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:6" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:7" offset="19.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:8" offset="43.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:9" offset="44.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:2">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:3">
+<Feature name="tag">:</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:4">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:6">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:7">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:8">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:1:9">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">11</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( FRAG ( INTJ 0 ) ( ADVP 1 ) ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:2" offset="6.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:3" offset="11.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:2">
+<Feature name="tag">UH</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:2:3">
+<Feature name="tag">RB</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">94</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 ) ( VP 2 ( NP-PRD ( NP 3 4 5 ) ( PP 6 ( NP ( NP 7 ) ( SBAR ( WHNP-9 8 ) ( S ( NP-SBJ-9 *T* ) ( VP 9 ( VP 10 ( NP 11 ) ( PP 12 ( NP ( NP 13 ) ( SBAR ( WHNP-1 14 ) ( S ( NP-SBJ-1 *T* ) ( VP 15 ( NP 16 ) ) ) ) ) ) ) ) ) ) ) ) ) ) 17 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:3" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:4" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:5" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:6" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:7" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:8" offset="36.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:9" offset="43.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:A" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:B" offset="51.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:C" offset="58.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:D" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:F" offset="68.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:G" offset="75.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:H" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:I" offset="88.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:J" offset="93.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:K" offset="94.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:4">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:6">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:A">
+<Feature name="tag">WP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:B">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:C">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:D">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:F">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:G">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:H">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:I">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:J">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:3:K">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">104</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( PP-PRD 3 ( NP 4 ) ) ( SBAR-PRP 5 ( S ( NP-SBJ 6 ) ( VP 7 ( SBAR *0* ( S ( NP-SBJ 8 ) ( VP 9 ( VP 10 ( ADJP-PRD 11 ( PP 12 ( NP ( NP 13 ) ( VP 14 ( PP 15 ( NP 16 17 ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 18 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:3" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:4" offset="13.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:5" offset="16.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:6" offset="22.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:7" offset="30.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:8" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:9" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:A" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:B" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:C" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:D" offset="57.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:F" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:G" offset="67.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:H" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:I" offset="85.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:J" offset="94.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:K" offset="103.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:L" offset="104.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:4">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:5">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:8">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:9">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:A">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:B">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:C">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:D">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:F">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:G">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:H">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:I">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:K">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:4:L">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">195</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( NP ( NP ( NP 3 4 ) ( VP 5 ( NP * ) ( PP-CLR 6 ( NP ( NP 7 ) ( PP 8 ( NP 9 ) ) ) ) ) ) ( NP 10 11 12 ) ) ) ) ) 13 ( S ( NP-SBJ ( NP 14 15 ) ( VP 16 ( NP-1 * ) ( S-CLR ( NP-SBJ-1 *PRO* ) ( NP-PRD 17 18 ) ) ) ) ( VP 19 ( ADVP-TMP 20 ) ( VP 21 ( PRT 22 ) ( NP ( NP 23 24 ) ( PP 25 ( NP ( NP 26 27 ) ( PP-LOC 28 ( NP 29 ) ) ) ) ) ) ) ) 30 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:2" offset="3.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:3" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:4" offset="11.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:5" offset="13.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:6" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:7" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:8" offset="31.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:9" offset="38.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:A" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:B" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:C" offset="57.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:D" offset="103.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:F" offset="105.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:G" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:H" offset="111.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:I" offset="117.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:J" offset="124.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:K" offset="128.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:L" offset="132.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:M" offset="137.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:N" offset="145.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:O" offset="149.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:P" offset="152.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:Q" offset="154.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:R" offset="163.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:S" offset="169.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:U" offset="174.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:V" offset="183.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:W" offset="186.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:X" offset="194.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:Y" offset="195.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:4">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:6">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:7">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:B">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:C">
+<Feature name="tag">-LRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:D">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:F">
+<Feature name="tag">-RRB-</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:G">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:H">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:J">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:K">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:L">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EL" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:L" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:M">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EM" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:M" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:N">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EN" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:N" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:O">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EO" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:O" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:P">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EP" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:P" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EQ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:Q" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:ER" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:R" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:S">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:ES" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:S" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:U">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EU" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:U" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:V">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EV" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:V" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:W">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EW" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:W" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:X">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:EX" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:X" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:5:Y">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">119</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ-9 0 ) ( VP 1 ( VP 2 ( S ( NP-SBJ-9 *PRO* ) ( VP 3 ( VP 4 ( NP-1 5 ) ( PRT 6 ) ( S-PRP ( NP-SBJ-1 *PRO* ) ( VP 7 ( VP 8 ( NP-PRD ( NP ( NP 9 10 ) ( PP 11 ( NP 12 13 14 ) ) ) 15 ( NP ( NP 16 17 ) ( SBAR-LOC ( WHADVP-2 18 ) ( S ( NP-SBJ 19 ) ( VP 20 ( VP 21 ( NP 22 23 24 ) ( ADVP-LOC-2 *T* ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 25 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:3" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:4" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:5" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:6" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:7" offset="26.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:8" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:9" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:A" offset="35.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:B" offset="37.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:C" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:D" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:F" offset="49.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:G" offset="53.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:H" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:I" offset="67.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:J" offset="69.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:K" offset="75.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:L" offset="81.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:M" offset="88.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:N" offset="92.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:O" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:P" offset="107.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:Q" offset="111.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:R" offset="118.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:S" offset="119.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:4">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:5">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:8">
+<Feature name="tag">RP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:9">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:A">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:B">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:F">
+<Feature name="tag">PDT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:G">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:H">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:I">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:K">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:L">
+<Feature name="tag">WRB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EL" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:L" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:M">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EM" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:M" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:N">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EN" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:N" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:O">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EO" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:O" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:P">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EP" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:P" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:Q">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:EQ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:Q" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:ER" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:R" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:6:S">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">172</MetadataElement>
+<MetadataElement name="paragraph">7</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( ADJP-PRD 3 ) ( SBAR-ADV 4 ( S ( NP-SBJ ( NP ( NP 5 6 ) ( PP 7 ( NP 8 ) ) ) ( SBAR ( WHNP-9 9 ) ( S ( NP-SBJ-9 *T* ) ( VP 10 ( NP 11 12 ) ) ) ) ) ( VP 13 ( VP 14 ( ADVP-CLR 15 ) ( NP ( NP ( NP 16 17 18 ) ( PP 19 ( NP 20 21 ) ) ) 22 ( NP ( NP 23 24 ) ( PP 25 ( NP 26 27 28 ) ) ) ) ( PP-LOC 29 ( NP 30 ( NML 31 32 ) 33 ) ) ) ) ) ) ) ) 34 ) )</MetadataElement>
+<MetadataElement name="segId">7</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:2" offset="3.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:3" offset="9.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:4" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:5" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:6" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:7" offset="25.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:8" offset="32.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:9" offset="37.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:A" offset="43.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:B" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:C" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:D" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:F" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:G" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:H" offset="75.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:I" offset="78.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:J" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:K" offset="86.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:L" offset="98.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:M" offset="101.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:N" offset="105.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:O" offset="114.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:P" offset="118.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Q" offset="120.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:R" offset="125.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:S" offset="128.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:U" offset="133.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:V" offset="139.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:W" offset="144.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:X" offset="147.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Y" offset="151.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Z" offset="158.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:a" offset="166.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:b" offset="171.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:c" offset="172.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:4">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:5">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:B">
+<Feature name="tag">WP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:C">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:D">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:F">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:G">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:H">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:I">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:K">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:L">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EL" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:L" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:M">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EM" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:M" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:N">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EN" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:N" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:O">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EO" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:O" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:P">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EP" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:P" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EQ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Q" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:ER" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:R" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:S">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:ES" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:S" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:U">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EU" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:U" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:V">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EV" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:V" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:W">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EW" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:W" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:X">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EX" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:X" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Y">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EY" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Y" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Z">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:EZ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Z" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:a">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Ea" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:a" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:b">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:Eb" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:b" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:7:c">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">138</MetadataElement>
+<MetadataElement name="paragraph">8</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 ) ( VP 2 ( ADVP 3 ) ( NP-PRD ( NP 4 5 6 ) ( SBAR ( WHADVP-2 *0* ) ( S ( NP-SBJ-9 *PRO* ) ( VP 7 ( VP ( VP 8 ( NP ( NP 9 ) ( PP 10 ( NP 11 ) ) ) ( ADVP-LOC-2 *T* ) ) 12 13 ( VP 14 ( S ( NP-SBJ-9 *PRO* ) ( VP 15 ( VP 16 ( ADVP 17 ) ( NP 18 19 ) ( SBAR-ADV 20 ( S ( NP-SBJ-1 21 ) ( VP 22 ( S ( NP-SBJ-1 *PRO* ) ( VP 23 ( VP 24 ( NP 25 ) ( PP-LOC 26 ( NP 27 28 ) ) ) ) ) ) ) ) ( ADVP-LOC-2 *T* ) ) ) ) ) ) ) ) ) ) ) 29 ) )</MetadataElement>
+<MetadataElement name="segId">8</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:2" offset="7.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:3" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:4" offset="18.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:5" offset="23.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:6" offset="25.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:7" offset="30.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:8" offset="36.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:9" offset="39.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:A" offset="44.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:B" offset="52.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:C" offset="55.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:D" offset="62.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:F" offset="64.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:G" offset="67.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:H" offset="71.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:I" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:J" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:K" offset="89.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:L" offset="91.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:M" offset="97.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:N" offset="100.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:O" offset="104.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:P" offset="109.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:Q" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:R" offset="117.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:S" offset="124.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:U" offset="127.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:V" offset="132.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:W" offset="137.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:X" offset="138.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:4">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:5">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:6">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:7">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:9">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:A">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:B">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:C">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:D">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:F">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:G">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:H">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:I">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:J">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:K">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:L">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EL" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:L" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EM" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:M" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:N">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EN" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:N" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:O">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EO" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:O" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:P">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EP" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:P" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:Q">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EQ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:Q" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:R">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:ER" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:R" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:S">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:ES" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:S" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:U">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EU" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:U" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:V">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EV" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:V" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:W">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:EW" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:W" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:8:X">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">100</MetadataElement>
+<MetadataElement name="paragraph">9</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( VP 2 ( NP ( NP 3 ) ( SBAR ( WHNP-9 *0* ) ( S ( NP-SBJ 4 ) ( VP 5 ( NP-9 *T* ) ) ) ) ) ( PP-CLR ( PP 6 ( NP ( NP 7 ) ( PP 8 ( NP 9 10 11 ) ) ) ) 12 ( CONJP 13 14 15 ) ( PP 16 ( NP 17 18 19 20 21 ) ) ) ) ) 22 ) )</MetadataElement>
+<MetadataElement name="segId">9</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:2" offset="4.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:3" offset="8.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:4" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:5" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:6" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:7" offset="34.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:8" offset="37.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:9" offset="43.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:A" offset="47.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:B" offset="52.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:C" offset="58.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:D" offset="63.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:F" offset="65.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:G" offset="68.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:H" offset="73.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:I" offset="76.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:J" offset="79.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:K" offset="83.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:L" offset="85.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:M" offset="91.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:N" offset="93.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:O" offset="99.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:P" offset="100.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:3">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:4">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:5">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:6">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:7">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:B">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:C">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:D">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:F">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:G">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:H">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:I">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:J">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:L">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EL" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:L" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EM" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:M" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:N">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EN" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:N" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:O">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:EO" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:O" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:9:P">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">121</MetadataElement>
+<MetadataElement name="paragraph">10</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( S ( NP-SBJ-1 0 ) ( VP 1 ( ADJP-PRD ( ADJP 2 ) ( PP 3 ( ADJP 4 ( S ( NP-SBJ-1 *PRO* ) ( VP 5 ( VP ( VP 6 ( NP 7 ) ( PP 8 ( NP 9 10 ) ) ) 11 ( VP 12 ( NP ( NP 13 14 ) ( PP 15 ( NP 16 17 ) ) ) ) ) ) ) ) ) ) ) ) 18 ( S-IMP ( NP-SBJ *PRO* ) ( ADVP 19 ) ( VP 20 ( NP 21 ) ( NP 22 23 ) ) ) 24 ) )</MetadataElement>
+<MetadataElement name="segId">10</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:2" offset="2.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:3" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:4" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:5" offset="15.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:6" offset="21.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:7" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:8" offset="29.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:9" offset="36.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:A" offset="41.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:B" offset="45.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:C" offset="50.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:D" offset="53.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:F" offset="60.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:G" offset="64.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:H" offset="74.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:I" offset="80.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:J" offset="87.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:K" offset="95.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:L" offset="97.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:M" offset="102.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:N" offset="107.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:O" offset="110.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:P" offset="112.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:Q" offset="120.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:R" offset="121.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:2">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:3">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:4">
+<Feature name="tag">JJR</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:5">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:7">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:8">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:E9" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:9" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EA" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:A" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:B">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EB" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:B" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EC" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:C" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:D">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:ED" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:D" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:F">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EF" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:F" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:G">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EG" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:G" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:H">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EH" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:H" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:I">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EI" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:I" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:J">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EJ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:J" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:K">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EK" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:K" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:L">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EL" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:L" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:M">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EM" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:M" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:N">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EN" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:N" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:O">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EO" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:O" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:P">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EP" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:P" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:Q">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:EQ" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:Q" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:A:R">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">35</MetadataElement>
+<MetadataElement name="paragraph">11</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( ADVP 0 ) 1 ( NP-SBJ-9 *PRO* ) ( VP 2 ( S ( NP-SBJ-9 *PRO* ) ( VP 3 ( VP 4 ( NP 5 ) ( ADVP-LOC 6 ) ) ) ) ) 7 ) )</MetadataElement>
+<MetadataElement name="segId">11</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:2" offset="10.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:3" offset="12.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:4" offset="17.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:5" offset="20.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:6" offset="24.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:7" offset="28.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:8" offset="34.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:9" offset="35.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:2">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:3">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:4">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E4" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:4" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:5">
+<Feature name="tag">TO</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E5" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:5" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E6" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:6" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:7">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E7" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:7" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:8">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:E8" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:8" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:B:9">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">12</MetadataElement>
+<MetadataElement name="paragraph">12</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP 0 1 ) )</MetadataElement>
+<MetadataElement name="segId">12</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:3" offset="12.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:C:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+</AG>
+<AG id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D" timeline="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:T1">
+<Metadata>
+<MetadataElement name="endOffset">41</MetadataElement>
+<MetadataElement name="paragraph">13</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP ( NP 0 1 ) ( NP 2 ) ) )</MetadataElement>
+<MetadataElement name="segId">13</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:1" offset="0.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:2" offset="5.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:3" offset="14.000000"></Anchor>
+<Anchor id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:4" offset="41.000000"></Anchor>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:E1" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:1" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:E2" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:2" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:E3" type="word" start="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:3" end="groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000:D:4">
+<Feature name="tag">ADD</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

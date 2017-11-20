@@ -1,0 +1,2 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Do) (RB n't) (VP (VB bother))) (. .)) )
+( (S (NP-SBJ (NP (PRP It)) (S-1 (-NONE- *EXP*))) (VP (VBZ 's) (ADJP-PRD (JJ impossible)) (S-1 (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB understand) (SBAR (WHADVP-9 (WRB how)) (S (NP-SBJ (DT this) (NN place)) (VP (VBZ has) (VP (VBN survived) (ADVP-9 (-NONE- *T*)))))))))) (. .)) )

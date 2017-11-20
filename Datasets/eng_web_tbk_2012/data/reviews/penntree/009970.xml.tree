@@ -1,0 +1,6 @@
+( (NP (NP (JJS BEST) (JJ CHINESE) (NN RESTAURANT)) (ADVP-TMP (RB EVER)) (. !!!)) )
+( (S (NP-SBJ (PRP It)) (VP (VBD was) (NP-PRD (NP (DT the) (JJS best) (JJ Chinese) (NN food)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP have) (ADVP-TMP (RB ever)) (VP (VBN had) (NP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (S (NP-SBJ (PDT All) (DT the) (NN food)) (VP (VBD tasted) (ADJP-PRD (JJ excellent)))) (, ,) (CC and) (S (PP (IN with) (NP (NP (DT the) (JJ new) (NN renovation)) (PP (IN of) (NP (NP (NNS chairs)) (CC and) (NP (DT the) (NN bathroom)))))) (, ,) (NP-SBJ (PRP it)) (VP (VBZ is) (ADJP-PRD (JJ awesome)))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NNS people)) (VP (VBG working) (ADVP-LOC (RB their)))) (VP (VBP are) (ADVP (RB also)) (ADJP-PRD (RB extremely) (NN polite) (CC and) (JJ friendly))) (. .)) )
+( (S (NP-TMP (NP (DT Every) (NN time)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP go) (ADVP-TMP-9 (-NONE- *T*)))))) (, ,) (NP-SBJ (NP (NNP Kevin)) (, ,) (NP (DT the) (NN manager))) (, ,) (VP (MD will) (ADVP-TMP (RB always)) (VP (VB remember) (NP (NP (PRP$ my) (NN family)) (CC and) (NP (PRP I))))) (. .)) )
+( (S (S (ADVP (RB Overall)) (, ,) (NP-SBJ (PRP it)) (VP (VBZ is) (ADJP-PRD (RB very) (NN family) (JJ oriented)))) (, ,) (CC and) (S (NP-SBJ (PRP I)) (VP (VBP recommend) (NP (PRP it)) (PP-CLR (IN to) (NP (NN everyone))))) (, !!!)) )

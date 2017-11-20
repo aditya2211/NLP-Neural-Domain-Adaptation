@@ -1,0 +1,5 @@
+( (S (NP-SBJ (PRP you)) (VP (VBP r) (ADJP-PRD (JJ retarded))) (. .)) )
+( (S (NP-SBJ-9 (PRP i)) (VP (VBD used) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB have) (NP (CD one)))))) (. .)) )
+( (S (NP-SBJ (PRP they)) (VP (VBP are) (NP-PRD (JJ great) (NNS dogs))) (. .)) )
+( (S (NP-SBJ (NN cocker) (NNS spaniels)) (VP (VBP are) (ADJP-PRD (JJ retarded))) (. .)) )
+( (SBARQ (WHADVP-9 (WRB why)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB think) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP i)) (VP (MD should) (VP (VB get) (NP (NP (CD one)) (PP (IN of) (NP (DT those)))))))) (ADVP-PRP-9 (-NONE- *T*)))) (. ?)) )

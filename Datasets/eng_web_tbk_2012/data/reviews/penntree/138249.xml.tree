@@ -1,0 +1,3 @@
+( (S (NP-SBJ (DT These) (NNS guys)) (VP (VBP do) (NP (JJ great) (NN work)) (PP (IN at) (NP (ADJP (RB VERY) (JJ reasonable)) (NNS prices)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VB use) (NP (PRP them)) (NP-ADV (CD four) (NNS times)) (PP (IN for) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG fixing) (NP (NNS items)) (PP (PP (IN from) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG pushing) (PRT (RP out)) (NP (NP (DT a) (NN dent)) (PP (IN in) (NP (DT a) (NN bumper))))))) (PP (IN to) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG fixing) (NP (NP (DT the) (NN fender)) (PP (IN on) (NP (PRP$ my) (JJ beloved) (NNP Miata))))))))))))) (. .)) )
+( (S (NP-SBJ-1 (PRP I)) (VP (VBP have) (ADVP-TMP (RB never)) (VP (VBN been) (VP (VBN disappointed) (NP-1 (-NONE- *))))) (. .)) )

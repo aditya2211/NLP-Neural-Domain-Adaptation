@@ -1,0 +1,4 @@
+( (NP (NNS teeth)) )
+( (FRAG (S (NP-SBJ-1 (DT this) (NN dentist)) (VP (VP (VBP want) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB pull) (NP (DT the) (NN tooth)) (ADVP-DIR (RB out))))) (ADVP-TMP (RB always))) (, ..) (VP (ADVP-TMP (RB always)) (VBZ wants) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB do) (NP (DT the) (JJS cheapest)) (PP (IN for) (NP (PRP$ his) (NN benefit))))))))) (, ..) (FRAG (ADVP (RB not)) (SBAR (IN unless) (S (NP-SBJ (PRP he)) (VP (VBZ knows) (NP (PRP you)))))) (. .)) )
+( (S (CC and) (ADVP (RB hopefully)) (NP-SBJ (PRP you)) (VP (VBP do) (RB not) (VP (VB know) (NP (DT the) (JJ same) (NNS people)) (SBAR-PRP (IN because) (S (NP-SBJ (PRP he)) (VP (VBZ tells) (NP (NNS others)) (PP-CLR (IN about) (NP (PRP$ you) (NN payment) (NN status)))))))) (. .)) )
+( (SBAR (WHNP-9 (WDT Which)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (MD should) (VP (VB be) (NP-PRD (DT a) (JJ private) (NN issue)))))) )

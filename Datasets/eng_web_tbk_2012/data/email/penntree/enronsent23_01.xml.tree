@@ -1,0 +1,5 @@
+( (FRAG (S (NP-SBJ (PRP you)) (VP (VBP know))) (, ,) (WHNP (WP whatever)) (. .)) )
+( (S (NP-SBJ (PRP i)) (VP (MD will) (VP (VB let) (S (NP-SBJ (PRP you)) (VP (VB know))) (ADVP-TMP (RB later)))) (. .)) )
+( (SBARQ (WHNP-9 (WP what)) (SQ (VBP are) (NP-SBJ (PRP you)) (VP (VBG doing) (NP-9 (-NONE- *T*)) (NP-TMP (NN tonight)))) (. .)) )
+( (FRAG (WHPP (IN like) (WHNP (WP what))) (. ?)) )
+( (S (NP-SBJ (PRP i)) (VP (MD can) (VP (VB think) (PP-CLR (IN of) (NP (DT a) (JJ few) (NNS things)))))) )

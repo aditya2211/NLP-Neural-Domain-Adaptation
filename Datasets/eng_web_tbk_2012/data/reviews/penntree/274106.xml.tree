@@ -1,0 +1,8 @@
+( (FRAG (ADJP (RB AMAZINGLY) (JJ YUMMY)) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (ADVP-TMP (RB just)) (VP (VBD got) (ADVP (RB back) (PP (IN from) (NP (NNP france)))) (NP-TMP (NN yesterday))) (CC and) (VP (ADVP (RB just)) (VBD missed) (NP (DT the) (NN food)) (ADVP-TMP (RB already)))) (. !)) )
+( (S (S (NP-SBJ (NP (PRP$ My) (NN sister)) (PP (IN in) (NP (NN law)))) (VP (VBD told) (NP (PRP me)) (PP-CLR (IN about) (NP (NP (DT this) (JJ amazing) (JJ new) (NN crepe) (NN place)) (PP-LOC (IN in) (NP (NN town))))))) (, ,) (S (NP-SBJ (PRP I)) (VP (VBD was) (ADJP-PRD (RB so) (JJ excited)))) (S (NP-SBJ-9 (PRP I)) (ADVP (RB just)) (VP (VBD wanted) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VP (VB go)) (CC and) (VP (VB test) (NP (PRP it)) (PRT (RP out)) (PP (IN for) (NP (GW my) (PRP self))))))))) (. !)) )
+( (S (NP-SBJ (PRP$ Their) (NN customer) (NN service)) (VP (VBD was) (ADJP-PRD (JJ perfect))) (. !)) )
+( (S (NP-SBJ (PRP$ Their) (NN Food)) (VP (VBD was) (ADJP-PRD (ADJP (JJR better)) (PP (IN then) (NP (NP (NN anything)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBD had) (ADVP-TMP (RB ever)) (VP (VBN tasted) (NP-9 (-NONE- *T*)))))))))) (. .)) )
+( (PP (ADVP (RB EVEN)) (IN IN) (NP (NNP FRANCE)) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (ADVP (RB highly)) (VP (VB recommend) (NP (DT this) (NN place)) (PP-CLR (IN to) (NP (NP (NN anyone)) (VP (VBG looking) (PP-CLR (IN for) (NP (NP (DT a) (JJ great) (NN atmosphere)) (, ,) (NP (JJ amazing) (NN food)) (, ,) (CC and) (NP (JJ great) (NN customer) (NN service))))))))) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you)) (NP-VOC (NNP Roll) (NNP UP) (NNPS Crepes))) (. !)) )

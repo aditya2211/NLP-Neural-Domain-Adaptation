@@ -1,0 +1,7 @@
+( (S (NP-SBJ (PRP We)) (VP (VBP have) (VP (VBN stayed) (PP-LOC (IN at) (NP (NNP Tanglewood))) (PP-TMP (IN for) (NP (NP (JJ many) (NNS years)) (ADVP-TMP (RB now)))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBP go) (NP-TMP (NP (QP (RB over) (RB about) (CD 5)) (NNS times)) (NP-ADV (DT a) (NN year)))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBP have) (ADVP-TMP (RB never)) (VP (VBN had) (NP (NP (DT a) (NN problem)) (PP (IN with) (NP (DT the) (NNS cabins)))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (ADVP-TMP (RB always)) (ADJP-PRD (RB so) (JJ helpful))) (. .)) )
+( (S (NP-SBJ (DT The) (NNS cabins)) (VP (VBP have) (ADVP-TMP (RB always)) (VP (VBN been) (ADJP-PRD (JJ clean)))) (. .)) )
+( (S (NP-SBJ (NNP Helen)) (VP (VBZ is) (NP-PRD (NP (DT a) (JJ wonderful) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB take) (NP (PRP$ you) (NN family)) (ADVP-DIR-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBP recommend) (NP (DT these) (NNS cabins))) (. !)) )

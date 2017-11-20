@@ -1,0 +1,5 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Do) (RB n't) (VP (VB judge) (NP (DT a) (NN book)) (PP-MNR (IN by) (NP (PRP$ its) (NN cover)))))) )
+( (S (PP (IN From) (NP (DT the) (NN outside))) (NP-SBJ (NNP Ichiban)) (VP (VBZ looks) (SBAR (IN like) (S (NP-SBJ (PRP it)) (VP (MD will) (VP (VB be) (ADJP-PRD (JJ terrible))))))) (. .)) )
+( (S (NP-SBJ (DT This)) (VP (MD could) (RB n't) (VP (VB be) (ADVP-PRD (RBR farther) (PP (IN from) (NP (DT the) (NN truth)))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ amazing)))) (, ,) (CC and) (S (NP-SBJ-1 (DT the) (NNS prices)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN beat) (NP-1 (-NONE- *)))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN sushi)) (VP (VBZ is) (ADJP-PRD (JJ great)))) (, ,) (CC and) (S (NP-SBJ (PRP they)) (VP (VBP have) (NP (DT a) (JJ great) (NN selection)))) (. .)) )

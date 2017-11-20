@@ -1,0 +1,6 @@
+( (NP (DT A) (JJ Great) (NN Help) (. !)) )
+( (S (NP-SBJ (NNP Ashdown) (NNP Horse) (NNP Transport)) (VP (VBD were) (ADJP-PRD (JJ fantastic))) (. !)) )
+( (FRAG (ADJP (RB Very) (JJ friendly)) (CC and) (NP (ADVP-TMP (RB ALWAY)) (ADJP (JJ contactable)) (PP-TMP (RB even) (IN at) (NP (NNS weekends)))) (. .)) )
+( (S (NP-SBJ-9 (PRP I)) (VP (MD would) (VP (VB hesitate) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB recommend) (NP (NN anyone))))))) (. .)) )
+( (FRAG (NP (NN Thanks)) (ADVP (RB again)) (NP-VOC (NNP Nina)) (. .)) )
+( (FRAG (NP (NN PS.)) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Love) (NP (DT the) (JJ new) (NN website)))) (. !)) )

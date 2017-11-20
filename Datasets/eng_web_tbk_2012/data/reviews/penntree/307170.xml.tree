@@ -1,0 +1,3 @@
+( (NP (NP (JJS Best) (NN Limo) (NN Limousine) (NN service)) (PP-LOC (IN in) (NP (NP (DT all)) (PP (IN of) (NP (NNP Dallas)))))) )
+( (NP (NP (NNP Great) (NNP Limos) (NN company)) (PP-LOC (IN int) (NP (DT he) (NML (NML (NNP DFW)) (NML (NNP fort) (NNP Worth))) (NN Metro) (NN area))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP use) (NP (PRP$ their) (NN limo) (NNS services)) (PP-CLR (IN for) (NP (NP (DT all)) (PP (IN of) (NP (PRP$ my) (NML (NML (NN airport) (NN car) (NNS services)) (CC and) (NML (NN airport) (NN transportation) (NNS needs))))))))) )

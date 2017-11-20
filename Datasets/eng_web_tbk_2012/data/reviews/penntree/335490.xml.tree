@@ -1,0 +1,5 @@
+( (NP (NP (JJS Cleanest) (NN guesthouse)) (SBAR (WHNP (-NONE- *0*)) (S (NP-SBJ-1 (PRP i)) (VP (VBP have) (VP (VBN been) (PP-DIR-PRD (IN to) (NP-1 (-NONE- *T*)))))))) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Stayed) (ADVP-LOC (RB here)) (PP-TMP (IN for) (NP (CD 2) (NNS nights)))) (. .)) )
+( (S (NP-SBJ (DT The) (NN owner)) (VP (VBD was) (ADJP-PRD (RB very) (JJ friendly) (CC and) (JJ helpful))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NNS rooms)) (VP (VBD were) (ADJP-PRD (RB very) (JJ clean)))) (CC and) (S (NP-SBJ (DT the) (NN breakfast)) (VP (VBD was) (ADJP-PRD (JJ excellent)))) (. .)) )
+( (S (NP-SBJ (NP (JJ Good) (NN location)) (CC and) (NP (NML (PP (IN off) (NP (NN road)))) (NN parking))) (VP (VBD made) (S (NP-SBJ (PRP$ our) (NN stay)) (ADJP-PRD (RB very) (JJ convenient)))) (. .)) )

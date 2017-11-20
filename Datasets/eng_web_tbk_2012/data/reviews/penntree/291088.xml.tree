@@ -1,0 +1,3 @@
+( (S (NP-SBJ (PRP I)) (VP (VBP am) (NP-PRD (DT a) (JJ new) (NN patient))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN visited) (NP (NP (NNP Dr.) (NNP Cooper) (POS 's)) (NN office)) (ADVP-TMP (RB twice))))) (CC and) (S (NP-SBJ (PRP I)) (VP (VBP am) (ADJP-PRD (RB very) (JJ impressed) (PP (IN with) (SBAR-NOM (WHADJP-1 (WRB how) (JJ friendly) (CC and) (JJ polite)) (S (NP-SBJ (DT the) (NN staff)) (VP (VBZ is) (ADJP-PRD-1 (-NONE- *T*))))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD found) (S (NP-SBJ-9 (DT the) (NN office)) (VP (TO to) (VP (VB be) (ADJP-PRD (RB very) (JJ clean) (CC and) (JJ professional) (HYPH -) (VBG looking)))))) (. .)) )

@@ -1,0 +1,7 @@
+( (SBARQ (WHNP-9 (WP What)) (SQ (NP-SBJ-9 (-NONE- *T*)) (VP (MD would) (VP (VB happen) (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (VBD flew) (NP (NP (DT the) (NN flag)) (PP (IN of) (NP (NNP South) (NNP Vietnam)))) (PP-LOC (IN in) (NP (NML (JJ Modern) (NN day)) (NNP Vietnam))))))))) (. ?)) )
+( (S (NP-SBJ (PRP It)) (VP (MD would) (VP (VB be) (ADJP-PRD (JJ similar) (PP (IN to) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG flying) (NP (NP (DT the) (NN flag)) (PP (IN of) (NP (DT the) (NNP Third) (NNP Reich)))) (PP-LOC (PP (IN in) (NP (NML (JJ modern) (NN day)) (NNP Germany))) (CC or) (PP (IN in) (NP (NNP Israel)))))))))) (. .)) )
+( (S (NP-SBJ (PRP You)) (VP (MD would) (VP (VB be) (VP (VBG violating) (NP (DT the) (NN law))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NNS police)) (VP (MD would) (VP (VB make) (S (NP-SBJ (PRP you)) (VP (VBP take) (NP (PRP it)) (ADVP (RB down))))))) (CC and) (S (NP-SBJ (PRP you)) (VP (MD may) (VP (VB face) (NP (NP (NNS fines) (CC and) (NN imprisonment)) (-LRB- -LRB-) (CC but) (NP (ADVP (RB definitely)) (RB not) (NN execution)))))) (. .) (-RRB- -RRB-)) )
+( (S (NP-SBJ (PRP You)) (VP (MD will) (ADVP (RB also)) (VP (VB face) (NP (NP (DT the) (NN ire)) (PP (IN of) (NP (NP (JJS most) (NNS people)) (ADVP-LOC (RB there))))))) (. .)) )
+( (S (NP-SBJ-9 (PRP They)) (VP (MD might) (VP (VB be) (VP (VBN imprisoned) (CC or) (VBN executed) (NP-9 (-NONE- *)))))) )
+( (S (INTJ (UH Yes)) (, ,) (NP-SBJ (PRP it)) (VP (MD would) (VP (VB be) (NP-PRD (DT an) (NN execution) (NN punishment)))) (. .)) )

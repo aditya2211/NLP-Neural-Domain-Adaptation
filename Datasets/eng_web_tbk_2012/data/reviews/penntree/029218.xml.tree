@@ -1,0 +1,7 @@
+( (FRAG (NP (PRP$ Our) (NN Wedding)) (NP (CD 11/7/08))) )
+( (S (NP-SBJ (PRP We)) (VP (VP (ADVP (RB just)) (VBD had) (NP (PRP$ our) (NN wedding)) (PP-TMP (IN on) (NP (CD 11/7/08)))) (CC and) (VP (VBD was) (ADJP-PRD (RB very) (JJ impressed)))) (. .)) )
+( (S (NP-SBJ (NNP Cj) (CC and) (NN company)) (VP (VBD did) (NP (NP (NP (DT all)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ (PRP we)) (VP (VBP ask) (NP-9 (-NONE- *T*)))))) (CC and) (NP (QP (CD 10) (NNS times)) (JJR more)))) (. .)) )
+( (S (NP-SBJ (DT The) (NN food)) (VP (VBD was) (ADJP-PRD (GW out) (JJ standing))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP need) (NP (NP (DT a) (NN cater)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (ADJP-PRD (ADJP (JJ affordable)) (CC and) (ADJP (JJ easy) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB work) (PP-CLR (IN with) (NP-1 (-NONE- *T*)))))))))))))))) (NP-SBJ (PRP they)) (VP (VBP are) (NP-PRD (DT the) (NNS ones))) (. .)) )
+( (FRAG (NP (NN Thanks)) (ADVP (RB again)) (NP-VOC (NNP Saucey) (POS 's)) (. .)) )
+( (NP (NNP Mark)) )

@@ -1,0 +1,2 @@
+( (NP (JJ Great) (NN School) (. !)) )
+( (FRAG (FRAG (NP (NNS Teachers)) (ADJP (JJ good))) (S (NP-SBJ (NP (JJ Diverse) (NN student) (NN body)) (ADJP (-LRB- -LRB-) (ADJP (JJ African) (HYPH -) (JJ American)) (, ,) (ADJP (JJ Asian)) (, ,) (ADVP-ETC (FW ect.)) (-RRB- -RRB-))) (VP (VBZ equals) (S-NOM (NP-SBJ (NNS kids)) (VP (VBG staying) (ADVP-LOC (RB here)))))) (. !)) )

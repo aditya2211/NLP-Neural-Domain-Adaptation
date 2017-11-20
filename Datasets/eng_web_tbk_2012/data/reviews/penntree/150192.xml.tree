@@ -1,0 +1,7 @@
+( (S (S (NP-SBJ (EX There)) (VP (VBP are) (NP-PRD (NP (ADJP (RB so) (JJ many)) (JJ wonderful) (JJ great) (NNS places)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB dine) (ADVP-LOC-1 (-NONE- *T*))))))) (PP-LOC (IN in) (NP (NNP houston))))) (, ....) (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VBP do) (RB n't) (. .) (VP (VB waste) (NP (PRP$ your) (NN time)) (ADVP-LOC (RB here))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBD had) (NP (DT the) (NN morelias) (NNS enchiladas))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN sauce)) (VP (VBD was) (ADJP-PRD (JJ dry)))) (CC and) (S (NP-SBJ (DT the) (NN enchiladas)) (VP (VBD did) (RB not) (VP (VB taste) (ADJP-PRD (JJ good)) (. .) (ADVP (RB at) (RB all))))) (. .)) )
+( (S (PP (IN In) (NP (NN fact))) (NP-SBJ (PRP$ my) (NN friend)) (VP (VBD vomited) (PP-TMP (IN after) (NP (PRP$ our) (NN meal)))) (. .)) )
+( (S (S (ADVP (RB Maybe)) (NP-SBJ (PRP we)) (VP (VBD ordered) (NP (DT the) (JJ wrong) (NN dish)))) (CC but) (S (NP-SBJ (NP (PRP$ my) (NN experience)) (ADVP-LOC (RB here))) (VP (VBD was) (ADJP-PRD (JJ poor)))) (. .)) )
+( (S (S (NP-SBJ (NN Service)) (VP (VBD was) (ADJP-PRD (ADJP (JJ okay)) (CC not) (ADJP (JJ great))))) (, ,) (S (NP-SBJ (PRP we)) (VP (VBD came) (PP-PRP (IN for) (NP (DT a) (JJ late) (NN lunch))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP do) (RB n't) (VP (VB recommend) (NP (DT this) (NN place)))) (. .)) )

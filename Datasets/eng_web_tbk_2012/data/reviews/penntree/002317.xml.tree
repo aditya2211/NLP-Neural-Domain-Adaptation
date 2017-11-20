@@ -1,0 +1,3 @@
+( (NP (NN telephone) (NN number)) )
+( (S (S (NP-SBJ (DT the) (NN telephone) (NN number)) (VP (VBZ is) (ADJP-PRD (JJ incorrect)))) (, -) (S (NP-SBJ (PRP$ our) (JJ new) (JJ mobile) (NN number)) (VP (VBZ is) (NP-PRD (NP (CD 07551310002)) (CC or) (NP (NP (NN landline)) (NP (CD 01634) (CD 710033)))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP thank) (NP (PRP you)))) )

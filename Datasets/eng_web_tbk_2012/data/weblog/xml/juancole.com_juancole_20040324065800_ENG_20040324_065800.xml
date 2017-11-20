@@ -1,0 +1,1163 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="juancole.com_juancole_20040324065800_ENG_20040324_065800" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:39:00 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">juancole.com_juancole_20040324065800_ENG_20040324_065800.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Signal id="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/juancole.com_juancole_20040324065800_ENG_20040324_065800.txt"></Signal>
+</Timeline>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">168</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( SBAR 2 ( S ( NP-SBJ ( NP 3 4 5 ) ( PP 6 ( NP 7 8 9 ) ) ) ( PP-TMP 10 ( NP 11 ) ) ( VP 12 ( NP ( NP ( NP 13 14 ) 15 ) ( PP 16 ( NP ( NP 17 18 19 ) 20 ( NP ( NP 21 22 23 ) ( PP 24 ( NP 25 ) ) ) ) ) 26 ( NP-TMP ( NP 27 28 ) ( ADVP 29 ) ) ) ) ) ) ) 30 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:2" offset="7.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:3" offset="15.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:4" offset="20.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:5" offset="22.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:6" offset="27.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:7" offset="33.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:8" offset="36.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:9" offset="42.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:A" offset="52.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:B" offset="59.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:C" offset="62.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:D" offset="70.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:F" offset="80.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:G" offset="87.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:H" offset="90.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:I" offset="97.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:J" offset="100.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:K" offset="107.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:L" offset="113.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:M" offset="120.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:N" offset="122.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:O" offset="124.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:P" offset="134.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:Q" offset="141.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:R" offset="144.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:S" offset="150.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:U" offset="152.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:V" offset="156.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:W" offset="160.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:X" offset="167.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:Y" offset="168.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:3">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:5">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:7">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:9">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:A">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:B">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:C">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:D">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:F">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:G">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:H">
+<Feature name="tag">POS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:J">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:K">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:L">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:M">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:N">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:O">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:P">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:Q">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:R">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:ER" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:R" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:S">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:ES" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:S" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:U">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EU" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:U" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:V">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EV" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:V" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:W">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EW" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:W" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:X">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:EX" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:X" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:1:Y">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">169</MetadataElement>
+<MetadataElement name="paragraph">2</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NP 0 1 ) ( PP 2 ( NP 3 4 ) ) ( PP-LOC 5 ( NP ( NP 6 ) 7 ( ADVP-LOC ( NP 8 9 ) 10 ( PP 11 ( NP 12 ) ) ) ) ) ) 13 14 ( VP ( VP 15 ( NP 16 17 ) ) 18 ( VP 19 ( NP ( NP 20 21 ) ( PP 22 ( NP ( NP 23 24 25 ) ( PP-LOC 26 ( NP 27 ) ) ) ) ) ) ) 28 29 ) )</MetadataElement>
+<MetadataElement name="segId">2</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:2" offset="4.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:3" offset="10.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:4" offset="13.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:5" offset="20.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:6" offset="28.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:7" offset="31.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:8" offset="40.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:9" offset="42.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:A" offset="45.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:B" offset="48.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:C" offset="53.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:D" offset="56.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:F" offset="64.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:G" offset="66.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:H" offset="68.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:I" offset="78.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:J" offset="82.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:K" offset="96.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:L" offset="100.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:M" offset="109.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:N" offset="119.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:O" offset="127.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:P" offset="135.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:Q" offset="139.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:R" offset="149.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:S" offset="158.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:U" offset="161.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:V" offset="166.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:W" offset="168.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:X" offset="169.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:5">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:6">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:8">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:9">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:A">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:B">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:C">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:F">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:G">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:H">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:I">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:J">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:K">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:L">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:M">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:N">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:O">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:P">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:ER" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:R" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:S">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:ES" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:S" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:U">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EU" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:U" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:V">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EV" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:V" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:W">
+<Feature name="tag">.</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:EW" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:W" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:2:X">
+<Feature name="tag">''</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">85</MetadataElement>
+<MetadataElement name="paragraph">3</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 2 3 4 5 ) ( VP 6 ( SBAR 7 ( S ( NP-SBJ-9 8 ) ( VP 9 ( VP 10 ( NP-9 * ) ( NP-TMP 11 ) ( PP 12 ( NP 13 14 15 ) ) ) ) ) ) ) 16 ) )</MetadataElement>
+<MetadataElement name="segId">3</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:2" offset="4.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:3" offset="6.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:4" offset="12.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:5" offset="15.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:6" offset="17.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:7" offset="23.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:8" offset="31.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:9" offset="36.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:A" offset="45.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:B" offset="49.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:C" offset="56.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:D" offset="64.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:F" offset="67.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:G" offset="69.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:H" offset="77.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:I" offset="84.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:J" offset="85.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:3">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:6">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:7">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:8">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:9">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:A">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:B">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:C">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:D">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:F">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:G">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:H">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:3:J">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">77</MetadataElement>
+<MetadataElement name="paragraph">4</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NP 0 1 ) ( ADVP-LOC 2 ) ) ( VP 3 ( PP-CLR 4 ( NP 5 ) ) ( PP 6 ( NP ( NP 7 8 ) ( SBAR ( WHNP-9 9 ) ( S ( NP-SBJ-9 *T* ) ( VP 10 ( NP-1 11 12 ) ( S ( NP-SBJ-1 *PRO* ) ( ADJP-PRD 13 ) ) ) ) ) ) ) ) 14 ) )</MetadataElement>
+<MetadataElement name="segId">4</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:2" offset="3.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:3" offset="10.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:4" offset="16.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:5" offset="24.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:6" offset="29.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:7" offset="40.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:8" offset="43.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:9" offset="45.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:A" offset="51.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:B" offset="56.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:C" offset="61.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:D" offset="65.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:F" offset="71.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:G" offset="76.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:H" offset="77.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:3">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:5">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:6">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:7">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:8">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:9">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:A">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:B">
+<Feature name="tag">WDT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:C">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:D">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:F">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:G">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:4:H">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">43</MetadataElement>
+<MetadataElement name="paragraph">5</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( PP-LOC 0 ( NP 1 ) ) 2 ( NP-SBJ 3 ) ( VP 4 ( NP-PRD 5 6 7 ) ) 8 ) )</MetadataElement>
+<MetadataElement name="segId">5</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:2" offset="3.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:3" offset="10.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:4" offset="12.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:5" offset="18.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:6" offset="22.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:7" offset="24.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:8" offset="28.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:9" offset="42.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:A" offset="43.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:3">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:4">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:5">
+<Feature name="tag">EX</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:6">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:9">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:5:A">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">169</MetadataElement>
+<MetadataElement name="paragraph">6</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ ( NML 0 1 2 ) 3 4 5 6 ) ( VP 7 ( SBAR ( SBAR *0* ( S ( NP-SBJ 8 9 ) ( VP 10 ( ADJP-PRD 11 12 13 ) ) ) ) 14 ( SBAR 15 ( S 16 ( NP-SBJ 17 18 ) ( VP 19 ( VP 20 ( NP ( NP ( NP 21 22 23 ) ( PP 24 ( NP 25 26 ) ) ) 27 ( NP ( NP 28 ) ( PP 29 ( NP 30 31 32 ) ) ) ) ) ) 33 ) ) ) ) 34 ) )</MetadataElement>
+<MetadataElement name="segId">6</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:2" offset="8.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:3" offset="15.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:4" offset="22.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:5" offset="30.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:6" offset="33.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:7" offset="35.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:8" offset="40.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:9" offset="45.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:A" offset="49.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:B" offset="56.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:C" offset="60.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:D" offset="62.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:F" offset="71.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:G" offset="73.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:H" offset="77.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:I" offset="82.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:J" offset="84.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:K" offset="88.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:L" offset="97.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:M" offset="102.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:N" offset="107.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:O" offset="112.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:P" offset="116.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Q" offset="123.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:R" offset="127.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:S" offset="131.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:U" offset="137.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:V" offset="139.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:W" offset="144.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:X" offset="147.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Y" offset="156.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Z" offset="160.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:a" offset="166.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:b" offset="168.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:c" offset="169.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:2">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:3">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:6">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:7">
+<Feature name="tag">HYPH</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:8">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:9">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:A">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:B">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:C">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:D">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:F">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:G">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:H">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:I">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:J">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:L">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:M">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:N">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:O">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:P">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Q">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:R">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:ER" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:R" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:S">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:ES" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:S" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:U">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EU" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:U" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:V">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EV" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:V" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:W">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EW" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:W" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:X">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EX" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:X" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Y">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EY" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Y" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Z">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:EZ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Z" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:a">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Ea" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:a" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:b">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:Eb" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:b" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:6:c">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">177</MetadataElement>
+<MetadataElement name="paragraph">7</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 1 2 3 ) ( VP 4 ( NP ( NP 5 6 ) ( VP 7 8 9 ( S ( NP-SBJ 10 ) ( VP 11 ( NP-PRD ( NP 12 13 ) ( PP 14 ( NP ( NP ( NP 15 16 ) ( PP 17 ( NP 18 19 20 ) ) ) 21 ( NP ( NP 22 23 ) ( PP 24 ( NP ( NP 25 26 27 ) ( PP-LOC 28 ( NP 29 30 ) ) ) ) ) ) ) ) ) ) ) ) ) 31 32 33 ) )</MetadataElement>
+<MetadataElement name="segId">7</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:2" offset="4.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:3" offset="12.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:4" offset="22.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:5" offset="30.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:6" offset="37.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:7" offset="39.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:8" offset="50.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:9" offset="57.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:A" offset="59.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:B" offset="61.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:C" offset="64.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:D" offset="67.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:F" offset="69.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:G" offset="75.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:H" offset="78.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:I" offset="82.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:J" offset="92.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:K" offset="95.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:L" offset="99.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:M" offset="107.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:N" offset="117.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:O" offset="121.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:P" offset="123.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Q" offset="135.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:R" offset="138.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:S" offset="142.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:U" offset="148.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:V" offset="158.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:W" offset="161.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:X" offset="165.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Y" offset="172.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Z" offset="174.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:a" offset="176.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:b" offset="177.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:3">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:4">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:5">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:6">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:8">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:9">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:A">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:B">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:C">
+<Feature name="tag">PRP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:D">
+<Feature name="tag">VBZ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:F">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:I">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:J">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:K">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:L">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:M">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:N">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:O">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:P">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Q">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:R">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:ER" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:R" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:S">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:ES" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:S" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:U">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EU" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:U" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:V">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EV" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:V" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:W">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EW" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:W" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:X">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EX" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:X" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Y">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EY" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Y" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Z">
+<Feature name="tag">.</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:EZ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Z" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:a">
+<Feature name="tag">.</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:Ea" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:a" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:7:b">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">135</MetadataElement>
+<MetadataElement name="paragraph">8</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( S-TPC-1 ( NP-SBJ 0 1 ) ( VP ( VP 2 ( ADVP 3 ) ( VP 4 ( NP ( NP 5 6 7 ) ( PP-LOC 8 ( NP 9 10 ) ) ) ) ) 11 ( VP 12 13 ( VP 14 ( NP 15 ) ( PP-DTV 16 ( NP 17 18 ) ) ) ) ) ) 19 20 ( NP-SBJ 21 22 ) ( VP 23 ( S-1 *T* ) ) 24 ) )</MetadataElement>
+<MetadataElement name="segId">8</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:2" offset="5.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:3" offset="15.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:4" offset="21.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:5" offset="26.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:6" offset="38.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:7" offset="42.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:8" offset="52.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:9" offset="57.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:A" offset="60.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:B" offset="64.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:C" offset="70.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:D" offset="74.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:F" offset="80.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:G" offset="84.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:H" offset="90.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:I" offset="96.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:J" offset="99.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:K" offset="103.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:L" offset="110.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:M" offset="112.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:N" offset="114.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:O" offset="118.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:P" offset="126.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:Q" offset="134.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:R" offset="135.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:2">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:3">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:4">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:5">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:6">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:7">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:8">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:9">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:A">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:B">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:C">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:D">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:F">
+<Feature name="tag">MD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:G">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:H">
+<Feature name="tag">VB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:I">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:J">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:L">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:M">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:N">
+<Feature name="tag">''</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:O">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:P">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:Q">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:8:R">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">176</MetadataElement>
+<MetadataElement name="paragraph">9</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( NP-SBJ 0 ) ( VP 1 ( SBAR 2 3 ( S ( NP-SBJ ( NP 4 ) ( PP 5 ( NP ( NP 6 7 ) 8 ( SBAR ( WHNP-9 9 ) ( S ( NP-SBJ-9 *T* ) ( VP 10 ( NP ( NP 11 12 13 ) ( PP 14 ( NP 15 ) ) ) ) ) ) ) ) ) 16 ( VP 17 ( NP 18 19 ) ( PP-CLR 20 ( NP ( NP 21 ) ( PP 22 ( NP ( NP 23 24 25 ) 26 ( PP 27 ( NP 28 29 30 ) ) ) ) ) ) ) ) ) ) 31 32 ) )</MetadataElement>
+<MetadataElement name="segId">9</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:2" offset="7.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:3" offset="15.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:4" offset="20.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:5" offset="22.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:6" offset="27.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:7" offset="30.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:8" offset="34.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:9" offset="41.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:A" offset="43.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:B" offset="47.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:C" offset="54.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:D" offset="58.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:F" offset="67.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:G" offset="78.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:H" offset="81.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:I" offset="86.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:J" offset="88.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:K" offset="95.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:L" offset="101.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:M" offset="106.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:N" offset="111.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:O" offset="116.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:P" offset="119.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Q" offset="123.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:R" offset="135.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:S" offset="142.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:U" offset="144.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:V" offset="150.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:W" offset="154.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:X" offset="162.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Y" offset="173.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Z" offset="175.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:a" offset="176.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:2">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:3">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:4">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:5">
+<Feature name="tag">``</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:6">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:7">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:9">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:A">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:B">
+<Feature name="tag">WP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:C">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:D">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:F">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:G">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:H">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:I">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:J">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:K">
+<Feature name="tag">VBP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:L">
+<Feature name="tag">PRP$</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:M">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:N">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:O">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:P">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:R">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:ER" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:R" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:S">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:ES" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:S" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:U">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EU" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:U" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:V">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EV" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:V" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:W">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EW" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:W" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:X">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EX" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:X" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Y">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EY" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Y" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Z">
+<Feature name="tag">.</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:EZ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:Z" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:9:a">
+<Feature name="tag">''</Feature>
+</Annotation>
+</AG>
+<AG id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A" timeline="juancole.com_juancole_20040324065800_ENG_20040324_065800:T1">
+<Metadata>
+<MetadataElement name="endOffset">177</MetadataElement>
+<MetadataElement name="paragraph">10</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( S ( PP 0 ( NP 1 ( ADJP 2 3 ) 4 ) ) 5 ( NP-SBJ-9 ( NP 6 7 8 ) ( PP-1 *ICH* ) ) ( VP 9 ( VP 10 ( NP-9 * ) ( PP 11 ( NP-LGS 12 ) ) ( PP-TMP 13 ( NP 14 ) ) 15 ( PP-1 16 ( NP ( NP ( NP 17 18 ) ( PP 19 ( NP 20 21 ) ) ( PP-LOC 22 ( NP 23 24 ) ) ( PP-LOC 25 ( NP 26 ) ) ) 27 ( NP ( NP 28 29 ) ( PP-LOC 30 ( NP 31 ) ) ) ) ) ) ) 32 ) )</MetadataElement>
+<MetadataElement name="segId">10</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:1" offset="0.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:2" offset="3.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:3" offset="6.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:4" offset="17.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:5" offset="27.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:6" offset="37.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:7" offset="39.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:8" offset="44.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:9" offset="51.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:A" offset="58.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:B" offset="63.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:C" offset="70.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:D" offset="73.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:F" offset="81.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:G" offset="84.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:H" offset="92.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:I" offset="94.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:J" offset="104.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:K" offset="106.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:L" offset="112.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:M" offset="115.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:N" offset="122.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:O" offset="131.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:P" offset="134.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Q" offset="136.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:R" offset="140.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:S" offset="145.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:U" offset="151.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:V" offset="155.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:W" offset="159.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:X" offset="166.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Y" offset="169.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Z" offset="176.000000"></Anchor>
+<Anchor id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:a" offset="177.000000"></Anchor>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E1" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:1" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:2">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E2" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:2" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:3">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E3" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:3" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:4">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E4" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:4" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:5">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E5" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:5" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:6">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E6" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:6" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:7">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E7" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:7" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:8">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E8" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:8" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:9">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:E9" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:9" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:A">
+<Feature name="tag">NNPS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EA" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:A" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:B">
+<Feature name="tag">VBD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EB" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:B" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:C">
+<Feature name="tag">VBN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EC" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:C" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:D">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:ED" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:D" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:F">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EF" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:F" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:G">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EG" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:G" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:H">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EH" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:H" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:I">
+<Feature name="tag">,</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EI" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:I" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:J">
+<Feature name="tag">VBG</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EJ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:J" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:K">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EK" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:K" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:L">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EL" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:L" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:M">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EM" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:M" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:N">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EN" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:N" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:O">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EO" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:O" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:P">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EP" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:P" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Q">
+<Feature name="tag">DT</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EQ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Q" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:R">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:ER" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:R" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:S">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:ES" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:S" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:U">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EU" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:U" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:V">
+<Feature name="tag">CC</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EV" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:V" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:W">
+<Feature name="tag">CD</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EW" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:W" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:X">
+<Feature name="tag">NNS</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EX" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:X" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Y">
+<Feature name="tag">IN</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EY" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Y" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Z">
+<Feature name="tag">NNP</Feature>
+</Annotation>
+<Annotation id="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:EZ" type="word" start="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:Z" end="juancole.com_juancole_20040324065800_ENG_20040324_065800:A:a">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

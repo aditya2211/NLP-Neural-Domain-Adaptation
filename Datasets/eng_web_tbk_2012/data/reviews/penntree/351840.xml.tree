@@ -1,0 +1,3 @@
+( (S (S (NP-SBJ (NNP Caldwell) (NNP insurance)) (VP (VBZ has) (VP (VBN been) (VP (VBG doing) (NP (PRP$ our) (NN insurance)) (PP-TMP (IN for) (NP (NP (QP (DT a) (NN couple)) (NNS years)) (ADVP-TMP (RB now)))))))) (CC and) (S (NP-SBJ (PRP they)) (VP (VBP have) (VP (VBN been) (ADJP-PRD (RB extremely) (JJ thorough))))) (. .)) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBP 've) (ADVP (RB only)) (VP (VBN had) (NP (NP (CD one) (JJ urgent) (NN issue)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB deal) (PP-CLR (IN with) (NP-1 (-NONE- *T*))))))))))) (CC and) (S (NP-SBJ (PRP they)) (VP (VBD were) (ADJP-PRD (RB very) (JJ prompt)) (PP (IN in) (NP (PRP$ their) (NN response))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (ADVP (RB Highly)) (VP (VBP recommend)) (. !)) )

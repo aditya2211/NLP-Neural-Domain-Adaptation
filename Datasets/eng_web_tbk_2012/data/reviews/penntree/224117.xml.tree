@@ -1,0 +1,2 @@
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Drove) (NP (NP (PDT all) (DT the) (NN way)) (ADVP (RB over))) (PP-DIR (IN from) (NP (DT the) (NN highway))))) (, ...) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD closed) (PP-TMP (IN at) (NP (CD 7))))) (. .)) )
+( (SBARQ (WHNP-1 (WP Who)) (SQ (NP-SBJ-1 (-NONE- *T*)) (VP (VBZ does) (NP (DT that)))) (. ?!)) )

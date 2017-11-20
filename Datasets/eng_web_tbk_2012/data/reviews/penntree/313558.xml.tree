@@ -1,0 +1,6 @@
+( (NP (NP (NN Dentist)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP you)) (VP (MD can) (VP (VB trust) (NP-1 (-NONE- *T*))))))) )
+( (S (SBAR-ADV (IN If) (FRAG (ADJP (JJ possible)))) (NP-SBJ (PRP I)) (VP (VBP try) (NP (DT the) (NNS services)) (PP (IN on) (NP (PRP myself))) (SBAR-TMP (IN before) (S (NP-SBJ (PRP I)) (VP (VBP bring) (ADVP (RB in)) (NP (PRP$ my) (NN son)))))) (. .)) )
+( (S (NP-SBJ (NNP Drs.) (NNP Ali)) (VP (VBP work) (NP (NNS wonders))) (. .)) )
+( (S (NP-SBJ (CC Neither) (NP (PRP me)) (CC nor) (NP (PRP$ my) (NN son))) (VP (VBP have) (RB n't) (VP (VBN had) (NP (DT a) (JJ single) (NN cavity)) (SBAR-TMP (IN since) (S (NP-SBJ (PRP we)) (VP (VBD started) (NP (JJ dental) (NN care)) (ADVP-LOC (RB there))))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN team) (NN focus)) (VP (VBZ is) (NP-PRD (NN prevention) (CC and) (NN education))) (. .)) )
+( (S (NP-SBJ (NP (DT That)) (ADJP (JJ alone))) (VP (VBZ makes) (S (NP-SBJ (PRP them)) (ADJP-PRD (JJ unique)))) (. .)) )

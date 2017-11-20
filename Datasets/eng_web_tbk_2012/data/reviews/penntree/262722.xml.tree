@@ -1,0 +1,8 @@
+( (FRAG (ADJP (JJ recommended))) )
+( (NP (JJ Excellent) (NN location) (. .)) )
+( (NP (JJ Good) (NNS sports) (NN bar) (. .)) )
+( (S (NP-SBJ (NNP Hyatt) (NN web) (NN site)) (VP (VBD improved)) (. .)) )
+( (NP (JJ Accurate) (NN check) (HYPH -) (NN out) (. .)) )
+( (FRAG (NP-SBJ (NNS Rooms)) (ADJP-PRD (JJ clean)) (. .)) )
+( (FRAG (NP-SBJ (NNS Lifts)) (ADJP-PRD (ADJP (JJ quick)) (, ,) (ADJP (JJ clean)) (, ,) (ADJP (JJ accurate)) (, ,) (CC and) (ADJP (RB correctly) (VBN sized))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Choose) (NP (DT this) (NN hotel)) (PP (IN over) (NP (NP (DT the) (NNP Hilton)) (SBAR (-LRB- -LRB-) (WHNP-9 (WDT which)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (PP-LOC-PRD (IN on) (NP (DT the) (JJ next) (NN block))))) (-RRB- -RRB-))))) (. .)) )

@@ -1,0 +1,4 @@
+( (INTJ (UH yeah)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBZ sounds) (ADJP-PRD (JJ exciting))) (. .)) )
+( (SQ (NP-SBJ-9 (-NONE- *PRO*)) (VP (VB want) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB go) (PP (IN to) (NP (NN dinner))) (PP (IN with) (NP (PRP me))) (SBAR-TMP (IN before) (S (NP-SBJ (PRP you)) (VP (VBP have) (NP (PRP$ your) (`` ') (NNP matt) (NN time) ('' '))))))))) (. ?)) )
+( (FRAG (ADVP (RB probablyl)) (VP (VBG gon) (S (NP-SBJ (-NONE- *)) (VP (TO na) (ADVP (RB just)) (VP (VB kick) (NP (PRP it))))))) )

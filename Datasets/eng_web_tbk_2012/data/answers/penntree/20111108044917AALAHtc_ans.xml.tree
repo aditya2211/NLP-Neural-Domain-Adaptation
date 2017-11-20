@@ -1,0 +1,5 @@
+( (SBARQ (WHNP-1 (WRB how) (JJ much)) (SQ (VBZ does) (NP-SBJ (PRP it)) (VP (VB cost) (NP-1 (-NONE- *T*)) (S-CLR (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB join) (NP (NNP world) (NNPS resorts) (NNP international))))))) (. ?)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD could) (RB not) (VP (VB find) (NP (DT any) (NN info)) (ADVP-LOC (RB online))))) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB email) (NP (PRP them)) (PP (IN at) (NP (NP (NN address)) (ADVP-LOC (RB below)))))) )
+( (FRAG (NP (NN E-mail)) (: :) (NP (ADD memberservices@worldresortsinternational.com))) )
+( (NP (NNP m)) )

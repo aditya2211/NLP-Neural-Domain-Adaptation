@@ -1,0 +1,4 @@
+( (NP (NP (NN Summary)) (: :) (UCP (NP (RB Not) (JJ cheep)) (, ,) (CC but) (NP (ADJP (ADJP (RB very) (JJ fast)) (, ,) (CC and) (ADJP (RB super) (JJ friendly))) (NN service))) (. .)) )
+( (S (NP-SBJ (NP (NN Quality)) (PP (IN of) (NP (NN work)))) (VP (VBZ is) (ADJP-PRD (ADJP (JJ sufficient)) (CC but) (RB not) (ADJP (JJ outstanding)))) (. .)) )
+( (S (PP (IN Like) (NP (DT all) (NML (NN oil) (NN place)) (NNS changes))) (, ,) (NP-SBJ (-NONE- *PRO*)) (VP (VB ask) (SYM /) (VB recommend) (NP (NP (DT the) (CD 100) (JJ other) (NNS services)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP they)) (VP (VBP have) (NP-9 (-NONE- *T*))))))) (. .)) )
+( (SQ (NP-SBJ (-NONE- *PRO*)) (VP (MD Will) (VP (VB be) (NP-PRD (DT a) (NN repeat) (NN customer)) (PP (IN with) (NP (NN discount) (NNS coupons))))) (. .)) )

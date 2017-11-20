@@ -1,0 +1,8 @@
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB DO) (RB NT) (ADVP (RB ever)) (VP (VB go) (ADVP-DIR (RB there)) (, ,) (SBAR-ADV (ADVP (RB not) (RB even)) (IN if) (S (NP-SBJ (PRP$ your) (NN car)) (VP (VBZ flips)))))) (. .)) )
+( (S (S (NP-SBJ-9 (PRP$ Their) (NN service)) (VP (VBZ sucks) (S-ADV (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB start) (PRT (RP off)) (ADVP-CLR (RB with))))))) (, ,) (S (NP-SBJ (NNS people)) (VP (VBP are) (ADJP-PRD (JJ cruel) (CC and) (JJ ignorant)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 'm) (ADJP-PRD (RB compeltly) (JJ dissatisfied) (PP (IN with) (NP (NP (PRP$ their) (NN service)) (CC and) (NP (PRP$ their) (NNS products)))))) (. .)) )
+( (S (S (NP-SBJ (PRP They)) (VP (VBP DO) (RB NOT) (VP (VB have) (NP (DT a) (NN return) (NN policy))))) (CC and) (S (SBAR-ADV (ADVP (RB even)) (IN if) (S (NP-SBJ (PRP$ their) (NN product)) (VP (VBZ SUCKS)))) (, ,) (NP-SBJ (PRP they)) (VP (MD will) (RB NOT) (VP (VB take) (NP (PRP it)) (ADVP (RB back))))) (. !)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VBP DO) (RB NOT) (ADVP (RB EVER)) (VP (VB GO) (ADVP-DIR (RB HERE)))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP prefer) (NP (NNP Advanced) (NNP auto) (NNP parts)) (PP (IN over) (NP (NP (DT this) (JJ crappy) (NN place)) (PP (IN with) (NP (DT the) (JJS meanest) (NNS people)))))) (. .)) )
+( (S (CC And) (NP-SBJ-9 (PRP they)) (VP (VBP THRIVE) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (NP (DT a) (NN customer)))))) (. .)) )
+( (S (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB DO) (RB NOT) (VP (VB go) (ADVP-DIR (RB here))))) (. ..) (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP thank) (NP (PRP you))))) )

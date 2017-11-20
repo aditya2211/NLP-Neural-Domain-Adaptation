@@ -1,0 +1,7 @@
+( (S (NP-SBJ (PRP i)) (VP (VBD was) (VP (VBG thinking) (NP (NP (NP (NN somewhere)) (SBAR (WHNP-9 (WDT that)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ requires) (NP (DT a) (NN jacket)))))) (, ,) (PP (IN like) (NP (NNP tony) (POS 's)))))) (. .)) )
+( (NP (NP (NN someplace)) (SBAR (WHNP-1 (WDT that)) (S (NP-SBJ-1 (-NONE- *T*)) (VP (VBZ is) (PP-PRD (IN like) (NP (NP ($ $) (CD 30) (-NONE- *U*)) (NP-ADV (DT an) (NN entree))))))) (. .)) )
+( (S (INTJ (UH yeah)) (, ,) (NP-SBJ (PRP i)) (VP (VBD was) (VP (VBG thinking) (NP (NP (NN somewhere)) (PP (IN like) (NP (NNP mcdonald) (POS 's)))))) (. .)) )
+( (S (NP-SBJ (DT that)) (VP (MD may) (VP (VB be) (ADJP-PRD (RB too) (JJ nice)) (ADVP (RB though)))) (. .)) )
+( (SBARQ (WHNP-9 (WP what)) (SQ (VBP do) (NP-SBJ (PRP you)) (VP (VB think) (NP-9 (-NONE- *T*)))) (. ?)) )
+( (S (NP-SBJ (PRP we)) (VP (MD can) (VP (VB go) (NP-LOC (NP (NN somewhere)) (ADJP (JJ nice))))) (. .)) )
+( (NP (JJ real) (NN nice) (. .)) )

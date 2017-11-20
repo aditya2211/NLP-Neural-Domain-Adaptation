@@ -1,0 +1,6 @@
+( (S (NP-SBJ (DT the) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ mediocre)) (ADVP (RB at) (RBS best))) (. .)) )
+( (S (NP-SBJ (DT the) (NN waitress)) (VP (VP (VBD took) (NP (PRP$ my) (NN name))) (CC and) (VP (ADVP-TMP (RB then)) (VBD called) (NP-1 (PRP me)) (S-CLR (NP-SBJ-1 (-NONE- *PRO*)) (NP-PRD (DT that))) (NP-TMP (DT all) (NN night)))) (. .)) )
+( (FRAG (RB not) (ADJP (JJ sure) (SBAR (WHADVP-9 (WRB how)) (S (NP-SBJ (PRP I)) (VP (VBP feel) (PP (IN about) (NP (DT that) (CD one))) (ADVP-MNR-9 (-NONE- *T*)))))) (. .)) )
+( (S (S (NP-SBJ (PRP it)) (VP (VBZ 's) (ADJP-PRD (JJ passable)) (PP (IN as) (NP (DT a) (NN pub))))) (, ,) (CC but) (S (NP-SBJ (DT the) (NN pizza)) (VP (VBZ is) (RB not) (ADJP-PRD (RB that) (JJ great)))) (. .)) )
+( (S-IMP (SBAR-ADV (IN if) (S (NP-SBJ (PRP you)) (VP (VBP want) (NP (JJ good) (NN pizza))))) (, ,) (NP-SBJ (-NONE- *PRO*)) (VP (VB go) (PP-DIR (IN to) (NP (NNP famoso)))) (. .)) )
+( (ADVP (RB seriously) (. .)) )

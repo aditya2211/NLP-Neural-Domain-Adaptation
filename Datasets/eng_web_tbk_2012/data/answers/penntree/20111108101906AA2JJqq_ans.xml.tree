@@ -1,0 +1,4 @@
+( (NP (NP (NN weather)) (PP-TMP (IN in) (NP (NNP december))) (PP-LOC (IN in) (NP (NNP Tremblant))) (. ?)) )
+( (S (ADVP (RB Typically)) (NP-SBJ (PRP it)) (VP (VBZ 's) (ADJP-PRD (JJ cold))) (. .)) )
+( (S (NP-SBJ (EX There)) (VP (VP (MD may) (VP-1 (-NONE- *RNR*))) (CC or) (VP (MD may) (RB not) (VP-1 (-NONE- *RNR*))) (VP-1 (VB be) (NP-PRD (NN snow)) (, ,) (PP (VBG depending) (PP (IN on) (NP (JJ local) (NN weather) (NNS conditions)))))) (. .)) )
+( (S (PP-LOC (IN In) (NP (DT the) (NML (NN ski) (NN resort)) (NNS areas))) (, ,) (NP-SBJ (EX there)) (VP (MD will) (ADVP (RB likely)) (VP (VB be) (NP-PRD (ADJP (NN man) (HYPH -) (VBN made)) (NN snow)) (PP-LOC (IN on) (NP (DT the) (NNS slopes))))) (. .)) )

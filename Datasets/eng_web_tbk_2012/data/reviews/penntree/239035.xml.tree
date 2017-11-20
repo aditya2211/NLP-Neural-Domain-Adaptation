@@ -1,0 +1,7 @@
+( (S (NP-SBJ (NNP Le) (NNP petit)) (VP (VBZ is) (NP-PRD (NP (DT the) (JJS best) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB get) (S (NP-SBJ-1 (PRP$ your) (NNS nails)) (VP (VBN done) (NP-1 (-NONE- *)))) (ADVP-LOC-9 (-NONE- *T*)))))))) (. !)) )
+( (S (S (NP-SBJ (PRP It)) (VP (VBZ is) (ADJP-PRD (RB very) (JJ clean)))) (, ,) (S (NP-SBJ (NN staff)) (VP (VBZ is) (ADJP-PRD (JJ friendly)))) (, ,) (CC and) (S (NP-SBJ (PRP I)) (VP (VBP have) (ADVP-TMP (RB never)) (VP (VBN waited)))) (. !)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP go) (NP-TMP (DT every) (JJ other) (NN week)) (PP-PRP (IN for) (NP (NP (DT the) (NML (NN shallac) (, /) (NN gel)) (NN manicure)) (SBAR (WHNP-9 (WDT which)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ is) (NP-PRD (QP (RB only) ($ $) (CD 25)) (-NONE- *U*))))))))) (CC and) (S (NP-SBJ (PRP it)) (ADVP (RB truly)) (VP (VBZ lasts) (NP (CD 2) (NNS weeks)))) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP love) (NP (PRP it))) (. .)) )
+( (S (NP-SBJ (NNS Pedicures)) (VP (VBP are) (ADVP (RB also)) (ADJP-PRD (JJ great))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Try) (NP (DT this) (NN place)) (PRT (RP out))) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP promise) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (MD will) (RB not) (VP (VB be) (VP (VBN disappointed) (NP-9 (-NONE- *)))))))) (. !)) )

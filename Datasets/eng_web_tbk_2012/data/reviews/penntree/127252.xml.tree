@@ -1,0 +1,6 @@
+( (NP (JJ Real) (NNS pros)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP 've) (VP (VBN had) (S (NP-SBJ (NN writer) (NNS friends)) (VP (VB describe) (NP (NN horror) (NNS stories)) (PP (IN with) (NP (PRP$ their) (NNS printers))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP tell) (NP (PRP them)) (: :) (SBARQ (WHADVP-1 (WRB why)) (SQ (NP-SBJ (-NONE- *PRO*)) (RB not) (ADVP (RB just)) (VP (VB go) (PP (IN with) (NP (DT these) (NNS guys))) (ADVP-PRP-1 (-NONE- *T*)))))) (. ?)) )
+( (S (NP-SBJ (NP (NNP Richard) (NNP Joule)) (CC and) (NP (DT the) (NN gang))) (VP (VBP are) (NP-PRD (NNS pros)) (PP (PP (IN from) (NP (NN start))) (PP (IN to) (NP (NN finish))))) (. .)) )
+( (S (NP-SBJ-9 (PRP They)) (VP (VBD set) (PRT (RP out)) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB exceed) (NP (PRP$ your) (NNS expectations)))))) (. .)) )
+( (S (S (ADVP-TMP (RB Already)) (NP-SBJ (PRP I)) (VP (VBP 'm) (VP (VBG considering) (NP (JJ future) (NNS projects))))) (, ,) (CC and) (S (NP-SBJ (PRP I)) (VP (MD can) (VP (VB assure) (NP (PRP you)) (SBAR (IN that) (S (PP (IN for) (NP (PRP$ my) (NN printing) (NNS needs))) (NP-SBJ (PRP I)) (VP (MD will) (VP (VB be) (VP (VBG choosing) (NP (NP (DT no) (JJ other)) (PP (IN than) (NP (NNP Atlanta) (NML (NNP Paperback) (NNP Book)) (NNP Printing)))))))))))) (. .)) )

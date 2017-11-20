@@ -1,0 +1,6 @@
+( (S (NP-SBJ (PRP We)) (VP (VBP are) (ADJP-PRD (RB very) (JJ pleased) (PP (IN with) (NP (NP (DT the) (NNS services)) (PP (IN of) (NP (NML (NNP First) (NNP Glass)) (NNP Window))))))) (. .)) )
+( (S (NP-SBJ (PRP$ Our) (NN window) (NNS panes)) (VP (VBD were) (ADJP-PRD (ADJP (RB so) (JJ dirty)) (SBAR (IN that) (S (NP-SBJ (PRP they)) (VP (VBD needed) (S (NP-SBJ (DT a) (NN specialist)) (VP (TO to) (VP (VP (VB come)) (CC and) (VP (VB clean) (NP (PRP them))))))))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBD called) (NP (JJ few) (NNS companies)) (SBAR-TMP (IN before) (S (NP-SBJ-1 (PRP we)) (VP (VBP decide) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB hire) (NP (PRP them))))))))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBD came) (PP-TMP (IN on) (NP (NN time)))) (CC and) (VP (VBD completed) (NP (PRP$ their) (NN work)) (ADVP (RB quickly)))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VBD were) (ADJP-PRD (RB very) (JJ happy) (SBAR (WHADJP-9 (WRB how) (JJ clean)) (SINV (VP (VBD looked) (ADJP-PRD-9 (-NONE- *T*))) (NP-SBJ (PRP$ our) (NN windows)))))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (PRP you)) (VP (VBP have) (NP (NP (DT some) (NNS problems)) (PP (IN with) (NP (PRP$ your) (NNS windows))))))) (, ,) (NP-SBJ (PRP you)) (VP (MD should) (VP (VB call) (NP (PRP them)))) (. .)) )

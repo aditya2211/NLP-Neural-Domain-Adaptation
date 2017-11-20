@@ -1,0 +1,7 @@
+( (FRAG (NP (JJ Great) (NN help)) (PP-TMP (ADVP (RB even)) (IN near) (NP (NN closing) (NN time))) (. !)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBD came) (PP-DIR (IN in) (PP (IN to) (NP (NN town)))) (PP-TMP (IN for) (NP (DT a) (NN week)))) (CC and) (VP (VBD forgot) (NP (PRP$ my) (NNS trainers)))) (. !)) )
+( (INTJ (UH Oh) (UH no) (. !!)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD came) (ADVP-DIR (RB in)) (PP-TMP (NP-ADV (CD 30) (NNS min)) (IN before) (NP (NN close))))) (CC and) (S (NP-SBJ (DT the) (NN staff)) (VP (VBD was) (ADJP-PRD (RB super) (JJ helpful)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VP (VBD spent) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN time)))) (PP-CLR (IN with) (NP (PRP me)))) (CC and) (VP (VBD got) (NP (PRP me)) (PP (IN into) (NP (NP (DT a) (JJ great) (NN pair)) (PP (IN of) (NP (NNS shoes))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP think) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP they)) (VP (MD may) (ADVP (RB even)) (VP (VB be) (ADJP-PRD (ADJP (JJR better)) (PP (IN than) (NP (NP (DT the) (NN pair)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN been) (VP (VBG using) (NP-1 (-NONE- *T*)) (NP-TMP (DT this) (JJ past) (NN year))))))))))))))) (. !)) )
+( (FRAG (NP (NN Thanks)) (NP-VOC (NNP Run) (NNP on)) (. !)) )

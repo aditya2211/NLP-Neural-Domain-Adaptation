@@ -1,0 +1,2 @@
+( (FRAG (FRAG (RB Not) (ADJP (JJ friendly))) (, ,) (FRAG (RB not) (ADJP (JJ helpful))) (, ,) (FRAG (ADVP (RB overall)) (NP (JJ poor) (NN customer) (NN service))) (. .)) )
+( (FRAG (ADVP (RB Definitely)) (RB not) (VP (VBG going) (S (NP-SBJ (-NONE- *)) (VP (TO to) (VP (VB purchase) (NP (DT a) (NN car)) (PP-CLR (IN from) (ADVP (RB here))))))) (. .)) )

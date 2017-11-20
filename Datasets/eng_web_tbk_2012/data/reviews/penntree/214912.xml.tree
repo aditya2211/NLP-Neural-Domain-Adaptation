@@ -1,0 +1,4 @@
+( (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN used) (NP (NNP Bright) (NNPS Futures)) (PP-TMP (IN for) (NP (DT the) (JJ last) (CD 7) (NNS years))))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (NP (NP (CD 3) (NNS children)) (ADVP-LOC (RB there))))) (CC and) (S (NP-SBJ (PRP they)) (VP (VBP are) (NP-PRD (DT the) (JJS Best)))) (. .)) )
+( (S (NP-SBJ (PRP They)) (VP (VBP are) (PP-PRD (IN like) (NP (NN family)))) (. .)) )
+( (S (NP-SBJ-9 (PRP$ Your) (NNS children)) (VP (MD will) (VP (VB be) (VP (VP (VBN taken) (NP-CLR (NN care)) (PP-CLR (IN of) (NP-9 (-NONE- *)))) (CC and) (VP (VBN loved) (NP-9 (-NONE- *)) (PP (IN by) (NP-LGS (DT a) (JJ professional) (NN staff))))))) (. .)) )

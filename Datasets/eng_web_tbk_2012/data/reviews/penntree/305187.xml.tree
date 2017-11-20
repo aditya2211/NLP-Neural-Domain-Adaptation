@@ -1,0 +1,8 @@
+( (FRAG (FRAG (NP (NNS Apps)) (NP (CD 4))) (FRAG (NP (NN Salad)) (NP (CD 3))) (FRAG (NP (NN Entree)) (NP (CD 3.5))) (FRAG (NP (NN Wine)) (NP (CD 5))) (NP-TMP (-LRB- -LRB-) (NNP NOV) (CD 07) (-RRB- -RRB-))) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Enjoyed) (NP (DT this) (JJ cozy) (JJ little) (NN spot)) (PP (IN with) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (CD 8) (NNS folks)))))) (. .)) )
+( (S (NP-SBJ (NN Service)) (VP (VBD was) (ADJP-PRD (JJ excellent))) (. .)) )
+( (S (NP-SBJ (NN Food)) (VP (VBD was) (ADJP-PRD (JJ excellent))) (. .)) )
+( (S (NP-SBJ (NN Wine)) (VP (VBD was) (ADJP-PRD (JJ excellent))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD was) (VP (VBG feeling) (NP (NP (DT the) (NN need)) (PP (IN for) (NP (DT some) (NN fish))))))) (S (ADVP (RB so)) (NP-SBJ (PRP I)) (VP (VBD had) (NP (NP (DT the) (NN salmon)) (SBAR (WHNP-9 (WDT which)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBD was) (ADJP-PRD (RB very) (JJ good)))))))) (CC but) (S (NP-SBJ (DT the) (NNS steaks)) (VP (VBD looked) (ADJP-PRD (JJ amazing)))) (CC and) (S (SBAR-ADV (IN if) (S (NP-SBJ (PRP I)) (VP (VBP am) (PP-LOC-PRD (IN in) (NP (NN town))) (ADVP-TMP (RB again))))) (, ,) (NP-SBJ (PRP I)) (VP (MD 'll) (ADVP (RB definitely)) (VP (VB order) (NP (DT a) (NN steak))))) (. .)) )
+( (NP (NP (DT A) (JJ perfect) (NN place)) (PP (IN for) (NP (DT a) (JJ romantic) (NN dinner))) (. .)) )
+( (NP (NP (NNS Lots)) (PP (IN of) (NP (NP (`` ") (JJ pretty) (NNS people) ('' ")) (VP (VBG dining) (ADVP-LOC (RB inside))))) (. .)) )

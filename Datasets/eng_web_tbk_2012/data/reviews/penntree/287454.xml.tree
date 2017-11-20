@@ -1,0 +1,4 @@
+( (S (NP-SBJ (DT This)) (VP (VBZ is) (RB not) (NP-PRD (PRP$ your) (JJ usual) (JJ cheap) (NN hotdog) (NN place))) (. .)) )
+( (S (S (NP-SBJ (PRP They)) (VP (VBP offer) (NP (NP (DT a) (JJ large) (NN variety)) (PP (IN of) (NP (JJ quality) (NNS hotdogs) (CC and) (NNS hamburgers)))))) (S (NP-SBJ (PRP They)) (ADVP (RB also)) (VP (VBP offer) (NP (NN veggie) (NNS dogs)))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NNS fries)) (VP (VBP are) (PP-PRD (IN of) (NP (JJ good) (NN quality))))) (, ,) (S (NP-SBJ (DT the) (NN staff)) (VP (VBZ is) (ADJP-PRD (JJ friendly)))) (. .)) )
+( (S (NP-SBJ (DT The) (NN atmosphere)) (VP (VBZ is) (NP-PRD (PRP$ your) (JJ typical) (JJ indie) (NN outfit)) (PP (IN with) (NP (NP (JJ old) (NN movie) (NNS posters) (CC and) (NN memorabilia)) (PP (IN from) (NP (DT the) (NNS 70's) (CC and) (NNS 80's)))))) (. .)) )

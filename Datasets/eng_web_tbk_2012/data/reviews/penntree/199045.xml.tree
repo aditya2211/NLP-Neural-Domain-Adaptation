@@ -1,0 +1,2 @@
+( (S (NP-SBJ (NP (JJ green) (NN curry)) (CC and) (NP (JJ red) (NN curry))) (VP (VBZ is) (ADJP-PRD (JJ awesome))) (. !)) )
+( (S-IMP (NP-SBJ-9 (-NONE- *PRO*)) (VP (VB remember) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB ask) (PP-CLR (IN for) (NP (JJ extra) (NN vege)))))))) )

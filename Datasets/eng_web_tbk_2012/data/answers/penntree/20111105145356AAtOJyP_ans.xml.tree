@@ -1,0 +1,5 @@
+( (SBARQ (WHNP-1 (WP What)) (SQ (NP-SBJ-1 (-NONE- *T*)) (VP (VBP are) (NP-PRD (NP (DT some) (JJ GOOD) (NML (CD 18) (SYM +)) (NNS clubs)) (PP-LOC (IN in) (NP (DT the) (NNP bay) (NNP area)))))) (. ?)) )
+( (PP (IN For) (NP (NP (NN today)) (NP (NP (NNP saturday)) (NP (NNP Nov) (NN 5th)))) (. .)) )
+( (FRAG (ADVP (RB preferably)) (PP (IN in) (NP (NP (NNP San) (NNP Jose)) (, ,) (NP (NNP Palo) (NNP Alto)) (, ,) (NP (NNP San) (NNP Francisco)))) (, ..)) )
+( (S (NP-SBJ-1 (PRP I)) (VP (VBP want) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB party) (ADVP (RB hardy)) (PP (IN for) (NP (PRP$ my) (NN birthday))))))) (NFP :-RRB-)) )
+( (S (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP you)) (VP (VBP turn) (NP-PRD (CD 21)) (ADVP-TMP-9 (-NONE- *T*))))) (NP-SBJ (PRP you)) (VP (MD can) (VP (VB party) (ADVP-LOC (ADVP (GW any) (RB were)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (PRP you)) (VP (VBP want) (VP (-NONE- *?*) (ADVP-LOC-1 (-NONE- *T*)))))))))) )

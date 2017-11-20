@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE AGSet SYSTEM "ag.dtd">
+<AGSet id="018268" version="1.0" xmlns="http://www.ldc.upenn.edu/atlas/ag/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/DC/documents/rec-dces-19990702.htm">
+<Metadata>
+<MetadataElement name="dc:creator">LDC AGTK</MetadataElement>
+<MetadataElement name="dc:date">Wed Aug  1 17:37:38 2012</MetadataElement>
+<MetadataElement name="dc:language">English</MetadataElement>
+<MetadataElement name="dc:source">018268.xml.tree.flat</MetadataElement>
+<MetadataElement name="dc:title">English Web Treebank Google</MetadataElement>
+</Metadata>
+<Timeline id="018268:T1">
+<Signal id="018268:T1:1" mimeClass="text" mimeType="sgml" encoding="utf-8" unit="char" xlink:type="simple" xlink:href="/XBanks/EATB/seth/120801-google-final-revisions/018268.txt"></Signal>
+</Timeline>
+<AG id="018268:1" timeline="018268:T1">
+<Metadata>
+<MetadataElement name="endOffset">26</MetadataElement>
+<MetadataElement name="paragraph">1</MetadataElement>
+<MetadataElement name="treebanking">( Paragraph  ( NP ( NP 0 1 2 ) ( ADVP 3 ) 4 ) )</MetadataElement>
+<MetadataElement name="segId">1</MetadataElement>
+<MetadataElement name="startOffset">0</MetadataElement>
+</Metadata>
+<Anchor id="018268:1:1" offset="0.000000"></Anchor>
+<Anchor id="018268:1:2" offset="5.000000"></Anchor>
+<Anchor id="018268:1:3" offset="12.000000"></Anchor>
+<Anchor id="018268:1:4" offset="18.000000"></Anchor>
+<Anchor id="018268:1:5" offset="25.000000"></Anchor>
+<Anchor id="018268:1:6" offset="26.000000"></Anchor>
+<Annotation id="018268:1:E1" type="word" start="018268:1:1" end="018268:1:2">
+<Feature name="tag">JJS</Feature>
+</Annotation>
+<Annotation id="018268:1:E2" type="word" start="018268:1:2" end="018268:1:3">
+<Feature name="tag">JJ</Feature>
+</Annotation>
+<Annotation id="018268:1:E3" type="word" start="018268:1:3" end="018268:1:4">
+<Feature name="tag">NN</Feature>
+</Annotation>
+<Annotation id="018268:1:E4" type="word" start="018268:1:4" end="018268:1:5">
+<Feature name="tag">RB</Feature>
+</Annotation>
+<Annotation id="018268:1:E5" type="word" start="018268:1:5" end="018268:1:6">
+<Feature name="tag">.</Feature>
+</Annotation>
+</AG>
+</AGSet>
+

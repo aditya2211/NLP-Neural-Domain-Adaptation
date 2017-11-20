@@ -1,0 +1,7 @@
+( (FRAG (NP (JJ Great) (NN Food)) (NP (JJ Awesome) (NN food)) (NP (JJ Awesome) (NN service))) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VBD wanted) (S (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB try) (NP (NP (NN someplace)) (ADJP (JJ new))) (ADVP (RB again)))))) (. .)) )
+( (S (NP-SBJ (DT This) (NN place)) (VP (VBD rocked)) (. .)) )
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Brought) (NP (NP (PRP$ my) (NN wife)) (NP (NNP Deb))) (PP (IN with) (NP (PRP me))))) (CC and) (S (NP-SBJ (PRP she)) (VP (VP (VB like) (NP (DT the) (VBN Fried) (NN Crab) (NNS Wontons))) (CC and) (VP (VBD said) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP they)) (VP (VBD were) (ADJP-PRD (JJ good)))))))) (. ..)) )
+( (S (S (NP-SBJ (PRP We)) (ADVP (RB also)) (VP (VBD had) (NP (DT the) (NN BBQ) (NN Spare) (NNS Ribs)))) (, ..) (FRAG (ADJP (JJ good)) (ADVP (RB also))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBD ordered) (NP (DT the) (NML (NN MOO) (NN SHU)) (NN pork)))) (CC and) (S (NP-SBJ (PRP it)) (VP (VBD was) (ADJP-PRD (JJ great)))) (. ..)) )
+( (S (S (NP-SBJ (PRP I)) (ADVP (RB also)) (VP (VBD ordered) (NP (NP (DT the) (NNP Neptune) (NN Platter)) (SBAR (WHNP-9 (WDT which)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBD was) (ADJP-PRD (JJ awesome)))))))) (, ...) (S (ADVP (RB so)) (NP-SBJ (DT this) (NN place)) (VP (VBZ gets) (NP (QP (CD 5) (IN out) (IN of) (CD 5)) (NNS stars)))) (. .)) )

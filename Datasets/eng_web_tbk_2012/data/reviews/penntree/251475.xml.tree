@@ -1,0 +1,5 @@
+( (FRAG (NP (JJ Great) (NNS People)) (CC and) (NP (ADJP (RB even) (JJR better)) (NN service)) (. !)) )
+( (FRAG (ADJP (ADJP (JJS Best)) (SBAR (WHNP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB deal) (PP-CLR (IN with) (NP-1 (-NONE- *T*)))))))) (. !)) )
+( (S (PP (IN In) (NP (DT a) (JJ few) (NNS words))) (, ...) (NP-SBJ (PRP I)) (VP (VBP 'm) (ADJP-PRD (RB pleasantly) (JJ surprised) (SBAR (IN that) (S (NP-SBJ (PRP you)) (VP (MD can) (ADVP-TMP (RB still)) (VP (VB find) (NP (NML (`` ") (JJ old) (NN school) ('' ")) (NN service)) (ADVP (RB out) (RB there)) (SBAR-ADV (WHADVP-9 (WRB where)) (S (NP-SBJ (NN company)) (VP (VBP care) (ADVP (ADVP (RBR more)) (PP-1 (-NONE- *ICH*))) (PP-CLR (IN about) (NP (NP (JJ good) (NN name)) (CC and) (NP (NNS customers)))) (PP-1 (IN than) (NP (PRP$ their) (NNS pockets))) (ADVP-9 (-NONE- *T*))))))))))) (. ...)) )
+( (NP (ADJP (RB Highly) (VBN recommended)) (NNS people) (, /) (NN business) (. .)) )
+( (FRAG (NP (NN Thanks)) (NP-VOC (NNP Josh)) (. !)) )

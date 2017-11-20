@@ -1,0 +1,4 @@
+( (NP (JJ Awesome) (NN Landscaping) (NN Job)) )
+( (S (NP-SBJ (NNP MFJ) (NNP Inc)) (VP (VBD transformed) (NP (PRP$ our) (ADJP (VBN run) (RP down)) (JJ back) (NN yard)) (PP-CLR (IN into) (NP (NP (DT a) (NN place)) (PP (IN of) (NP (NN beauty)))))) (. .)) )
+( (S (S (NP-SBJ-9 (DT The) (NN work)) (VP (VBD was) (VP (VBN completed) (NP-9 (-NONE- *)) (PP-TMP (IN within) (NP (CD one) (NN week)))))) (, ,) (CC and) (S (NP-SBJ-1 (NN everything)) (VP (VBD was) (VP (VBN cleaned) (NP-1 (-NONE- *)) (PRT (RP up)) (PP (IN on) (NP (NN completion)))))) (. .)) )
+( (NP (ADJP (RB Highly) (VBN recommended)) (NN landscaper) (. !!!)) )

@@ -1,0 +1,4 @@
+( (FRAG (NP (NP (JJ Great) (NN Place)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO To) (VP (VB Use) (ADVP-1 (-NONE- *T*))))))) (S (NP-SBJ (PRP The)) (VP (VBP Fix) (NP (NP (NNS appliances)) (NP (UCP (NML (NNP Plumbing)) (NML (NNP Air) (NNP Conditioning)) (CC &) (ADJP (NNP Electric))) (NNP Problems))))) (. .)) )
+( (S (S (NP-SBJ-9 (PRP We)) (VP (VBP have) (VP (VBN used) (NP (PRP them)) (PP-CLR (IN for) (NP (NP (NN plumbing)) (CC &) (NP (NN A) (HYPH /) (NN C))))))) (CC and) (S (NP-SBJ (PRP they)) (VP (VP (VBP are) (ADJP-PRD (JJ affordable))) (CC and) (VP (VBP get) (S (NP-SBJ-1 (DT the) (NN work)) (VP (VBN done) (NP-1 (-NONE- *)) (S-ADV (NP-SBJ-1 (-NONE- *PRO*)) (ADJP-PRD (JJ right)))))))) (. .)) )
+( (FRAG (NP (JJ Great) (NN place)) (FRAG (NP (CD 5) (NNS stars)) (PP (IN for) (ADJP (JJ sure)))) (. .)) )
+( (FRAG (NP (NN Thanks)) (PP (IN From) (NP (NNP Bill)))) )

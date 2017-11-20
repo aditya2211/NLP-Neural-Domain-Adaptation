@@ -1,0 +1,2 @@
+( (NP (NP (PRP$ My) (JJ favorite) (NN place)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB eat) (ADVP-LOC-9 (-NONE- *T*)))))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NN Atmosphere)) (VP (VBZ is) (NP-PRD (DT the) (JJS best)) (, ..) (NP-TPC (NP (JJ Italian) (NN music)) (, ,) (NP (NNS candles)) (, ,) (NP (ADJP (JJ helpful) (CC and) (JJ friendly)) (NN staff))))) (, ...) (CC And) (S (NP-SBJ (DT the) (NN food)) (VP (VBZ is) (ADJP-PRD (JJ beautiful)) (ADVP (RB too)))) (. !)) )

@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN lunch) (NNS specials) (. .)) )
+( (S (NP-SBJ (NN Delivery)) (VP (VBZ is) (ADJP-PRD (NN lightning) (JJ fast))) (. .)) )
+( (FRAG (ADJP (JJ Perfect)) (SBAR (IN since) (S (NP-SBJ (PRP I)) (VP (VBP 'm) (PP-PRD (IN on) (NP (DT a) (NN budget)))))) (. .)) )
+( (S (CC But) (ADVP (RB otherwise)) (, ,) (NP-SBJ (PRP it)) (VP (MD can) (VP (VB feel) (ADJP-PRD (JJ pricey)) (PP (IN for) (SBAR-NOM (WHNP-9 (WP what)) (S (NP-SBJ (PRP you)) (VP (VBP get) (NP-9 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VP (VBP Like) (NP (DT the) (NN sushi))) (, ,) (VP (VBP do) (RB n't) (VP (VB like) (NP (DT the) (NN pad) (NN thai))))) (. .)) )

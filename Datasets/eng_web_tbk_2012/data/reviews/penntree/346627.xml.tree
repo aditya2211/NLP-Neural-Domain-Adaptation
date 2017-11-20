@@ -1,0 +1,5 @@
+( (NP (NP (JJ Fantastic) (NN Place)) (SBAR (WHADVP-1 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB buy) (NP (PRP$ your) (JJ next) (NN vehicle)) (ADVP-LOC-1 (-NONE- *T*))))))) )
+( (S (NP-SBJ (PRP We)) (VP (VBP have) (ADVP-TMP (RB never)) (VP (VBN had) (NP (NP (DT a) (JJ bad) (NN experience)) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG buying) (PP-CLR (IN from) (NP (NNP Edmark)))))))) (. .)) )
+( (S (NP-SBJ (DT This)) (VP (VBZ is) (NP-PRD (NP (NN car) (NN number) (CD 3)) (SBAR (WHNP-9 (-NONE- *0*)) (S (NP-SBJ (PRP we)) (VP (VBP 've) (VP (VBN purchased) (NP-9 (-NONE- *T*)) (PP (IN through) (NP (PRP them))))))))) (. .)) )
+( (S (NP-SBJ (PRP We)) (VP (VP (VBP trust) (CC and) (VBP appreciate) (NP (NNP Scott) (NNP Larson))) (CC and) (VP (VBP know) (SBAR (IN that) (S (NP-SBJ (PRP he)) (VP (MD will) (ADVP-TMP (RB always)) (VP (VP (VB take) (NP-CLR (JJ good) (NN care)) (PP-CLR (IN of) (NP (PRP us)))) (CC and) (VP (VB listen) (PP-CLR (IN to) (NP (PRP$ our) (NNS needs)))))))))) (. !)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Thank) (NP (PRP you)) (ADVP (RB again)) (PP-CLR (IN for) (NP (JJ great) (NN customer) (NN service)))) (. !)) )

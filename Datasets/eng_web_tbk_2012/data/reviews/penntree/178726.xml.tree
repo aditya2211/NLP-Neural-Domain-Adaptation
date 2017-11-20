@@ -1,0 +1,8 @@
+( (NP (JJ Excellent) (JJ medical) (NN care) (. !!!!!!)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (ADVP (RB Highly)) (VP (VBP recommend))) )
+( (S (NP-SBJ-9 (PRP I)) (VP (VP (VBD went) (PP-DIR (IN to) (NP (DT this) (NML (JJ urgent) (NN care)) (NN center)))) (CC and) (VP (VBD was) (VP (VBN blown) (NP-9 (-NONE- *)) (ADVP (RB away)) (PP (IN with) (NP (PRP$ their) (NN service)))))) (. .)) )
+( (FRAG (ADVP (RB Finally)) (NP (NP (DT a) (JJ convenient) (NN place)) (ADJP-LOC (RB close) (PP (IN to) (NP (NN home))))) (. .)) )
+( (NP (JJ Wonderful) (NNS staff) (CC and) (NN physician) (. .)) )
+( (FRAG (ADJP (JJ Clean) (CC and) (JJ superb)) (. .)) )
+( (FRAG (NP (NN Thanks)) (PP (IN for) (NP (DT the) (JJ great) (NN care))) (. !!!!)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (MD Will) (ADVP (RB definitely)) (VP (VB go) (ADVP-DIR (RB back)) (SBAR-TMP (WHADVP-9 (WRB when)) (S (NP-SBJ (PRP I)) (VP (VBP need) (NP (JJ medical) (NN care)) (ADVP-TMP-9 (-NONE- *T*))))))) (. .)) )

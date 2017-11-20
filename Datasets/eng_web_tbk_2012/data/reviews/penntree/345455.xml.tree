@@ -1,0 +1,6 @@
+( (NP (JJ First) (NN Time) (NN Ballerina)) )
+( (S (NP-SBJ (PRP$ My) (NN daughter)) (VP (VBZ is) (VP (VBG starting) (NP (NN ballet)) (NP-TMP (DT this) (NN year)) (PP-TMP (IN for) (NP (DT the) (JJ first) (NN time))))) (. .)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP 'm) (NP-PRD (DT a) (NN soccer) (NN mom)))) (S (ADVP (RB so)) (NP-SBJ (PRP I)) (VP (VBD was) (RB n't) (ADJP-PRD (JJ sure)) (SBAR (WHNP-1 (WP what)) (S (NP-SBJ (PRP I)) (VP (VBD was) (VP (VBG looking) (PP-CLR (IN for) (NP-1 (-NONE- *T*))) (SBAR-TMP (WHADVP-2 (WRB when)) (S (NP-SBJ (PRP it)) (VP (VBZ comes) (PP-CLR (IN to) (NP (NN dancewear))) (ADVP-2 (-NONE- *T*))))))))))) (. .)) )
+( (S (NP-SBJ (DT The) (NN staff)) (VP (VP (VBD was) (ADJP-PRD (RB very) (JJ helpful))) (CC and) (VP (VBD gave) (NP (NP (PRP me)) (SBAR (WHNP-9 (ADVP (RB exactly)) (WP what)) (S (NP-SBJ (PRP I)) (VP (VBD needed) (NP-9 (-NONE- *T*)) (PP-TMP (IN for) (NP (PRP$ my) (NML (JJ first) (NN time)) (NN ballerina))))))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NN service)) (PP-LOC (IN at) (NP (NNP Instep)))) (VP (VBD was) (ADJP-PRD (JJ great))) (. !!)) )
+( (S (NP-SBJ (PRP I)) (VP (MD would) (VP (VB recommend) (NP (PRP them)) (PP-CLR (IN to) (NP (NN anyone))))) (. !)) )

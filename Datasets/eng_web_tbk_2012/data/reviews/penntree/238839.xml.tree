@@ -1,0 +1,5 @@
+( (S (NP-SBJ (DT This) (NN place)) (VP (VBZ is) (ADJP-PRD (JJ bad))) (. .)) )
+( (S (NP-SBJ (PRP It)) (VP (VBZ 's) (ADJP-PRD (JJ dark) (, ,) (JJ dingy) (CC &) (JJ dirty))) (. .)) )
+( (S (S (NP-SBJ (DT The) (NNS salads)) (VP (VBP are) (ADJP-PRD (JJ limp)))) (CC and) (S (NP-SBJ (NP (DT the) (NN rest)) (PP (IN of) (NP (DT the) (NN food)))) (VP (VBZ is) (RB n't) (ADJP-PRD (RB any) (JJR better)))) (-LRB- -LRB-) (S (INTJ (UH ok)) (, ,) (NP-SBJ (DT the) (NNS nachos)) (VP (VBP are) (RB not) (ADJP-PRD (RB too) (JJ bad)))) (. !) (-RRB- -RRB-)) )
+( (S (S (NP-SBJ (DT This) (NN place)) (VP (MD may) (VP (VB have) (VP (VBN been) (NP-PRD (NN something)) (ADVP-TMP (RB sometime)))))) (, ;) (CC but) (FRAG (NP-SBJ (PRP it)) (PP-PRD (ADVP (RB way)) (IN past) (NP (PRP$ it) (`` ") (NML (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB sell) (ADVP-TMP (RB by))))) (NN date) ('' ")))) (. .)) )
+( (S (NP-SBJ (PRP I)) (VP (VP (VBP have) (VP (VBN eaten) (ADVP-LOC (RB here)) (ADVP-TMP (RB twice)) (PP-TMP (IN in) (NP (DT the) (JJ past) (NN year))))) (CC and) (VP (MD will) (RB not) (VP (VB go) (ADVP-DIR (RB back)))) (CC and) (VP (MD can) (RB not) (VP (VB recommend) (NP (PRP it))))) (. .)) )

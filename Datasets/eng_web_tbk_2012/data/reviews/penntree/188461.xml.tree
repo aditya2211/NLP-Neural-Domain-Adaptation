@@ -1,0 +1,2 @@
+( (FRAG (ADJP (RB Totally) (JJ flavored))) )
+( (FRAG (S (NP-SBJ-9 (NP (DT The) (NN statement)) (PP (IN about) (NP (`` ") (NP (JJS best) (NNS hamburguers)) (PP-LOC (IN in) (NP (NN town))) ('' ")))) (VP (MD can) (VP (VB be) (ADVP (RB even)) (VP (VBN amplifiaed) (NP-9 (-NONE- *)) (PP (IN to) (NP (`` ") (NP (JJS best) (NNS hamburguers)) (PP-LOC (IN in) (NP (NN world))) ('' "))))))) (UCP (ADJP (RB Totally) (JJ worth)) (, ,) (ADJP (JJ juicy) (, ,) (JJ big) (, ,) (JJ fresh)) (, ,) (CC and) (NP (JJ excellent) (NN customer) (NN service))) (. !)) )

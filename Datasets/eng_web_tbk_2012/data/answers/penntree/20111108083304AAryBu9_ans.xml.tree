@@ -1,0 +1,7 @@
+( (SQ (VBD Was) (NP-SBJ (DT the) (NNP iPhone)) (NP-PRD (DT the) (JJ first) (JJ Smart) (NN Phone)) (. ?)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP 'm) (VP (VBG writing) (NP (NP (DT an) (NN essay)) (PP (IN for) (NP (NN school))))))) (CC and) (S (NP-SBJ-9 (PRP I)) (VP (VBP need) (S (NP-SBJ-9 (-NONE- *)) (VP (TO to) (VP (VB know) (SBAR (IN if) (S (NP-SBJ (DT the) (NNP iPhone)) (VP (VBD was) (NP-PRD (DT the) (JJ first) (JJ Smart) (NN Phone)))))))))) (. .)) )
+( (SQ (VBD Was) (NP-SBJ (PRP it)) (NP-PRD (-NONE- *?*)) (. ?)) )
+( (S (ADVP (RB Technically)) (, ,) (NP-SBJ (NNP blackberry)) (VP (VBD was) (NP-PRD (-NONE- *?*)) (SBAR-PRP (IN because) (S (NP-SBJ (PRP it)) (VP (VBD was) (NP-PRD (NP (DT the) (JJ first)) (PP (IN with) (NP (JJ real) (NN email) (CC and) (NNS games) (CC and) (NN stuff)))))))) (. .)) )
+( (S (CC But) (NP-SBJ (NN iPhone)) (VP (VBD was) (NP-PRD (DT the) (JJ first) (`` ") (JJ Officiol) ('' ") (NML (JJ touch) (NN screen)) (JJ smart) (NN phone))) (. .)) )
+( (S (INTJ (UH No)) (, ,) (NP-SBJ (PRP it)) (VP (VBD was) (RB n't) (NP-PRD (-NONE- *?*))) (. .)) )
+( (S (CC But) (NP-SBJ (PRP it)) (VP (VBD did) (VP (VB revolutionize) (NP (NP (DT the) (NN way)) (SBAR (WHADVP-9 (-NONE- *0*)) (S (NP-SBJ (PRP we)) (VP (VBP think) (PP-CLR (IN of) (X (IN as)) (NP (DT a) (NN smartphone))) (ADVP-9 (-NONE- *T*)))))))) (. .)) )

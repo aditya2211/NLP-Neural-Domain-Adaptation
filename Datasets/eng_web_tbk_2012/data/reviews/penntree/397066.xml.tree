@@ -1,0 +1,5 @@
+( (NP (JJ Great) (NN pet) (NN care)) )
+( (S (S (NP-SBJ (PRP I)) (VP (VBP have) (VP (VBN used) (NP (NNP Just) (NNP Like) (NNP Family)) (NP-TMP (JJ several) (NNS times)) (ADVP-TMP (RB now))))) (CC and) (S (NP-SBJ (PRP they)) (VP (VBP have) (VP (VBN provided) (NP (JJ great) (NN care)) (PP (IN for) (NP (PRP$ my) (CD two) (NNS dogs)))))) (. .)) )
+( (S (NP-SBJ (NNP Lynda)) (VP (VP (VBZ is) (ADJP-PRD (JJ professional))) (CC and) (VP (VBZ has) (NP (NP (JJ great) (NN compassion)) (PP (IN for) (NP (NNS animals)))))) (. .)) )
+( (S (NP-SBJ (DT The) (JJ real) (NN testament)) (VP (VBZ is) (RB not) (PP-PRD (IN in) (NP (SBAR-NOM (WHADVP-9 (WRB how) (RB much)) (S (NP-SBJ (PRP she)) (VP (VBZ likes) (NP (PRP$ your) (NNS animals)) (ADVP-9 (-NONE- *T*))))) (CC but) (SBAR-NOM (WHADVP-1 (WRB how) (RB much)) (S (NP-SBJ (PRP they)) (VP (VBP like) (NP (PRP her)) (ADVP-1 (-NONE- *T*)))))))) (. .)) )
+( (S (NP-SBJ (PRP I)) (ADVP (RB highly)) (VP (VBP recommend) (NP (PRP her))) (. .)) )

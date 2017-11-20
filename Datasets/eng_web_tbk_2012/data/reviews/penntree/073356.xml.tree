@@ -1,0 +1,3 @@
+( (NP (JJ Beautiful) (NN hotel) (. !)) )
+( (FRAG (NP (JJ Great) (NN service)) (, -) (NP (JJ high) (NN class)) (. !)) )
+( (FRAG (NP (NN Shuttle)) (ADJP (JJ available) (PP (IN to) (NP (NP (DT a) (JJ private) (NN beach) (NN area)) (PP (IN with) (NP (NN food) (, /) (NNS drinks) (, /) (NNS towels)))))) (. .)) )

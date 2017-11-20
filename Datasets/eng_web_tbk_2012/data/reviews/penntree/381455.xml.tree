@@ -1,0 +1,6 @@
+( (SQ (VBP Are) (NP-SBJ (PRP you)) (VP (VBG kidding) (NP (PRP me))) (. ?)) )
+( (S (NP-SBJ (PRP I)) (VP (VBP do) (RB n't) (VP (VB get) (NP (PRP it)))) (. .)) )
+( (NP (NP (ADJP (JJ Spongy) (CC and) (JJ sweet)) (NN bread) (PRN (-LRB- -LRB-) (FRAG (VP (VBN microwaved) (NP (-NONE- *))) (. ?)) (-RRB- -RRB-))) (, ,) (NP (JJ heartless) (NN salsa)) (, ,) (NP (JJ tiny) (NNS dogs)) (. ...)) )
+( (S (S (NP-SBJ (PRP You)) (VP (VBP order) (PP-LOC (IN at) (NP (DT the) (NN counter))))) (CC and) (S (NP-SBJ (EX there)) (VP (VBZ is) (NP-PRD (NP (DT a) (NN space)) (PP (IN for) (NP (NN tip)))) (PP-LOC (IN on) (NP (PRP$ your) (NML (NN credit) (NN card)) (NN receipt))))) (. .)) )
+( (S (NP-SBJ (NP (DT The) (NN dude)) (SBAR (WHNP-9 (WP who)) (S (NP-SBJ-9 (-NONE- *T*)) (VP (VBZ grills) (NP (DT the) (JJ retarded) (NN dogs)))))) (VP (VBZ is) (ADJP-PRD (JJ rude))) (. .)) )
+( (S (SBAR-ADV (IN If) (S (NP-SBJ (DT this)) (VP (VBZ is) (NP-PRD (NP (NP (DT the) (JJS best)) (SBAR (WHNP-1 (WDT that)) (S (NP-SBJ (NNP Tucson)) (VP (VBZ has) (NP-1 (-NONE- *T*)))))) (SBAR (WHNP-2 (-NONE- *0*)) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB offer) (NP-2 (-NONE- *T*)))))))))) (, ,) (NP-SBJ (PRP I)) (VP (VBP am) (PP-LOC-PRD (IN out) (PP (IN ta) (ADVP (RB here))))) (. ...)) )

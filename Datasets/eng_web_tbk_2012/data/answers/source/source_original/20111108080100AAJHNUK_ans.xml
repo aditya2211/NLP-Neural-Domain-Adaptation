@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Question>
+<Subject>
+What are good B&W software's Photography?
+</Subject>
+<Content>
+What are really good programs for smooth crisp Black & White editing? I use GIMP and Its not cutting it, looks terrible. Here's one of my shots in B&W
+
+http://www.flickr.com/photos/adamtolle/6094960940/in/set-72157627535453128/
+
+Any programs that you use please list :) Thx
+</Content>
+</Question>
+<ChosenAnswer>
+You could also try this in gimp. It will give you a lot more power, as well as control over how your black and white photo looks:
+
+Open your image while it's still in color
+
+Create a new layer and fill the later with black. Set the layer mode to "color" this will make your image blak and white. 
+
+Click colors>>>levels and adjust each channel's color values. This will adjust the brightness and darkness of specific parts of an image.
+
+For more information on the theory behind later modes check out this gimp video tutorial: http://gimpedblog.blogspot.com/2011/09/gimp-video-tutorial-how-to-convert.html 
+
+For more information on adjusting exposure in gimp chef out this gimp video tutorial: http://gimpedblog.blogspot.com/2011/09/how-to-use-gimp-for-beginners-lesson-4.html 
+
+Hope this helps.
+</ChosenAnswer>
+<Answers>
+<Answer>
+Picasa is free and pretty good.
+But best is obviously photoshop CS5 or if your on a macbook theres aperture :)
+</Answer>
+<Answer>
+depends what you want from "B&W"... many programs will use a generic B&W...
+
+try something like photoscape which has different options...
+</Answer>
+</Answers>

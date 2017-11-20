@@ -1,0 +1,3 @@
+( (FRAG (WHNP (WP What)) (SBAR-ADV (IN if) (S (NP-SBJ (NNP Google)) (VP (VBD Morphed) (PP-LOC (IN Into) (NP (NNP GoogleOS)))))) (. ?)) )
+( (FRAG (WHNP (WP What)) (SBAR-ADV (IN if) (S (NP-SBJ (NNP Google)) (VP (VBD expanded) (PP-CLR (IN on) (NP (PRP$ its) (NML (NML (NN search) (HYPH -) (NN engine)) (-LRB- -LRB-) (CC and) (NML (ADVP-TMP (RB now)) (NN e-mail))) (-RRB- -RRB-) (NNS wares))) (PP-CLR (IN into) (NP (DT a) (ADJP (RB full) (HYPH -) (JJ fledged)) (NN operating) (NN system)))))) (. ?)) )
+( (FRAG (-LRB- [) (PP (IN via) (NP (NNP Microsoft) (NNP Watch))) (PP (IN from) (NP (NNP Mary) (NNP Jo) (NNP Foley))) (-RRB- ])) )

@@ -1,0 +1,4 @@
+( (NP (NN Rubbish)) )
+( (FRAG (S (NP-SBJ (NP (-NONE- *PRO*)) (S-1 (-NONE- *EXP*))) (VP (VBD Took) (NP (QP (CD 1) (SYM +)) (NN hour)) (S-1 (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB deliver) (PP-DIR (IN to) (NP (NNP Chatham)))))))) (, ,) (FRAG (NP (NN hair)) (PP-LOC (IN in) (NP (NN food)))) (, ,) (S (NP-SBJ (NN driver)) (VP (VBD did) (RB n't) (VP (VB know) (NP (NN area))))) (. .)) )
+( (S (NP-SBJ (-NONE- *PRO*)) (VP (VBD Noticed) (NP (NP (NP (DT a) (NN few)) (PP (IN of) (NP (DT these) (NML (NN Cookie) (NN cutter)) (NNS places)))) (VP (VBG opening) (PP-LOC (IN in) (NP (NP (NNP Summit)) (CC and) (NP (NNP New) (NNP Providence))))))) (. .)) )
+( (S-IMP (NP-SBJ-9 (-NONE- *PRO*)) (VP (VB Stick) (PP-CLR (IN to) (NP (NP (NNP Hop) (NNP Hing)) (, ,) (NP (NML (CD 20) (NN year) (SYM +)) (NN resident))))) (. .)) )

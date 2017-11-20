@@ -1,0 +1,3 @@
+( (S (NP-SBJ (NNS Rooms)) (VP (VBD were) (ADJP-PRD (JJ outdated) (, ,) (JJ dirty) (, ,) (CC and) (JJ small))) (. .)) )
+( (S (NP-SBJ (NN Service)) (VP (VBD was) (ADJP-PRD (JJ horrible))) (. .)) )
+( (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB Go) (ADVP (RB down)) (NP-ADV (CD 1) (NN block)) (PP-DIR (IN to) (NP (NNP Super) (NNP 8)))) (. .)) )

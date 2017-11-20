@@ -1,0 +1,3 @@
+( (S (S (NP-SBJ (-NONE- *PRO*)) (VP (VBP Hope) (SBAR (-NONE- *0*) (S (NP-SBJ (PRP you)) (VP (VBP enjoy) (NP (DT the) (NNS posts))))))) (CC and) (S-IMP (NP-SBJ-1 (-NONE- *PRO*)) (VP (VB feel) (ADJP-PRD (JJ free) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB jump) (ADVP (RB in)) (ADVP (RB anywhere)))))))) (. .)) )
+( (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (VBP Hope) (S (NP-SBJ-1 (-NONE- *PRO*)) (VP (TO to) (VP (VB see) (NP (PRP you)) (ADVP-TMP (RB soon)))))) (. !)) )
+( (NP (DT The) (NNP Alaskan) (NNP Knight)) )

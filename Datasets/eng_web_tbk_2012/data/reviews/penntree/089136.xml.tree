@@ -1,0 +1,3 @@
+( (NP (JJ AWESOME) (NN food) (. !)) )
+( (S-IMP (NP-SBJ-9 (-NONE- *PRO*)) (VP (VB Make) (S (ADJP-PRD (JJ sure)) (S-SBJ (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB put) (NP (JJ OILY) (NNS sauces)) (PP-LOC-CLR (IN on) (NP (PRP$ your) (NN food))) (S-PRP (NP-SBJ-9 (-NONE- *PRO*)) (VP (TO to) (VP (VB make) (S (NP-SBJ (PRP it)) (ADJP-PRD (JJ moist))))))))))) (. !)) )
+( (INTJ (UH YUM)) )

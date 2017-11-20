@@ -1,0 +1,7 @@
+( (FRAG (NP (NN Email)) (: :) (NP (NP (`` ") (NNP Ian) ('' ")) (NP (-LRB- <) (ADD ian.gilb...@btinternet.com) (-RRB- >)))) )
+( (FRAG (NP (NNS Groups)) (: :) (NP (NN alt.animals.cat))) )
+( (S (S (NP-SBJ (PRP We)) (VP (VBP have) (VP (VBN updated) (NP (PRP$ our) (NN site)) (S-PRP (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB include) (NP (DT a) (NML (NN LOST) (CC and) (NN FOUND)) (NN page)))))))) (CC and) (S (NP-SBJ (PRP you)) (VP (MD can) (ADVP-TMP (RB now)) (VP (VP (VB join) (NP (PRP$ our) (NN branch))) (CC and) (VP (VB make) (NP (NP (DT a) (JJ secure) (NML (PP (IN on) (HYPH -) (NP (NN line)))) (NN donation)) (PP (IN to) (NP (DT the) (NN charity)))))))) (. .)) )
+( (S-IMP (INTJ (UH Please)) (NP-SBJ (-NONE- *PRO*)) (VP (VP (VB do) (VP (VB visit) (NP (PRP us)))) (CC and) (VP (VB feel) (ADJP-PRD (JJ free) (S (NP-SBJ (-NONE- *PRO*)) (VP (TO to) (VP (VB browse) (NP (DT the) (NN site)) (PP-LOC (IN at) (NP (ADD www.southbhamcats.org.uk)))))))))) )
+( (FRAG (NP (NN PS)) (: -) (S (S (NP-SBJ (PRP we)) (ADVP (RB also)) (VP (VBP have) (NP (NP (JJR more) (NNS cats)) (VP (VBG coming) (ADVP (RB in)) (PP (IN for) (NP (NN re-homing))))))) (S-IMP (NP-SBJ (-NONE- *PRO*)) (VP (VB see) (NP (PRP$ our) (NML (`` ') (NML (NNS Homes)) (VP (VBN Wanted) (NP (-NONE- *))) ('' ')) (NN page)))))) )
+( (FRAG (NP (NN Thanks)) (PP (IN for) (S-NOM (NP-SBJ (-NONE- *PRO*)) (VP (VBG looking))))) )
+( (FRAG (NP (NP (NNP Ian)) (, -) (NP (NN Webmaster))) (NP (ADD www.southbhamcats.org.uk))) )
