@@ -174,7 +174,7 @@ def read_data_conll_indexer(file,indexer, add_to_indexer=False):
             if len(fields) > 11:
                 idx += 1
                 fields[3] = (fields[3]).lower()
-                word_idx = indexer.get_index(fields[3]) if indexer.contains(fields[3]) or add_to_indexer else indexer.get_index("UNK")
+                indexer.get_index(fields[3]) if indexer.contains(fields[3]) or add_to_indexer else indexer.get_index("UNK")
                 curr_tokens.append(Token(fields[3], fields[4], None))
                 if fields[10][0] == "(":
                     start_idx = idx
@@ -389,7 +389,7 @@ if __name__ == '__main__':
     # The counter is just to see what the counts of missed words are so we can evaluate our tokenization (whether
     # it's mismatched with the word vector vocabulary)
     word_counter = Counter()
-    path = "./Datasets/conll-2012-en/train/"
+    path = "../Datasets/conll-2012-en/train/"
     for f in listdir(path):
     	if str(f)[0:3] == "a2e":
     		if 'gold' in str(f):
@@ -397,15 +397,15 @@ if __name__ == '__main__':
     	if str(f)[0:3] == "wsj":
     		if 'gold' in str(f):
     			read_data_conll_indexer(path + "/" + f,word_indexer,add_to_indexer=True)
-    path = "./Datasets/conll-2012-en/dev/"           
-    for f in listdir("./Datasets/conll-2012-en/dev/"):
+    path = "../Datasets/conll-2012-en/dev/"           
+    for f in listdir(path):
     	if str(f)[0:3] == "a2e":
     		if 'gold' in str(f):
     			read_data_conll_indexer(path + "/" + f,word_indexer,add_to_indexer=True)
     
     print len(word_indexer)
     # Uncomment these to relativize vectors to the dataset
-    relativize("Datasets/glove.6B/glove.6B.50d.txt", "Datasets/glove.6B.50d-relativized.txt", word_indexer)
-    relativize("Datasets/glove.6B/glove.6B.100d.txt", "Datasets/glove.6B.100d-relativized.txt", word_indexer)
-    relativize("Datasets/glove.6B/glove.6B.200d.txt", "Datasets/glove.6B.200d-relativized.txt", word_indexer)
-    relativize("Datasets/glove.6B/glove.6B.300d.txt", "Datasets/glove.6B.300d-relativized.txt", word_indexer)
+    relativize("../Datasets/glove.6B/glove.6B.50d.txt", "../Datasets/glove.6B.50d-relativized.txt", word_indexer)
+    relativize("../Datasets/glove.6B/glove.6B.100d.txt", "../Datasets/glove.6B.100d-relativized.txt", word_indexer)
+    relativize("../Datasets/glove.6B/glove.6B.200d.txt", "../Datasets/glove.6B.200d-relativized.txt", word_indexer)
+    relativize("../Datasets/glove.6B/glove.6B.300d.txt", "../Datasets/glove.6B.300d-relativized.txt", word_indexer)
