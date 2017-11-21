@@ -7,10 +7,11 @@ from models import *
 from models_lstm import *
 
 class IndexedSentence:
-    def __init__(self, indexed_words, labels, pos):
+    def __init__(self, indexed_words, labels, pos, domain):
         self.indexed_words = indexed_words
         self.label = labels
         self.pos = pos
+        self.domain = domain
 
     def __repr__(self):
         return repr(self.indexed_words) + "; labels=" + repr(self.label)
@@ -18,9 +19,9 @@ class IndexedSentence:
     def get_indexed_words_reversed(self):
         return [self.indexed_words[len(self.indexed_words) - 1 - i] for i in xrange(0, len (self.indexed_words))]
 
-def read_and_index(sentences, indexer, tag_indexer, add_to_indexer=False, word_counter=None):
+def read_and_index(sentences, indexer, tag_indexer, domain, add_to_indexer=False, word_counter=None):
     
-    exs=[]
+    exs = []
     for sent_idx in xrange(0,len(sentences)):
         sent = []
         pos = []
@@ -34,7 +35,7 @@ def read_and_index(sentences, indexer, tag_indexer, add_to_indexer=False, word_c
         indexed_sent = [indexer.get_index(word) if indexer.contains(word) or add_to_indexer else indexer.get_index("UNK") for word in sent]
         indexed_label = [tag_indexer.get_index(word) for word in tags]
         
-        exs.append(IndexedSentence(indexed_sent,indexed_label, pos))
+        exs.append(IndexedSentence(indexed_sent,indexed_label, pos, domain))
     return exs
          
 
@@ -44,8 +45,9 @@ if __name__ == '__main__':
 
 	#trainData = read_data_conll("./Datasets/conll-2012-en/train/a2e_0001.v4_gold_conll")
     
-    word_vectors = read_word_embeddings("../Datasets/glove.6B.300d-relativized.txt")
-    trainData = []
+    word_vectors = read_word_embeddings("./Datasets/glove.6B.300d-relativized.txt")
+    trainData1 = []
+    trainData2 = []
     tag_indexer = Indexer()
     
     maxlen=0
@@ -53,10 +55,10 @@ if __name__ == '__main__':
     for f in listdir(path):
     	if str(f)[0:3] == "a2e":
     		if 'gold' in str(f):
-    			trainData += read_data_conll(path + "/" + f)
+    			trainData1 += read_data_conll(path + "/" + f)
         if str(f)[0:3] == "wsj":
             if 'gold' in str(f):
-                trainData += read_data_conll(path + "/" + f)
+                trainData2 += read_data_conll(path + "/" + f)
             
     devData = []
     path = "./Datasets/conll-2012-en/dev/"
@@ -67,7 +69,8 @@ if __name__ == '__main__':
 
 
     #devData = trainData[1800:]
-    #trainData = trainData[:1800]        
+    #trainData = trainData[:1800]  
+    trainData = trainData1 + trainData2      
     for sent_idx in xrange(0,len(trainData)):
         
         if len(trainData[sent_idx])>maxlen:
@@ -83,8 +86,9 @@ if __name__ == '__main__':
         for tag in tags:
             tag_indexer.get_index(tag) 
 
-    train_exs = read_and_index(trainData,word_vectors.word_indexer,tag_indexer)
-    dev_exs = read_and_index(devData,word_vectors.word_indexer,tag_indexer)
+    train_exs = read_and_index(trainData1,word_vectors.word_indexer,tag_indexer, 0)
+    train_exs += read_and_index(trainData2,word_vectors.word_indexer,tag_indexer, 1)
+    dev_exs = read_and_index(devData,word_vectors.word_indexer,tag_indexer, 0)
 
 
     
